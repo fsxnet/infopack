@@ -1,0 +1,2856 @@
+				
+				
+			fsxNet - [F]un, [S]imple, e[X]perimental Network
+
+		               ==== History of fsxNet ====
+			 
+fsxNet is a fun, simple and experimental network established in late 2015
+
+This document contains a full rolling log of changes made to fsxNet.
+ 
+It is saved as history.txt and ships as part of the weekly infopack hatched
+out to all fsxNet nodes. If you spot anything amiss please contact
+Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
+
+== ChangeLog ================================================================
+
+
+2018-12-31
+Updated Node 4/106 The Rusty Mailbox (CAN) Al advises his domain name has 
+                   changed to trmb.ca - the nodelist has been updated.
+                   
+Added Node 2/150   BackTo90's BBS (POL) as we round out a busy 2018 please
+                   welcome to the fsx community our first node based in 
+                   Poland. It's hello to sysop Pawel Adamczewski who is
+                   (we think) playing with both Mystic and a copy of
+                   Remote Access that is running under DOS. Pawel is based
+                   in the city of Lodz and you can find his BBS by heading 
+                   to fido.retroback.pl:2323
+
+2018-12-28
+Updated Node 1/100 Because it really needed a name so now it's called the
+                   Risa HUB. The other HUBs have names and NET1 was feeling
+                   like the leftout poor cousin. :)
+                   
+                   #FUNFACT follows: a “pleasure planet” from the United
+                   Federation of Planets, of which it is a member. Crew 
+                   members from the “Next Generation,” “Deep Space Nine”
+                   and “Enterprise” series all paid visits there. The
+                   planet is said to orbit a binary, or double, star 
+                   system—in Star Trek fan lore, Epsilon Ceti, a real 
+                   star system some 79 light-years from Earth.
+                   
+2018-12-27
+Updated Node 4/123 Humongous BBS (TWN) is now at jenandcal.familyds.org:2323
+
+2018-12-26
+Added Node 4/123 Humongous BBS (TWN) please welcome our first BBS based in
+                 Chiayi, Taiwan to fsxNet. Hello to sysop Nathanael Culver 
+                 who is running a Mystic BBS on a raspberry pi. The BBS can
+                 be reached at jenandcal.familyds.org:23131
+
+2018-12-25       Merry Christmas and best wishes for the upcoming new year!                 
+
+2018-12-10
+Removed Node 1/194 Phaseshift BBS (CAN) Kevin has again become inactive and 
+                 is not responding to hails on all known frequencies so his
+                 system has been delisted.
+
+Added Node 2/138 Palantir BBS (USA) it's a warm welcome to Dan Clough who is
+                 based in Pensacola, FL and running a Synchronet system under
+                 Windows. Dan's system can be reached at palantirbbs.ddns.net
+                 Welcome to the community Dan. Nice to have you here.
+
+
+Added Node 4/110 BZ&BZ BBS (USA) welcome to sysop Steve Thielemann based in 
+                 New Port Richey, Florida and running a Mystic BBS under
+                 Linux. You can find the system at bbs.red-green.com:4023
+                 via Telnet or use port 4022 for SSH
+                 Welcome Steve we hope you have fun here :)
+
+Added Node 4/107 Centaurus BBS (FRA) based in France please welcome Stephen
+                 Berard aka Sargon. Sargon hails from Drôme and is running a
+                 Mystic BBS on a Raspberry Pi. You can reach the system at
+                 centaurus.ventouxlabs.com:2323 via telnet or port 2222
+                 for SSH connections.
+                 Stephen it's great to have a BBS based in France as part of
+                 fsxNet. Welcome!
+
+Added Node 1/197 Trigonia BBS (SWE) Welcome aboard to this private node.
+                 Running Mystic BBS under Linux the system is run by 
+                 Gustav Dersjo aka CatX                 
+
+2018-11-28
+Removed Node 4/140 Redshift BBS (CAN) Scott advises he has taken his system
+                 down so his BBS has been removed from the nodelist.
+
+Added Node 2/149 Moderate Chaos BBs (USA) Welcome aboard to sysop David 
+                 DeWell who has set up a Mystic BBS system running under
+                 RHEL 7. You can visit the BBS by pointing your terminal
+                 to moderatechaos.fsxnet.nz that is based in Keller, TX.
+                 
+Added Node 4/144 Sonic BBS (GBR) Please also give a warm welcome to a former
+                 elebbs sysop from the late 90's. Welcome to Louis Northmore
+                 who is based in Beverley, UK running a Mystic BBS on a
+                 Raspberry Pi. You can reach the BBS at sonicbbs.ddns.net or
+                 SHH on port 2220
+                 
+Removed Node 1/150 BadTaste BBS (GBR) there has been no contact with Geoff
+                 nor his system so the BBS has been delisted.
+
+Removed Node 1/148 International LiveWire BBS (USA) likewise there has been
+                   nothing heard from Allen Prunty for some time and his
+                   system does not respond. The node has been delisted for 
+                   now.
+
+2018-11-21
+Updated Node 1/137 Nitemare Cafe BBS (USA) Rod has advised his system is now
+                 back up again. 'Down' status has now be removed.
+                 
+Updated Node 1/139   devNULL BBS (USA) Phillip's system is back up again. 
+                 'Down' status has now be removed.               
+                 
+
+2018-11-18
+Created FSX_MAG - MagickaBBS is a Bulletin Board System (BBS) for Linux,
+                  macOS, FreeBSD, NetBSD, OpenIndiana, DragonFlyBSD and
+                  OpenBSD. This echoarea is a space for MagickaBBS support
+                  and is experimentally gated to HappyNetX MNET network 
+                  via 21:1/50
+
+2018-11-14
+Added Node 1/167 Crystal Dragon BBS (USA) please welcome sysop Jason Windisch
+                 who is in the process of setting up an Enigma 1/2 BBS 
+                 running under Windows. As of the time of writing this is a 
+                 private system and not contactable yet. The BBS is based
+                 in Columbus, Ohio. Welcome Jason :)
+2018-11-12 
+Removed Node 1/167 Temple of Syrinx BBS (USA) Daniel advises he is no longer
+                 active so his system has been delisted.
+2018-11-10
+Removed Node 1/151 Solar BBS (USA) Dave advises his system won't be up for
+                 the time being as he has no reliable Internet access to run 
+                 his BBS on. He requested he be de-listed for now. Hope to see
+                 you again Dave :)
+
+Added Node 4/122 Reality Check BBS (USA) welcome aboard to sysop Kurt Weiske
+                 aka poindexter FORTRAN. Running a Synchronet BBS you can
+                 reach the system via telnet and ssh at realitycheckBBS.org
+                 
+Added Node 4/135 Veteran BBS (USA) hailing from Clanton please also welcome 
+                 sysop Mike Welborn to the network. Mike runs a Synchronet
+                 BBS and can be contacted at vetbbs.fsxnet.nz
+
+fsxNet Nodelist Housekeeping - NET 1
+
+The following nodes have been marked as 'Down' and sysops contacted to see if
+they need help or have shutdown. If there is no further contact then they 
+will be delisted from the nodelist in the coming week.
+
+21:1/137, /139, /148, /149, /150, /151, /167, /194
+
+2018-11-08
+
+** Happy Birthday fsxNet - 3 years old today **
+
+
+Added Node 2/139 Winchester NNS (GBR) welcome to sysop Charlie Camilleri who
+                 is based in Winchester, UK. Charlie is running a Mystic BBS 
+                 under Debian. You can find his system by heading to 
+                 www.charliecamilleri.xyz:6666 or port 6622 for SSH
+                 
+Added Node 4/143 Eggy BBS (USA) a warm welcome also goes to Matt 'Eggy'
+                 Richards who is based in Chicago. Eggy is running a Mystic 
+                 BBS under Debian also. Head to eggy.fsxnet.nz:2300 to 
+                 login.
+
+fsxNet Nodelist Housekeeping - NET 4
+
+Removed Node 4/137 Vanishing Point BBS must have reached the point and 
+                   well...er.. vanished :) Due to inactivity and no 
+                   response from the sysop the node has been delisted.
+
+Removed Node 4/135 Test Unit Ready BBS delisted due to no connections to Hub
+                   since late Sept 2018 and no response from the sysop.
+
+Removed Node 4/122 RetroDigital BBS delisted due to inactivity and no
+                   response from the sysop.
+
+Removed Node 4/110 Retro64XYZ BBS delisted due to no connections since late
+                   Aug 2018 and no response from the sysop.
+                   
+Removed Node 4/107 BGDCAG BBS delisted due to inactivity and no response 
+                   from the sysop.         
+
+2018-10-31
+Added Node 4/142 mysticbbs.dynu.com (USA) Running Mystic BBS under Windows 10
+                 welcome to sysop Phillip Taylor based in Vienna, VA
+                 You can connect to the BBS at mysticbbs.dynu.net:2300
+
+Added Node 1/172 The Bottomless Abyss BBS (CAN) Bolstering the ranks of the
+                 Canadian fsxNet team please welcome from Quebec City sysop
+                 Dave Cloutier. Dave's running a Mystic BBS under Debian
+                 and offers telnet and ssh connections at on port 23 and 2222
+                 when you visit bbs.bottomlessabyss.net
+                 
+Added Node 4/141 Retro Underground BBS (USA) also a warm welcome goes to
+                 sysop John Rumpelein based out of Edmonds, WA, USA.
+                 John is running a Mystic BBS under CentOS and you can 
+                 visit his system at retrounderground.org:1337
+                 
+Added Node 2/114 Freeside BBS (USA) Based in Monroe, Ohio please look out
+                 for sysop Marty Taylor who is getting started with a Mystic
+                 BBS under Raspbian OS. You can reach his BBS via telnet at
+                 freeside.bbs.io
+                 
+2018-10-29
+Updated  Node 1/182 The Colossus BBS (USA) is no longer marked as 'Down' 
+
+2018-10-28
+Removed Node 4/130 PsYcHoTiC Industris BBS (USA) is no longer operating and
+                 sysop requests delisting.
+
+Removed Node 4/123 Meowcat BBS (USA) Logan advises his system is down due to
+                 techncial difficulties and has asked to be delisted. 
+                 
+Added Node 2/148 Osmimum BBS (USA) Owen Salter has moved to a new node and
+                 telnet address remote.devosmium.xyz
+
+Removed Node 2/114 Osmimum BBS (USA) system has been retired.
+
+fsxNet Nodelist Housekeeping - NET 4
+
+The following NET 4 systems have been flagged for potential deletion due to
+inactivity for some time. This will happen in the coming days. Sysops have
+attempted to have been contacted.
+
+These systems have been marked as 'Down' in the nodelist:
+
+21:4/ 110, 111, 122, 135, 137
+                 
+2018-10-21
+Updated Node 1/152 2nd Choice Core BBS (NZL) has a new domain name. The 
+                 nodelist has been updated to 2ndchoicecore.nz
+
+Added Node 1/165 3rd Choice Core BBS (NZL) Sneaky has set up a Raspberry Pi 
+                 running Mystic the address is 3rdchoicecore.ddns.net:1022
+
+2018-10-20
+Added Node 4/140 Redshift BBS (CAN) wow those Canadian BBS's are growing in
+                 numbers and here's another one :) Please welcome to fsxNet
+                 sysop Scott Carter who is running a Mystic BBS under Linux
+                 you can reach the BBS via Telnet at 
+                 redshift.servebbs.net:2323
+
+2018-10-14
+Added Node 2/147 Bowlin's Alley BBS (USA) welcome aboard to sysop David
+                 Bowlin who is based in Albany, KY, USA. Dave is setting up
+                 a Mystic BBS running under Windows. His system address is
+                 bowlinsalley.ddns.net
+
+2018-10-05
+Added Node 1/164 Electronic Chicken BBS (CAN) It's a warm welcome to sysop
+                 Derek Mullin who hails from Toronto, Ontario, Canada.
+                 Running a Synchronet BBS under Linux you can reach
+                 Electronic Chicken by heading to bbs.electronicchicken.com
+                 via Telnet or SSH.
+
+2018-09-27
+Added Node 4/130 DigiSoft BBS (SWE) running Mystic BBS under Ubuntu 16.04 
+                 welcome aboard to sysop Peter Härje who hails from
+                 Norrköping, Sweden. You can reach DigiSoft BBS by heading to
+                 mm2.se
+                 
+Added Node 1/104 Shenk's Express BBS (USA) welcome to Carol Shenkenberger
+                 who joins us from Virginia Beach, Virginia USA. Carol is
+                 running SBBS and can be reached at shenks.dyndns.org
+
+2018-09-25
+Updated Node 2/140 Subcarrier BBS (CAN) has a new domain name
+                 subcarrier.ignorelist.com and the nodelist has been updated.
+
+2018-09-24
+Added Node 2/130 Delta City BBS (SWE) welcome back to Joacim Melin who 
+                 returns to fsxNet after being away for around 17 months
+                 Joacim is running NiKom BBS software under AmigaOS 3.1
+                 You can reach his system at deltacity.fsxnet.nz
+
+2018-09-23
+Added Node 4/138 CIA Amiga BBS (USA) it's a warm welcome to sysop Tim Grooms
+                 who hails from Mayflower, AR. Tim is running Zeus v1.7 on 
+                 his Amiga and also playing with Mystic BBS.
+                 You can find his system at ciaamigabbs.dynu.net:6400
+
+2018-09-16
+Added Node 2/146 Two Dudes BBS (USA) hailing from Grand Rapids, MI USA it's
+                 welcome to sysop Peter Spalding who is running his Synchronet
+                 BBS under Ubuntu OS. Head to twodudesbbs.fsxnet.nz to connect
+                 to the BBS.
+                 
+Added Node 4/137 Vanishing Point BBS (CAN) welcome to sysop Murray Smith who 
+                 is based in Hamilton, Ontario, Canada. Murray is running a 
+                 Mystic BBS under Windows 10. You can reach his system at
+                 vanishingpoint.ddns.net              
+
+2018-09-08
+Updated Node 1/161 The Search BBS (USA) domain name has changed and the 
+                 nodelist has been update to searchbbs.fsxnet.nz
+
+2018-09-06
+Removed Node 2/130 Jon advises Curfew BBS is now offline. It has been removed
+                 from the nodelist.
+                 
+Updated Node 1/158 Quantum Wormhole BBS has updated it's domain to bbs.erb.pw                 
+
+2018-09-04
+Updated Node 1/154 Jon advises his system is now running BinkP on port 24556
+                 
+                 
+2018-09-03
+Added Node 2/137  Tsali's BBS (USA) It's welcome back to James Washington
+                  who is based in Louisville, Kentucky, USA.
+                  You can reach Jame's system at tsali.ddns.net:9023
+
+2018-08-29
+Added Node 4/136 Total Lost BBS (SWE) welcome to sysop Dennis Eklund who is 
+                 based in Harnosand. Dennis aka Total is running a Mystic 
+                 BBS on his Raspberry Pi. The system can be reached at 
+                 bbs.deek.se
+
+2018-08-22
+Added Node 1/158 The Quantum Wormhole (GBR) a warm welcome to sysop 
+                 Christian Sacks who is based in Ramsgate, Kent, UK
+                 The BBS is running Mystic on Ubuntu 18.04.1 LTS
+                 You can find the BBS at wormhole.sacks.org.uk
+2018-08-19
+Added Node 4/135 Test Unit Ready BBS (GBR) welcome to sysop Carl Hopkins
+                 who is setting up his BBS running Mystic BBS under 
+                 Ubuntu 16.04 (HVM Amazon AWS/EC3). You can find Carl's 
+                 system at testunitready.duckdns.org
+                 
+Added Node 2/116 Chinwag BBS (AUS) it's hi and welcome to sysop Deon George 
+                 who (like a few of us I think) has been reminiscing about
+                 his younger days and BBSing. Deon is setting up a Mystic
+                 system on his Raspberry Pi. You can find it by heading to
+                 chinwag.leenooks.net:10023 Welcome to the community Deon :)
+
+2018-08-15
+Added Node 1/123 Thiaramus_Den (USA) based out of Brooklyn in New York please
+                 welcome sysop Roman Litvinenko who is rediscovering his 
+                 BBS past. Roman is using a mixture of Binkd, HPT, HTICK, and
+                 Golded+ to connect to fsxNet as is not running a BBS at this
+                 stage. His Binkd mailer can be found at thiaramus.fsxnet.nz
+            
+Updated Node 1/193 Lunatic Fringe BBS (USA) has a new address 
+                   lunatic.synchro.net the nodelist has been updated.                 
+
+2018-08-14
+Added Node 1/125 The Fat Sandwich BBS (AUS) Apam is back with a new juicy
+                 temptation that defies the calorific count and make those
+                 on a weightwatchers plan want to chuck in the towel and 
+                 eat hot fries all day long. Head to sandwich.hopto.org:2023
+                 .. you know you want to :)
+
+2018-08-12
+Updated Node 1/142 The Vista BBS (USA) is back up again and packets are 
+                 flowing (thanks Ian :)) the nodelist has been updated and 
+                 the system is no longer marked as 'Down' 
+                 
+2018-08-11
+Removed Node 1/158 Starlight BBS (GER) Lars has confirmed he has closed his
+                 BBS down. Thanks for being part of fsxNet and best wishes 
+                 for the future :)
+                 
+Added Node 2/133 8-Bit Classics' BBS (USA) it's a war, welcome to sysop
+                 Cory Koltz based in Wisconsin and setting up a BBS running
+                 Mystic under Linux. You can reach 8-Bit Classics' by heading
+                 to bbs.8bitclassics.com or visit the website at 
+                 www.8bitclassics.com :)
+
+2018-08-10
+Housekeeping and several nodes face delisting unless we can contact them or
+their sysops in the coming days...
+
+Updated Node 1/142 The Vista BBS (USA) has been marked as 'Down' and sysop 
+                 has attempted to be contacted. The node may be delisted in
+                 the coming week if nothing is heard from it/sysop.
+
+Updated Node 1/148 International LiveWire BBS (USA) has been marked as
+                 'Down' and sysop has attempted to be contacted. The node may
+                 be delisted in the coming week if nothing is heard from 
+                 it/sysop.
+
+Updated Node 1/150 BadTaste BBS (GBR) has been marked as 'Down' and sysop 
+                 has attempted to be contacted. The node may be delisted in
+                 the coming week if nothing is heard from it/sysop.
+
+Updated Node 1/158 Starlight BBS (GER) has been marked as 'Down' and sysop 
+                 has attempted to be contacted. The node may be delisted in
+                 the coming week if nothing is heard from it/sysop.
+
+Updated Node 1/182 The Colossus (USA) has been marked as 'Down' and sysop 
+                 has attempted to be contacted. The node may be delisted in
+                 the coming week if nothing is heard from it/sysop.
+
+Meanwhile in another part of cyberville...
+
+                 
+Added Node 4/134 Possum Lodge South (USA) Mike "Blue White" Powell has set up
+                 his MagickaBBS running under raspbian. You can reach it at
+                 possumso.fsxnet.nz:7636
+
+2018-08-08
+Added Node 4/123   Meowcat BBS (USA) welcome to sysop Logan 'Meowcat" Nelson
+                   who is setting up his Mystic BBS running under Debian 9
+                   on his Raspberry Pi. There is currently no telnet address
+                   for this system and it's marked as private in the nodelist
+                   
+Removed Node 1/172 The Facility BBS (USA). There has been no contact with 
+                   this BBS for some time and attempts to contact the sysop
+                   have also failed. The BBS has been delisted.
+
+2018-08-06
+Added Node 4/114   PlaneT Afr0 BBS (USA) a warm welcome to sysop Jason Tefft
+                   aka fC who is based in Virgina Beach and is running a
+                   Enigma 1/2 BBS. You can reach his system at 
+                   cetialphafive.com:8888
+
+2018-08-03
+Updated Node 1/193 Lunatic Fringe BBS (USA) has a new address 
+                   lunatic.zapto.org the nodelist has been updated.
+                   
+Updated Node 1/153 Infoline BBS (CZE) is now called Fatal Echo BBS. The 
+                   system remains private. Nodelist has been updated.
+
+2018-08-02
+Updated Node 1/122 Necronomicon BBS (USA) has a new address
+                   necrobbs.strangled.net the nodelist has been updated.
+                   
+Updated Node 1/163 Dreamland BBS (USA) has a new address bbs.dreamlandbbs.org
+                   the nodelist has been updated.
+
+Added Node 2/135   Omicron Theta Mail System (USA)
+
+Added Node 2/136   Omicron Theta BBS (USA) welcome to sysop Robert Wolfe who
+                   is based in Southaven, MS. Robert is running Wildcat! 4.2
+                   MP250 under Windows XP Pro and you can reach his system at
+                   winserver.org
+
+2018-08-01
+Updated Node 2/140 Subcarrier BBS (CAN) has a new address, you can find the
+                 BBS at subcarrier.flashserv.net:2323
+
+2018-07-29
+Added Node 2/132 Archaic Binary BBS (USA) it's a warm welcome to Wayne Smith
+                 aka Zharvek who is running a Mystic system based out of 
+                 Orlando, FL in the USA. There's plenty to explore at the
+                 BBS and assorted ways to connect to it. 
+                 Head to bbs.archaicbinary.net and check it out :)                 
+
+2018-07-28
+Removed Node 1/104 Richard Menedetter aka Ricsi at fido.ricsi.priv.at has
+                 opted to leave the network. We wish him well.
+
+Created - NETMAIL.TXT - this is file that contains details about netmail,
+what is it, how is it used in fsxNet, routing info etc. It's been added at a 
+time that interzonal routing of netmail between fsxNet and Fidonet has been
+added to the network.                 
+
+2018-07-26
+Removed Node 1/125 Exotica BBS (AUS) Apam advises his system is offline for
+                 now. The node has been removed from the nodelist.
+                 
+Added Node 4/133 Fading Black BBS (CAN) Welcome to sysop Will Smith who joins
+                 us from Hamilton, Ontario. Will is running a Mystic BBS 
+                 running under Windows 32bit. You can find the BBS at
+                 fadingblack.net
+                 
+Added Node 1/176 Darkrealms BBS (CAN) Hi and welcome also to sysop Nick Andre
+                 Darkrealms is a Bulletin Board System in Toronto Canada. 
+                 It has been online since 1994 and is one of the oldest and
+                 last remaining systems running the MS-DOS Renegade software.
+                 Nick is also the current developer of the D'Bridge EMAIL
+                 System originally written by Chris Irwin. You can find his
+                 BBS at bbs.darkrealms.ca
+
+2018-07-24
+Updated Node 4/126 Another F-ing BBS (USA) Gary advises his system is back
+                 up and running again (yay!) the address is now
+                 anotherbbs.ddns.net - the nodelist has been updated and 
+                 4/126 is no longer marked as 'Down'
+
+2018-07-16
+Added Node 2/128 The Dragon's Den (USA) welcome to new sysop Al Miller
+                 setting up using Mystic BBS under Linux.
+                 Al's BBS can be found at merlock.org                  
+
+Added Node 2/125 PHATstar RetroBOX BBS (CAN) sysop WarmFuzzy is running a 
+                 new BBS Fishingnet BBS. The system can be reached at 
+                 fishingnet.phatstar.org:7777 or via SSH using 
+                 fishingnet.phatstar.org:8888
+                  
+2018-07-11
+Added Node 4/115 The Big Edge (CAN) returning to the BBS scene after some
+                 time away please welcome Robin Ganderton who is based in
+                 northern BC. Robin's system is running Mystic and is
+                 using Windows 2008 R2. You can find him at
+                 thebigedge.gandertonconsulting.ca:2323 or use port
+                 2222 for SSH :)
+
+2018-07-10
+Added Node 2/118 SmokyThing BBS (USA) welcome back to Shannon Kuchler aka
+                 Gandor. The BBS is just setting up again and updating to 
+                 a new version of Mystic. Once up you should be able to
+                 connect at inflecto.org
+
+2018-07-09
+Removed Node 4/114 The Cat's Meow BBS (USA) there's been no contact for some
+                    time with the system so it has been delisted.
+                   
+2018-07-06
+Updated Node 1/199 Clutch BBS (CAN) has a new domain name and can be 
+                   reached at bbs.clutchbbs.com - nodelist etc. updated.
+                   
+Updated Node 1/120 Cyberia BBS (USA) Gryphon has also updated his domain 
+                   name and the bbs resides at cyberiabbs.zapto.org
+                   The nodelist etc. has been updated.
+
+2018-07-04
+Updated Node 1/134 Mystic Prison Board BBS (USA) has a new domain name
+                   pbmystic.rdfig.net - nodelist etc. updated.
+
+2018-07-03
+Updated Node 1/105 Fluph BBS (USA) Skuz advises a domain change to
+                 fluph.zapto.org  - the nodelist etc. has been updated.
+
+2018-07-02
+Updated Node 4/132 Fusion BBS (AUS) Michael advises his telnet address is
+                   now telnet.fusionbbs.online the nodelist has been 
+                   updated.
+                   
+Removed Node 1/123 X-Factor BBS (USA) Mitch advises his system is down and
+                  for now he will not be working on it. His node is delisted
+                  at his request. Hope to see you soon Mitch :)
+
+2018-06-29
+Updated 4/126    Another F-ing BBS (USA) Gary advises his system is down for
+                 now due to internet connection issues. So his node is marked
+                 'Down' for now.
+
+2018-06-28
+Added Node 2/112 Drakefire BBS (USA) Hi and welcome to sysop Jake Parks
+                 who hails from Kingwood, Texas. Jake is running a Mystic BBS
+                 running under Debian and you can find his system at 
+                 bbs.drakefire.com
+                 
+Removed Node 4/115 backYard BBS (CHE) has been delisted due to inactivty 
+                 and no longer able to be contacted.
+
+Removed Node 4/123 Mindfringe BBS (USA) has been delisted due to inactivty 
+                 and no longer able to be contacted.
+
+2018-06-26
+Added Node 4/132 Fusion BBS (AUS) making his return to the BBS scene it's
+                 hello and welcome to sysop Michael Borthwick who is based in
+                 Newcastle, Australia. Michael is setting up a Mystic BBS 
+                 and will have his system running at bbs.fusionbbs.online
+                 Welcome back to BBSing Michael and great to have you
+                 as part of fsxNet.
+
+2018-06-25
+Added Node 1/144 RVA Fido Support (USA) welcome to sysop Ozz Nixon who is 
+                 based in Richmond Virginia. Ozz is running ExchangeBBS
+                 and his system can be found at ExchangeBBS.com:6400
+                 Nice to have you as a member of the online community Ozz :)
+                 
+2018-06-24
+Added Node 2/107 Nephilim BBS (ISA) please make welcome sysop David Abutbul
+                 who joins fsxNet from Israel based in Tel-Aviv. I think 
+                 David is our first Israel node, so a warm welcome to you.
+                 The BBS is running Synchronet under Centos 7 and you can
+                 reach it at nephilim.synchro.net:23 or via SSH using
+                 nephilim.synchro.net:7777                
+
+Updated Node 1/137 Nitemare Cafe BBS (USA) Rod has advised his system is now
+                 back up again. 'Down' status has now be removed.
+
+2018-06-21
+Added Node 2/116 Tsali's BBS (USA) has been reinstated and is actively 
+                 working to reinstate the BBS again.
+                 
+Updated Node 1/139 devNULL BBS (USA) Geezer advises for now his system is
+                 private and will return as a public system in a few months
+                 time :)
+
+2018-06-17
+Added Node 2/102 Flynn's Arcade BBS (USA) Please welcome sysop Rich Webb who
+                 hails from Cedar Springs and is setting up a system running
+                 on Mystic BBS on a Raspberry Pi. Rich is just getting 
+                 started but you can find his new system at bbs.webbhq.net
+
+fsxNet Nodelist Housekeeping - NET 2
+
+Time has passed and we're pruning nodes that have not responded to attempts 
+to contact their respective sysops and are also uncontactable via FTN means.
+
+Thanks to Solaris for his help in working through this segment of the 
+nodelist. Better to have an up to date and accurate nodelist than not :)
+
+If you're a sysop of a node listed below and want to reinstate your 
+system please get in touch with Avon to grab a new node number. But for now
+it's farewell to:
+
+Removed Node 2/102 Cartel BBS has been delisted due to inactivty and no
+                 longer able to be contacted.
+
+Removed Node 2/107 Dales BBS has been delisted due to inactivty and no
+                 longer able to be contacted.
+
+Removed Node 2/112 The Hub BBS has been delisted due to inactivty and no
+                 longer able to be contacted.
+
+Removed Node 2/116 Tsali's BBS has been delisted due to inactivty and no
+                 longer able to be contacted.
+
+Removed Node 2/118 The Llama Lounge has been delisted due to inactivty
+                 and no longer able to be contacted.
+
+Removed Node 2/125 Fortknox BBS has been delisted due to inactivty and no
+                 longer able to be contacted.
+
+Removed Node 2/128 Hack-Tic BBS has been delisted due to inactivty and no
+                 longer able to be contacted.
+
+Removed Node 2/133 Ghost Opera BBS has been delisted due to inactivty
+                 and no longer able to be contacted.
+
+Removed Node 2/135 The Last Rainboard has been delisted due to inactivty
+                 and no longer able to be contacted.
+
+Removed Node 2/136 Deep Space'94 BBS has been delisted due to inactivty
+                 and no longer able to be contacted.
+
+Removed Node 2/137 Fire on the Bayou has been delisted due to inactivty
+                 and no longer able to be contacted.
+
+Removed Node 2/138 We6jbo BBS has been delisted due to inactivty and no
+                 longer able to be contacted.
+
+Removed Node 2/139 Goosenet BBS has been delisted due to inactivty and no
+                 longer able to be contacted.                 
+                 
+2018-06-16
+Updated Node 2/115 Mystic Rhythms BBS (USA) Rushfan advises his system is 
+                 back up and running. Welcome back to the scene Rob :)
+
+2018-06-13
+Updated Node 4/108 Psychosis BBS (USA) is no longer marked as 'Down' 
+                 in the nodelist.
+
+2018-06-12
+Added Node 2/145 Flux Capacitor BBS (USA) based in Portland, Oregon please
+                 welcome sysop Michael Pierce who is running a Synchronet
+                 BBS under Linux Mint 18. You can reach his system at 
+                 fluxcap.synchro.net or fluxcap.dynv6.net
+                 
+Updated Node 4/108 Psychosis BBS (USA)  has been marked as 'Down' 
+                 in the nodelist.
+
+2018-06-11
+fsxNet Nodelist Housekeeping - NET 2
+
+There will be some pruning of nodes in the coming week or so and a number
+have been marked as 'down' today while Solaris chases up the admins that
+are MIA at present.
+
+For now the following systems have been marked as 'Down' in the nodelist:
+
+21:2/ 102, 107, 112, 116, 118, 125, 128, 133, 135, 136, 137, 138, 139
+
+Removed Node 2/132 The Springville Mill BBS (USA) has been delisted due to 
+                   inactivty and no longer able to be contacted.
+                 
+
+2018-06-07
+Updated Node 1/174 The Zone BBS (USA) is no longer marked as 'Down' welcome
+                   back to sysop Mike Warnock aka Zarnock.
+                   
+Removed Node 1/144 Stat BBS (FRA) has remained inactive and not contactable
+                    the system has been removed from the nodelist.
+                    
+Removed Node 1/180 Logon BBS (GER) Farewell to Oliver Bachmann whose system
+                   is down and no longer contactable. Node has been delisted.
+
+Removed Node 1/165 Miskatonic BBS (ITA) also inactive and now delisted.
+
+Added Node 1/139   devNULL BBS (USA) welcome to sysop Phillip Kimble aka
+                   Geezer. Currenly setting up a Mystic system which at
+                   present is still being set up. Welcome Phil :)                
+                   
+
+2018-06-02
+fsxNet Nodelist Housekeeping - NET 4
+
+The following NET 4 systems have been flagged for potential deletion due to
+inactivity for some time (weeks / months!) 
+
+For now the following systems have been marked as 'Down' in the nodelist:
+
+21:4/ 115, 123
+
+2018-05-30
+Added Node 4/131 The Wrong Number ][ BBS (USA) A warm welcome to sysop
+                 Al DeRosa who joins us from Yorktown Heights, NY
+                 Al is running a Mystic system running under Windows 10
+                 his system can be reached at wn2.duckdns.org
+                 
+Updated Node 1/140 Daves BBS (USA) is again polling the 1/100 HUB the 'Down'
+                 status has been removed from the nodelist.
+
+Removed Node 1/176 Radio Freqs and Geeks BBS (USA) MobbyG is full on with
+                 the demands of life. For now his system is delisted but he
+                 plans on returning in the future :)
+
+Removed Node 1/139 Satellite of Madness BBS (USA) Matthew advises he is 
+                 taking a break from BBS so his system is delisted for the
+                 time being.
+
+Removed Node 1/164 Tomasparks Test BBS (AUS) Tom advises his system can be
+                 delisted.
+
+2018-05-27
+Added Node 4/130 PsYcHoTiC Industris BBS (USA) welcome back to the BBS 
+                 scene sysop Mike Dunnington aka SubChaos. SubChaos is 
+                 based in Fort Myers, Florida and is running a Mystic
+                 system under Raspberry Pi 3
+                 You can reach his system at psychotic.ddns.net
+
+fsxNet Nodelist Housekeeping - NET 1
+
+The following NET 1 systems have been flagged for potential deletion due to
+inactivity for some time (weeks or in some cases months!) I will attempt
+to contact each sysop and hope to hear back from them within the next seven
+(7) days else they risk removal from the nodelist. 
+
+For now the following systems have been marked as 'Down' in the nodelist:
+
+21:1/ 137, 139, 140, 144, 164, 165, 174, 176, 180
+
+A further review of the above nodes will occur in the coming week.
+                 
+                 
+2018-05-16
+Added Node 3/104 Brain Storm BBS (BRA) Based in Recife, Brazil welcome to
+                 sysop Ioram Sette who is running EleBBS and will be 
+                 connecting to fsxNet via FrontDoor running at 21:3/100
+                 The BBS does not support Telnet sessions but you can 
+                 SSH in via bsbbs@bsbbs.com.br or visit the website at
+                 www.bsbbs.com.br
+
+2018-05-08
+Updated Node 1/123 The Void BBS is now called X-Factor BBS. Nodelist etc.
+                 has been updated.
+
+2018-05-02
+Added Node 4/129 Syrinx BBS (USA) Welcome to sysop Marc Carrano who joins
+                 fsxNet from Norwich, CT. Marc is running a Mystic system
+                 under Windows 10 and can be reached at bbs.syrinxbbx.com
+                 Welcome to the community Marc!
+
+2018-04-31
+Created - File Base - FSX_TEXT  - Text Files (Various)
+
+2018-04-27
+Updated Node 1/112 Blackflag BBS (USA) is now running on port 28.
+                 
+2018-04-13
+Added Node 4/128 DragonsWeb Labs BBS (USA) Also joining fsxNet today please
+                 say hi and welcome to sysop James DiGriz who is based in
+                 Pembroke, Georgia. James is running MBSE 1.0.7.4 under
+                 CentOS 6.9 x86_64 and can be reached at bbs.dragonsweb.org 
+                 It's great to have you as a member of the network James.
+                 Welcome aboard :)
+
+Added Node 4/127 Greyman BBS (USA) Hi and welcome to Paul Ramos aka Greyman 
+                 who is based in New Port Richey, Florida. Greyman is running
+                 a Mystic BBS under Windows 7 (funny that.. so am I) and you
+                 can reach his setup via telnet to greymanbbs.ddns.net
+                 It's been 30 years since the Greyman played with this stuff
+                 and it's nice ot have him back in the BBS scene again :)
+2018-04-10
+Added Node 4/126 Another F-ing BBS (USA) A warm welcome back to fsxNet to 
+                 sysop Gary Crunk who has restarted his BBS and can again
+                 be reached at anotherbbs.bbsindex.com
+
+2018-04-04
+Added Node 4/125 Veleno BBS (ITA) It's benvenuto to sysop Thomas Bampi who 
+                 hails from Rovereto in Italy. Thomas is running a Synchronet
+                 BBS under Windows XP and you can reach his system by heading
+                 to velenobbs.ddns.net - This is the fourth BBS from Italy to
+                 join fsxNet and it's great to see :)
+
+2018-04-01
+Added Node 4/124 The Dungeon BBS (USA) hailing from Camberra, Australia 
+                 please welcome Sysop Keith Matthews who is running a 
+                 Synchronet BBS and sussing out how to add a second FTN
+                 network to it :) You can reach his BBS at
+                 dungeon.barnabasmusic.com
+
+Added Node 2/130 Curfew BBS (USA) this is a new system run by Jon Justvig
+
+2018-03-29
+Updated fsxNet Wiki The goal of the fsxNet Wiki is to support the development
+                    of Bulletin Board Systems (BBS). It does so by hosting
+                    useful resources and information for both BBS developers
+                    and users alike. The Wiki has moved to a new address
+                    and can now be found at wiki.bbs.nz 
+   
+2018-03-26
+Added Node 4/103 The Coincidence BBS (USA) it's a warm welcome and hello to
+                 Bruce Weitzman who's based in New Britain, CT. and is 
+                 setting up a Mystic BBS running under Ubtuntu 16.
+                 Visit the BBS by heading to thecoincidencebbs.com
+
+2018-03-24
+Added Node 1/183 Vertrauen BBS (USA) Someone who is VERY familiar with the
+                 Synchronet BBS is author Rob Swindell aka Digital Man.
+                 It's fair to say Rob must enjoy BBSing and it's nice to see
+                 him active in fsxNet. Welcome Rob!
+                 You can reach Vertrauen BBS at vert.synchro.net
+
+Added Node 2/124 The Time Machine BBS (CAN) It's hello and welcome to sysop
+                 Darren Crawford aka The Viper. Based in Kamloops,BC
+                 The Time Machine BBS is running Mystic BBS using Linux/32
+                 OS. Go back (or is it forward?) in time by heading to
+                 timemachinebbs.mooo.com
+
+Added Node 4/107 BGDCAG BBS (USA) Welcome to sysop Barry Davis Jr who hails
+                 from Hanover, PA. Barry is running a Synchronet BBS under
+                 Ubuntu. You can reach him at bgdcag.synchro.net
+                 Great to have you as a member of fsxNet Barry!
+
+2018-03-21
+Updated Node 4/119 Abyss BBSing (USA) Greg advises a name change for the 
+                 BBS which is now called After Hours BBS along with a new
+                 telnet address - afterhours-bbs.com               
+
+
+Updated Node 1/139 Satellite of Madness BBS (USA) is currently marked as
+                   'Down' in the nodelist.
+
+2018-03-14
+Added Node 4/123 Mindfringe BBS (USA) please welcome sysop Nicholas Kill
+                 who is based in Jefferson, SC and is setting up a Mystic BBS
+                 running under Windows 10. At this stage the system can be
+                 reached at 204.116.23.185
+
+Updated Node 4/102 Before the Web BBS (USA) domain name has been updated 
+                   to just loybbs.net:23232 
+
+Removed Node 2/130 BuckeyeAZ.NET BBS (USA) farewell to Dean Galloway who
+                   has announced he's closing his system down for now.
+
+2018-03-02
+Added Node 4/122 RetroDigital BBS (CAN) Rejoins fsxNet - welcome to sysop
+                 Michael Buchholz aka Deepend.
+
+2018-03-01
+Updated - HUB 4  Most nodes that connect to The Niba HUB in NET 4 (now hosted
+                 by Dan Richter) have migrated to the new domain name address
+                 and port - bbs.castlerockbbs.com:24560
+                 That said we're now down to three nodes that so far have not
+                 switched or responded to attempts to contact them. We will
+                 try again to reach them but their time in the network is
+                 looking limited if they don't cut over as the old HUB will
+                 be shuttered in the next 7 days.
+
+Added Node 2/105 The New Frontier 2 BBS (USA) hailing from Akron in Ohio 
+                 please welcome sysop Charles Stephenson aka KrUpTiOn to
+                 fsxNet. You can reach KrUpTiOn's system at
+                 thenewfrontier2.hopto.org  - great to have you as a member
+                 of the network :)                      
+
+Updated Node 3/103 Titan's Orbit BBS (BRA) there was a typo in the nodelist
+                   for this system and that has been fixed :)
+
+Removed Node 4/103 TrixNet BBS (GBR) has been removed from the nodelist.
+
+Removed Node 4/107 The Hub BBS (USA) has been removed from the nodelist.
+
+
+2018-02-19
+Updated Node 4/103 TrixNet BBS (GBR) has been inactive for some time now and
+                   attempts to contact the sysop have so far failed so the 
+                   BBS is marked as 'Down' in the nodelist.
+                   
+Updated Node 4/107 The Hub BBS (USA) has been marked as 'Down' in the
+                   nodelist at this time.
+                   
+Added Node 4/201 AlcaBBS (NLD) based in Apeldoorn, The Netherlands please
+                 welcome sysop Michael Trip who is running a Synchronet BBS
+                 under Windows 7. You can telnet in to the BBS by heading to
+                 bbs.alcatrash.org
+
+2018-02-18
+Removed Node 4/105 Another F-ing BBS (USA) Farewell to sysop Gary Crunk who
+                   advises for now his system is shutting down. We hopoe you 
+                   can return again soon Gary - you are missed!
+
+2018-02-11
+Updated - HUB 4  The Niba HUB is now being hosted by Dan Richter - thanks
+                 Black Panther :) NET 4 nodes should adjust their BinkP 
+                 Hostname for 21:4/100 to bbs.castlerockbbs.com:24560
+                 The old NET 4 HUB will be retired within the coming 14 days.                 
+
+2018-02-06
+Added Node 1/153 Infoline BBS (CZE) based in Prague it's a return to fsxNet
+                 for sysop Mikolas Pansky who is running a Mystic BBS on a
+                 Linux system. The system is a private one at present.
+                 
+Added Node 2/120 Files 4 Fun BBS (USA) Joining the fsxNet community please
+                 welcome sysop Timothy Norris who is based in Omaha.
+                 Timothy used to run a Spitfire single-node and Wildcat! 
+                 16-node back in the early/late 1990s. He's now setting up
+                 a Mystic BBS running under Windows 32 and you can find
+                 the system at bbs.f4fbbs.com:2323
+
+2018-02-05
+Added Node 4/120 Skylab System BBS #2 (USA) It looks like Florida is the 
+                 place to be when it comes to BBSing right now :) Based in
+                 Crystal River it's a warm welcome also to Sam Penwright who
+                 is working on migrating his BBS setup from a Wildcat 6.4
+                 system across to Mystic BBS.
+                 The telnet address is skylab-systems.com
+
+Added Node 4/119 Abyss BBSing (USA) Hailing from Lady Lake in Florida please 
+                 say hello to (and welcome) Greg Youngblood who is setting up
+                 a Mystic BBS running under Windows. You can find Greg's 
+                 system at abyssbbs.com
+
+2018-02-01
+Removed Node 1/153 Solar Pi BBS (USA). Farewell and best wishes to Corey 
+                  Reichle who has decided to close his system down.
+                   
+Created FSX_DAT  InterBBS Data. An echomail area used by software such as
+                 InterBBS Oneliner or Double-Up (both by Darryl Perry) to
+                 send inter-BBS data between nodes in fsxNet. In most cases
+                 the data is not readable or of interest to human eyes.
+                 Sysops may wish to hide this echo from BBS users.
+                 Human generated posts should *not* be made in this echoarea.  
+
+2018-01-24
+Added Node 4/118 Bit's Lair BBS (ESP) Hailing from Madrid, Spain please
+                 welcome sysop Yeray Dorta who is running a private BBS 
+                 powered by Mystic and running on a Raspberry Pi. Welcome
+                 to the network you are our first node based in Spain!
+                 
+
+Added Node 4/101 Back to the Future BBS (USA) Hi and welcome to Bill Simon 
+                 aka Outatime who hails from Pennsylvania and is running a 
+                 WWIV system under Linux. You can find Outatime's system at 
+                 bttfbbs.com 
+
+
+Updated Node 2/115 Mystic Rhythms BBS (USA) Rob advises his system will be 
+                 offline for the next 4-5 months while he attends to other
+                 work etc. commitments. Anticipating a return later this year
+                 his node is marked as 'Down' for now.
+
+2018-01-17
+Added Node 4/117 Brainsuxx.inc BBS (GER) Please welcome sysop Michael Braun
+                 who is based in Beelitz and setting up a Mystic BBS
+                 powered by a Raspberry Pi. You can telnet to his BBS at
+                 brainsuxxinc.ddns.net  :)
+
+2018-01-16
+Added Node 4/116 InterMail Support (USA) welcome to Dale Barnes! Dale is the
+                 author of InterMail and has returned to the BBS scene after
+                 some time away. I understand Dale is working on a new 
+                 version of InterMail. He's not running a BBS at present but
+                 has has a mailer up at im.ifidonet.com
+
+Removed Node 4/101 RetroDigital BBS (CAN) Michael advises as of 19 Jan 2018
+                 he is closing down his system to work on other projects.
+                 Best wishes to you Michael, hope to see you active again
+                 sometime in the future.
+                 
+Updated Node 4/114 The Cat's Meow BBS (USA) Alex now has a domain name for
+                 his system - catsmeow.duckdns.org - The nodelist etc. has
+                 been updated and the BBS is no longer marked as a private
+                 node.
+
+2018-01-14
+Updated Node 1/186 Castle Rock BBS (USA) the domain name has changed and the 
+                 nodelist and SYSTEMS.TXT has been update to the new address
+                 bbs.castlerockbbs.com
+
+
+2018-01-10
+Added Node 4/115 backYard BBS (CHE) bumping up the numbers from one to now
+                 two nodes based in Switzerland please welcome new sysop
+                 Andreas Jeckin aka Tretel77 who is based in Basel. Tretel77 
+                 is setting up a Mystic system running under Windows 32
+                 you will find him at backyardbbs.ddns.net
+                 Welcome to fsxNet :)
+
+2018-01-09
+Updated Node 1/109 Freeway BBS (AUS) revised domain name to 
+                   freeway.vkradio.com
+
+2018-01-08
+Updated Node 1/125 Exotica BBS (AUS) change of Telnet port from 8888 to 2023
+
+Added Node 4/114 The Cat's Meow BBS (USA) Welcome to new sysop Alex Abraham
+                 aka Catlord who is getting started in BBSing with his 
+                 Mystic system running under Linux Raspbian 'Stretch'
+                 Catlord is based in Fayetteville, NC  USA and his node is 
+                 marked PVT for now as there is no supplied telnet address
+                 at this stage. Meoww...
+
+Added Node 4/113 Digital Wurmhole BBS (CAN) Welcome back to fsxNet returning
+                 sysop Blair Lovell. Blair was a member of fsxNet a few years
+                 ago but closed his system in Oct 2016. After some time away
+                 he's back and it's great to see him active again :)
+                 Blair is running a Mystic system using a Raspberry Pi you
+                 can find his BBS at digitalwurmhole.ddns.net:2323
+
+Added Node 4/112 Sloane BBS (USA) Please make welcome Steve Smith who hails 
+                 from Atlanta, GA  USA. Steve is setting up a Mystic BBSing
+                 running under Ubuntu Linux. His telnet address for his BBS
+                 is sloanebbs.com  There is no website set up at this stage.
+
+2018-01-06
+Added Node 4/111 USS Alliance BBS (CAN) Welcome to sysop Richard Szajkowski
+                 who is based in Ennismore Ont Canada. Richard is setting up
+                 a Mystic BBS running under Win 7 32bit. You can reach his
+                 system at cmrk.net:2113 or visit the website cmrk.net/bbs
+                 
+2018-01-05 
+Updated Node 1/101 Agency BBS (NZL) The telnet domain name has changed from
+                 agency.bbs.geek.nz to just agency.bbs.nz - the older domain
+                 name will continue to work for now.
+                 
+NETs 1,3,4       The domain addresses in the nodelist for 1/100 3/100 4/100
+                 have also changed to agency.bbs.nz at this time. The older 
+                 agency.bbs.geek.nz domain will also continue to work for now.
+                
+2017-12-29
+Updated Node 4/107 The Hub BBS (USA) Nodelist has been updated and node is 
+                 no longer marked as PVT. INA flag set to thehubbbs.ddns.net                 
+
+2017-12-28
+Added Node 4/110 Retro64XYZ BBS (USA) Welcome to sysop Aaron Jones who is
+                 setting up a Mystic system running under Ubuntu Linux.
+                 His telnet address is bbs.retro64.xyz:26000 and the website
+                 can be found at retro64.xyz 
+
+2017-12-27
+Added Node 4/109 9640 News BBS (USA) reporting live from Campbellsburg, KY
+                 USA please welcome sysop Beery Miller who is setting up 
+                 a Mystic BBS running under Windows 10, 64bit.
+                 His systems telnet address is 9640news.ddns.net:9640
+
+2017-12-26
+Added Node 4/108 Psychosis BBS (USA) Hailing from Cumming, GA. USA please 
+                 welcome sysop Terry Rankin aka Schizo to fsxNet. Schizo is
+                 running a Mystic BBS using a Raspberry Pi 3 and can be
+                 reached at psychosisbbs.ddns.net:2323
+
+Added Node 4/107 The Hub BBS (USA) Hi and welcome to sysop Derek Piazza who
+                 is just in the process of getting a Mystic BBS set up.
+                 He's based in New Brunswick, NJ USA and plans to run a 
+                 system under CentOS 7.   For now this system is marked
+                 as a PVT node until up and running.
+                
+Added Node 4/106 The Rusty Mailbox (CAN) for some of us old timers who are
+                 old enough to remember (now I do feel old :)) please welcome
+                 returning sysop Alan Ianson who is back with his Rusty
+                 Mailbox BBS. Welcome back Alan it's nice to have you active
+                 in fsxNet again. You were missed :)
+
+Updated Node 1/158 Starlight BBS (GER) Lars advises his BBS has been taken
+                   down for now but he is running a BinkD/Fmail combo for
+                   handling his connections to echomail/netmail in networks
+                   such as fsxNet. His nodelist entry has been updated and
+                   telnet refs removed.
+                   
+Updated Node 1/192 A 90's Manila BBS (SGP) is now using bbs.balcos.net as the
+                   main domain name. The nodelist etc. has been updated.
+
+Added Node 4/105 Phoenix BBS (USA) Hello and welcome to Andrew Leary based in 
+                 Pawcatuck, CT  USA. Andrew is running a MBSE BBS under
+                 Slackware Linux 14.2 x86_64 You can check the system out
+                 by heading to phoenix.bnbbbs.net:2323 or visit the website
+                 at http://phoenix.bnbbbs.net
+                 
+2017-12-23
+Added Node 4/104 Herbies BBS II (GER) Just before 2017 ends please welcome
+                 sysop Thorsten Herb who is based in Weil am Rhein, Germany.
+                 Thorsten is running a Mystic BBS using a Raspberry Pi
+                 and his system can be reached at herbies-bbs.ddns.net
+                 Welcome to fsxNet Thorsten - it's great to have you as a
+                 member of our online community. :)
+
+2017-12-20
+Added Node 4/103 TrixNet BBS (GBR) Growing the UK contingent in fsxNet please
+                 welcome returning sysop Brett Moore. Brett is just getting
+                 back in to BBS after last being active in the mid 1990s
+                 He's running a Mystic BBS under Ubuntu and you will be
+                 able to find him at bbs.brettmoore.net when he's set up.
+                 Welcome back to the BBS scene Brett :)
+
+2017-12-19
+Created - NET 4  With the growth in NET 2 a new NET has been added. New 
+                 nodes to fsxNet will be added to NET 4 which is now
+                 served by a new HUB.
+                  
+Created - HUB 4  The Niba HUB has been established at 21:4/100. For those 
+                 of us old enough to remember https://youtu.be/gsYT8YHL-R0 
+                 will explain where the name came from :) Khaaan!!!
+                 https://youtu.be/oxwJjh1oUSQ                   
+                   
+Added Node 4/101 RetroDigital BBS (CAN) Welcome to sysop Michael Buchholz
+                 aka Deepend who hails from Calgary,AB, Canada. Deepend is
+                 running a Synchronet BBS under Centos Linux. You can visit
+                 his system by telnet at rdnetbbs.com or point your web
+                 browser to the same domain name. 
+                 
+Added Node 4/102 Before the Web BBS (USA) Joining fsxNet from Huntsville, AL
+                 is sysop Dallas Vinson. Dallas is running a Mystic BBS 
+                 under Windows 7 and you can reach him via telnet at
+                 b4w.loybbs.net:23232 - note the port number :)
+
+2017-12-18
+Removed Node 2/124 Family Fun BBS (CAN) Adam advises he has shut down his 
+                   BBS.
+
+
+Removed Node 2/120 The Positronium Repository RPi (USA). Cmech advises the
+                   Rpi used to run this system has been donated to g00r00
+                   for his Mystic BBS work. The BBS has now closed.
+
+2017-12-14
+Mystic BBS turns 20 years young!
+
+I just wanted to note the efforts of author James Coyle aka g00r00 who today
+posted in fsx_mys his thanks for everyones interest and involvement in his
+Mystic BBS project that has been running for the last 20 years. Think on 
+that for a moment - 20 years!
+
+It's no mean feat to sustain an interest in something for so long and 
+continue to develop it with the same levels of passion and excitement that
+first spurred the interest to do so all those years ago.
+
+For me coming back in to the BBSing scene around 2013 and coming across Mystic
+was a welcome sign to me that the scene was not dead and that there was much
+fun to be had with the old hobby/interest that I had last dabbled in in
+back in 1994.
+
+In 2017 there are a number of BBS platforms under active development. We're
+lucky to have a bunch of talented people active in fsxNet who continue to
+contribute their skills and passions to the vibrancy of the BBS scene
+by creating new BBS software, doors, utils, ANSI art etc. 
+
+James is certainly one of those people. On behalf of all of the users,
+sysops, tinkerers, wannabe coders, debuggers who love to test and find 
+stuff that may be broken (or not :)) and everyone in between playing in the
+BBS scene. Thank you James for you continued contribution to our collectively
+enjoyed hobby, it's really appreciated.
+ 
+
+Updates to HUBs 1/100 2/100 3/100
+
+Today I have been working on updating the software on all fsxNet HUBS active
+at present. They are now all in sync and use the same version of Mystic BBS.
+Which at the time of writing this is 1.12 A37 pre-alpa version 2017/12/13
+
+At the same time of doing these updates I have changed the way netmail is 
+routed between the HUBs. In short the rules to deliver netmail between NETs
+has been updated to prevent a circular loop occurring where undeliverable 
+netmail could end up bouncing between various NETs. I have also established
+direct links between NET 2 and NET 3 to speed up delivery of netmail where as
+before this, all netmail between NET 2 and NET 3 was routed via NET 1
+
+I am now also starting to look at establishing a NET 4 to accommodate ongoing
+growth experienced with new nodes joining fsxNet. The thinking being not
+wanting to have HUB with large numbers of nodes (70+) attached and instead 
+add more HUBs serving smaller numbers (30-40) of nodes. If we do opt to fully 
+mesh all the HUBs for echomail traffic, whilst it would generate a fair 
+amount of DUPE traffic between the HUBs it would also help to build greater
+redundancy and resilience across the wider fsxNet. Well that's what I think 
+would happen - but you're feedback and thoughts are most welcome :)   
+
+Welcome new nodes :)
+
+Added Node 2/144 Retro Tyne BBS (USA) Hello to Chris Costanzo based in 
+                 Old Bridge, NJ, USA. Chris is setting up his Mystic BBS 
+                 running under Linux. You can find his setup at retrotyme.com
+                 Welcome to fsxNet Chris it's really nice to see you active
+                 in BBSing and part of the network :)
+
+Added Node 2/143 The Bit Bucket (CAN) Say hi to Stephen Atkins who joins us
+                 from Wainwright, AB, Canada. Stephen is running his Mystic
+                 system also under Linux. His website is thebitbucket.ca
+                 or telnet in via bbs.thebitbucket.ca  Great to have you
+                 as a member of the community Stephen - welcome aboard!
+
+Added Node 2/142 Lo Fidelity BBS (USA) Please say hello and welcome to sysop
+                 Ryan Fantus who is based at Palo Alto in California, USA.
+                 A long time daydream sysop (and software maintainer) he's
+                 trying his hand at a Mystic system running under Linux.
+                 The BBS is under construction and not accepting callers at
+                 this stage but when it is, you'll find it at lo-fibbs.com 
+                 via Telnet and on the WWW :)
+                                        
+2017-12-08
+Added Node 2/141 TequilaMockingbird Online BBS (USA) It's a warm welcome to
+                 Bill McGarrity who is based at Toms River, New Jersey, USA.
+                 Bill is running a Synchronet BBS running under Windows 
+                 Server 2008 Enterprise. You can connect to his system at
+                 tequilamockingbirdonline.net
+
+2017-12-06
+Added Node 2/140 Subcarrier BBS (CAN) He's back :) After being out of the
+                 BBS scene for 20 years please welcome John McCoy back to the
+                 fold. John is setting up his Mystic BBS system running under
+                 Linux 64 Bit. You will be able to reach his system via 
+                 subcarrier.darktech.org:2323 (telnet) or :2322 (SSH)
+                 Great to have you as a member of the fsxNet community John!
+
+2017-12-04
+Updated Node 1/200 The Pharcyde BBS (USA) is now a private node while Nick
+                   works on his Mystic BBS setup.
+                  
+2017-12-03
+Added Node 3/103   Titan's Orbit BBS (BRA) has moved to NET 3 and will be
+                   using FrontDoor as their front-end mailer.
+
+Removed Node 1/197 Titan's Orbit BBS (BRA) has moved to NET 3 to connect to
+                   fsxNet.
+                
+2017-12-02
+                 Updated the infopack with additional files to explain how 
+                 nodes can set up Zone 21 inter-bbs league games for Barren 
+                 Realms Elite and Galactic Dynasty.
+                
+                 The instructions for obtaining a Usenet feed have also been
+                 updated too. New files added to the infopack are:
+                
+                 fsx-use.txt  - Setup Usenet Newsgroups 
+                 fsx-bre.txt     - Setup Barren Realms Elite
+                 fsx-gd.txt      - Setup Galactic Dynasty
+
+2017-11-30
+Added Node 1/200 The Pharcyde BBS (USA) It's a warm welcome to Nicholas Boel
+                 aka Accession - Nick is a very experienced sysop who has 
+                 been involved in the BBS scene for many years. He's 
+                 currently running a Synchronet system and looking to
+                 migrate over to a Mystic BBS. You can visit Pharcyde by
+                 heading to bbs.pharcyde.org                 
+
+
+2017-11-29
+Added Node 2/139 Goosenet BBS (GER) Hi and welcome to sysop Michael Geller
+                 based in Nuremberg, Germany .. Michael is setting up a Mystic
+                 BBS running under Windows/64Bit You can find his new system
+                 by heading to goosenet.ddnss.org :)
+
+Added Node 2/138 We6jbo BBS (USA) based in Sandiego please welcome to the 
+                 network sysop Jeremiah O'Neal who is setting up his
+                 Mystic BBS under Linux raspberrypi 4.4.21-v7
+                 The address for the new BBS is www.plateauwebcam.net:23 
+
+2017-11-22
+Added Node 2/137 Fire on the Bayou (USA) hailing from New Orleans, LA USA
+                 please welcome sysop Joe Bruchis who is running his 
+                 Synchronet BBS under Windows 10 and soon to look at setting
+                 up a Mystic BBS also. You can reach Joe's system by heading
+                 to bayouflames.ddns.net
+
+2017-11-20
+Added Node 1/194 Phaseshift BBS (CAN) Welcome to Kevin Pausche based in 
+                 Vancouver Canada. Kevin is running a Mystic BBS under Linux
+                 and his address is phased.port0.org . Kevin is a past
+                 member of fsxNet who became inactive and was delisted but
+                 has reapplied to join again.. So welcome back Kevin :)
+
+2017-11-18
+Added Node 2/108 National Incident Alerts BBS (USA) it's hello and welcome
+                 to Ray King who joins us from Rehoboth, MA USA. Ray is
+                 running a Mystic system under Windows XP and you can find
+                 his BBS at niabbs.com or check the website at 
+                 nationalincidentalerts.com
+                 
+Added Node 2/122 Insane Asylum BBS (USA) Direct from a starring role in
+                 Star Wars episode 8 ... just kidding, but wouldn't that be
+                 kinda cool. heh... let's say hi and welcome to Jim Kulwicki
+                 who hails from Racine, WI. Jim is running a Mystic system
+                 using Windows 10/64bit and you can find his system at
+                 asylumbbs.net:28
+                 
+
+Added Node 1/168 Col Unl BBS (SWE) There's something in the air .. you'll
+                 understand why in a second... welcome to the first of two
+                 new systems joining fsxNet from Sweden. It's a warm welcome
+                 to Gustav Almstrom who is based in Lund, Sweden and is
+                 setting up a Mystic BBS running under Debian. The address
+                 of the BBS will be mystic.almstrom.org:63555 but it is yet
+                 to open. Stand by caller :) Welcome Gustav!
+                 
+Added Node 1/171 Modema Tider BBS (SWE) Welcome too to Andreas Selstam who 
+                 is based in Gothenburg, Sweden. Andreas is setting up his
+                 Mystic powered system using Ubuntu 16.04 and has not yet
+                 opened his BBS to the public but when he does we'll let
+                 you know. 
+
+2017-11-14
+Added Node 1/167 Temple of Syrinx BBS (USA) welcome aboard Daniel Kidd who
+                 is running a Mystic BBS powered by Linux. You can reach
+                 Dan and his system by heading to templeofsyrinx.info
+
+2017-11-09
+Updated Node 1/154 Jon advises his system is now called Raiders Inc BBS
+
+2017-11-08
+Added Node 1/164  Tomasparks Test BBS (AUS) Welcome to Tom Sparks who has 
+                  set up his Mystic BBS system running under Linux. At this
+                  stage his BBS is a private system and there is no telnet
+                  address associated with it.
+                  
+Added Node 2/114  Osmimum BBS (USA) Welcome to Owen Salter who is based in 
+                  Massachusetts. Owen is setting up a Mystic BBS running 
+                  Raspian Jessie on his Raspberry Pi 2. His system is still
+                  a work in progress but he's enjoying getting set up.
+
+Added Node 2/116  Tsali's BBS (USA) It's hello to James Washington who joins
+                  us from Louisville, Kentucky, USA and is setting up his
+                  BBS running Mystic on a Raspberry Pi 3.
+                  You can reach Jame's system at tsali.ddns.net:9023
+
+2017-11-03
+Added Node 1/155  Haciend BBS (FIN) It's a warm welcome to Antti Kiuru aka 
+                  h7 who has set up a Mystic BBS system running under Linux
+                  in Helsinki, Finland. Welcome to fsxNet h7 :) You can 
+                  reach the BBS haciend.com
+                  
+2017-10-26
+Added Node 1/150   BadTaste BBS (GBR) welcome to Geoff Bradshaw who is based
+                  in Northampton Northants UK. Geoff is returning to his BBS
+                  roots and having fun with a Mystic BBS while also showing
+                  a few of his students about our retro hobby :)
+                  Welcome back to the scene Geoff and well done for flying
+                  the UK flag. We just lost a UK based BBS recently and our
+                  other UK member was feeling a bit lonely - problem solved!
+
+2017-10-22
+Removed Node 2/108 UnderZaNet BBS (GBR) Jan advises due to time contraints 
+                   and the fact his system had a meltdown, he's shutting 
+                   down for now. Dotslash will return when he's able but for
+                   now watch for his contributions via another fsxNet 
+                   connected BBS near you :)
+2017-10-21
+Update Node 1/135  Return to the lair of the Wolverine BBS (USA) the BBS is
+                   polling 1/100 and is no longer marked as 'down' in the
+                   nodelist :)
+
+2017-10-18
+Updated Node 1/137 Nitemare Cafe BBS (USA) Rod has advised his system will be
+                   down for a period of time. He's moving and has limited
+                   internet access. Once he finds a viable solution he plans
+                   to bring the BBS back up.
+2017-10-15
+Updated Node 3/101 Future Hacker Central (SWE) Joaquim now has a contactable
+                   FrontDoor mailer at fhc.d.defsol.com:2030
+                   The system does not accept human callers.
+
+2017-10-13
+Updated Node 1/175 Capitol City Online (USA) Mike advises his domain name has
+                   been updated and is now capitolcityonline.net the nodelist
+                   and BBS list has been updated :)
+                   
+2017-10-12
+Added Node 1/142   The Vista BBS (USA) Welcome aboard to Ian Thurston who is
+                   based in Vallejo, California. Ian is setting up a Mystic
+                   BBS system and returning to his retro BBS roots (aren't we
+                   all!). You can find his BBS at vistabbs.ianthurston.com
+                   Ian is running his system using Ubuntu Linux 16.10
+                   Welcome to fsxNet Ian, and welcome back to the BBS scene
+                   :)
+                   
+Added Node 2/101   The End Of The Line BBS (USA) Hello and welcome to Nigel
+                   Reed who is setting up Synchronet powered system running
+                   on Linux. Nigel is based in Plano, TX and you can find his
+                   system at endofthelinebbs.com
+                   Great to have you as a member of fsxNet Nigel! I confess
+                   I have a Travelling Wilburys song playing in my head
+                   right now :)
+                   
+Added Node 2/109   RPG Circus BBS (USA) hailing from Arizona we want to 
+                   welcome Jeffrey Brissette to fsxNet :) Jeffrey is running
+                   a Mystic BBS under Linux and is getting his system set up
+                   at present. You will find him on port 2323 at
+                   bbs.rpgcircus.com
+                   Welcome aboard Jeffey it's nice to have you as a member of
+                   our online community.  ... and that darn Wilbury's song is
+                   still playing on re-run in my head - sigh :)
+                   
+Added Node 1/144   Stat BBS (FRA) is the first French based BBS to join fsxNet
+                   and is being set up by SysOp Lucas Bidault who is based in
+                   Saint Avertin. Lucas is using a Mystic BBS running under
+                   Windows 7 and is slowly but surely working on getting his
+                   system running. The address is statbbs.ddns.net:2323
+                   Lucus, bonjour and welcome to fsxNet :)
+
+2017-10-03
+Added Node   3/102 Micro Link Old School BBS (AUS). Lloyd has restarted his 
+                   Remote Access BBS and paired it with FMail, Netserial and
+                   FrontDoor as an experiment to get his original BBS up
+                   and running. He's still running Micro Link BBS using the
+                   latest Mystic BBS on 1/103 but having fun testing this new
+                   (but old) setup with the retro system.               
+
+2017-09-11
+Updated Node 1/139 - Satellite of Madness BBS (USA) has polled 1/100 so is 
+                    no longer marked as 'Down' in the nodelist. Still having
+                    issues polling the BBS but it is contactable via telnet.
+
+2017-09-27
+Updated Node 1/126 Twinkle BBS (USA) Pequito has updated his domain name and
+                   opened port 23. The revised addressed is twinklebbs.net 
+                   
+2017-09-24
+Created - NET 3 -  This has been established as a means of providing
+                   connectivity to fsxNet using EMSI/FTS6 and ZedZap
+                   protocols such as those offered by the popular
+                   front end mailer FrontDoor.
+                  
+Created - HUB 3 -  The Mutura HUB is an interesting setup. It runs
+                   FrontDoor over Telnet using port 24558 and interfaces
+                   with the latest Mystic BBS that handles all of the
+                   tossing and netmail/echomail duties. Mutura HUB in
+                   turn is linked to fsxNet 1/100 HUB and other nodes
+                   and NETs
+
+Added Node   3/101 Future Hacker Central (SWE) welcome to Joaquim
+                   Homrighausen aka JoHo. JoHo is a returning sysop and
+                   developer of the popular FrontDoor front end mailer
+                   and has plans to reboot his project over the coming
+                   months etc. Welcome JoHo I hope you enjoy fsxNet and
+                   engaging with the folks here :)
+
+2017-09-15
+Updated Node 1/197 Titian's Orbit BBS (BRA) Flavio has been in contact and
+                   polled 1/100 so his system is no longer marked as 'Down'
+
+Added Node   1/116 sOUNDGARDEn (NLD) Welcome to Marco Reparon aka sPINOZa
+                   who is running a private system for now. sPINOZa has been
+                   using Mystic on/off since the early 2000s and is having
+                   another look at the platform. Welcome :)
+
+Updated Node 1/136 force9 BBS (GBR) Dave is now contactable via BinkP polling
+                   I have removed the 'Down' status against his nodelist 
+                   entry. Welcome back force9 :)
+                   
+Removed Node 2/122 Avenger BBS (USA) Jason is shutting his system down for
+                   now while he concentrates on setting up a new business.
+                   We wish him all the best and look forward to his return
+                   sometime in the future when life is not so busy! :)
+
+2017-09-10
+fsxNet Nodelist Housekeeping (continued)
+
+More twists and turns in this episode of 'know your ever changing
+nodelist' :)
+
+Added Node 1/136   force9 BBS (GBR) Dave has contacted me. He is away on 
+                   holiday but plans to look in to any issues with his BBS 
+                   when he gets back. He confirms he does not want to be 
+                   deleted. So I have re-instated his node number.
+                   Hopefully we can get packets flowing again in the coming
+                   weeks. Look for his test posts :)
+ 
+Added Node 1/180   Logon BBS (GER) Oliver has also been in touch and is 
+                   working on getting his Raspberry Pi back up and running 
+                   again. He has some Internet issues by the sounds of it but
+                   is working on things over the coming weeks. Also look for
+                   his test messages when he's back up :)
+                   I have reinstated his node number.                   
+                   
+Removed Node 1/168 The Egregore BBS (USA) Luke and I have been chatting via
+                   email. He did get in touch amd planned to re-setup his 
+                   VM of the BBS. I followed up a few days later and he's
+                   advised he can't find his VM! So for now he's asked to be
+                   removed. I have delisted his node number.
+                   
+2017-09-09
+fsxNet Nodelist Housekeeping
+
+I have begun to prune the nodelist after waiting a week to gauge replies and
+responses to my attempts to contact nodes flagged for attention on Sept 2nd.
+
+Some systems have contacted me and I am working with them to try and sorts
+any issues. Others have been silent so they are being pruned from the 
+nodelist for now. 
+
+They are (as always) welcome to re-apply and rejoin but I am not going to
+store traffic at 21:1/100 for a node that may reappear or may not.
+
+
+Removed Node 1/167 SilentShard BBS (NZL) Nick has contacted me and confirmed 
+                   his system is down for now. He may reapply again in the
+                   future when he has more time to run a system.
+                   
+Removed Node 1/136 force9 BBS (GBR) No reply from Dave to hailing freqs so
+                   have removed his system from the nodelist. Attempts to
+                   telnet to last known address have also failed. :(
+                   
+Removed Node 1/155 Gerlach BBS (SVK) Dominik advises he's time poor and
+                   unable to maintain his system and has asked to be 
+                   removed from the nodelist.
+                   
+Removed Node 1/142 SmokyThing BBS (USA) there has been no contact with 
+                   Shannon despite best attempts to reach him. So his 
+                   system is being removed from the nodelist.
+
+Removed Node 1/144 Aloryn Avalon BBS (USA) there has been no contact with 
+                   Joshua despite best attempts to reach him. His system
+                   has been removed from the nodelist.
+
+Removed Node 1/150 Southend BBS (Denmark) I have not heard from Lars in 
+                   sometime. The last contact was months ago and at that 
+                   stage there was talk of a hospital visit. I hope he is
+                   well. I have tried to contact him and poll his system
+                   but have struck out on both counts. His node has been
+                   delisted.
+
+Removed Node 1/164 Beyond Systems BBS (SWE) there has been no reply from
+                   attempts to contact Mattias and no connections via
+                   telnet to the BBS's last known address. The node has 
+                   been delisted.
+
+Removed Node 1/171 Phaseshift BBS (CAN) there has been no reply from attempts
+                   to contact Kevin and there is no reply from his BBS when
+                   trying to connect to it. The node has been delisted.
+
+Removed Node 1/180 Logon BBS (GER) Farewell to Oliver Bachmann whose system
+                   is down and no longer contactable. Node has been delisted.
+                   
+
+Removed Node 1/183 Night Owl BBS (USA) attempts to reach Jon have not proved
+                   to be successful and there is no reply from his BBS at the
+                   last known ddns.net domain name. Node has been delisted.
+
+There are still some nodes I am chasing up to confirm if they are going to
+reconnect to fsxNet or if the sysop is not going to do anything soon to do so.
+Some may still be removed if a firm track of proposed activity is not
+demonstrated in a timely fashion.
+
+I am also working to identify a few nodes that I know are running and polling
+1/100 correctly but for some reason(s) their known domain names are not 
+resolving and allow the HUB to poll them. I'll write about that in a separate
+update when this round of NET 1 nodelist admin concludes.
+                   
+2017-09-02
+fsxNet Nodelist Housekeeping
+
+The following NET 1 systems have been flagged for potential deletion due to
+inactivity for some time (weeks or in some cases months!) I have attempted
+to contact each sysop and hope to hear back from them within the next seven
+(7) days else they risk removal from the nodelist. 
+
+For now the following systems have been marked as 'Down' in the nodelist:
+
+21:1/ 135, 136, 139, 140, 142, 144, 150, 155, 164, 167, 168, 171, 177, 180,
+      183, 190, 197
+
+A further review of the above nodes will occur one week from today.
+      
+Added Node 2/107   Dales BBS (GBR) Welcome to new sysop Dale Cousins who is 
+                   based in Gorleston, Norfolk, UK and is setting up a 
+                   Mystic BBS systen running under Raspbian on pi zero
+                   You can reach Dale's system at dalesmail.co.uk:24
+
+Removed Node 1/116 Redwood Shire BBS (USA) node has been inactive for some
+                   time. Attempts to contact sysop have failed with bouncing
+                   email address etc. 
+
+Removed Node 1/194 Johnny Five BBS (NZL) node has been inactive for some
+                   time. Attempts to contact sysop have failed with bouncing
+                   email address etc. 
+                   
+2017-08-27
+Updated Node 2/106 - Back To The Roots BBS (CHE) Fabian advises his telnet
+                   port has now changed to 2345
+
+2017-08-26
+Updated Node 1/126 Twinkle BBS (USA) Pequito has endured a VM crash and his
+                   system is currently down and may be for some time :(
+                   
+
+Added Node 1/172   The Facility BBS (USA). Welcome to new sysop Jason Pratt
+                   who is based in Palmetto, FL USA. Jason is running a 
+                   Mystic BBS system running under Windows 10.
+                   His system can be reached at thefacilitybbs.darktech.org
+
+
+Removed Node 1/172 Removed Pattycake Mafia BBS (USA). There has been no 
+                   contact from Petar for some months and no connection
+                   with his system :( Hope he returns to the scene one day.
+
+2017-08-08
+Removed Node 2/107 AlsoToo BBS (USA) There was no reply from sysop after 
+                   attempts to contact failed regarding down time and no
+                   activity from the BBS on the network for an extended
+                   period of time. The system has been removed from the
+                   nodelist.
+                   
+Removed Node 2/114 SciFi Hangout BBS (GBR) There was no reply from sysop
+                   after attempts to contact failed along with no activity
+                   from the BBS on the network for an extended period of time.
+                   The system has been removed from the nodelist.
+                   
+                   This concludes the current round of tidying up the fsxNet
+                   nodelist in NET 2 ... next up will be a review of inactive
+                   systems in NET 1
+
+                   2017-08-05
+Added Node 1/199  Clutch BBS (CAN) hailing from Ontario welcome to Mark Stark
+                  who is running his Mystic BBS under Linux.
+                  The address for Clutch BBS is clutch.darktech.org
+
+
+Added Node 2/136  Deep Space'94 BBS (USA) welcome to Tony Toon who joins us
+                  from Evansville, IN. Tony is running a Mystic BBS under
+                  Windows Server 2003 and has his system set up via
+                  Telnet at deepspace94.com
+
+2017-08-02
+Removed Node 2/116 Spookly Electric BBS (ITA) has closed down. 
+                   Alec aka Osman advises he is time poor and working on
+                   other projects at present.
+                   
+Removed Node 2/109 ENCOM BBS (USA) has closed down.
+                   Ron advises due to excessive cyber attacks in the USA the 
+                   BBS ports have been deactivated for now.                   
+
+2017-07-30
+Updated Node 1/178 Internal Dimension (CAN) updated nodelist and SYSTEMS.TXT
+                   to refelect new Telnet port 59
+
+2017-07-29
+Added Node 2/135   The Last Rainboard (USA) please welcome Jerry Adams aka
+                   Piff Merkin to the BBSing scene as he sets up a BBSing
+                   running Mystic under Raspberry Pi. Piff is based in
+                   Knoxville, Tenessee and has his system up now via 
+                   telnet at lastbbs.net
+
+2017-07-26
+Added Node 2/134   Troy's Den BBS (USA) please say hello and welcome to
+                   Scott Miller who is based in Phoenix and has set up his
+                   system that you can reach via telnet at troybbs.com
+
+Added Node 2/133   Ghost Opera BBS (USA) based in Ann Arbor it's a warm
+                   welcome to Lori Holden who is running a Mystic powered BBS
+                   that you can telnet to at bbs.ghostopera.org:10923
+
+2017-07-25
+Updated Node 2/129 Risky Business BBS (CAN) Roger advises the BBS has shifted
+                   telnet ports from 23 to 2323 - the nodelist etc. has been
+                   updated.
+
+Updated Node 1/155 Gerlach BBS (SVK) has changed telnet port to 6789 the node
+                   list and systems.txt have been updated accordingly.
+
+2017-07-07
+Removed Node 2/101 Ohm BBS (USA) Jon advises this system has closed so it'sadly
+                   been removed from the nodelist.
+
+2017-07-05
+Updated Node 1/167 Silent Shard BBS (NZL) Nick advises his Raspberry Pi has
+                   died R.I.P ... and his system is down for now. He's 
+                   working on a replacement set up and hopes to be back in
+                   the near future. For now I have marked his system as 
+                   'Down' in the nodelist.
+
+Added Node 1/198   Tek42 BBS (USA) Joining fsxNet it's a welcome to Michael
+                   Martin who is based in Charleston, WV, USA and is setting
+                   up with a Mystic system running under Windows Server 2016
+                   You can find Michael's BBS at bbs.tek42.net
+
+2017-07-04
+Updated Node 1/126 Twinkle BBS (USA) Pequito returns to fsxNet :) The BBS is
+                   not open as yet but the echomail is again flowing. Nice to
+                   have you back with us good sir!
+
+Added Node 2/132   The Springville Mill BBS (USA) based in Stafford Springs,
+                   CT it's a warm welcome to Matthew Thibodeau who is 
+                   setting up his Mystic BBS running under Windows Server
+                   2012. You can reach the The Springville Mill BBS by
+                   visiting bbs.springvillemill.com
+
+Added Node 2/131   Orbit BBS (USA) welcome to Allen Scofield who is based in 
+                   Opp, Alabama, USA and is running a Mystic BBS system
+                   powered by Ubuntu. The Orbit BBS can be reached at
+                   orbitbbs.ddns.net
+
+
+2017-06-28
+Added Node 2/130   BuckeyeAZ.NET BBS (USA) welcome sysop Dean Galloway who
+                   joins fsxNet from Buckeye, Arizona, USA. Dean is running
+                   a Mystic 32 bit system running on Windows 7.
+                   His BBS can be reached at bbs.buckeyeaz.net:2323
+
+2017-06-27
+Added Node 1/188   ACiD Underworld (USA) is a private system set up by
+                   Hawk Hubbard aka Caphood. This node number almost
+                   wins the award for the most recycled to date. I think!
+
+2017-06-25
+Added Node 2/129   Risky Business BBS (CAN) sysop Roger Oiumette is runnning
+                   his BBS under Mystic Windows 7 32bit and is setting up
+                   at riskybusiness.hopto.org
+                   Roger is based in Sudbury, ON, Canada and it's great to
+                   have him as a member of fsxNet :)
+                   
+Removed Node 1/188 Infolinka BBS (CZE) based in Prague has ceased operation.
+                   So it's being delisted.
+                   
+Updated Node 1/125 Cauldron BBS (AUS) running MagickaBBS is being retired 
+                   for now and Andrew is playing with Nu's Enigma 1/2 BBSing
+                   platform instead. The new BBS is called Exotica and has a
+                   new address exoticabbs.com:8888
+                   The nodelist has been updated accordingly.
+
+2017-06-18
+Added Node 2/128   Hack-Tic BBS (NDL). Welcome to returning sysop Paul Muller
+                   aka Dutchspace. For those of you old enought to remember
+                   (that's most of us right? :)) Dutchspace says "
+                   Hack-Tic BBS was run for a long time as a BBS in the
+                   Netherlands that later grew in to one of Hollands largest
+                   and best internet providers: xs4all" 
+                   You can reach Hack-Tic BBS by telnet at hacktic.xs4all.nl
+
+2017-06-07
+Added Node 2/127   Battlestar BBS (USA) Sysop Mark Iezzi is setting up a
+                   Synchronet BBS running under Windows 7. The address is
+                   battlestarbbs.dyndns.org
+
+Updated Node 1/117 Mystic Dreams (USA) updated records in nodelist to 
+                   reflect the BBS now accepts calls on port 24 not 23.
+
+2017-06-06
+Added Node 2/126   Mastodont BBS (CHL) a big hello and welcome to our first
+                   node based in Chile. Say hi to sysop Patricio Rodriguez
+                   who is based in Puerto Montt and setting up a Mystic BBS
+                   running under Windows XP in a virtual box in Windows 10.
+                   Patricio's system cam be found at mastodontbbs.hopto.org
+                   Welcome to fsxNet :)
+
+Added Node 2/125   FoRTKNoX BBS (NLD) hailing from the Netherlands please
+                   welcome returning sysop George de Vries aka MaDDoG.
+                   MaDDoG is setting up a Mystic system running under a 
+                   Raspberry Pi. I'm told by MaDDoG the new system can be
+                   reached at fortknox.bbs.io:56500 and is a work in progress
+                   Great to have you back in the BBS scene George :-)
+                   
+Added Node 1/197   Titian's Orbit BBS (BRA) this is a new system set up by
+                   Flavio who is using the Guardian BBS code forked from an
+                   earlier version of Mystic by Apam. The telnet address
+                   is titansorbit.ddns.net
+
+fsxNet Nodelist Housekeeping
+
+Over the coming weeks I will be doing some work on the nodelist. I want to 
+ensure it's still current and accurate. Whilst I believe this to be the case
+(for the most part) I am fairly confident we have a few dead nodes that need
+to be marked as 'Down' and the removed if no longer active or responding to
+attempts to contact the sysop. I'll keep you posted on this housekeeping as
+I progress it. Of course if your system is active and polling a HUB then you
+really have nothing to worry about :)  
+                   
+2017-06-02 
+Added Node 1/116   Redwood Shire BBS (USA) hailing from Eureka please make 
+                   welcome John Michko aka Halcyon who is getting back in to
+                   BBS after some years away. Halcyon is still setting up
+                   his BBS. It's running a Mystic system running under
+                   Windows 10. You can reach Telnet to 47.208.62.230:23
+
+2017-05-31
+Updated Node 2/122 Avenger BBS is now running on Telnet port 4444 using a new
+                   domain name. avengerbbs.1337z.org:4444
+
+2017-05-27
+Added Node 2/124   Family Fun BBS (CAN) please welcome Adam Clark to fsxNet
+                   Adam is getting in to BBSing and is in the process of 
+                   setting up a Mystic BBS running under Debian. You can
+                   reach his system at familyfun.isurf.ca:2323
+                   
+Updated Node 1/156 Oxford Mills Remote BBS is now called Central Ontario 
+                   Remote BBS. The BBS is now back up and is no longer 
+                   marked as 'down' in the nodelist.
+
+
+2017-05-23
+Added Node 1/110   AmigaXess (GER) Welcome to returning sysop Ingo 
+                   Juergensmann who is based in Georgsmarienhuette, Germany.
+                   Ingo is working on getting re connected to Fidonet and has
+                   also opted to join fsxNet to discover our online community
+                   too :) He's running AmigaOS / Linux and using MailManager
+                   as his tosser. Great to have you as a member of fsxNet
+                   Ingo :)
+
+2017-05-22
+Updated Node 1/128 The OuijaBoard BBS is now using bbs2.ouijabrd.net as it's
+                   domain name.
+
+2017-05-21
+Added Node 2/123   Flower BBS (GER) Hello to Kate Lily who is setting up her
+                   Mystic BBS system running under Raspberry Pi. Flower BBS
+                   is based in Munich, Germany and will focus on the classic
+                   Psion range of pocket computers such as the Orgainzer I,
+                   II, Series 3 and Series 5. Like all things the BBS is a 
+                   work in progress. You can visit it at bbs.homeip.net
+                   
+2017-05-13
+Added Node 1/111   Another Droid BBS (GRC) It's a warm welcome to Andreas
+                   aka Xqtr who is getting his Mystic powered BBS up and 
+                   running on his RPi Zero running under Raspbian Jessie.
+                   The address for his system is andr01d.zapto.org:9999
+                   
+Added Node 2/122   Avenger BBS (USA) he's back in the BBS scene after a few
+                   years away. Please welcome Jason Pasalis aka Avenger
+                   who is setting up his Mystic BBS system running under
+                   Windows 7. Avenger is based in Santa Cruz, California
+                   The BBS address to telnet to is avengerbbs.kicks-ass.net
+                   
+2017-05-07
+Added Node 2/121   Basement Theory BBS (USA) welcome to Josh Ramsey who is
+                   based in Sciotoville, Ohio USA. Josh is running a 
+                   Synchronet system and his telnet address is
+                   basement.synchro.net
+
+2017-04-30
+Updated Node 1/172 Pattycake Mafia BBS is currently Down. Petar advises he's
+                   having issues with the firm he hosts his BBS on. 
+                   Hopefully he will be up in the coming weeks.
+
+2017-04-29
+Updated Node 1/107 The ByteXchange BBS (USA) is run by sysop Chad Adams who 
+                   was running Cybernet BBS. Chad reports he is now using
+                   this new BBS name and also using a new alais of Nugax
+                   A new domain name has also been added to the nodelist
+                   bbs.thebytexchange.com  Nugax is running Mystic under
+                   Linux OS
+
+2017-04-27
+Added Node 2/120   The Positronium Repository RPi (USA) added an additional
+                   node for Cmech who is running a stand alone Raspberry Pi
+                   system at cmech.dynip.com:2323 as well as his system
+                   on 2/117. 
+
+Added Node 1/188   Infolinka BBS (CZE) based in Prague it's a warm welcome to
+                   Mikolas Pansky who is running a private BBS using Mystic
+                   BBS on a Linux system. 
+
+2017-04-20
+Added Node 2/107   AlsoToo BBS (USA) Welcome to Arron Barragan based in Yuma
+                   AZ, USA. Who joins us running a Mystic BBS system powered
+                   by Windows. You can find Arron's BBS at alsotoo.gleeze.com
+                   Welcome aboard Arron :)
+
+2017-04-10
+Added Node 2/119   Temple of Doom BBS (USA) Welcome to Kris Jones who hails
+                   from Anderson, Indiana, USA. Kris is running a Synchronet
+                   BBS on a Windows XP box. His BBS can be reached at
+                   tod.eothnet.com
+
+2017-04-08
+Removed Node 1/116 Delta City BBS (SWE). Joacim has advised his hardware has
+                   failed and he no longer has the time or energy to fix it.
+                   He's requested to be removed from the nodelist.
+                   
+Removed Node 1/110 Rusty Mailbox (CAN). Alan Ianson has been MIA for many
+                   months now after suddenly disappearing. I'd held his node
+                   number open and maked him 'Down' for a long time in the
+                   hope he may return. He hasn't. While I know he's alive
+                   and well I'm not going to hold a node number open 
+                   indefinitely so sadly 1/110 is no more. I hope Alan 
+                   reappears one day :-|           
+
+2017-04-05
+Added Node 2/118   The Llama Lounge (AUS) Welcome to sysop Tim Casey who is
+                   setting up with a Mystic system running under Ubuntu
+                   his telnet address is llama.getbbs.com 
+
+2017-03-31
+Removed Node 1/188 Exotica BBS has been removed from the nodelist. Andrew
+                   advises he wishes to concentrate on Cauldron BBS 1/125
+                   and the development work he is doing on MagickaBBS :)
+                   
+2017-03-26
+Updated Node 1/125 Name change - now Caludron BBS :)
+
+2017-03-20
+Added Node 2/117 - The Positronium Repository (USA) is the home of 
+                   Wildcat Dialup and Mystic Telnet and is run by sysop
+                   Ben Ritchey. Ben is based in Lafayette, Louisiana USA and
+                   is running his systems using Windows OS. You can connect
+                   to Positronium Repository via cmech.dynip.com
+                   
+Removed Node 2/107 Lostfiles Ideas BBS is no more. James advises his Rpi has
+                   bit the dust and he has asked to be removed fom the
+                   nodelist.
+                   
+Update Node 1/126  Twinkle BBS (USA) has been marked 'Down' for now in the
+                   nodelist. As you may have read Pequito is taking some time
+                   out and has closed his system for now. We hope to see him
+                   return again sooner than later if life circumstances 
+                   permits. Take care of yourself Pequito!
+
+
+2017-03-19
+Added Node 2/116 - Spooky Electric BBS (ITA). We're up to three nodes now 
+                   based in Italy and it's welcome to Alec Scandy aka Osman
+                   who hails from Lecce and is setting up his Mystic BBS
+                   powered by Raspbian. It's early days for Osman but he's
+                   learning a lot and having fun with the setup of his
+                   system. You can reach him via spookyelectric.duckdns.org
+
+                   
+                   
+
+2017-03-13
+Created FSX_BBS -  BBS software development and support. This echoarea also 
+                   hosts fsxNet Wiki (wiki.bbs.geek.nz) discussions and
+                   support.
+                   
+                   With the creation of the fsxNet Wiki it seems appropriate
+                   to have a public space to discuss ideas for possible new 
+                   Wiki content, edits to current content, editor requests, 
+                   questions about what is on the Wiki etc. My hope is that
+                   as the content on the Wiki grows, this echo area will
+                   support that growth as a place for discussions about it.
+                    
+                   A reminder that there was an orignal FSX_BBS created
+                   as a file echo. It was changed to FSX_SOFT on 2016-09-10 
+                   as part of a renaming convention to decern between message
+                   base echoarea tags and file base tags file area tags are
+                   always four characters long where as message tags are
+                   three. e.g. FSX_BBS vs FSX_SOFT
+
+                   Who said you didn't learn anything when you read these
+                   updates :) .. and no lamas were harmed in the making of
+                   this documentary.
+
+Added Node 2/115 - Mystic Rhythms BBS (USA) From the home of SF Net in the
+                   1990's and the Golden Gate Bridge I'd like welcome
+                   Rob Cole aka Rushfan to the network. Rob is a talented
+                   chap who's been hard at work at extending WWIV for some
+                   time now. Mystic Rhythms is powered by WWIV and can be
+                   found at mystic.wwivbbs.org - welcome Rushfan :)
+
+Added Node 2/113 - PHATstar RetroBOX BBS (CAN) Welcome to new sysop Matthew
+                   Smith aka WarmFuzzy who is based in Ontario, Canada.
+                   WarmFuzzy is using a Mystic BBS. He's only running SSH
+                   via TOR and I think it's a closed system.
+                   His address is echo.phatstar.org and the website is
+                   phatstar.org 
+                   
+                   This was the first application for fsxNet that I have 
+                   received via a Usenet Newsgroup (alt.bbs)
+                   
+
+2017-03-11
+Added Node 2/114  - SciFi Hangout BBS (GBR) Welcome to Bruno Antunes aka
+                    Sardaukar who is discovering BBS for the first time and
+                    playing with Mystic BBS to do so. Sardaukar is a coder
+                    interested in fido technology networks and keen to learning
+                    more about such things. His BBS is just getting set up
+                    the system address is rift.duckdns.org:2023 and it's
+                    running on a RPi.
+                    
+2017-03-08
+Updated Node 1/151 - Solar BBS (USA) has been marked 'Down' in the nodelist 
+                     and is offline for now. SolarBaby advises this is 
+                     intended to be a temporary thing.
+                     
+2017-03-07
+Created fsxNet Wiki The goal of the fsxNet Wiki is to support the development
+                    of Bulletin Board Systems (BBS). It does so by hosting
+                    useful resources and information for both BBS developers
+                    and users alike.
+
+                    It's hoped the Wiki will become a useful resource for
+                    all people interested in the BBS scene, and offer helpful
+                    information and links that will assist them with any
+                    questions they might have.                      
+
+                    The Wiki can be found at wiki.bbs.geek.nz                    
+
+2017-02-26
+Removed Node 2/102 - Phoenyx Rising BBS (USA) - Allen has had problems with
+                    his system. We'll allocate a new node number for him if
+                    he sorts things and out returns to the network.
+
+Added Node 2/102 - Cartel BBS (USA) from the home of gigabit speed broadband
+                   it's welcome to Wes Keene who's based in Chattanooga, TN,
+                   USA. Wes aka Distorted is setting up a Mystic system 
+                   running on Linux (Ubuntu 64-bit) You can catch his BBSing
+                   via telnet at cartelbbs.keene.co
+                   
+Added Node 1/188 - Exotica BBS (AUS) Apam has set up an Enigma 1/2 BBS 
+                   he's testing stuff with Nu and requested a full node number
+                   it's available on andrew.homeunix.org:2023
+
+
+2017-02-17
+Added Node 2/112 - The Hub BBS (USA) Joining fsxNet and based in Watauga, TX 
+                   USA it's a warm welcome to David DeWell aka Modchaos.
+                   Modchaos is also running Mystic BBS under AMI Linux
+                   as his OS of choice. Stop by and say hello at his new
+                   system - bbs.bbshub.net
+
+
+Added Node 2/111 - Leisure Time BBS (USA) Welcome to Robert Riddell who
+                   joins fsxNet based in New Baden, IL, USA. Robert is
+                   running a Mystic BBS system powered by Ubuntu 16.04 LTS
+                   and can be reached via bbs.riddells.net:10023
+
+
+2017-02-14
+Added Node 2/110 - iNK tWO BBS (USA) Welcome to Lawrence Manuel aka Smooth
+                   who joins us from Covina, CA, USA. Ink Two BBS is running
+                   Mystic BBS on a Windows 10 32bit system. You'll find 
+                   the BBS online at bbs.inktwo.com or on the web at
+                   www.inktwo.com 
+
+2017-02-06
+Added Node 2/102 - Phoenyx Rising BBS (USA) Welcome to Allen Snodgrass who
+                   joins us from Tallahassee in FL, USA. Allen is running a
+                   64 bit Mystic system on Windows 10 x64. Welcome to the 
+                   network Allen it's lovely to have you as part of our
+                   community :)
+
+2017-02-04
+Added Node 2/109  - ENCOM BBS (USA) - welcome to new sysop Ron Lackey aka
+                    Flynn. Flynn is based in Hunstville, Alabama USA and is
+                    using a windows Mystic system running on VMware hosting
+                    Windows 7. Welcome to fsxNet Flynn. Watch out for 
+                    Master Control!
+
+Removed Node 2/102 - Laser BBS (GBR) - Tony has advised he is closing his
+                     two BBS down. All the best Tony!
+Removed Node 1/188 - Friends BBS (GBR) 
+
+
+2017-01-28
+Updated Node 1/123 - The Void BBS (USA) was marked as 'Down' but Mitch aka
+                     Terra-X is back - yay! So the node is now active
+                     again. Welcome back to the BBS scene Terra-X :)
+
+Updated Node 1/186 - Castle Rock BBS (USA) is now using castlerockbbs.com
+                     as it's system address for telnet/binkp connects.
+
+Added Node 2/108 - UnderZaNet BBS (GBR) A warm welcome to Jan Henkins aka
+                   Dotslash. Dotslash is based in Warlingham, England and at
+                   one stage used to run a BBS based on Citadel. Dotslash is
+                   happy to repurpose an old PRi gathering dust in to a new
+                   BBS powered by Mystic and is having fun discovering 
+                   BBSing in 2017. Welcome back!
+
+2017-01-16
+Added Node 2/107 - Lostfiles Ideas BBS (USA) Welcome to James Fish to fsxNet
+                   James is based in Plymouth, MA, USA and is running a 
+                   Mystic BBS powered by Debian. His BBS address is
+                   lostfilesideas.ddns.net:6400  Great to have you as a 
+                   member of the network James :)
+
+2017-01-09
+Added Node 2/106 - Back To The Roots BBS (CHE) It's a warm welcome to our
+                   first node that's checking in from Geneva, Switzerland.
+                   Fabian Lucchi is going back to his BBS roots and setting
+                   up a Mystic system running under MacOS. Welcome to the
+                   network Fabian! I hope you have a lot of fun with your
+                   BBS adventures :) To connect to Fabian's system head to
+                   backtotheroots.it-awareness.ch:2332
+
+
+2017-01-08
+Added Node 2/105 - Another F-ing BBS (USA). Welcome to sysop Gary Crunk who
+                   hails from Maricopa, Arizona USA. Gary is running a Mystic
+                   BBS using Ubuntu MATE on a Raspberry Pi 3. The address to
+                   reach his system is anotherbbs.bbsindex.com
+
+
+2017-01-07
+Added Node 2/104 - Gryphus BBS (AUS). Welcome to returning sysop Stephen
+                   Arnold. Many years ago he run a BBS using Maximus software
+                   called Phoenix. Now he's back after an extended vacation 
+                   running Mystic on a Raspberry Pi :)
+                   Telnet to gryphus.homelinux.org:5632
+
+Comment -          These lines contains no useful information at all but I 
+                   figured I would just write something 'just because'. Still
+                   feeling guttered they killed off Han Solo. My wife says
+                   "move on Paul" :) Perhaps this is a way of working through
+                   the grief! Ha! 
+                   
+                   Kids keep saying to me "Dad, what's 9+10?" Then they say 
+                   "21" ... and I say, "no it's 19" and they laugh :) I think
+                   I will always correct them (insert OCD applause here :))
+                   and they know I will always be be an easy target for them
+                   when they trott out that maths question - sigh :)                   
+
+2017-01-06
+Added Node 2/103 - Resistance Pride BBS (USA). Welcome to returning sysop
+                   Kevin Sonney aka The Alchemist who is based in Pittsboro
+                   NC, USA. Kevin is setting up a Linux powered Mystic BBSing
+                   and is back on the BBSing scene after first being active 
+                   in the 1990's. Welcome back Kevin and welcome to fsxNet :)
+                   Telent to resistancepride.sytes.net
+
+2017-01-01
+## Happy New Year - Best wishes for 2017 and your BBSing adventures ahead ##
+
+Created - NET 2 -  The start of a creating new access points for fsxNet
+                   traffic. New nodes to the network will be added to NET 2
+                   which is now served by a new HUB at 21:2/100
+                  
+Created - HUB 2 -  The Tholian HUB has been established at 21:2/100.
+                   This new HUB will serve nodes in NET 2. Big thanks to 
+                   Solaris at Error 404 for establishing this new Mystic
+                   powered system :)  The HUB can be found at
+                   error404bbs.ddns.net:24555
+
+Updated - fsxNet Nodelist 
+
+I've made some changes to the nodelist that reflect the addition of the new
+NET and HUB. Instead of creating new 'Regions' I have opted to stick with one
+for now (Region 21 - was Region 1).
+
+I have also revised things and now assigned 'Host' notation to the what are
+now NET 1 and 2. They fly the 21:1/0 and 21:2/0 AKA's held by each net
+coordinator. HUB addresseing remains as 21:xx/100 and HUBs send/recieve 
+all traffic with CRASH priority between them as echomail etc. is generated
+around fsxNet. So HUBs fly at /0 and /100 AKA's for their respective NETs.
+
+Also changed is the flag notation used against each node in the nodelist.
+I have tried to ensure flags used are current and comply with the Fidonet
+Technical Standards Committee document FTSC-5001. Copies of this document
+are available from http://www.ftsc.org/docs/ if you are interested :)
+
+Further, the epiloge in the nodelist has been paired right back to remove the
+unwanted and/or non-relevant nodelist flags. A brief nod to the URL mentioned
+above remains for interested sysops etc. if they want more info.
+
+Updated - HISTORY.TXT - notation tweaks.
+
+I am working to keep this document as easy to read as I can and due to the
+new NET (and more to come) I have made minor changes to layout and notation
+of this file and will do so in the future. You'll see this in new nodes
+being added, removed etc.
+                   
+Added Node 2/102 - Laser BBS (UK). Tony Comandini has established a second
+                   system. This one is runing BBBS under Debian 8. The address
+                   is bbs.laserbbs.co.uk:2424
+          
+Added Node 2/101 - Ohm BBS (USA). Jon Justvig has opted to set up a Mystic
+                   BBS using Linux on a Virtual Box. His system is the first
+                   to use the new 2/100 HUB. Jon is operating his new system
+                   using the same domain name but on Telnet port 2324.
+
+2016-12-13
+Added - Node 196 - Dragon's Lair BBS (AUS) This is a Mystic BBS powered
+                   system also run by Stephen. The BBS is based in 
+                   Ballarat, Victoria. Dragon's Lair runs on Linux Centos
+                   6.x  Welcome to fsxNet Stephen it's great to have you as
+                   a member.
+
+
+Added - Node 195 - Dragon's Claw HUB (AUS) Greetings to Stephen Walsh 
+                   who joins fsxNet running a couple of systems. Node 195
+                   is a HUB system he operates out of Melbourne, Victoria.
+                   running MBSE it in turn feeds node 196 - his BBS.                 
+
+
+Added - Node 194 - Johnny Five BBS (NZL). It's really nice to see another
+                   New Zealand based BBS appear on the scene. Hello to 
+                   sysop Jonathan Mundy who is based in Auckland and is 
+                   running a Mystic system under windows.
+                   His telnet address is catsbbs.hopto.org:2323 or you can
+                   head to http://catsbbs.yolasite.com/ Welcome Jonathan :)
+
+                   
+Added - Node 193 - Lunatic Fringe BBS (USA). Welcome to Chad Sharp aka
+                   Dribble. Dribble is based in Vancouver, Wa, USA and is
+                   running a Mystic BBS system under Windows 7 32bit.
+                   Check out his system by visiting fringe.darktech.org
+                   Welcome aboard Dribble!
+
+Updated - Node 140 - Daves BBS (USA) is now using davesbbs.com as his telnet
+                     address.
+
+
+2016-12-12
+Added - Node 140 - Daves BBS (USA). From Marbury, Alabama, USA we welcome 
+                   returning sysop Dave Smith - Hi Dave :) Dave is setting up
+                   a Raspberry Pi powered Mystic BBS and enjoying learning
+                   about the joys of retro computing meets 2016 tech :)
+                   His system can be reached at bbs.bamageekproductions.com
+                   
+                   
+Updated - Node 190 - Amoeba BBS has moved to telnet port 24 the revised
+                     address is amoeba.ohbah.com:24                   
+
+2016-12-11
+Added - Node 138 - Electronic Warefare BBS (USA). It's a warm welcome to 
+                   Nicholas Loch aka Fat Rastus who joins us from Vincennes,
+                   IN, USA. Fat Rastus is running a Synchronet based system 
+                   and is an avid (can I say that? :)) door game player.
+                   Check out the BBS at bbs.ewbbs.net or visit the website
+                   at http://ewbbs.net - Welcome to fsxNet Nicholas :)
+
+Updated - Node 149 - Redmud Castle BBS (USA) is now running on Telnet port
+                     1123                   
+                   
+2016-12-08
+Removed - Node 5 - Opted to delist this system as it will only ever talk with
+                   /10 and does not need it's own node listing.
+                   
+Updated - Node 10 - Now referred to as the Usenet Gateway. Allows fsxNet
+                    nodes that want access to a bi-directional FTN<>NNTP
+                    gateway for offering Usenet newsgroups on their BBS.
+                    
+                    I know it's word semantics but I think it's better to
+                    get the naming correct for the future. I want to avoid
+                    confusion when using words like HUBs etc.
+2016-12-07
+Added - Node 10  - fsxNet Usenet HUB has been established to service fsxNet
+                   nodes that wish to access a bi-directional FTN<>NNTP
+                   gateway for offering Usenet newsgroups. It's prede
+                   
+Added - Node 5   - fsxNet Usenet Gateway. This is a private node with a sole
+                   function of handling FTN<>NNTP between news.bbs.geek.nz
+                   and 21:1/10                    
+
+Removed - Node 140 Underland BBS (AUS) Apam has ceased using this system
+                   and is opting to focus his efforts on his MagickaBBS
+                   system at 21:1/125
+                   
+Removed - Region 2 - Usenet
+Removed - Node 100 - Usenet HUB
+Removed - Node 101 - Agency BBS
+
+I was experimenting with using region 2 as a means to distribute Usenet
+newsgroups to nodes that want a bi-directional FTN<>NNTP gateway.
+Using 21:2/xxx addresses have now been retired in favour of using 
+21:1/xxx addresses. It makes it easier for all at present to run things
+this way.
+
+
+2016-12-06
+Added - Node 192 - A 90's Manila BBS (SGP) Welcome to sysop Michael Balcos
+                   who joins us from Singapore! He's actually planning on
+                   moving to Metro Manila, the Philippines next year and is
+                   setting up a Mystic BBS running under Debian
+                   8.0 Jessie for ARM (He's using an OLinuXino A10 Lime).
+                   Welcome Michael - it's great to have you with us :) 
+                 
+
+2016-12-03
+Added - Node 191 - Slasho.me BBS (USA) Welcome to Christopher Hall from
+                   Pikeville, KY, USA. He's running a Mystic system under
+                   Linux and is getting set up as I type. The telnet
+                   address for Slasho.me BBS is simply slasho.me  :)
+
+2016-11-29
+Added - Node 190 - Amoeba BBS (USA) it's a warm welcome to sysop Mike Dee
+                   who hails from Phoneix, AZ, USA. Mike is new to BBSing
+                   but is enjoying learning about our cool hobby and is in
+                   the process of getting setup. He's running a Mystic BBS
+                   under Windows XP. Head to amoeba.ohbah.com to say hi :)
+
+
+Added - Node 111 - The ByteXchange BBS (USA). Sysop Chad Adams has setup
+                   a Synchronet BBS running under Windows XP and node /111
+                   has been reassigned to this system. The telnet address is
+                   bbs.thebytexchange.com while you can check out the
+                   web interface by heading to www.thebytexchange.com:81
+
+2016-11-24
+Added - Node 189 - KernelError Networks BBS (USA) Welcome to Josepth Werle
+                   who joins us from Belleville, IL, USA. Joseph is running
+                   a Mystic BBS under Linux Centos 7.2 and is in the 
+                   process of getting set up. His telnet address is
+                   bbs.kernelerror.com
+                   
+Updated - Node 125 - Changed BBS name to Serpent's Shrine BBS at the request
+                   of Apam :)                  
+
+2016-11-22
+Added - Node 188 - Friends BBS (UK). Hello to Tony Comandini who is our
+                   second system based in London, England. He's setting up 
+                   with a Linux powered Mystic BBS system running under 
+                   Debian 8. Great to have you as part of fsxNet Tony :)
+                   
+Updated - Node 122 - Necronomicon BBS has a new telnet address and port
+                     nbbs.darktech.org:27 - the nodelist has been updated
+                     along with the SYSTEMS.TXT file.
+                   
+Updated - Node 125 - Voodoo_BBS has a new telnet address and port
+                     andrew.homeunix.org:2024 also the BinkP mailer
+                     for this BBS is on port 24556 - the nodelist has been
+                     updated along with the SYSTEMS.TXT file.     
+
+2016-11-21
+Added - Node 187 - Cosmik Debris BBS (USA) Joining fsxNet from Little Falls
+                   NY, USA we're welcoming Andrew Pepper :) Andrew is a 
+                   returning sysop from the early 90's (like a lot of us!)
+                   and has fired up his Rasperry Pi with a Mystic BBS
+                   You can find his system via at cosmikdebris.ddns.net:2323
+                   
+Updated - FSXNET.TXT now contains a new section in the application form for
+new members to provide their static ipv4 and/or ipv6 addresses (if they
+have one) when signing up. This will allow their nodes to be whitelisted
+at the fsxNet HUB and avoid any auto-banning that can take place from time
+to time as frequent polling (4-5 times in 120 secs) of the HUB may cause.
+
+2016-11-17
+Added - Node 186 - Castle Rock BBS (USA) Hello to Dan Richter (Black Panther)
+                   who is based in Rio Rancho, NM, USA. Dan is running a
+                   Synchronet system and reports he's also using a mix of
+                   Internet Rex and BinkP daemon in his set-up. You can visit
+                   Dan's set up at castlero.synchro.net  Great to have you
+                   with us Dan :)
+
+Added - Node 185 - Lightning BBS (USA) .. Kiora (that's Maori for hello) to 
+                   Steve Helferich from Pleasant Grove, UT, USA. Steve is a
+                   "a long time Sysop switching to Mystic" and he's run a 
+                   number of systems including TriBBS, Wildcat 4, VBBS/VADV
+                   and Wildcat 5 in the past. Welcome Steve. You can check
+                   his system out at lightningbbs.com:2400
+
+2016-11-14
+Added - Node 184 - Echo Base BBS (USA) He's back after three years lost in 
+                   the digital wilderness - welcome to Jeff Jun. Jeff is 
+                   using a Mystic system running under Windows 7 32 bit
+                   and is in the process of getting set up. You can find his
+                   system at telnet.echo-base-bbs.com
+
+2016-11-09
+Added - Node 183 - Night Owl BBS (USA). Checking in from Capitola, California
+                   we welcome to the NET Jon Bennett who is setting up his
+                   Mystic system using a Win7 platform. It's a case of 
+                   returning to BBS again afer a few years for Jon and we're
+                   glad to see him back :) Look for his system at
+                   nightowlbbs.ddns.net
+
+
+Added - Node 182 - The Colossus (USA). Welcome to Jordan McGilvray based in
+                   Provo, Utah who is running a Mystic system under Arch 
+                   Linux. You can telnet to bbs.excalibursheath.com or check
+                   his website at http://www.excalibursheath.com Great to 
+                   have you with us Jordan :)
+
+2016-11-04
+Added - Node 181 - Ninho do Abutre 2 BBS (BRA) It's a warm welcome to another
+                   BBS based in Brazil (Rio de Janeiro). Welcome to sysop
+                   Mauro Veiga who is running a Synchronet system under a 
+                   Windows XP VM system. The address is abutre.no-ip.org:2323
+                   or visit the website abutre.no-ip.org:8080
+                   Nice to have you with us Mauro!
+
+2016-11-01
+Added - Node 180 - Logon BBS (GER) Welcome to Oliver Bachmann who is in the
+                   process of setting up his BBS. He's based in Karlsruhe,
+                   Germany and is learning about BBS and how to set one up.
+                   Look for some posts from him when he gets his system
+                   configured. I think the plan is to try setting up Mystic
+                   BBS. I've listed him as a private node for now until he
+                   has a BinkP server up and running.
+
+Removed - Node 111 - Mutiny BBS (NZL) Sadly James has had to pull the plug
+                   on his BBS for now due to personal reasons. Perhaps 
+                   sometime in the future he may return. Goodbye James
+                   thanks for being part of the NET. :(
+                   
+2016-10-30
+Added - Node 179 - Cryptogenic Radix BBS (NZL) - This is a Raspberry Pi
+                   system Avon is using for Mystic BBS testing. 
+
+2016-10-27
+Added - Node 178 - Internal Dimension BBS (CAN). From Ontario, Canada it's a
+                   warm welcome to Dave Vandermeer aka Night Stalker. 
+                   Dave has set up with a Mystic system running
+                   on the ever so popular Raspberry Pi. Great to have you
+                   part of the NET Night Stalker :) Nice to see another
+                   system setting up in Canada.
+                   
+Update - Node 110 - The Rusty Mailbox (CAN) has been marked 'Down' for now
+                    in the nodellist. It's been some weeks since we have
+                    heard from Al and to be honest I (Avon) worry if he's
+                    OK / what has happened? He's also MIA on Othernets too.
+
+2016-10-26
+Update - Node 102 - Error 404 BBS (USA) has moved to Telnet port 404
+                    (was using port 23)
+
+Update - Node 161 - The Search BBS (USA) has moved to Telnet port 34123
+                    (was using port 23)
+                    
+2016-10-22
+Added - Node 177 - Dali's Cat BBS (USA) Welcome to Ismar Hasanbegovic aka
+                   Lobo. Based in Chicago Dali's Cat is running on a 
+                   Windows 10 system using Synchronet BBS. You can telnet
+                   in via daliscat.synchro.net or check the website at
+                   spitoufs.com - welcome Lobo :)
+                   
+Added - Node 998 - Reserved for a Raspberry Pi demo system Avon is creating.
+
+2016-10-18
+Added - Node 176 - Radio Freqs and Geeks BBS (USA) is the BBS of returning
+                   sysop Rich Lawerence aka MobbyG. Welcome back to the
+                   BBS scene Rich and great to have you as part of fsxNet :)
+                   Rich is setting up using Mystic BBS running under Ubuntu
+                   He's based in East Greenbush, NY, USA.
+
+2016-10-15
+Update - Node 162 - Razors Domain BBS (USA) updated telnet port to use
+                    port 31415
+
+2016-10-10
+Update - Node 123 - The Void BBS (USA) is down for a week or so due to 
+                    hardware failure. Terra-X will return :)
+
+Added - Node 175 - Capitol City Online (USA) It's a warm welcome to 
+                   another Mike :) This time we're saying Hi to Mike Powell
+                   based in Frankfort, KY, USA. Mike is running GT Power
+                   as his BBS software of choice. Welcome to fsxNet Mike :)
+
+2016-10-09
+Added - Node 174 - The Zone BBS (USA) Welcome to returning sysop Mike
+                   Warnock aka Zarnock. Mike is based in Lorain, Ohio
+                   and is setting up a Mystic BBS system running under
+                   Windows 10 32bit. His system address is zonebbs.net
+                   if you want to telnet in. There is currently no website.
+                   Welcome back Mike, nice to have you as a member of
+                   fsxNet :)
+                   
+Added - Node 173 - Added Sinclair Retro BBS (ITA) to the Usenet HUB
+                   as 21:2/173 and now feeding a variety of retro computing
+                   newsgroups to Outsoft.
+
+Removed - GOODIP.TXT - I can see how this is going to get out of date quite
+                    quickly for systems that are using a dynamic IP address.
+                    I think for now I am going to remove the list from the
+                    infopack. I think it's a good idea but I need to think 
+                    through how to best implement it in a way that ensures 
+                    it's current. I just don't have the time to maintain it
+                    manually.                    
+
+
+2016-10-03
+Added - Node 173 -  Sinclair Retro BBS (ITA) Welcome to Simone_Voltolini
+                    aka Outsoft to the NET. Great to see another BBS based
+                    in Italy joining. Avon is helping to get him set up :)
+
+Changed - Node 149 - Redmud Castle BBS (USA) Updated Binkp and Telnet ports
+                     for this BBS.
+
+Changed - Node 138 - The Cell Block BBS (CAN) Blair has advised his system is
+                     down for now. I have marked him as Down in the nodelist.
+                   
+                     
+2016-09-30
+Created - GOODIP.TXT - this is a file that contains a list of known IP
+addresses built from a recent fsxNet nodelist. It was created by sysop
+Brian Wallace (bcw142) of Mystic Pi BBS. This list is subject to change
+as the nodelist is updated etc. Your milage may vary. The list may / may not
+stay in the infopack forever but let's see how we go ;)
+
+Changed - NEWS.TXT - this is a news file that carrys info about
+changes to fsxNet. It is used by the fsxnet MPL script written by Xqtr.
+The contents of this file are displayed to users who login to a member BBS
+that run the script. The NEWS.TXT file is updated most weeks before the 
+latest fsxNet infopack is hatched out.
+
+
+2016-09-27
+Changed - Node 149 - Changed name of Redmud System BBS to Redmud Castle BBS
+                     in the nodelist at the request of the sysop (David)
+
+2016-09-21
+Added - Node 172 -  Pattycake Mafia BBS (USA). 20 years ago Petar Smilajkov
+                    ran an Elle/Ra VVS but now in 2016 he's back with a 
+                    Mystic system running under Ubuntu 14.04 64bit and 
+                    having fun. Welcome Petar it's great to have you in 
+                    the bbs scene again. You can reach his system via
+                    bbs.pattycakemafia.com:2023
+
+2016-09-19
+Added - Node 171 -  Phaseshift BBS (CAN). Checking in to fsxNet from 
+                    Vancouver in BC Canada it's a warm welcome to 
+                    Kevin Pausche aka Grud :) Kevin is new to Mystic
+                    and is setting up a system running under a Raspberry Pi.
+
+2016-09-18
+Added - Node 170 -  Weather Station BBS (USA). This is an additional node 
+                    for Mark Hofmann who is running a Mystic BBS as well
+                    as his HUB and WWIV systems.
+
+Added - Node 169 -  Sinners Haven BBS (USA). Weclome to Karl Kunc from
+                    Dothan, Alabama in the USA. Karl is running a Mystic
+                    BBS system under Windows. His BBS telnet address is
+                    bbs.sinnershaven.com 
+
+2016-09-11
+Changed - Node 129 - SpaceSST BBS (CAN) Luc has advised he is back up
+                     His node is no longer marked as 'Down' and he'sadly
+                     again connected to fsxNet. Welcome back :)
+
+2016-09-10
+Renamed - FSX_ART to FSX_ARTS - ANSI Art - Groups, Individuals etc.
+Renamed - FSX_BBS to FSX_SOFT - BBS Software (Current + Legacy)
+
+Two of the file bases have been renamed to accomodate a new standardised 
+naming convention I am applying to fsxNet.
+
+All message echoareas will use a FSX_XXX convention while all file bases
+carried by the NET will use a FSX_XXXX style of tag.
+
+The thinking here is to make it simple to spot a file base tag from a
+echoarea/ message base tags. I also wanted to pull some current FSX_XXX
+tags off their currently assigned file bases should we end up using them
+for echoareas in the future.
+
+So - if you are carrying one (or both) of the following file areas can you
+please ammend the EchoTag for each in your BBS setup as follows.
+
+FSX_ART to FSX_ARTS 
+FSX_BBS to FSX_SOFT
+
+No files will be hatched to these areas until Saturday 17 September (NZST)
+this gives folks a week (at minimum) to update their tags / settings. 
+
+
+Created - FSX_CRY - Cryptographic discussion and experimentation.
+                    Public key sharing, encoded messages, testing etc.
+                    is welcome here. 
+
+An area of interest for some members of the NET. This is a place to
+further this type of discussion and experimentation. 
+
+Created - NEWS.TXT - this is a news file that will carry info about
+changes to fsxNet and is intended for future use as part of another
+project that's underway. Details to come when there is more to share.                   
+
+2016-09-08
+Updated - Node 159 - Change of DNS record to bbs.digitalgatehouse.com
+
+
+2016-09-06
+Added - Node 168 - The Egregore BBS (USA). A big hello and welcome to another
+                   sysop setting up with Mystic and using Ubuntu Linux.
+                   Luke Galutia (Betzelel) is based in Oklhoma City in the
+                   USA. He is just working out how to configure his system
+                   and get hooked up to this NET. Please make him welcome and
+                   dazzle him also with your BBS helpfulness :)
+
+2016-09-05
+Added - Node 167 - SilentShard BBS (NZL) Welcome to returning New Zealand
+                   SysOp Nick Trevena (ThatGuy). Nick is setting up a
+                   Mystic BBS under Ubuntu Linux and is going to show his son
+                   how cool this retro hobby can be :) Welcome back to the
+                   BBS scene Nick :)
+                   
+2016-09-04
+Two new echoarea have been added to fsxNet. All nodes have been connected to
+them by default but feel free to delink if you don't want this traffic.
+The infopack has been updated with new echoarea details.
+
+Created - FSX_MYS - Mystic BBS discussions, support and development.
+         
+Created - FSX_BOT - The first choice for non-human roBOT output. 
+              May contain BBS and NET ads, stats reports, telemetry reports,
+              traces of nuts etc. Set your BOT free in this area :)
+
+2016-09-02
+Removed - FSX_NETS - BBS Networks, Infopacks, Nodelists file base.
+Renamed - FSX_NODE - Weekly Nodelists (fsxNet, etc.)
+Renamed - FSX_INFO - Weekly Infopacks (fsxNet, etc.)
+
+I am starting to cut down and rationalise some of the file areas on the NET.
+Contents posted to this area will be migrated to FSX_INFO and FSX_NODE so that
+both of those file bases carry not just fsxNet infopacks and nodelists but
+also the equivalent files for other NETs. I figure this is a smarter way to
+use the file bases. And I really want to support other NETs.
+ 
+The added upside of this is that if you are using Mystic to import nodelists
+for a [MergeNodelists] MUTIL activity then you can start to point all of your
+nodefile=\path\to\nodelist statements to the same file base :)
+
+Update - Usenet Newsgroups
+
+I'm experimenting with using net 2 as a means to distribute Usenet
+newsgroups to nodes that want a bi-directional FTN<>NNTP gateway.
+Using 21:2/xxx addresses may be the way to do this. Have addded some new
+nodes to help with testing that will start soon. Still a work in progress.
+
+Added - Node 110 - Rusty Mailbox BBS
+Added - Node 122 - Necronomicon BBS
+Added - Node 165 - Miskatonic BBS
+
+
+Added - Node - 166 - Datanet BBS (AUS) Welcome from Melbourne, Australia to
+                     Steve Ellis aka rEApz :) rEApZ is running a Mystic BBS
+                     under Debian Linux and is returning to the BBS scene.
+                     He was last active in the 90's and is now mucking around
+                     (his words) with echomail etc. and having fun.
+                     Welcome rEApZ, nice to have you in the NET + bolstering
+                     the Australian membership. I think the Aussies have 
+                     caught up with the Kiwis now :)
+                     
+Changed - Node 129 - SpaceSST BBS (CAN) Luc has advised he has major hardware
+                     problems and has no time at present to rebuild his system
+                     nor will not invest money in hardware to fix it.
+                     So I have marked his system as DOWN for now and made his
+                     node inactive. Let's see if he returns or not?
+                     
+2016-08-24
+Revised - file_id.diz
+
+I am having some issues processing infopack hatching when I include the
+ASCII artwork kindly donated by RiPuk. Until I nail down the niggles I've 
+reverted to the older file_id.diz for ASCII but have included the .ans
+version also should systems choose to use it.
+
+Added - Node 165 - Miskatonic BBS (ITA). As I write this Italy has just been
+                   hit by a magnitude 6.2 earthquake. I was deeply worried for
+                   our newest member - Antonio Capone who is the first from 
+                   that amazing country to join the NET. I'm glad to report
+                   he's OK. Phew. Antonio is based in Grosseto and using a 
+                   Mystic BBS system on a Raspberry Pi. He's very keen on 
+                   retro stuff and we're very happy to have him as part of the
+                   community - welcome :)
+
+2016-08-21
+Added - Node 164 - Beyond Systems BBS (SWE). Based in Gavle we welcome
+                   Mattias Larsson to fsxNet :) Mattias is running a Mystic
+                   BBS powered by Ubuntu 16.04 LTS and is the third node to
+                   join that is based in Sweden.
+
+Added - Node 163 - Dreamland BBS (USA) from North Hollywood it's a warm 
+                   welcome to Tony Master aka Dream Master. DM runs DoreNet
+                   and is a Mystic BBS user from way back. He's also a MPL
+                   programmer who has created a number of cool mods etc.
+                   Welcome DM, nice to have you with us - watch out for 
+                   the mod requests coming your way :)
+                   
+Changed - Node 140 - HappyLand BBS is no more, replaced by Underland BBS 
+                     Andrew sadly had a HDD crash and lost his system so
+                     this is a new replacement BBS using the same node
+                     number.
+
+2016-08-20 
+Updated - file_id.diz
+
+The fsxnet.zip infopack has been updated to include new ANSI and ASCII
+artwork for the file_id.diz description file that ships inside the pack.
+The artwork has been kindly donated by RiPuk of force9 BBS in London and 
+slightly modfifed by Avon since. Thanks RiPuk for the artwork :)           
+
+2016-08-14
+Added - Node 162 - Razor's Domain BBS (USA) - He's back.. Hi and welcome to
+                   Kevin Nunn who ran many versions of his BBS back in the 
+                   90's. Now time poor (like us all ) he's giving Mystic a
+                   crack to avoid messing with Allfix  + FastEcho + BinkD etc
+                   Welcome back Kevin - feel free to ask lots of questions :)                   
+
+
+Added - Node 161 - The Search BBS (USA) - Hello and welcome to Karl Harris
+                   who joins the NET with a Mystic system set up and running
+                   using a Raspberry Pi. Have fun Karl and thanks for taking
+                   the time to join fsxNet :)
+
+2016-08-13
+Added - Node 160 - SLiME CiTY BBS (SWE)- Welcome to David Jacoby aka m00p
+                   who is running a Mystic system under Windows. David is
+                   based in Ahus in Sweden. Great to have you with us
+                   m00p :)
+                   
+Added - Node 159 - The GateHouse BBS (CAN) - Welcome to John Riley who is 
+                   setting up a Mystic system using a Raspberry Pi and is
+                   based in Ontario, Canada. Great to have you as part of
+                   the NET John - welcome :)
+
+2016-08-11
+Added - Node 158 - Starlight BBS (NLD) - Welcome to Lars van Dijk who is
+                   setting up a Mystic system running under Linux.
+
+2016-08-10
+Added - Node 157 - Shadowscope BBS (USA) - Welcome to Richard Miles from
+                   Temple, Georgia, USA. Running a Mystic system and just
+                   getting set up in a move from Synchronet. 
+                   
+Created - systems.txt
+
+This is a BBS list that was the brainchild of Solaris of Error404 BBS. It's
+curated by him and updated as time permits. It lists systems that carry fsxNet
+and is based on recent nodelists. You will find this file in the infopack.
+Thanks Solaris                    
+
+2016-08-09
+Added - Node 156 - Oxford Mills Remote BBS (CAN) - A warm welcome to
+                   Mike/Mick Manning who joins fsxNet from Campbellford
+                   in Canada. That's six members based in Canada now.
+                   
+Created - FSX_NETS - BBS Networks, Infopacks, Nodelists
+                     This file base is to support other BBS Networks and
+                     aims to carry their latest infomation packs etc.
+                    
+                     I wonder who will spot this change first? :)
+
+2016-08-07
+Removed - FSX_MYS - The Mystic BBS discussions and support echo area has been
+                    retired for now as the author (g00r00) has announced he
+                    is taking a break for several months. Rather than have an
+                    echoarea with lower levels of traffic we have migrated
+                    all posts back in to the FSX_GEN echoarea for now.
+
+Added - Node 155 - Gerlach BBS (SVK) - Welcome to Dominik Madarasz who is
+                   based in Zvolen, Slovakia. It's great to have you as as a
+                   member of fsxNet :)
+
+
+Added - Node 154 - Stepping Stone BBS (USA) - Greetings to Jon Justvig
+                   of Wichita, KS. it's nice to have you with us Jon :)
+
+2016-08-01
+Added - Node 153 - Solar Pi BBS (USA) - Welcome aboard to Corey Reichle 
+                   who hails from Buffalo, NY USA. Running a Raspberry Pi
+                   and just getting in to Mystic BBSing.
+
+2016-07-31
+Added - Node 152 - 2nd Choice Core (NZ) - Mystic system run by Sysop Ian
+                   Seagers
+
+2016-07-30
+Created - FSX_MYS - A new echoarea with a focus on Mystic BBS discussions
+                    and support.
+
+2016-07-23
+Added - Node 151 - Solar BBS (USA) - Welcome to Dave Holtzman :)
+
+2016-07-19
+Added - Node 150 - Southend BBS (Denmark) - Welcome to returning sysop
+                   Lars Wiberg who is based in the city of Frederikshavn :)
+
+Created - history.txt
+
+This is a new file that ships within the fsxNet infopack. This contains a 
+full record of the changelog. Only the most recent 10 changelog records will
+remain within the nodelist to help keep nodelist file size down.
+
+Created - FSXNET1.ANS
+
+Added to the infopack. This is ANSI art that can be used to promote fsxNet.
+It's been kindly donated by David Stephens aka RiPuk - thanks 
+
+2016-07-18
+Added - Node 149 - reDMud System BBS (USA) - Big hellow and welcome to 
+                                            David Snyder :)
+2016-07-11
+Added - Node 148 - International LiveWire BBS (USA) - Welcome to Allen Prunty
+
+2016-07-10
+Added - Node 147 - MPrah BBS (USA) - Welcome to Michael Prah who joins the
+                                     NET :)
+2016-07-09 
+Created - File Base - FSX_ART  - ANSI Art - Groups, Individuals etc.
+
+2016-07-03
+Added - Node 126 - Twinke BBS (USA) - Christopher is back but as a private
+                                      node. Good to see you return Pequito :)
+
+Added - Node 146 - Saturn’s Orbit BBS (BRA) - Welcome to Flavio Bessa who 
+                   is the first node to connect to fsxNet from South America
+                   and is based in a city about to host the summer Olympics 
+
+Added - Node 145 - Mystic Pi BBS (USA) - Welcome Brian Wallace it's great to
+                                         have you with us :)
+
+2016-07-02
+Created - File Base - FSX_DOOR  - BBS Doors, Games etc.
+
+2016-06-30
+Added - Node 144 - Aloryn Avalon BBS (USA) - Welcome to Joshua Cain who is
+                                      setting up his first Mystic system :) 
+
+Added - Node 143 - Bridge BBS (AUS) - Tony Langdon has a new Mystic system
+                                      now running fulltime.
+                                  
+Down  - Node 126 - Twinkle BBS - Christopher is offline for a time but will 
+                                 hopefully return when he's able to.                                   
+
+2016-06-24
+Added - Node 142 - SmokyThing BBS (USA) - Welcome to Shannon Kuchler :)
+
+Added - Region 2 - Usenet
+Added - Node 100 - Usenet HUB
+Added - Node 101 - Agency BBS
+
+I'm experimenting with using region 2 as a means to distribute Usenet
+newsgroups to nodes that want a bi-directional FTN<>NNTP gateway.
+Using 21:2/xxx addresses may be the way to do this. It's a WIP.
+
+2016-06-23
+Removed - File Base - FSX_MGKA - Magicka BBS Software, Utils etc.  
+Created - File Base - FSX_BBS  - BBS Software
+
+MagickaBBS is not under active development, so have removed this file base
+and merged files from FSX_MGKA in to FSX_BBS this base will carry BBS
+software other than Mystic BBS
+
+Added - Node 141 - Pie33 BBS (NLD) - Welcome to Moises Aranas our first node
+                   that is based in the Netherlands :)       
+
+2016-06-19
+Added - Node 140 - HappyLand BBS (AUS) - Gidday to Andrew Pamment setting up
+                   an Enigma 1/2 BBS
+
+2016-06-11
+Added - Node 139 - Satellite of Madness BBS (USA) - Hi to Matthew Blocker
+
+2016-06-09
+Added - Node 138 - The Cell Block BBS (CAN) - Gidday to Blair Lovell
+Added - Node 137 - Nitemare Cafe BBS (USA) - Welcome to Rod Barnhart
+
+2016-06-07 
+Added - Node 136 - force9 BBS (GBR) - Welcome to David Stephens our first
+                   node that is based in the UK :)
+2016-05-25
+Added - Node 134 - Mystic Prison Board (USA) - Welcome to Ruben Figueroa
+Added - Node 135 - Return to The Lair of the Wolverine (USA) welcome to
+                   Kevin 'Patch" Taylor
+2016-05-22
+Added - Node 133 - Parity BBS (Canada) - Welcome to Ian McLaughlin
+
+2016-05-15
+Removed - 'Advertisment' housekeeping entry as it's been a non-event
+          thus far.
+         
+"* Please limit the frequency of advertising messages for BBS and Othernets
+that you post to FSX_GEN to 2-3 times a month. Members are interested to 
+hear about other BBS and/or Othernets - just not every second day :) "
+
+>> Further history to be added as time permits <<
+
+2015-11-11
+Updated - fsxNet now using Zone 21 due to a clash with another Othernet :)
+Added - Node 102 - Error 404 BBS (USA) - Welcome Todd Zieman
+
+2015-11-08
+Added - Node 101 - Agency BBS (NZ)
+Added - Node 100 - fsxNet HUB (NZ) - fsxNet is born using Zone 18
+
+====================================================================================

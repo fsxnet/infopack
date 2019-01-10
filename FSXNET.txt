@@ -1,0 +1,225 @@
+=============================================================================
+
+             fsxNet - [F]un, [S]imple, e[X]perimental Network
+
+                               (Zone 21)
+ 
+= Introducing fsxNet ========================================================
+	
+fsxNet is a fun, simple and experimental network established in late 2015
+
+fsxNet is not a prescriptive network. e[X]perimentation is at heart
+of its name and members are actively encouraged to be creative in their
+use of the network. Only a handfull of message areas and file bases are
+used - setup is quick and [S]imple.
+
+Technologies covered by the network include (but are not limited to)
+BBSing, ANSI art, Amateur (HAM) Radio, Retro / Vintage Computers & Gaming,
+FTN communications, network protocols & topologies, encryption methods,
+contemporary computers (e.g. Raspberry Pi), computer coding and more.
+
+fsxNet sees a number of messages posted to it every week. It is an
+active support network for Mystic BBS software. It is also a proud
+supporter of developers of other BBS software spanning BBS systems,
+door games and more.
+
+fsxNet is not an invite-only closed network, rather it is an open 
+community and everyone who wishes to join is welcome.
+
+Do you find it [F]un to learn about and use retro computing technologies?
+Would you like to be part of a group that enjoy experimenting and developing
+those technologies further? If the answer is yes, then we invite you to 
+join us :) 
+
+== Goals ====================================================================
+
+* Develop and encourage international communications between 100 (or more)
+  geographically diverse bulletin board systems.
+
+* Support and create learning and experimental opportunities between
+  members.
+
+* Foster borderless international friendships.
+
+* Explore and develop new and interesting methods of online communication
+  between members.
+  
+* A network based on having fun, while being respectful and helpful to each
+  other.
+
+== Housekeeping =============================================================
+
+* Members of fsxNet are to conduct themselves in accordance with the above
+  goals. Failure to do so risks being delisted by the Network Coordinator.
+
+* The use of the network for illegal purposes is not permitted. Members
+  deemed to be engaged in such activities will be delisted by the Network
+  Coordinator.
+
+* Real names used in the nodelist, aliases or real names welcome in
+  all echoareas.
+
+* Please post messages containing ANSI but do so with an [ANSI] prefix in
+  the message subject line. This allows members who can't view ANSI content
+  to opt out reading it if they are unable to do so.
+  
+  e.g. Subject: [ANSI] Something I drew last night
+  
+* Please do not gate fsxNet traffic to other FTN/QWK networks, Usenet, 
+  or any other network without first discussing your request in FSX_GEN
+  and obtaining approval from the Zone 21 ZC.  
+
+== Echoareas ================================================================
+
+Message Echos:
+
+FSX_GEN - A general discussion echoarea covering many topics.
+          Test messages and other experimentation is welcome. 
+	     
+FSX_MYS - Mystic BBS discussions, support and development.
+
+FSX_CRY - Cryptographic discussion and experimentation.
+          Public key sharing, encoded messages, testing etc.
+          is welcome here. 
+         
+FSX_BOT - The first choice for non-human roBOT output. 
+          May contain BBS and NET ads, stats reports, telemetry reports,
+          traces of nuts etc. Set your BOT free in this area :)
+          
+FSX_BBS - BBS software, development and support. Using Enigma 1/2 BBS,
+          Magicka BBS, etc. find help and support here. The echoarea is
+          also host to fsxNet Wiki (wiki.bbs.nz) discussions and support.
+          
+FSX_DAT - InterBBS Data. An echomail area used by software such as InterBBS 
+          Oneliner or Double-Up (both by Darryl Perry) to send inter-BBS
+          data between nodes in fsxNet. In most cases the data is not readable
+          or of interest to human eyes. Sysops may wish to hide this echo
+          from BBS users.
+
+FSX_MAG - Magicka BBS discussions, support and development. 
+          This echoarea is experimentally gated to HappyNetX MNET network.
+         
+File Bases:
+
+FSX_NODE - Weekly Nodelists (fsxNet, etc.)
+FSX_INFO - Weekly Infopacks (fsxNet, etc.)
+
+FSX_MYST - Mystic BBS Software
+FSX_MUTL - Mystic BBS Utils, Mods etc.
+
+FSX_SOFT - BBS Software (Current + Legacy)
+FSX_DOOR - BBS Doors, Games etc.
+FSX_UTLS - BBS Utils, Tools, Networking etc.
+
+FSX_ARTS - ANSI Art - Groups, Individuals etc.
+FSX_TEXT - Text Files (Various)
+
+== Technical Details ========================================================
+
+**** IMPORTANT DETAILS - PLEASE NOTE ****
+
+There are currently four NETs operating in fsxNet each serviced by a HUB.
+
+The fsxNet WHQ HUB (21:1/100) accepts BinkD connections via 
+agency.bbs.nz:24556 
+
+The fsxNet Tholian HUB (21:2/100) accepts BinkD connections via 
+error404bbs.ddns.net:24555
+
+The fsxNet Mutura HUB (21:3/100) accepts Telnet EMSI/FTS6 + ZedZap connections
+via agency.bbs.nz:24558
+
+The fsxNet Niba HUB (21:4/100) accepts BinkD connections via 
+bbs.castlerockbbs.com:24560
+
+NOTE: The bbs.nz domain name is now active, previously bbs.geek.nz was 
+used. The latter domain will still resolve (for now) but the bbs.nz address 
+is preferred. Keep an eye on fsxNet General Chat/Testing echo area (FSX_GEN)
+for further info and updates.
+
+Please note the port numbers we're using are in a range from 24555 - 24560
+subject to which HUB you are polling.
+
+Please also note when you receive your node number it may likely be in
+a different NET than NET 1 so you will possibly need to change both your NET
+and NODE number when you obtain your fsxNet address. Along with changing some
+address details and session password for the HUB system your BBS is allocated
+to poll.
+
+If you are running Mystic BBS please add the IP address 219.89.83.33 and
+2001:470:d:123::50 to the WHITELIST.TXT file in your Mystic BBS data 
+directory. These are the known IP addresses for the fsxNet HUB in NET1
+You may want to add further addresses for other HUBs you connect to in
+fsxNet (or othernets / bbs systems) also. You can access this feature via
+a text editor from the Mystic configuration menus by typing 
+MYSTIC -CFG > Servers > Edit IP Whitelist
+
+Taking this steps ensures that when a fsxNet HUB polls your system it will not
+be auto blocked by your Mystic Internet Server if it polls your system 
+frequently.
+ 		   
+== Membership ===============================================================
+
+Joining is easy, to obtain a node number just complete the application form
+below then either email it to avon@bbs.nz or send it as Fidonet netmail
+to Paul Hayton (3:770/100) at agency.bbs.nz:24554
+
+For anything that's not applicable below, please state "NA".
+Thanks for your interest.
+
+An infopack is always available from fsxnet.nz/fsxnet.zip or 
+bbs.nz/fsxnet.zip or Agency BBS.
+
+-----------Delete the above and send the application below-------------------
+
+
+        fsxNet - [F]un, [S]imple, e[X]perimental Network - Application
+
+Please complete as best as you can. 
+
+If unsure or not applicable just state this in your reply :)  
+
+If you don't run a BBS, just state a system name you will be known by.    
+        
+ Your Name.....................:
+ Location......................:
+ BBS / System Name.............:
+ BBS Software..................:
+ Operating System..............:
+ Telnet address................:
+ SSH address...................:
+ Website URL...................:
+ Email Address.................:
+ Areafix/Filefix/BinkP Password:
+
+
+Do you have a static IP address? 
+If you do, please state your IP details below.
+
+This will ensure your node is whitelisted so it will not be auto-blocked by
+an fsxNet HUB due to any frequent polling (3-4 times in 1 minute) of it 
+by your BBS :)
+
+ Static IPv4 Address...........:
+ Static IPv6 Address...........:
+ 
+** If you have a static IP address ** would you like an optional 
+custom fsxnet.nz domain name that will resolve to your IP? 
+e.g.  mybbsname.fsxnet.nz This gives you another vanity domain name
+that works on the Internet for your BBS
+
+If yes, please state your preferred domain below. 
+
+ Please assign my BBS..........:  _________.fsxnet.nz
+     
+Your BinkP details
+
+        BinkP
+
+ Binkp Address.................:
+ Crash or Hold Traffic.........:
+ 
+ 
+ 
+= END OF APPLICATION ========================================================
+		

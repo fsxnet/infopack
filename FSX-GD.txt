@@ -1,0 +1,146 @@
+﻿Getting Connected - fsxNet Galactic Dynasty
+
+=============================================================================
+
+Galactic Dynasty is an Inter-BBS game coded by the world famous Apam :)
+There are a number of BBS connected to fsxNet and involved in the Zone 21
+Inter-BBS league. If you would like to join here's what you need to do.
+
+1)
+
+Download the latest version of the game from a fsxNet BBS that carries the 
+FSX_DOOR file base echo.
+
+The file you want to grab is either GDYNWIN.ZIP (Windows 32 bit version) or
+GDYNSRC.ZIP (Source) if you want to compile it for your Linux system
+
+2) 
+
+Contact Paul aka Avon at either avon@bbs.nz or 21:1/101 and ask for your
+fsxNet node number to be set up at the fsxNet Games + Usenet Gateway (21:1/10)
+
+3) 
+
+
+Create a new echonode entry in your BBS config for 21:1/10@fsxnet
+
+Use the settings below BUT - change ensure your 'Session Options'
+are as follows: agency.bbs.nz:24557 
+
+This address and port number may differ from the usual address and/or port
+you connect to for your fsxNet HUB. However the Gateway runs on a different
+BinkP server to feed your BBS Games + Usenet News compared to your usual
+fsxNet echomail / netmail traffic fed from a fsxNet HUB (21:1/100 or 21:2/100)
+
+It's important to enable Filebox and to set the path to a directory you
+will be using to send your game packets to the 21:1/10 HUB with.
+
+
+ Description │ fsxNet Games + Usenet    Zone │ 21
+      Active │ Yes                       Net │ 1
+Archive Type │ ZIP                      Node │ 10
+ Export Type │ Crash                   Point │ 0
+   AllFix PW │                        Domain │ fsxnet
+PKT Password │
+Session Type │ BinkP
+  Route Info │ 
+Max PKT Size │ 512
+Max ARC Size │ 2048
+ Use FileBox │ Yes
+     FileBox │ c:\mystic\filebox\fsxnet\
+TIC Password │                         Session Options
+
+4)
+
+Unzip and install the Galactic Dynasty files in to a directory you plan
+to run the game from. Compile the Linux version as per the instructions 
+contained in the .ZIP
+
+** This walkthough assumes a Windows install but you can modify paths etc.
+as required **
+
+5)
+
+Edit the galactic.ini file to add the specific details about your BBS, node 
+number, etc. to it. This is the example from Agency BBS with comments
+
+[Main]
+Turns Per Day = 20                   <--- Set this to 20
+Turns In Protection = 60             <--- Set this to 60
+Log Path = c:\doors\galactic\logs    <--- Set path for log files
+
+[Interbbs]
+Enabled = true                       <--- Set to True or no Inter-BBS 4 u!
+System Name = Agency BBS             <--- Your BBS name
+League Number = 21                   <--- Set this to 21
+Node Number = 2                      <--- Refer to BBS.CFG for your node #
+File Inbox = c:\mystic\echomail\in   <--- Points to your BBS inbound dir
+Default Outbox = c:\mystic\filebox\fsxnet <-- Outbound Filebox defined earlier
+
+Note: The node number (4th line in Interbbs settings) is not your regular
+fsxNet node number. It's the number assigned to you by the League Coordinator
+and can be found in the BBS.CFG file that will be sent to you by the 
+Coordinator once your node is set up at 21:1/10
+
+6)
+
+Obtain an updated BBS.CFG file from the League Coordinator and place this file 
+in your Galactic Dynasty working directory.
+
+7)
+
+Set up a menu option to run your game. Here's the example from Agency BBS
+
+Display Text  │ 1 - Galactic Dynasty (fsxNet)
+LightBar Low  │ 1
+LightBar High │ 1
+Hot Key       │ 1
+Access        │ s20                                Up    │ 0   Escape │ 0
+Display Type  │ Access                             Down  │ 0   Tab    │ 0
+X Y           │ 0  0                               Left  │ 0   PageUp │ 0
+Timer         │ 0                                  Right │ 0   PageDn │ 0
+Timer Type    │ Interval      Redraw │ Yes         Home  │ 0   End    │ 0
+Command ────────────────── Access ───── Data ─────────────────────────────
+(D3) Exec DOOR32 program                c:\doors\galatic\start.bat %P
+
+The contents of start.bat looks like this
+
+c:
+cd\doors\galatic
+GalacticDynasty.exe -full -D %1door32.sys
+cd\mystic
+fidopoll 21:1/10
+goto done
+
+:done
+
+8)
+
+Set up regular event to process incoming game packets from the 21:1/10
+You may want to have a timed event to run this processing a few times 
+a day. Or you might like to have a batch file that runs each time 
+any packets etc. arrive in your inbound directory.
+
+e.g. galmaint.bat
+
+c:
+cd\doors\galatic
+GalacticDynasty.exe maintenance
+goto done
+
+:done
+
+ 
+9)
+
+Review the Galactic Dynasty Readme file that ships with the game
+files. It contains a good overview of the setup of the game and also
+details of how to customise your score files if displaying them on
+your BBS.
+
+10)
+
+Got further questions? Be sure to post them in fsxNet and someone
+who is already running this game will be able to help you :)
+
+=============================================================================

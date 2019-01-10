@@ -1,0 +1,137 @@
+Netmail 101 - What is it, how does it work in fsxNet?
+
+=============================================================================
+
+Introduction
+============
+
+Think of netmail as a 'mostly private' message sent from person to person 
+between two bulletin board systems (BBS). That message may either be sent
+directly between those two BBS or be routed via a number of BBS to make it to
+its final destination after several hops. 
+
+The term 'mostly private' is given in that if the netmail is routed there 
+is a small chance that any system that handles your netmail may read it. 
+In the authors view 99.9% of sysops usually set their BBS up to simply 
+pass in-transit netmail onwards, uninspected and untouched. The BBS community
+is pretty good in that respect. Still, be aware that unless you're sending
+direct between two systems your message may be intercepted and read by
+someone else who intentionally wants to. 
+
+Every netmail has both a sender and a receiver and both have addresses
+constructed using the format ZONE:NET/NODE.POINT 
+
+In fsxNet we use Zone 21 and run four NETs (21:1/xxx , 21:2/xxx , 21:3/xxx
+and 21:4/xxx). All nodes are assigned a unique node number that associates
+them with one of those NETs e.g. 21:1/101 is Agency BBS in New Zealand.
+
+For example if Paul Hayton (Avon) at Agency BBS wants to send a private
+netmail to Alan Ianson (Al) at The Rusty Mailbox BBS then Paul is sending 
+his netmail from himself at 21:1/101 and addressing it to Alam at 21:4/106
+
+Netmail Routing (Zone 21)
+==================================
+
+All fsxNet nodes are asked to set their systems up to route netmail they
+send via their NET HUB so Agency BBS (21:1/101) would send netmail to 
+The Rusty Mailbox (21:4/106) via the NET 1 it was connected to 21:1/100
+
+The HUBs in turn route the netmail to the correct NET and then send the
+netmail to the node.
+
+So in the example we're using the netmail travels across the network like
+this:
+
+Sender 21:1/101 > HUB(NET1) 21:1/100 > HUB(NET4) 21:4/100 > Receiver 21:4/106
+
+Netmail Routing (Fidonet)
+=========================
+
+Fidonet currently uses Zones 1 - 4 so BBS that are members of that network
+will have addresses using the syntax 1:xxx/xxx or 2:xxx/xxx etc.
+
+As of late July 2018 it's now possible for fsxNet nodes to send netmail 
+to a Fidonet netmail address from within fsxNet Zone 21. The netmail 
+is routed via fsxNet HUBs to a gateway system 3:770/1 within Fidonet that
+in turn sends the netmail onwards to systems within Fidonet.
+
+Likewise, Fidonet systems that wish to send netmail to a fsxNet node can
+do so by routing their Zone 21 netmail via 3:770/1 which will in turn
+relay it on to the fsxNet HUBs to send onwards to the receiving node.
+
+This is still experimental and mileage may vary - but hey, it's fsxNet and
+we're all about experimentation here - so give it a go and report how you
+get on :)
+
+Final Thoughts
+==============
+
+Mystic Configuration
+
+If you are a node in fsxNet wishing to send netmail to Fidonet nodes via
+your fsxNet HUB you need to make a change to your BBS setting to ensure
+you let your BBS software know you wish it to send Fidonet addressed 
+netmail to be routed via your Zone 21 HUB e.g. 21:1/100 if your in NET 1
+
+For Mystic BBS systems that means updating the 'Route Info' section of
+your fsxNet HUB echomail node settings by adding the following 
+
+1:* 2:* 3:* 4:* 21:*
+
+e.g.
+
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ Echomail Node (ID 7) ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
+█ Active         │ Yes                                       1:GENERAL  █
+█ Description    │ Mystic HUB (fsxNet NET1)                  2:Security █
+█ SysOp Name     │                                           3:Groups   █
+█ Address        │ 21:1/100                                  4:BinkP    █
+█ Domain         │ fsxnet                                    5:FTP      █
+█ Session Type   │ BinkP                                     6:Dir Toss █
+█ Archive Type   │ ZIP                                                  █
+█ Export Type    │ Crash                                                █
+█ Route Info     │ 1:* 2:* 3:* 4:* 21:*                                 █
+█ Max PKT Size   │ 512                                                  █
+█ Max ARC Size   │ 2048                                                 █
+█ Use Filebox    │ No                                                   █
+█ Filebox Dir    │ \                                                    █
+█                │                                                      █
+█                │                                          Page 1 of 6 █
+▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+
+This says to Mystic - send netmail to anything addressed to Zone 1-4 or in
+Zone 21 via this echomail node - in this example the NET 1 fsxNet HUB 
+at 21:1/100
+
+Now if you already have a Fidonet HUB (and address) you may elect not to
+set things up this way and just use your respective fsxNet and Fidonet
+HUBs to route the respective network netmail via. But if you're either
+not a member of Fidonet or wanting to run your setup in a way that you
+send your Fidonet netmail via your fsxNet HUB you should now be able to :)
+
+Echomail vs Netmail
+
+This catches folks out all the time. Echomail is a public posted 
+message that is shared between member BBS on any given message network.
+Hence the phrase echo. BBS subscribe to networks like fsxNet and carry
+a selection of echomail areas for their users to read and post to.
+The areas are often themed by topics for discussion etc.
+
+The gotcha is that sometimes people (often the sysop running the BBS)
+will in error post what they think is a private netmail message to someone
+when in fact they are posting in a public echomail area.
+
+The lesson - check that your intended netmail is in fact being posted in
+a netmail message base. If your sending to 'All' and the BBS *not* asking
+you for an address to send your netmail to... then chances are very good 
+you're about to look silly. It's happened many times before and will I'm
+sure happen again. We learn by doing in the end :)
+
+The Future
+
+All going well there are plans to extend this idea to include othernets
+for even further netmail routing flexibility.
+
+=============================================================================
+Author: Paul Hayton (Avon) - July 2018
+Rev   : 1.0
+=============================================================================
