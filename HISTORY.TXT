@@ -14,6 +14,11 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-01-15
+Added Node 4/145  Fireball Express BBS (USA) Hailing from Amarillo, TX please
+                  welcome Jay Talbot to fsxNet. Jay is running a Mystic BBS 
+                  under CentOS and can be reached at mystic.fireballex.com
+                  Welcome Jay :)
 
 2019-01-01
 Happy New Year - here's to a fun and enjoyable 2019 :)
