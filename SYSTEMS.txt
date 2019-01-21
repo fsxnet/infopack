@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 15 January 2019 ---
+    --- fsxNet connected Systems as of 21 January 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -54,9 +54,10 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 145 Mystic Pi BBS        Brian Wallace      bcw142.zapto.org   
 146 Saturn's Orbit BBS   Flavio Bessa       saturnsorbit.hopto.org  
 147 MPrah BBS            Michael Prah       mprah.net  
+148 Coco's BBS           Luis Marin         cocosbbs.cr.rs:50600
 149 Redmud Castle BBS    David Snyder       redmudcastlebbs.us:1123
 152 2nd Choice Core      Ian Segers         2ndchoicecore.nz:1024 
-153 Fatal Echo BBS       Mickolas Pansky    -- Private Node -- 
+153 Infoline BBS         Mickolas Pansky    -- Private Node -- 
 154 Raiders Inc BBS      John Justvig       vintagebbsing.com
 155 Haciend BBS          Antti Kiuru        haciend.com  
 156 Central Ontario      Mike Manning       oxfordmi.synchro.net  
@@ -156,6 +157,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 148 Osmimum BBS          Owen Salter        remote.devosmium.xyz
 149 Moderate Chaos BBS   David DeWell       moderatechaos.fsxnet.nz
 150 BackTo90's BBS       Pawel Adamczewski  fido.retroback.pl:2323
+151 Dock Sud BBS         Fernando Toledo    bbs.docksud.com.ar
 
 NET 3 (21:3/xxx) FrontDoor (EMSI/FTS6 + ZedZap) + Mystic BBS 
 
