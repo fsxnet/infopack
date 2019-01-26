@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 21 January 2019 ---
+    --- fsxNet connected Systems as of 26 January 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -205,6 +205,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 134 Possum Lodge South   Mike Powell        possumso.fsxnet.nz:7636
 135 Veteran BBS          Mike Welborn       vetbbs.fsxnet.nz
 136 Total Lost BBS       Dennis Eklund      bbs.deek.se
+137 8-Bit Boyz BBS       Shane O'Neill      8bitboyz.bbs.io:6502
 138 CIA Amiga BBS        Tim Grooms         ciaamigabbs.dynu.net:6400
 139 DigiSoft BBS         Peter Härje        mm2.se
 141 Retro Underground    John Rumpelein     retrounderground.org:1337
@@ -212,6 +213,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 143 Eggy BBS             Matt Richards      eggy.fsxnet.nz:2300
 144 Sonic BBS            Louis Northmore    sonicbbs.ddns.net
 145 Fireball Express BBS Jay Talbot         mystic.fireballex.com
+146 Dragon's Gate BBS    Cory Daehn         bbs.mayorlormar.com
 
 QWK Systems
 
