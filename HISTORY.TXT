@@ -14,6 +14,87 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-03-07
+Updated 4/126    Another F-ing BBS (USA) Gary advises his system is down for
+                 now due to moving home. So his node is marked 'Down' for
+                 now.
+                 
+
+2019-03-02
+Created FSX_ENG - ENiGMA 1/2 BBS is a modern BBS package with a nostalgic
+                  flair. It runs anywhere Node.js runs (Linux, FreeBSD,
+                  OpenBSD, OS X and Windows). This echoarea has been 
+                  established as a space for ENiGMA 1/2 BBS discussions,
+                  support and development.
+
+Added Node 4/149 Dead End BBS (AUS) sysop Michael Borthwick is running his
+                 system at telnet.deadendbbs.com:2323
+
+Added Node 2/155 New Amiga Frontier BBS (USA) sysop Charles Stephenson aka
+                 KrUpTiOn can be reached at frontierbbs.net with his Amiga
+                 system.
+
+2019-02-28
+Added Node 2/154 Danger Bay BBS (CAN) welcome aboard to sysop Tom Swartz
+                 who is based in Vancouver. Danger Bay is running PCBoard
+                 and can be found at dangerbaybbs.dyndns.org:1337
+
+2019-02-25
+Added Node 4/148 Gateway to the West BBS (USA) Hello to sysop Robert Stinnett
+                 who is based in St. Peters, Missouri (St. Louis area) and
+                 has set up his Synchronet BBS under CentOS. You can reach
+                 Robert's system at bbs.dmxrob.net - welcome :)
+2019-02-23
+Removed Node 1/198 Tek42 BBS (USA) There has been no contact from the BBS
+                   for some time. The node is delisted.
+
+Removed Node 1/149 Redmud Castle (USA) here has been no contact from the
+                   BBS for some time. The node is delisted.
+                   
+Added Node 1/150  Disconnected Reality (USA) Please welcome Adam Gosselin 
+                  aka jagossel who hails from Columbia, SC and is setting
+                  up a Synchronet BBS running under Debian. You can visit
+                  by pointing your telnet client to discreal.ddns.net:23 
+                   
+2019-02-16
+Added Node 4/147   Aliens' Alcove BBS (PHL) Please give a warm welcome to
+                   Eric Pareja aka Xenos. Based in Taguig City, Philippines
+                   Aliens' Alcove is powered by WWIV running on Linux OS.
+                   Pop in and say hi by heading to aliens.free.net.ph
+
+Added Node 2/153   t311net BBS (CAN) welcome aboard to sysop Rex Gibson aka
+                   GngrDr3dM4n who is based in Ontario and spinning up a 
+                   Mystic BBS running under Linux Mint x64. You can reach
+                   his system via t311net.fsxnet.nz
+                   
+fsxNet Nodelist Housekeeping - NET 2
+
+Removed Node 2/141 TequilaMockingbird Online BBS (USA). There has been no 
+                   sign of Bill nor contact with him for months. His node has
+                   been delisted for now. Perhaps he will return? 
+
+Removed Node 2/142 Lo Fidelity BBS (USA) Ryan's BBS appears to be shuttered
+                   and there has been no contact for some time. The node is
+                   delisted as a result.
+
+Removed Node 2/148 Osmimum BBS (USA) There has been no contact for some time
+                   with Owen's system so the node has been delisted.
+                   
+Removed Node 2/149 Moderate Chaos BBS (USA) no contact from sysop and system
+                   not contactable. The node has been delisted.
+                                   
+  
+2019-02-03      
+Added Node 2/152 - UnderZaNet BBS (GBR) A warm welcome back to Jan Henkins
+                   aka Dotslash. Based in Warlingham, England and at
+                   one stage used to run a BBS based on Citadel and a Mystic
+                   BBS this time around it's time to play with MagickaBBS
+                   You can reach the BBS via SSH at bbs.under.za.net:2024
+
+2019-01-29
+Updated Node 1/179 Internal Dimension BBS (USA) Dave advises his telnet port
+                  is shifting to 2019 from the start of February 2019.
+
 2019-01-26
 Added Node 4/146  The Dragon's Gate BBS (USA) Please make welcome sysop 
                   Cory Daehn who is running his Mystic BBS on a virtualbox
@@ -119,7 +200,7 @@ Added Node 1/197 Trigonia BBS (SWE) Welcome aboard to this private node.
 Removed Node 4/140 Redshift BBS (CAN) Scott advises he has taken his system
                  down so his BBS has been removed from the nodelist.
 
-Added Node 2/149 Moderate Chaos BBs (USA) Welcome aboard to sysop David 
+Added Node 2/149 Moderate Chaos BBS (USA) Welcome aboard to sysop David 
                  DeWell who has set up a Mystic BBS system running under
                  RHEL 7. You can visit the BBS by pointing your terminal
                  to moderatechaos.fsxnet.nz that is based in Keller, TX.

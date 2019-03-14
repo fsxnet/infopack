@@ -86,9 +86,8 @@ FSX_BOT - The first choice for non-human roBOT output.
           May contain BBS and NET ads, stats reports, telemetry reports,
           traces of nuts etc. Set your BOT free in this area :)
           
-FSX_BBS - BBS software, development and support. Using Enigma 1/2 BBS,
-          Magicka BBS, etc. find help and support here. The echoarea is
-          also host to fsxNet Wiki (wiki.bbs.nz) discussions and support.
+FSX_BBS - BBS software, development and support. The echoarea is also 
+          host to fsxNet Wiki (wiki.bbs.nz) discussions and support.
           
 FSX_DAT - InterBBS Data. An echomail area used by software such as InterBBS 
           Oneliner or Double-Up (both by Darryl Perry) to send inter-BBS
@@ -98,6 +97,8 @@ FSX_DAT - InterBBS Data. An echomail area used by software such as InterBBS
 
 FSX_MAG - Magicka BBS discussions, support and development. 
           This echoarea is experimentally gated to HappyNetX MNET network.
+          
+FSX_ENG - ENiGMA 1/2 BBS discussions, support and development. 
          
 File Bases:
 
