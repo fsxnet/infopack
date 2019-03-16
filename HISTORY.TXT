@@ -14,6 +14,19 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-03-16
+Removed Node 4/111 USS Alliance BBS (CAN) Richard's system has been down for 
+                 many weeks and there has been no further contact. The node
+                 has been delisted.
+
+Added QWK Node  Havens BBS (USA) Welcome to sysop Steve Wolf who is running
+                a Synchronet BBS and has connected to fsxNet via the QWK 
+                gateway running at 21:4/10 You can reach Havens BBS via
+                havens.synchronetbbs.org
+
+Removed Node 4/132 Fusion BBS (AUS) Michael advises his BBS has shutdown.
+                 The node has been delisted.
+
 2019-03-07
 Updated 4/126    Another F-ing BBS (USA) Gary advises his system is down for
                  now due to moving home. So his node is marked 'Down' for

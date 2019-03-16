@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 2 March 2019 ---
+    --- fsxNet connected Systems as of 16 March 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -179,7 +179,6 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 108 Phychosis BBS        Terry Rankin       psychosisbbs.ddns.net:2323
 109 9640 News BBS        Beery Miller       9640news.ddns.net:9640
 110 BZ&BZ BBS            Steve Thielemann   bbs.red-green.com:4023  
-111 USS Alliance         Richard Szajkowski cmrk.net:2113
 112 Sloane BBS           Steve Smith        sloanebbs.com
 113 Digital Wurmhole BBS Blair Lovell       digitalwurmhole.ddns.net:2323
 114 PlaneT Afr0 BBS      Jason Tefft        cetialphafive.com:8888
@@ -199,7 +198,6 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 128 DragonsWeb Labs BBS  James DiGriz       bbs.dragonsweb.org 
 129 Syrinx BBS           Marc Carrano       bbs.syrinxbbx.com
 131 The Wrong Number 2   Al DeRosa          wn2.duckdns.org
-132 Fusion BBS           Michael Borthwick  telnet.fusionbbs.online
 133 Fading Black BBS     Will Smith         fadingblack.net
 134 Possum Lodge South   Mike Powell        possumso.fsxnet.nz:7636
 135 Veteran BBS          Mike Welborn       vetbbs.fsxnet.nz
@@ -221,5 +219,6 @@ QWK Systems
 
 Castle Rock Experimental Dan Richter      CRBBSQWK
 Capital City Online      Mike Powell      CAPCITY
+Havens BBS               Steve Wolf       HAVENS
 
 ===============================================================================
