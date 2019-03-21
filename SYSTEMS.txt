@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 16 March 2019 ---
+    --- fsxNet connected Systems as of 21 March 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -34,7 +34,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 125 The Fat Sandwich     Andrew Pamment     sandwich.hopto.org:2023 
 126 Twinkle BBS          Christopher Malo   twinklebbs.net  
 127 Capital Station      Gregory Deyss      csbbs.dyndns.org  
-128 The OuijaBoard BBS   Jeff Smith         bbs2.ouijabrd.net  
+128 The OuijaBoard BBS   Jeff Smith         bbs.twisted-balloon.org   
 129 SpaceSST BBS         Luc McCarragher    mccarragher.org  
 130 Tiny's BBS           Shawn Highfield    tinysbbs.com  
 131 Weather Station HUB  Mark Hofmann       bbs.weather-station.org   
@@ -55,7 +55,9 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 146 Saturn's Orbit BBS   Flavio Bessa       saturnsorbit.hopto.org  
 147 MPrah BBS            Michael Prah       mprah.net  
 148 Coco's BBS           Luis Marin         cocosbbs.cr.rs:50600
+149 inQuiry BBS          Will Vincent       inquiry.fsxnet.nz:2023
 150 Disconnected Reality Adam Gosselin      discreal.ddns.net
+151 Dwarrowdelf BBS      James Cunningham   dwabbs.ddns.net:2323
 152 2nd Choice Core      Ian Segers         2ndchoicecore.nz:1024 
 153 Infoline BBS         Mickolas Pansky    -- Private Node -- 
 154 Raiders Inc BBS      John Justvig       vintagebbsing.com
@@ -212,7 +214,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 145 Fireball Express BBS Jay Talbot         mystic.fireballex.com
 146 Dragon's Gate BBS    Cory Daehn         bbs.mayorlormar.com
 147 Aliens' Alcove BBS   Eric Pareja        aliens.free.net.ph
-148 Gateway to the West  Robert Stinnett    bbs.dmxrob.net
+148 Gateway to the West  Robert Stinnett    bbs.homelabber.net
 149 Dead End BBS         Michael Borthwick  telnet.deadendbbs.com:2323
 
 QWK Systems

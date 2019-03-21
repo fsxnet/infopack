@@ -14,6 +14,32 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-03-21
+Updated Node 4/138 Gateway to the West BBS (USA) Robert advises his domain
+                 name has changed to bbs.homelabber.net the nodelist has 
+                 been updated.
+
+2019-03-19
+Added Node 1/149 inQuiry BBS (USA) welcome to sysop Will Vincent who is based
+                 in Minnesota USA. Will aka oog is setting up a Mystic BBS  
+                 using Linux and although the system is not accepting calls
+                 yet, when it does, you will find it at inquiry.fsxnet.nz:2023
+                 or port 1717 for SSH. Welcome aboard Will! It's nice to have
+                 you as a member of our online community :)
+                 
+Added Node 1/151 Dwarrowdelf BBS (USA) and please also say hello and welcome
+                 to sysop James Cunningham who is running a Mystic BBS on his
+                 Raspberry Pi. James lives in Syracuse, NY and his BBS can
+                 be contacted at dwabbs.ddns.net:2323 or port 22 for SSH.
+                 James - thanks for taking the time to join fsxNet we welcome
+                 you and stand by to support you if you need help or just
+                 want to debate the merits of USA vs New Zealand or other
+                 types of beer :)
+
+2019-03-17
+Updated Node 1/128 Jeff advises his domain has now changed, the new address 
+                 is bbs.twisted-balloon.org                  
+                 
 2019-03-16
 Removed Node 4/111 USS Alliance BBS (CAN) Richard's system has been down for 
                  many weeks and there has been no further contact. The node
