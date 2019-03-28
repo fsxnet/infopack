@@ -14,6 +14,41 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-03-28
+As signaled, some nodelist housekeeping has taken place in NET 4:
+
+Removed Node 4/103 The Coincidence BBS (USA) has been delisted.
+Removed Node 4/120 Skylab System BBS #2 has been delisted.
+Removed Node 4/127 Greyman BBS (USA) has been delisted.
+Removed Node 4/142 mysticbbs.dynu.com (USA) has been delisted.
+Removed Node 4/149 Dead End BBS (AUS) has been delisted.
+
+It's important to keep the nodelist as up to date as possible. These 
+deletions help to do that. Over the coming week or so there will be some
+further work taking place in NET 1 along similar lines. 
+
+Look for for further information to follow in the coming weeks regarding 
+new thresholds for determining when inactive nodes will be delisted from
+the fsxNet nodelist in the future.
+
+2019-03-27
+Added Node 4/150 VA7AQD's Tavern BBS (CAN) based in Kamloops it's a warm
+                 welcome to sysop Adam Clark who is running a Synchronet
+                 BBS and can be reached at bbs.isurf.ca or via SSH at
+                 bbs.isurf.ca:2222
+                 
+Added QWK Node   BLACKF Blackfair's Manor (USA) hailing from Lancaster,PA
+                 welcome aboard to sysop Keith Cunningham who is running
+                 a Synchronet BBS under Windows 7 and can be contacted at
+                 blackf.synchro.net
+                 
+fsxNet Nodelist Housekeeping - NET 4
+
+The following nodes have been marked as 'Down' and will likely be removed in 
+the coming days pending some contact from the sysops concerned.
+
+4/103, 4/120, 4/127, 4/142, 4/149
+
 2019-03-21
 Updated Node 4/138 Gateway to the West BBS (USA) Robert advises his domain
                  name has changed to bbs.homelabber.net the nodelist has 

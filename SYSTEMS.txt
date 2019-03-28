@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 21 March 2019 ---
+    --- fsxNet connected Systems as of 28 March 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -173,7 +173,6 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 100 Niba fsxHUB          Dan Richter        bbs.castlerockbbs.com:24560
 101 Back to the Future   Bill Simon         bttfbbs.com
 102 Before the Web BBS   Dallas Vinson      loybbs.net:23232
-103 The Coincidence BBS  Bruce Weitzman     thecoincidencebbs.com
 104 Herbies BBS II       Thorsten Herb      herbies-bbs.ddns.net
 105 Phoenix BBS          Andrew Leary       phoenix.bnbbbs.net:2323
 106 Rusty Mailbox BBS    Alan Ianson        trmb.ca
@@ -189,14 +188,12 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 117 Brainsuxx.inc BBS    Michael Braun      brainsuxxinc.ddns.net
 118 Bit's Lair BBS       Yeray Dorta         -- Private Node --
 119 After Hours BBS      Greg Youngblood    afterhours-bbs.com 
-120 Skylab System BBS    Sam Penwright      skylab-systems.com:2082
 121 AlcaBBS              Michael Trip       bbs.alcatrash.org
 122 Reality Check BBS    Kurt Weiske        realitycheckbbs.org
 123 Humongous BBS        Nathanael Culver   jenandcal.familyds.org:2323
 124 The Dungeon BBS      Keith Matthews     dungeon.barnabasmusic.com
 125 Veleno BBS           Thomas Bampi       velenobbs.ddns.net
 126 Another F-ing BBS    Gary Crunk         -- Currently Down -- 
-127 Greyman BBS          Paul Ramos         greymanbbs.ddns.net
 128 DragonsWeb Labs BBS  James DiGriz       bbs.dragonsweb.org 
 129 Syrinx BBS           Marc Carrano       bbs.syrinxbbx.com
 131 The Wrong Number 2   Al DeRosa          wn2.duckdns.org
@@ -208,19 +205,19 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 138 CIA Amiga BBS        Tim Grooms         ciaamigabbs.dynu.net:6400
 139 DigiSoft BBS         Peter Härje        mm2.se
 141 Retro Underground    John Rumpelein     retrounderground.org:1337
-142 mysticbbs.dynu.com   Phillip Taylor     mysticbbs.dynu.net:2300
 143 Eggy BBS             Matt Richards      eggy.fsxnet.nz:2300
 144 Sonic BBS            Louis Northmore    sonicbbs.ddns.net
 145 Fireball Express BBS Jay Talbot         mystic.fireballex.com
 146 Dragon's Gate BBS    Cory Daehn         bbs.mayorlormar.com
 147 Aliens' Alcove BBS   Eric Pareja        aliens.free.net.ph
 148 Gateway to the West  Robert Stinnett    bbs.homelabber.net
-149 Dead End BBS         Michael Borthwick  telnet.deadendbbs.com:2323
+150 VA7AQD's Tavern BBS  Adam Clark         bbs.isurf.ca
 
 QWK Systems
 
-Castle Rock Experimental Dan Richter      CRBBSQWK
-Capital City Online      Mike Powell      CAPCITY
-Havens BBS               Steve Wolf       HAVENS
+Castle Rock Experimental Dan Richter       CRBBSQWK
+Capital City Online      Mike Powell       CAPCITY
+Havens BBS               Steve Wolf        HAVENS
+Blackfair's Manor        Keith Cunningham  BLACKF
 
 ===============================================================================
