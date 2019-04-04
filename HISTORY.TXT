@@ -14,6 +14,25 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-03-30
+Added Node 4/151 Thunder-Storm BBS (CAN) helping to boost the Canadian fsxNet
+                 contingent please welcome sysop Darryl Wood. Based in
+                 Toronto he's running a Spitfire BBS under Windows.
+                 You can reach the BBS via telnet at thunder-storm.ca:10023 
+                 Nice to have you as a member of fsxNet Darryl we hope you
+                 enjoy it here :)
+                 
+fsxNet Nodelist Housekeeping - NET 1
+
+The following nodes have been marked as 'Down' and will be removed in 
+the coming days pending some contact from the sysops concerned.
+
+1/124, 1/137, 1/117, 1/168, 1/167, 1/147
+
+2019-03-29
+Updated Node 1/126 Twinkle BBS (USA) Pequito advises his system is offline
+                   for a while. It has been marked 'Down' for now.
+
 2019-03-28
 As signaled, some nodelist housekeeping has taken place in NET 4:
 
