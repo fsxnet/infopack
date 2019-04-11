@@ -14,6 +14,14 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+
+2019-04-07
+Added Node 4/152 Blackfair's Manor (USA) Keith has been assigned a node 
+                 number now for the BBS.
+                 
+Removed Node 1/124 Dogtown BBS (USA) has been delisted.
+Removed Node 1/137 Nitemare Cafe BBS (USA) has been delisted.
+
 2019-03-30
 Added Node 4/151 Thunder-Storm BBS (CAN) helping to boost the Canadian fsxNet
                  contingent please welcome sysop Darryl Wood. Based in
