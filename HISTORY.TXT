@@ -14,6 +14,19 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-04-17
+Added Node 2/141 SiliconUnderground BBS (USA) Hi and welcome to sysop Jason
+                 Bock who is based in Rochester, NY. Jason is running a 
+                 Mystic BBS under Windows Server 2016 and you can reach his
+                 BBS at siliconu.fsxnet.nz
+
+2019-04-14
+Added Node 1/194 Diamond Mine Online BBS (USA) welcome to sysop David 
+                 Perrussel who is based in Fredericksburg, VA USA. David is 
+                 running a Synchronet BBS under Windows. You can reach his 
+                 BBS at bbs.dmine.net:24 or SSH on port 2220
+
+Removed Node 1/167 Crystal Dragon BBS (USA) has been delisted.                 
 
 2019-04-07
 Added Node 4/152 Blackfair's Manor (USA) Keith has been assigned a node 
