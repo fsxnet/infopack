@@ -14,6 +14,35 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-04-24
+Added Node 4/154 Hysteria BBS (CAN) it's a warm welcome to sysop Frank 
+                 Linhares who is based in Toronto and runs his Zeus 1.7
+                 BBS under Amiga OS 3.9
+                 If you would like to visit Frank's system head to 
+                 hysteriabbs.com
+
+Updated Node 2/145 Michael's BBS is now known as Mike's Mansion. The nodelist
+                 has been updated accordingly. New address also
+                 mansion.dynv6.net
+                 
+2019-04-20
+Added Node 3/105 The Lower Planes BBS (AUS) welcome to Melbourne based sysop
+                 Anthony Adverse who is in the process of setting up his
+                 SuperBBS system and plans to connect to fsxNet via the 
+                 NET 3 HUB using Frontdoor as the frontend mailer.
+                 The BBS can be reached at tlp.zapto.org
+
+Removed Node 1/168 Col Unl BBS (SWE) has been delisted - there has been no
+                 contact with system or sysop for some time now :(
+
+Updated Node 3/101 Future Hacker Central (SWE) Joaquim has suffered a HDD 
+                 failure and his system has been marked as 'Down' for now.                 
+
+2019-04-19
+Added Node 4/153 ARDA BBS (USA) welcome to sysop Tim Woodland who is
+                 based in Delaware, Ohio and is running a Mystic BBS under
+                 Linux. You can reach his system at arda-bbs.com
+
 2019-04-17
 Added Node 2/141 SiliconUnderground BBS (USA) Hi and welcome to sysop Jason
                  Bock who is based in Rochester, NY. Jason is running a 

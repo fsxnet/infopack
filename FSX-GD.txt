@@ -30,7 +30,8 @@ are as follows: agency.bbs.nz:24557
 This address and port number may differ from the usual address and/or port
 you connect to for your fsxNet HUB. However the Gateway runs on a different
 BinkP server to feed your BBS Games + Usenet News compared to your usual
-fsxNet echomail / netmail traffic fed from a fsxNet HUB (21:1/100 or 21:2/100)
+fsxNet echomail / netmail traffic fed from a fsxNet HUB (21:1/100, 2/100
+3/100 or 4/100)
 
 It's important to enable Filebox and to set the path to a directory you
 will be using to send your game packets to the 21:1/10 HUB with.
@@ -62,12 +63,16 @@ as required **
 5)
 
 Edit the galactic.ini file to add the specific details about your BBS, node 
-number, etc. to it. This is the example from Agency BBS with comments
+number, etc. to it. This is the example from Agency BBS with comments.
 
 [Main]
 Turns Per Day = 20                   <--- Set this to 20
 Turns In Protection = 60             <--- Set this to 60
 Log Path = c:\doors\galactic\logs    <--- Set path for log files
+Bad Path = c:\doors\galactic\bad     <--- Set path for bad packets received
+Delete Bad = False                   <--- Set 'False' to move bad packets to 
+                                          Bad Path or set 'True' to delete
+                                          bad packets received at your BBS
 
 [Interbbs]
 Enabled = true                       <--- Set to True or no Inter-BBS 4 u!
