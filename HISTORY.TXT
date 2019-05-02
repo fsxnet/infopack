@@ -14,6 +14,12 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-04-25
+Added Node 4/155 Flower BBS (AUS) Hi and welcome to sysop Troy Marchant 
+                 who is based at Osborne Park Western Australia and is 
+                 setting up a Mystic BBS running under Windows 10
+                 You can find the BBS at flower.sytes.net
+
 2019-04-24
 Added Node 4/154 Hysteria BBS (CAN) it's a warm welcome to sysop Frank 
                  Linhares who is based in Toronto and runs his Zeus 1.7
