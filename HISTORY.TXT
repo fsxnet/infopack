@@ -14,6 +14,36 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+
+2019-05-08
+Updated Node 1/125 Fat Sandwich BBS (AUS) domain name has been updated to
+                 sandwich.magickabbs.com
+                 
+2019-05-06
+Added Node 4/156 The Rock BBS III (USA) After first running a Spitfire BBS
+                 back in the early 90s please welcome back to the scene sysop
+                 Michael Batts who is setting up a Mystic system under
+                 Raspbian. You can reach him at therockbbs.net:10023
+
+2019-05-05
+Added Node 4/120 Deep Space Gateway (USA) welcome back to Sam Penwright who
+                 is working on setting up his Mystic BBS again running under
+                 Windows OS. The BBS is private for now.                 
+                 
+Added Node 1/137 Digital Distortion (USA) Gidday and welcome to Eric Oulashin
+                 who is based in Hillsboro, Oregon, USA and running a
+                 Synchronet BBS under Windows. The BBS can be reached at
+                 digdist.synchro.net
+
+Added Node 2/156 Champs Visions 3D (CAN) Hi and welcome to sysop Alain 
+                 Champs who's is based in Chambly, Quebec and is running a 
+                 Mystic BBS on a Raspberry Pi. You can reach his BBS by 
+                 heading to champsvisions3d.com
+                 
+Updated FSX-GD.TXT A helpful maintenance script has been added with thanks to 
+                 Va7aqd ca (21:4/150) This is useful if you are running BinkIT 
+                 as your mailer with a Synchronet BBS. 
+
 2019-04-25
 Added Node 4/155 Flower BBS (AUS) Hi and welcome to sysop Troy Marchant 
                  who is based at Osborne Park Western Australia and is 

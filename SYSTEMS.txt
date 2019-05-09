@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 26 April 2019 ---
+    --- fsxNet connected Systems as of 8 May 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -30,7 +30,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 121 Xibalba BBS          Bryan Ashby        xibalba.l33t.codes:44510
 122 Necronomicon BBS     Carlos Roldan      necrobbs.strangled.net
 123 Thiaramus' Den       Roman Litvinenko   thiaramus.fsxnet.nz
-125 The Fat Sandwich     Andrew Pamment     sandwich.hopto.org:2023 
+125 The Fat Sandwich     Andrew Pamment     sandwich.magickabbs.com:2023 
 126 Twinkle BBS          Christopher Malo    -- Currently Down -- 
 127 Capital Station      Gregory Deyss      csbbs.dyndns.org  
 128 The OuijaBoard BBS   Jeff Smith         bbs.twisted-balloon.org   
@@ -157,6 +157,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 153 t311net BBS          Rex Gibson         t311net.fsxnet.nz
 154 Danger Bay           Tom Swartz         dangerbaybbs.dyndns.org:1337
 155 New Amiga Frontier   Charles Stephenson frontierbbs.net
+156 Champs Visions 3D    Alain Champs       champsvisions3d.com
 
 NET 3 (21:3/xxx) FrontDoor (EMSI/FTS6 + ZedZap) + Mystic BBS 
 
@@ -186,7 +187,8 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 116 InterMail Support    Dale Barnes        im.ifidonet.com
 117 Brainsuxx.inc BBS    Michael Braun      brainsuxxinc.ddns.net
 118 Bit's Lair BBS       Yeray Dorta         -- Private Node --
-119 After Hours BBS      Greg Youngblood    afterhours-bbs.com 
+119 After Hours BBS      Greg Youngblood    afterhours-bbs.com
+120 Deep Space Gateway   Sam Penwright       -- Private Node --
 121 AlcaBBS              Michael Trip       bbs.alcatrash.org
 122 Reality Check BBS    Kurt Weiske        realitycheckbbs.org
 123 Humongous BBS        Nathanael Culver   jenandcal.familyds.org:2323
@@ -216,6 +218,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 153 ARDA BBS             Tim Woodland       arda-bbs.com
 154 Hysteria BBS         Frank Linhares     hysteriabbs.com
 155 Flower BBS           Troy Marchant      flower.sytes.net
+156 The Rock BBS III     Michael Batts      therockbbs.net:10023
 
 QWK Systems
 

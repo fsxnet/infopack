@@ -78,19 +78,19 @@ Delete Bad = False                   <--- Set 'False' to move bad packets to
 Enabled = true                       <--- Set to True or no Inter-BBS 4 u!
 System Name = Agency BBS             <--- Your BBS name
 League Number = 21                   <--- Set this to 21
-Node Number = 2                      <--- Refer to BBS.CFG for your node #
+Node Number = 2                      <--- Refer to GAL-IBBS.CFG for your node#
 File Inbox = c:\mystic\echomail\in   <--- Points to your BBS inbound dir
 Default Outbox = c:\mystic\filebox\fsxnet <-- Outbound Filebox defined earlier
 
 Note: The node number (4th line in Interbbs settings) is not your regular
 fsxNet node number. It's the number assigned to you by the League Coordinator
-and can be found in the BBS.CFG file that will be sent to you by the 
+and can be found in the GAL-IBBS.CFG file that will be sent to you by the 
 Coordinator once your node is set up at 21:1/10
 
 6)
 
-Obtain an updated BBS.CFG file from the League Coordinator and place this file 
-in your Galactic Dynasty working directory.
+Obtain an updated GAL-IBBS.CFG file from the League Coordinator and place
+this file in your Galactic Dynasty working directory.
 
 7)
 
@@ -149,3 +149,115 @@ Got further questions? Be sure to post them in fsxNet and someone
 who is already running this game will be able to help you :)
 
 =============================================================================
+
+APPENDIX 1
+
+Below is a script supplied by
+Va7aqd at VA7AQD's Tavern in Kamloops, BC! - bbs.isurf.ca (21:4/150)
+
+This is helpful if you are running BinkIT as your mailer with
+a Synchronet BBS. The file is saved as gd-maintenance.sh
+
+[snip]
+
+#!/bin/bash
+
+# Galactic Dynasty helper script for Synchronet Sysops
+# Version 0.1
+
+# This script helps prepare the mailer when GD needs to send it's InterBBS files
+# and updates the game when it has received appropriate files.
+# Specifically, it will:
+# - Replace GD's GAL-IBBS.CFG if a new one has arrived.
+# - Check if we've got outbound GAL files - if so, check on or generate the
+#   FLO and poll the games HUB.  Quit at this point if this was true.
+# - Run GD maintenance to pull inbound GAL files, and possibly generate outbound.
+# - Checks /sbbs/fido/outbound/fsxgames for *.GAL files.  If it
+#   finds files there, it creates a .FLO file in /sbbs/fido/outbound
+#   for BinkIT to use, and then asks BinkIT to poll the hub.
+
+# This script should be very easy to replace the variables or "hard"-coded
+# paths to fit your own system to get similar results.
+
+# Old ideas:
+# - Checks /sbbs/fido/inbound for *.GAL files.  If so, it runs
+#   Galactic Empire's maintenance.  This section is all commented out
+#   at the bottom of this file.
+
+# Replace HUB, the 1 in NET and the 10 in NODE if applicable:
+HUB="21:1/10"
+NET=`printf "%04x\n" 1`
+NODE=`printf "%04x\n" 10`
+FILENAME="$NET$NODE.FLO"
+
+# Adjust the paths as necessary for your BBS:
+FLO=/sbbs/fido/outbound/$FILENAME
+BBSCFG=/sbbs/fido/inbound/GAL-IBBS.CFG
+GDPATH=/sbbs/xtrn/galactic-dynasty
+
+# First order of business - if a new GAL-IBBS.CFG file has arrived,
+# replace the current one with it.
+
+if [ -f $BBSCFG ]; then
+	cp "$GDPATH"/GAL-IBBS.CFG "$GDPATH"/GAL-IBBS.CFG.BAK
+	mv "$BBSCFG" "$GDPATH"/
+fi
+
+# Check if there's .GAL files already.  If so, try and push them to the HUB and quit
+# the script, just in case there's a problem delivering we don't want to continue,
+# to be on the safe side.
+
+# Adjust these paths as necessary for your BBS:
+set -- /sbbs/fido/outbound/fsxgames/*.GAL
+case $1 in
+	('/sbbs/fido/outbound/fsxgames/*.GAL') ;;
+	(*)
+	 if [ ! -f $FLO ]; then
+		# I have GD putting the files in to this path below,
+		# it's "Default Outbox setting".
+		for i in /sbbs/fido/outbound/fsxgames/* ; do
+		echo "^$i" >>$FLO
+		done
+	 fi
+	 # FLO file should exist here one way or the other, so poll.
+	 /sbbs/exec/jsexec -c /sbbs/ctrl binkit -l $HUB
+	 # This shouldn't really be the normal case, so exit with error code
+	 exit 1
+	;; 
+esac
+
+# This will pull in all the fido/inbound *.GAL files and generate
+# the outbound *.GAL files as necessary.  If it generates any, build
+# the .FLO file and push to the hub.
+
+cd "$GDPATH"
+./GalacticDynasty maintenance
+
+set -- /sbbs/fido/outbound/fsxgames/*.GAL
+case $1 in
+	('/sbbs/fido/outbound/fsxgames/*.GAL') ;;
+	(*)
+	 if [ ! -f $FLO ]; then
+		for i in /sbbs/fido/outbound/fsxgames/* ; do
+		echo "^$i" >>$FLO
+		done
+	 fi
+	 # FLO file should exist here one way or the other, so poll.
+	 /sbbs/exec/jsexec -c /sbbs/ctrl binkit -l $HUB
+	;; 
+esac
+
+# Inbound check stuff - disabled.
+#set -- /sbbs/fido/inbound/*.GAL
+
+#case $1 in
+#	('/sbbs/fido/inbound/*.GAL') break;;
+#	(*)
+#	 cd "$GDPATH"
+#	 ./GalacticDynasty maintenance
+#	;;
+#esac
+
+[snip]
+
+
