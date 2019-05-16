@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 8 May 2019 ---
+    --- fsxNet connected Systems as of 14 May 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -35,7 +35,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 127 Capital Station      Gregory Deyss      csbbs.dyndns.org  
 128 The OuijaBoard BBS   Jeff Smith         bbs.twisted-balloon.org   
 129 SpaceSST BBS         Luc McCarragher    mccarragher.org  
-130 Tiny's BBS           Shawn Highfield    tinysbbs.com  
+130 Tiny's BBS           Shawn Highfield    tinysbbs.com:3023
 131 Weather Station HUB  Mark Hofmann       bbs.weather-station.org   
 132 Weather Station BBS  Mark Hofmann       bbs.weather-station.org  
 133 The Parity Error     Ian McLaughlin     theparityerror.com  
@@ -71,6 +71,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 164 Electronic Chicken   Derek Mullin       bbs.electronicchicken.com
 165 3rd Choice Core BBS  Ian Segers         3rdchoicecore.ddns.net:1022
 166 Datanet BBS          Steve Ellis        datanetbbs.net 
+167 Nitemare Cafe BBS    Rod Barnhart       bbs.nitemarecafe.com:2002
 169 Sinner's Haven BBS   Karl Kunc          bbs.sinnershaven.com
 170 Weather Station BBS  Mark Hofmann       bbs.weather-station.org
 171 Modema Tider BBS     Andreas Selstam    -- Private Node --
@@ -146,6 +147,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 139 Winchester BBS       Charlie Camilleri  www.charliecamilleri.xyz:6666 
 140 Subcarrier BBS       John McCoy         subcarrier.ignorelist.com:2323
 141 SiliconUnderground   Jason Bock         siliconu.fsxnet.nz
+142 Stepping Stone BBS   Jon Justvig        vintagebbsing.com
 143 The Bit Bucket BBS   Stephen Atkins     bbs.thebitbucket.ca
 144 Retro Tyme BBS       Chris Costanzo     retrotyme.com
 145 Mike's Mansion BBS   Michael Pierce     mansion.dynv6.net
@@ -175,11 +177,12 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 102 Before the Web BBS   Dallas Vinson      loybbs.net:23232
 104 Herbies BBS II       Thorsten Herb      herbies-bbs.ddns.net
 105 Phoenix BBS          Andrew Leary       phoenix.bnbbbs.net:2323
-106 Rusty Mailbox BBS    Alan Ianson        trmb.ca
+106 Rusty Mailbox BBS    Alan Ianson        trmb.ca:2030
 107 Centaurus BBS        Stephen Berard     centaurus.ventouxlabs.com:2323
 108 Phychosis BBS        Terry Rankin       psychosisbbs.ddns.net:2323
 109 9640 News BBS        Beery Miller       9640news.ddns.net:9640
-110 BZ&BZ BBS            Steve Thielemann   bbs.red-green.com:4023  
+110 BZ&BZ BBS            Steve Thielemann   bbs.red-green.com:4023
+111 Blue Northen Software Dave Eidson       bnsbbs.ddns.net:23000  
 112 Sloane BBS           Steve Smith        sloanebbs.com
 113 Digital Wurmhole BBS Blair Lovell       digitalwurmhole.ddns.net:2323
 114 PlaneT Afr0 BBS      Jason Tefft        cetialphafive.com:8888

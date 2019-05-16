@@ -14,6 +14,25 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-05-14
+Updated Node 1/130 Tinys BBS (CAN) updated telnet port to 3023
+
+2019-05-13
+Updated Node 4/106 The Rusty Mailbox (CAN) updated telnet port to 2030
+
+2019-05-12
+Added Node 4/111 Blue Northen Software BBS (USA) Please welcome sysop
+                 Dave Eidson aka Scarecrow who is running a Mystic BBS 
+                 Based in Bellevue, Nebraska you can reach Dave's system at
+                 bnsbbs.ddns.net:23000
+                 
+Added Node 2/142 Stepping Stone BBS (USA) - Greetings to Jon Justvig of
+                 Wichita, KS. who has added his BBS to fsxNet.
+                 The address is vintagebbsing.com
+                 
+Added Node 1/167 Nitemare Cafe BBS (USA) - Welcome back to Rod Barnhart who
+                 is in the process of restarting his BBS.
+                 The address is bbs.nitemarecafe.com:2002                 
 
 2019-05-08
 Updated Node 1/125 Fat Sandwich BBS (AUS) domain name has been updated to
