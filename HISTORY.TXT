@@ -14,6 +14,35 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-05-21
+Added Node 1/124 apernevan.tk BBS (ROM) it's a warm welcome to sysop 
+                 Andrei Pernevan who is based in Arad, Romania.
+                 Running a Mystic BBS under Linux OS you can contact the
+                 BBS at apernevan.tk on port 23.
+                 
+Updated Node 2/145 Mike's Mansion BBS (USA) the domain name has changed and
+                 is now mansion.dynv6.net - the nodelist etc. has been 
+                 updated. Did you know some people read these posts carefully
+                 and in doing so spot easter eggs? Who knew?
+
+2019-05-19
+Updated Node 1/150 Disconnected Reality BBS (USA) Adam advises a change in 
+                 domain name to discreal.synchronetbbs.org
+                 The nodelist etc. has been updated accordingly.
+
+2019-05-18
+Added Node 4/157 LostCause Halfway House BBS (USA) welcome to Ernest J Gainey
+                 III who is based in Alden, NY US and has set up a Mystic
+                 BBS running under Linux. You can reach the BBS by telent
+                 or SSH using the standard ports - the domain to poll is
+                 bbs.lostcause.house
+                 
+Updated Node 4/154 Diskshop BBS (CAN) Frank advises he has spun up a new
+                 BBS and you can reach it at bbs.diskshop.ca
+                 Hysteria BBS (CAN) will now be fed as a point system by
+                 Diskshop. The nodelist etc. has been updated to reflect
+                 these changes.
+                 
 2019-05-14
 Updated Node 1/130 Tinys BBS (CAN) updated telnet port to 3023
 
