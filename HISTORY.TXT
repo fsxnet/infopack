@@ -14,6 +14,34 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-06-06
+Added Node 4/158 Strontium 90 BBS (USA) it's a warm welcome to sysop
+                 Robbie Whiting who is based in Berkeley, CA USA.
+                 Running a Mystic BBS you'll find Strontium 90 waiting for
+                 your call when you head to strontium90.servebbs.com
+
+Added Node 1/168 Monterey BBS (USA) also joining the fsxNet community today
+                 please give a shout out and hello to sysop Ryan Fantus
+                 Ryan is based in San Francisco and has his Mystic system
+                 running under Linux. You'll find the BBS when you head
+                 to montereybbs.com
+                 
+2019-06-04
+Added Node 3/106 Linucus BBS (AUS) Deon has set up a Front Door connected 
+                 BBS using chinwag.leenooks.net:60177
+
+2019-06-01
+Updated Node 1/125 The Fat Sandwich BBS (AUS) is now called Happyland BBS
+                 The domain name to contact the system has also changed to
+                 happyland.magickabbs.com:2023  - the nodelist etc. has been
+                 updated.           
+                 
+Added Node 2/148 Mystic Island BBS (USA) welcome to sysop Mickey Frklic aka
+                 LockeDown. Running a Mystic BBS under Xubunto you can 
+                 reach the BBS at mysticisland.strangled.net
+                 
+Removed Node 1/50 HappyNetX MNET network gateway has been closed down.
+
 2019-05-21
 Added Node 1/124 apernevan.tk BBS (ROM) it's a warm welcome to sysop 
                  Andrei Pernevan who is based in Arad, Romania.

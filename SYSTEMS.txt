@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 21 May 2019 ---
+    --- fsxNet connected Systems as of 6 June 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -31,7 +31,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 122 Necronomicon BBS     Carlos Roldan      necrobbs.strangled.net
 123 Thiaramus' Den       Roman Litvinenko   thiaramus.fsxnet.nz
 124 apernevan.tk BBS     Andrei Pernevan    apernevan.tk
-125 The Fat Sandwich     Andrew Pamment     sandwich.magickabbs.com:2023 
+125 Happyland BBS        Andrew Pamment     happyland.magickabbs.com:2023 
 126 Twinkle BBS          Christopher Malo    -- Currently Down -- 
 127 Capital Station      Gregory Deyss      csbbs.dyndns.org  
 128 The OuijaBoard BBS   Jeff Smith         bbs.twisted-balloon.org   
@@ -73,6 +73,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 165 3rd Choice Core BBS  Ian Segers         3rdchoicecore.ddns.net:1022
 166 Datanet BBS          Steve Ellis        datanetbbs.net 
 167 Nitemare Cafe BBS    Rod Barnhart       bbs.nitemarecafe.com:2002
+168 Monterey BBS         Ryan Fantus        montereybbs.com
 169 Sinner's Haven BBS   Karl Kunc          bbs.sinnershaven.com
 170 Weather Station BBS  Mark Hofmann       bbs.weather-station.org
 171 Modema Tider BBS     Andreas Selstam    -- Private Node --
@@ -154,6 +155,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 145 Mike's Mansion BBS   Michael Pierce     mansion.dynv6.net
 146 Two Dudes BBS        Peter Spalding     twodudesbbs.fsxnet.nz
 147 Bowlin's Alley BBS   David Bowlin       bowlinsalley.ddns.net
+148 Mystic Island BBS    Mickey Frklic      mysticisland.strangled.net
 150 BackTo90's BBS       Pawel Adamczewski  fido.retroback.pl:2323
 151 Dock Sud BBS         Fernando Toledo    bbs.docksud.com.ar
 152 UnderZaNet BBS       Jan Henkins        bbs.under.za.net:2024
@@ -170,6 +172,7 @@ NET 3 (21:3/xxx) FrontDoor (EMSI/FTS6 + ZedZap) + Mystic BBS
 103 Titan's Orbit BBS     Flavio Bessa         titansorbit.ddns.net
 104 Brain Storm BBS       Ioram Sette         ssh: bsbbs@bsbbs.com.br
 105 The Lower Planes BBS  Anthony Adverse     tlp.zapto.org
+106 Linucus BBS           Deon George        chinwag.leenooks.net:60177
 
 NET 4 (21:4/xxx) Mystic BBS (BinkP)
 
@@ -224,6 +227,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 155 Flower BBS           Troy Marchant      flower.sytes.net
 156 The Rock BBS III     Michael Batts      therockbbs.net:10023
 157 LostCause Halfway House Ernest Gainey   bbs.lostcause.house
+158 Strontium 90 BBS     Robbie Whiting     strontium90.servebbs.com
 
 QWK Systems
 
