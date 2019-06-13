@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 6 June 2019 ---
+    --- fsxNet connected Systems as of 12 June 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -66,7 +66,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 158 The Quantum Wormhole Christian Sacks    bbs.erb.pw
 159 The GateHouse BBS    John Riley         bbs.digitalgatehouse.com   
 160 Slime City BBS       David Jacoby       bbs.retrohack.se  
-161 The Search BBS       Karl Harris        searchbbs.fsxnet.nz:34123
+161 The Search BBS       Karl Harris        -- Currently Down --
 162 Razors Domain        Kevin Nunn         bbs.razorsdomain.com:31415 
 163 Dreamland BBS        Tony Master        bbs.dreamlandbbs.org
 164 Electronic Chicken   Derek Mullin       bbs.electronicchicken.com
@@ -85,6 +85,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 177 Dali's Cat BBS       Ismar Hasanbegovic daliscat.synchro.net
 178 Internal Dimension   Dave Vandermeer    idbbs.dlinkddns.com:2019
 179 Cryptogenic Radix    Paul Hayton        -- Private Node --
+180 Mystic BBS HAMRADIO  Eduardo Castillo   lu9dce.dynu.com
 181 Ninho do Abutre 2    Mauro Veiga        abutre.no-ip.org:2323
 182 The Colossus BBS     Jordan McGilvray   bbs.excalibursheath.com
 183 Vertrauen BBS        Rob Swindell       vert.synchro.net
@@ -166,13 +167,14 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 
 NET 3 (21:3/xxx) FrontDoor (EMSI/FTS6 + ZedZap) + Mystic BBS 
 
-100 Mutura fsxHUB         Paul Hayton          agency.bbs.nz:24558
-101 Future Hacker Central Joaquim Homrighausen  -- Currently Down -- 
-102 Micro Link Old School Lloyd Russell         -- Private Node --
-103 Titan's Orbit BBS     Flavio Bessa         titansorbit.ddns.net
-104 Brain Storm BBS       Ioram Sette         ssh: bsbbs@bsbbs.com.br
-105 The Lower Planes BBS  Anthony Adverse     tlp.zapto.org
-106 Linucus BBS           Deon George        chinwag.leenooks.net:60177
+100 Mutura fsxHUB         Paul Hayton       agency.bbs.nz:24558
+101 Future Hacker Central Joaquim Homrighausen -- Currently Down -- 
+102 Micro Link Old School Lloyd Russell     -- Private Node --
+103 Titan's Orbit BBS     Flavio Bessa      titansorbit.ddns.net
+104 Brain Storm BBS       Ioram Sette       ssh: bsbbs@bsbbs.com.br
+105 The Lower Planes BBS  Anthony Adverse   tlp.zapto.org
+106 Linucus BBS           Deon George       chinwag.leenooks.net:60177
+107 New Detroit BBS       Joacim Melin      newdetroit.se
 
 NET 4 (21:4/xxx) Mystic BBS (BinkP)
 
@@ -201,7 +203,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 123 Humongous BBS        Nathanael Culver   jenandcal.familyds.org:2323
 124 The Dungeon BBS      Keith Matthews     dungeon.barnabasmusic.com
 125 Veleno BBS           Thomas Bampi       velenobbs.ddns.net
-126 Another F-ing BBS    Gary Crunk         -- Currently Down -- 
+126 Another F-ing BBS    Gary Crunk         anotherbbs.dynu.net
 128 DragonsWeb Labs BBS  James DiGriz       bbs.dragonsweb.org 
 129 Syrinx BBS           Marc Carrano       bbs.syrinxbbx.com
 131 The Wrong Number 2   Al DeRosa          wn2.duckdns.org

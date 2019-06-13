@@ -14,6 +14,34 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-06-12
+Updated 4/126    Another F-ing BBS (USA) Gary is setting his system back up
+                 The address will be anotherbbs.dynu.net and his node is no
+                 longer marked as 'down' - welcome back Gary :)
+
+2019-06-11
+Added Node 3/107 New Detroit BBS (SWE) Joacim has set up a system with
+                 FrontDoor at the erm.. front :) You can reach it at
+                 newdetroit.se
+                 
+Updated Node 1/161 The Search BBS (USA) Karl advises his system is offline
+                   while he relocates to a new city. He'll advise when he's 
+                   back up again. The node has been maked as 'Down'.
+
+2019-06-09
+Added Node 1/180 Mystic BBS HAMRADIO (ARG) please welcome sysop Eduardo
+                 Castillo who is based in Tortuguitas, Argentina.
+                 Eduardo has set up a Mystic BBS and is experimenting with
+                 connecting it to amateur packet radio using AX.25 protocols
+                 You can visit his BBS at lu9dce.dynu.com
+                 
+                 Mystic BBS HAMRADIO (ARG) le damos la bienvenida al 
+                 sable Eduardo Castillo que tiene su sede en Tortuguitas,
+                 Argentina. Eduardo ha creado una BBS mística y está 
+                 experimentando con Conectándolo a un paquete de radio
+                 amateur utilizando protocolos AX.25. Puedes visitar su BBS 
+                 en lu9dce.dynu.com
+
 2019-06-06
 Added Node 4/158 Strontium 90 BBS (USA) it's a warm welcome to sysop
                  Robbie Whiting who is based in Berkeley, CA USA.
