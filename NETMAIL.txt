@@ -27,7 +27,7 @@ them with one of those NETs e.g. 21:1/101 is Agency BBS in New Zealand.
 
 For example if Paul Hayton (Avon) at Agency BBS wants to send a private
 netmail to Alan Ianson (Al) at The Rusty Mailbox BBS then Paul is sending 
-his netmail from himself at 21:1/101 and addressing it to Alam at 21:4/106
+his netmail from himself at 21:1/101 and addressing it to Alan at 21:4/106
 
 Netmail Routing (Zone 21)
 ==================================

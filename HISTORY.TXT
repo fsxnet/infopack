@@ -14,6 +14,44 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-06-26
+Created - NET 5  This NET has been established as part of an experiment to
+                 better serve Spanish orientated nodes connecting to fsxNet
+                 based in South America and beyond.
+                  
+Created - HUB 5  The Omicron HUB has been established at 21:5/100 The name 
+                 for this HUB is linked to a number of planets in the Star
+                 Trek universe including Omicron Theta "where Dr. Noonien 
+                 Soong built and activated the android Data and his 
+                 brother Lore". 
+
+Updated Node 1/180 HAMRADIO BBS (ARG) has moved to NET 5 and is now 21:5/101
+
+Updated Node 1/128 The OuijaBoard BBS (USA) Jeff advised his system can be
+                 reached at ftn.region14.org - the nodelist and systems.txt
+                 has been updated.
+
+2019-06-24
+Created three new echomail areas:
+
+FSX_HAM - Amateur Radio discussions. Covers all aspects of HAM radio
+          including DX, HF, VHF/UHF, various digital modes etc.
+          
+FSX_PKT - Packet Radio (AX.25 Gateway). This is a *read-only* echoarea that
+          carries gated international AX.25 packet radio bulletins from
+          the amateur radio scene. These messages may be of interest to 
+          both amateur radio operator and the general public.
+          The gateway is operated by LU9DCE
+          
+FSX_ESP - Español General Chat. This echoarea offers a place for Spanish
+          language conversations. Like FSX_GEN it is a general discussion
+          echoarea covering many topics. Test messages and other
+          experimentation is welcome.
+          
+          Este echoarea ofrece un lugar para conversaciones en español.
+          Al igual que FSX_GEN, es una discusión general que abarca muchos
+          temas. Mensajes de prueba y otros experimentos son bienvenidos.
+
 2019-06-12
 Updated 4/126    Another F-ing BBS (USA) Gary is setting his system back up
                  The address will be anotherbbs.dynu.net and his node is no
