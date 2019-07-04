@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 26 June 2019 ---
+    --- fsxNet connected Systems as of 3 July 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -124,7 +124,6 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 114 Freeside BBS         Marty Taylor       freeside.bbs.io
 115 Mystic Rhythms BBS   Rob Cole           mystic.wwivbbs.org
 116 Chinwag BBS          Deon George        chinwag.leenooks.net:10023
-117 Positronium Repository Ben Ritchey      cmech.dynip.com
 118 SmokyThing BBS       Shannon Kuchler    inflecto.org
 119 Temple of Doom BBS   Kris Jones         tod.eothnet.com
 120 Files 4 Fun BBS      Timothy Norris     bbs.f4fbbs.com:2323

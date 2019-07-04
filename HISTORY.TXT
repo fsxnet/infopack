@@ -14,6 +14,10 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-07-03
+Removed Node 2/117 The Positronium Repository (USA) sadly Ben has died and
+                 his BBS is no longer running. RIP Ben :(
+
 2019-06-26
 Created - NET 5  This NET has been established as part of an experiment to
                  better serve Spanish orientated nodes connecting to fsxNet
