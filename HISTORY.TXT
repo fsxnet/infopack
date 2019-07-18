@@ -13,6 +13,10 @@ out to all fsxNet nodes. If you spot anything amiss please contact
 Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2019-07-18
+Updated Node 1/125 Nocturnal BBS (AUS) is now online at nocturnal.hopto.org
+                   The nodelist has been updated.
+
 2019-07-07
 Updated Node 3/102 Micro Link Old School (AUS) Lloyd advises his FD system is
                  currently 'down'.
