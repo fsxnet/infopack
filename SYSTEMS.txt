@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 18 July 2019 ---
+    --- fsxNet connected Systems as of 23 July 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -12,7 +12,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 103 Micro Link BBS       Lloyd Russell      -- Private Node --
 104 Shenk's Express BBS  Carol Shenkenberger shenks.dyndns.org 
 105 Fluph BBS            Leslie Given       fluph.zapto.org  
-106 BlackICE BBS         Vitus Zeel         blackice.bbsindex.com  
+106 BlackICE BBS         Vitus Zeel         blackice.bbsindex.de  
 107 The ByteXchange BBS  Chad Adams         bbs.thebytexchange.com  
 108 Sector 7 BBS         James Coyle        -- Private Node --
 109 Freeway BBS          Tony Langdon       freeway.vkradio.com
@@ -85,6 +85,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 177 Dali's Cat BBS       Ismar Hasanbegovic daliscat.synchro.net
 178 Internal Dimension   Dave Vandermeer    idbbs.dlinkddns.com:2019
 179 Cryptogenic Radix    Paul Hayton        -- Private Node --
+180 Perceptronica BBS    Jeff Thiele        -- Private Node --
 181 Ninho do Abutre 2    Mauro Veiga        abutre.no-ip.org:2323
 182 The Colossus BBS     Jordan McGilvray   bbs.excalibursheath.com
 183 Vertrauen BBS        Rob Swindell       vert.synchro.net
