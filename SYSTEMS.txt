@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 23 July 2019 ---
+    --- fsxNet connected Systems as of 1 August 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -59,7 +59,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 151 Dwarrowdelf BBS      James Cunningham   dwabbs.ddns.net:2323
 152 2nd Choice Core      Ian Segers         2ndchoicecore.nz:1024 
 153 Infoline BBS         Mickolas Pansky    -- Private Node -- 
-154 Raiders Inc BBS      John Justvig       vintagebbsing.com:23
+154 Raiders Inc BBS      Jon Justvig       vintagebbsing.com:23
 155 Haciend BBS          Antti Kiuru        haciend.com  
 156 Central Ontario      Mike Manning       oxfordmi.synchro.net  
 157 Shadowscope BBS      Richard Miles      bbs.shadowscope.com 
@@ -105,6 +105,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 197 Trigonia BBS         Gustav_Dersjö      -- Private Node --
 199 Clutch BBS           Mark Stark         bbs.clutchbbs.com
 200 Pharcyce BBS         Nicholas Boel      -- Private Node --
+201 Decker's Heaven      Eric Renfro        bbs.deckersheaven.com
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
 
@@ -149,7 +150,6 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 139 Winchester BBS       Charlie Camilleri  www.charliecamilleri.xyz:6666 
 140 Subcarrier BBS       John McCoy         subcarrier.ignorelist.com:2323
 141 SiliconUnderground   Jason Bock         siliconu.fsxnet.nz
-142 Stepping Stone BBS   Jon Justvig        vintagebbsing.com:2023
 143 The Bit Bucket BBS   Stephen Atkins     bbs.thebitbucket.ca
 144 Retro Tyme BBS       Chris Costanzo     retrotyme.com
 145 Mike's Mansion BBS   Michael Pierce     mansion.dynv6.net

@@ -14,6 +14,16 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-07-31
+Removed Node 2/142 Stepping Stone BBS (USA) Jon advises he is closing this
+                 system down for now. The node has been delisted.
+
+2019-07-28
+Added Node 1/201 Decker's Heaven BBS (USA) welcome to Eric Renfro aka
+                 psi-jack who is running his Synchronet BBS under CentOS
+                 You can reach the BBS at bbs.deckersheaven.com
+                 Welcome aboard psi-jack :)
+
 2019-07-20
 Added Node 1/180 Perceptronica BBS (USA) welcome to sysop Jeff Thiele who is
                  setting up a Mystic BBS under Raspbian. For now the system
