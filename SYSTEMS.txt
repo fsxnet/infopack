@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 1 August 2019 ---
+    --- fsxNet connected Systems as of 2 August 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -164,6 +164,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 154 Danger Bay           Tom Swartz         dangerbaybbs.dyndns.org:1337
 155 New Amiga Frontier   Charles Stephenson frontierbbs.net
 156 Champs Visions 3D    Alain Champs       champsvisions3d.com
+157 SBBS BBS             Phillip Taylor     sbbs.dynu.net
 
 NET 3 (21:3/xxx) FrontDoor (EMSI/FTS6 + ZedZap) + Mystic BBS 
 
@@ -230,6 +231,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 156 The Rock BBS III     Michael Batts      therockbbs.net:10023
 157 LostCause Halfway House Ernest Gainey   bbs.lostcause.house
 158 Strontium 90 BBS     Robbie Whiting     strontium90.servebbs.com
+159 RetroDevOps BBS      Todd Whitehead     -- Private Node --
 
 NET 5 (21:5/xxx) Mystic BBS (BinkP)
 

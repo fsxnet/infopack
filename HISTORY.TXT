@@ -14,6 +14,15 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-08-02
+Added Node 4/159 RetroDevOps BBS (AUS) hailng from Brisbane in Australia
+                 it's a warm welcome to sysop Todd Whitehead who is setting
+                 up a Mystic BBS running under Linux. The system is PVT for
+                 now.
+                 
+Added Node 2/157 Welcome to Phillip Taylor who is running SBBS. His system
+                 is running at sbbs.dynu.net              
+
 2019-07-31
 Removed Node 2/142 Stepping Stone BBS (USA) Jon advises he is closing this
                  system down for now. The node has been delisted.
