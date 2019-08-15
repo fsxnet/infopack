@@ -14,6 +14,60 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-08-14
+Added Node 1/203   Rocket Town BBS (USA) it's a warm welcome to sysop
+                   Ricky DeLuco who is setting up a Mystic BBS and looking
+                   to move over from a WWIV system based in Titusville, FL.
+                   You will find Rocket Town BBS by telneting to 
+                   rtbbs.ddns.net 
+                   
+Updated Node 1/202 Star Collision BBS is no longer a PVT system and can be
+                   reached at scbbs.nsupdate.info:50023 or port 50022 if you
+                   would rather use SSH :)
+
+2019-08-14
+Added Node 2/142   Shakey BBS (USA) please welcome to the network sysop
+                   Von Wallace who hails from Allen, Tx. Von is running a
+                   Synchronet BBS running under Debian and you can reach
+                   his system by heading to shakeybbs.com
+                   Welcome to fsxNet Von :)
+
+2019-08-12
+Removed QWK Node   DOMAIN Immortal's Domain has gone as quick as it arrived.
+
+Updated Node 1/185 Lightning BBS (USA) is now Immortal's Domain BBS
+                   Steve advises the domain name address to poll has also
+                   changed to idomain.synchro.net - the nodelist has been 
+                   updated.
+
+Added Node 1/202  Star Collision BBS (SWE) welcome to returning sysop
+                  Bjorn Wiberg aka Zip who is based in Uppsala in Sweeden. 
+                  Zip is setting up a Mystic BBS running under Linux
+                  The system is PVT for now. Welcome back to the BBSing
+                  scene ZIP it's nice to have you as a member of our
+                  community again :)
+
+2019-08-11
+Updated Node 1/161 The Search BBS (USA) Karl is in the process of setting
+                  his BBS back up again. Welcome back :) The node is no
+                  longer marked as 'down' with further changes to the
+                  nodelist pending.
+
+Added Node 4/160 Brotherhood of Groovyness (USA) is found in Sioux City,IA
+                 and there you'll also find sysop John Porterfield working on
+                 his Synchronet system that's running under Manjaro Linux
+                 Telnet to b-o-g.net and check it out. Welcome John aka
+                 Lord Butterknife.
+
+Added QWK Node   IDOMAIN Immortal's Domain (USA) from Spanish Fork, UT
+                 Steve Helferich has set up his bbs at idomain.synchro.net
+                 and connected to fsxNet via the QWK gateway at 21:4/10
+                 Welcome Steve.
+
+2019-08-09
+Removed Node 3/107 New Detroit BBS (SWE) Joacim has opted to shut this FD
+                 powered node down for now.
+
 2019-08-02
 Added Node 4/159 RetroDevOps BBS (AUS) hailng from Brisbane in Australia
                  it's a warm welcome to sysop Todd Whitehead who is setting

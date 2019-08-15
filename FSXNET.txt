@@ -108,7 +108,7 @@ FSX_PKT - Packet Radio (AX.25 Gateway). This is a *read-only* echoarea that
           both amateur radio operator and the general public.
           The gateway is operated by LU9DCE
           
-FSX_ESP - Español General Chat. This echoarea offers a place for Spanish
+FSX_ESP - Espanol General Chat. This echoarea offers a place for Spanish
           language conversations. Like FSX_GEN it is a general discussion
           echoarea covering many topics. Test messages and other
           experimentation is welcome.
