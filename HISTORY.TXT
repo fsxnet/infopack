@@ -14,6 +14,12 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-08-20
+Removed Node 2/106 Back To The Roots BBS. Fabian is shutting his BBS down for 
+                   a few months and then plans to return to the BBS scene.
+                   For now it's best wishes to him until he returns.
+                   The node has been delisted.
+
 2019-08-14
 Added Node 1/203   Rocket Town BBS (USA) it's a warm welcome to sysop
                    Ricky DeLuco who is setting up a Mystic BBS and looking

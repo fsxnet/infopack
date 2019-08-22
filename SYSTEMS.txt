@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 15 August 2019 ---
+    --- fsxNet connected Systems as of 20 August 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -117,7 +117,6 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 103 Resistance Pride     Kevin Sonney       resistancepride.sytes.net
 104 Gryphus BBS          Stephen Arnold     gryphus.homelinux.org:5632
 105 The New Frontier 2   Charles Stephenson thenewfrontier2.hopto.org
-106 Back To The Roots    Fabian Lucchi     backtotheroots.it-awareness.ch:2345
 107 Nephilim BBS         David Abutbul      nephilim.synchro.net
 108 National Incident Alerts Ray King       niabbs.com
 109 RPG Circus BBS       Jeffrey Brissette  bbs.rpgcircus.com:2323
@@ -238,8 +237,8 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 
 NET 5 (21:5/xxx) Mystic BBS (BinkP)
 
-100 Omicron fsxHUB       Eduardo Castillo   lu9dce.dynu.com
-101 HAMRADIO BBS         Eduardo Castillo   lu9dce.dynu.com
+100 Omicron fsxHUB       Eduardo Castillo   slacko.kozow.com
+101 HAMRADIO BBS         Eduardo Castillo   slacko.kozow.com
 103 lu1hvk BBS           Victor Ropolo      lu1hvk.ddns.net
 
 QWK Systems
