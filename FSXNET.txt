@@ -132,6 +132,7 @@ FSX_DOOR - BBS Doors, Games etc.
 FSX_UTLS - BBS Utils, Tools, Networking etc.
 
 FSX_ARTS - ANSI Art - Groups, Individuals etc.
+FSX_IMGE - Image Files (Various)
 FSX_TEXT - Text Files (Various)
 
 == Technical Details ========================================================

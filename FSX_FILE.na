@@ -15,6 +15,7 @@ Area FSX_SOFT  0     !      BBS Software (Current + Legacy)
 Area FSX_UTLS  0     !      BBS Utils, Tools, Networking etc.
 Area FSX_DOOR  0     !      BBS Doors, Games etc.
 Area FSX_ARTS  0     !      ANSI Art - Groups, Individuals etc.
+Area FSX_IMGE  0     !      Image Files (Various)
 Area FSX_TEXT  0     !      Text Files (Various)
 ;
 ; End of FSXNet Fileecho List

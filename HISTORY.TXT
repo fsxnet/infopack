@@ -14,44 +14,61 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-08-27
+Added Node 4/161 Gerlach BBS (SVK) - Welcome back to Dominik Madarasz who is
+                 based in Zvolen, Slovakia. Dominik was a member of fsxNet
+                 2016 and 2017 but closed his system due to a lack of
+                 avaliable time to devote to the hobby. He's back in 2019
+                 and it's nice to see him active in the scene again.
+                 You can reach Gerlach BBS by telnet at madaraszd.net:4321
+                 or port 4322 on SSH            
+
+2019-08-22
+Created FSX_IMGE - Image Files (Various) This is a new file area that has 
+                 been created to carry an assortment of non-ANSI image files
+                 In this base you will find JPG GIF etc. Topics span Space,
+                 Earth, Abstract, Animals, Anime, Cars, Flowers, Food, 
+                 Holiday, Military, Movies, People, Places, Tech etc.
+                 This base does not carry adult rated / R-Rated wallpapers.
+
 2019-08-20
 Removed Node 2/106 Back To The Roots BBS. Fabian is shutting his BBS down for 
-                   a few months and then plans to return to the BBS scene.
-                   For now it's best wishes to him until he returns.
-                   The node has been delisted.
+                 a few months and then plans to return to the BBS scene.
+                 For now it's best wishes to him until he returns.
+                 The node has been delisted.
 
 2019-08-14
-Added Node 1/203   Rocket Town BBS (USA) it's a warm welcome to sysop
-                   Ricky DeLuco who is setting up a Mystic BBS and looking
-                   to move over from a WWIV system based in Titusville, FL.
-                   You will find Rocket Town BBS by telneting to 
-                   rtbbs.ddns.net 
+Added Node 1/203 Rocket Town BBS (USA) it's a warm welcome to sysop
+                 Ricky DeLuco who is setting up a Mystic BBS and looking
+                 to move over from a WWIV system based in Titusville, FL.
+                 You will find Rocket Town BBS by telneting to 
+                 rtbbs.ddns.net 
                    
 Updated Node 1/202 Star Collision BBS is no longer a PVT system and can be
-                   reached at scbbs.nsupdate.info:50023 or port 50022 if you
-                   would rather use SSH :)
+                 reached at scbbs.nsupdate.info:50023 or port 50022 if you
+                 would rather use SSH :)
 
 2019-08-14
-Added Node 2/142   Shakey BBS (USA) please welcome to the network sysop
-                   Von Wallace who hails from Allen, Tx. Von is running a
-                   Synchronet BBS running under Debian and you can reach
-                   his system by heading to shakeybbs.com
-                   Welcome to fsxNet Von :)
+Added Node 2/142 Shakey BBS (USA) please welcome to the network sysop
+                 Von Wallace who hails from Allen, Tx. Von is running a
+                 Synchronet BBS running under Debian and you can reach
+                 his system by heading to shakeybbs.com
+                 Welcome to fsxNet Von :)
 
 2019-08-12
-Removed QWK Node   DOMAIN Immortal's Domain has gone as quick as it arrived.
+Removed QWK Node DOMAIN Immortal's Domain has gone as quick as it arrived.
 
 Updated Node 1/185 Lightning BBS (USA) is now Immortal's Domain BBS
-                   Steve advises the domain name address to poll has also
-                   changed to idomain.synchro.net - the nodelist has been 
-                   updated.
+                 Steve advises the domain name address to poll has also
+                 changed to idomain.synchro.net - the nodelist has been 
+                 updated.
 
-Added Node 1/202  Star Collision BBS (SWE) welcome to returning sysop
-                  Bjorn Wiberg aka Zip who is based in Uppsala in Sweeden. 
-                  Zip is setting up a Mystic BBS running under Linux
-                  The system is PVT for now. Welcome back to the BBSing
-                  scene ZIP it's nice to have you as a member of our
-                  community again :)
+Added Node 1/202 Star Collision BBS (SWE) welcome to returning sysop
+                 Bjorn Wiberg aka Zip who is based in Uppsala in Sweeden. 
+                 Zip is setting up a Mystic BBS running under Linux
+                 The system is PVT for now. Welcome back to the BBSing
+                 scene ZIP it's nice to have you as a member of our
+                 community again :)
 
 2019-08-11
 Updated Node 1/161 The Search BBS (USA) Karl is in the process of setting
