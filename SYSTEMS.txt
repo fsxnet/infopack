@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 27 August 2019 ---
+    --- fsxNet connected Systems as of 5 September 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -7,7 +7,7 @@ Node BBS Name            Sysop              Address
 NET 1 (21:1/xxx) Mystic BBS (BinkP)
 
 100 Risa HUB             Paul Hayton        agency.bbs.nz:24556
-101 Agency BBS           Paul Hayton        agency.bbs.nz   
+101 Agency BBS           Paul Hayton        agency.bbs.nz:24555   
 102 Error 404 BBS        Todd Zieman        error404bbs.ddns.net:404  
 103 Micro Link BBS       Lloyd Russell      -- Private Node --
 104 Shenk's Express BBS  Carol Shenkenberger shenks.dyndns.org 
@@ -32,7 +32,6 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 123 Thiaramus' Den       Roman Litvinenko   thiaramus.fsxnet.nz
 124 apernevan.tk BBS     Andrei Pernevan    apernevan.tk
 125 Nocturnal BBS        Andrew Pamment     nocturnal.hopto.org:2023 
-126 Twinkle BBS          Christopher Malo    -- Currently Down -- 
 127 Capital Station      Gregory Deyss      csbbs.dyndns.org  
 128 The OuijaBoard BBS   Jeff Smith         ftn.region14.org  
 129 SpaceSST BBS         Luc McCarragher    mccarragher.org  
@@ -115,11 +114,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 101 End Of The Line BBS  Nigel Reed         endofthelinebbs.com
 102 Flynn's Arcade BBS   Rich Webb          bbs.webbhq.net 
 103 Resistance Pride     Kevin Sonney       resistancepride.sytes.net
-104 Gryphus BBS          Stephen Arnold     gryphus.homelinux.org:5632
 105 The New Frontier 2   Charles Stephenson thenewfrontier2.hopto.org
-107 Nephilim BBS         David Abutbul      nephilim.synchro.net
-108 National Incident Alerts Ray King       niabbs.com
-109 RPG Circus BBS       Jeffrey Brissette  bbs.rpgcircus.com:2323
 110 iNK tWO BBS          Lawrence Manuel    bbs.inktwo.com
 111 Leisure Time BBS     Robert Riddell     bbs.riddells.net:10023
 112 Drakefire BBS        Jake Parks         bbs.drakefire.com
@@ -129,13 +124,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 116 Chinwag BBS          Deon George        chinwag.leenooks.net:10023
 118 SmokyThing BBS       Shannon Kuchler    inflecto.org
 119 Temple of Doom BBS   Kris Jones         tod.eothnet.com
-120 Files 4 Fun BBS      Timothy Norris     bbs.f4fbbs.com:2323
-121 Basement Theory BBS  Josh Ramsey        basement.synchro.net
-122 Insane Asylum BBS    Jim Kulwicki       asylumbbs.net:28
-123 Flower BBS           Kate Lily          bbs.homeip.net
-124 The Time Machine BBS Darren Crawford    timemachinebbs.mooo.com
 125 Fishingnet BBS       Matthew Smith      fishingnet.phatstar.org:7777
-126 Mastodont BBS        Patricio Rodriguez mastodontbbs.hopto.org
 127 Battlestar BBS       Mark Iezzi         battlestarbbs.dyndns.org
 128 The Dragons Den      Al Miller          merlock.org
 129 Risky Business BBS   Roger Ouimette     riskybusiness.hopto.org:2323
@@ -148,27 +137,22 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 136 Omicron Theta BBS    Robert Wolfe       winserver.org
 137 Tsali's BBS          James Washington   tsali.ddns.net:9023
 138 Palantir BBS         Dan Clough         palantirbbs.ddns.net
-139 Winchester BBS       Charlie Camilleri  www.charliecamilleri.xyz:6666 
 140 Subcarrier BBS       John McCoy         subcarrier.ignorelist.com:2323
 141 SiliconUnderground   Jason Bock         siliconu.fsxnet.nz
 142 Shakey BBS           Von Wallace        shakeybbs.com
 143 The Bit Bucket BBS   Stephen Atkins     bbs.thebitbucket.ca
-144 Retro Tyme BBS       Chris Costanzo     retrotyme.com
 145 Mike's Mansion BBS   Michael Pierce     mansion.dynv6.net
 146 Two Dudes BBS        Peter Spalding     twodudesbbs.fsxnet.nz
-147 Bowlin's Alley BBS   David Bowlin       bowlinsalley.ddns.net
 148 Mystic Island BBS    Mickey Frklic      mysticisland.strangled.net
 149 Moderate Chaos BBS   David DeWell       bbs.moderatechaos.com
-150 BackTo90's BBS       Pawel Adamczewski  fido.retroback.pl:2323
 151 Dock Sud BBS         Fernando Toledo    bbs.docksud.com.ar
 152 UnderZaNet BBS       Jan Henkins        bbs.under.za.net:2024
 153 t311net BBS          Rex Gibson         t311net.fsxnet.nz
 154 Danger Bay           Tom Swartz         dangerbaybbs.dyndns.org:1337
 155 New Amiga Frontier   Charles Stephenson frontierbbs.net
-156 Champs Visions 3D    Alain Champs       champsvisions3d.com
 157 SBBS BBS             Phillip Taylor     sbbs.dynu.net
 
-NET 3 (21:3/xxx) FrontDoor (EMSI/FTS6 + ZedZap) + Mystic BBS 
+NET 3 (21:3/xxx) Argus (EMSI/FTS6 + ZedZap) + Mystic BBS 
 
 100 Mutura fsxHUB         Paul Hayton       agency.bbs.nz:24558
 101 Future Hacker Central Joaquim Homrighausen -- Currently Down -- 
