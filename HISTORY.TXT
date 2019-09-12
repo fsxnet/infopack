@@ -14,13 +14,31 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-09-11
+fsxNet Nodelist Housekeeping - NET 1
+
+Removed Node 21:1/149 inQuiry BBS - Will confirms his system is down for good.
+
+The following nodes have not responded to email, echomail hails, nor polled
+the NET 1 HUB in some time and are now delisted as a result.
+
+Removed Node 21:1/193 Lunatic Fringe BBS
+Removed Node 21:1/147 MPrah BBS
+
+2019-09-08
+fsxNet Nodelist Housekeeping - NET 1 + NET 3             
+
+The following nodes are no longer marked as 'Down' in the nodelist.
+
+1/107, 3/104
+
 2019-09-05
 Removed Node 1/126 Twinkle BBS (USA) Chris aka Pequito advises he has no time
                  to run his BBS and has requested it be delisted.
                  
 fsxNet Nodelist Housekeeping - NET 1              
 
-The following nodes are no longer marked as 'down' in the nodelist.
+The following nodes are no longer marked as 'Down' in the nodelist.
 
 1/129, 1/159, 1/146, 1/191, 1/135
 
