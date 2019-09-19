@@ -14,6 +14,31 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-09-15
+fsxNet Nodelist Housekeeping - NET 3
+
+Removed Node 21:3/101 Future Hacker Central 
+
+JoHo advises for now his BBS remains offline as he recovers from a HDD crash.
+He is planning to return to scene but unsure when as time to focus on a reboot
+is the issue. But he has not given up on the idea. As and when we hear more 
+we'll post updated in FSX_GEN
+
+Removed Node 21:3/102 Micro Link Old School 
+
+Lloyd remains active on NET 1 but has shuttered his NET 3 Frontdoor system
+also due to work/play time constraints.
+
+Added Node 3/107 The Rusty Mailbox (CAN) Al is playing with EMSI/FTS6 on his
+                 system so the BBS is flying a NET 3 address.
+                 
+Updated Node 2/149 Moderate Chaos BBS (USA) to 'Down' in the nodelist. This is
+                 temporary while he moves from Mystic to a different BBS
+                 system.
+                 
+Updated Node 1/151 Dwarrowdelf BBS (USA) is no longer maked 'Down' in the
+                 nodelist.                
+                 
 2019-09-11
 fsxNet Nodelist Housekeeping - NET 1
 
