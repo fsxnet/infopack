@@ -14,6 +14,48 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-10-02
+Removed - NET 5  This NET has been dis-established. The Omicron HUB at 
+                 21:5/100 is sadly no more :(
+
+Removed Node 5/101 Mystic BBS HAMRADIO (ARG) has closed down. Eduardo 
+                 advises his HDD failed and he is not looking to resurrect it.
+                 
+                 As a result it's highly likely both FSX_PKT and FSX_ESP 
+                 echomail areas will be shuttered in the coming days. An 
+                 announcement about those message areas will follow in the 
+                 coming days.
+                 
+Removed Node 5/103 lu1hvk BBS (ARG). This system has also closed it seems so 
+                  has been delisted.                 
+
+Updated Node 1/142 The Vista BBS (USA) is back up again and is no longer marked
+                 as 'Down' in the nodelist.
+
+2019-10-01
+Updated Node 1/142 The Vista BBS (USA) has been marked as 'Down', Ian advises
+                 he's has a HDD failure but will return in a little while.
+                 
+Added Node 2/107 The Northern Borderlands BBS (USA) welcome to Jack Palmer Jr
+                 who is spinning up his Mystic BBS running Windows 32. The
+                 BBS is based in Sacramento and it can be reached at
+                 northernborderlands.ddns.net       
+
+Added Node 1/149 Xionum BBS (GER) it's also a warm welcome to Martin Aue who
+                 is based in Belgershain, near Leipzig, Germany. Martin is 
+                 running a Mystic BBS using a Raspbery Pi. You can reach the
+                 BBS via SSH only at server.xionum.de:2222
+                 
+Added Node 1/151 Types of Squash (GER) welcome to sysop Oliver Thuns who 
+                 hails from Thueringen, Germany. Oliver's system is a private
+                 node that has no public access at this time.
+
+2019-09-27
+Added Node 2/106 NeoCincinnati BBS (USA) also please say hi to Nikki Jenks
+                 aka Nodoka Hanamura who is based in Cincinnati, Ohio.
+                 You can reach the BBS by pointing your telnet client to
+                 neocinci.bbs.io 
+
 2019-09-26
 Added Node 4/162 vswitchzero BBS (CAN) please welcome sysop Mike Da Costa aka
                  lemonlime who is based in Toronto and is setting up a Mystic
