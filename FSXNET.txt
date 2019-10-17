@@ -102,23 +102,7 @@ FSX_ENG - ENiGMA 1/2 BBS discussions, support and development.
 FSX_HAM - Amateur Radio discussions. Covers all aspects of HAM radio
           including DX, HF, VHF/UHF, various digital modes etc.
           
-FSX_PKT - Packet Radio (AX.25 Gateway). This is a *read-only* echoarea that
-          carries gated international AX.25 packet radio bulletins from
-          the amateur radio scene. These messages may be of interest to 
-          both amateur radio operator and the general public.
-          The gateway is operated by LU9DCE
-          
-FSX_ESP - Espanol General Chat. This echoarea offers a place for Spanish
-          language conversations. Like FSX_GEN it is a general discussion
-          echoarea covering many topics. Test messages and other
-          experimentation is welcome.
-          
-          Este echoarea ofrece un lugar para conversaciones en español.
-          Al igual que FSX_GEN, es una discusión general que abarca muchos
-          temas. Mensajes de prueba y otros experimentos son bienvenidos.
-
-
-         
+        
 File Bases:
 
 FSX_NODE - Weekly Nodelists (fsxNet, etc.)

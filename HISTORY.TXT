@@ -14,6 +14,48 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-10-16
+Updated Node 4/161 Gerlach BBS (SVK). The BBS can now be reached at
+                 bbs.madaraszd.net:4321 or port 4322 on SSH. The nodelist 
+                 has been updated.
+                 
+Removed Node 3/105 The Lower Planes BBS (AUS) has been removed from NET 3
+                 at the sysops request. The system is now a point amd fed off 
+                 21:3/106 Linucus BBS instead.
+                 
+Added Node 1/126 HappyLand BBS (AUS) Andrew has spun up a new system as
+                 he continues his work developing Magicka BBS.
+                 The system can be reached at magickabbs.com:2023                
+
+2019-10-08
+Added Node 2/108 Storm BBS (USA) welcome aboard to sysop April Monoceros aka
+                 Adept. Based in Los Altos, Adept is running a Mystic BBS 
+                 under Windows 10. You can reach there system by heading to 
+                 stormbbs.mooo.com
+
+2019-10-07
+Updated Node 1/189 Joseph advises his system is now called The Virtual
+                 Terminal BBS - the nodelist has been updated.
+
+2019-10-05
+Added QWK Node   DARKMATT Dark Matter BBS (USA) welcome to sysop Will
+                 Milberger who is based in Kurten, TX. Will is running a 
+                 Synchronet BBS and you can reach it at 
+                 darkmatt.synchro.net:22 The BBS has SSH access only.
+
+The following echomail areas have been retired and any BBS linked to
+these echos have been delinked at their respective fsxNet HUBs. 
+You may wish to remove these message bases from your BBS.
+
+FSX_PKT - Packet Radio (AX.25 Gateway). This was a read-only echo fed by a 
+          gateway operated by LU9DCE. His system has closed down and the 
+          echo has been shuttered.
+          
+FSX_ESP - Español General Chat. This echoarea was for Spanish language
+          conversations. It was largely spun up to help nodes setting up
+          in NET 5 (ARG) but did not come to much. Now NET 5 has closed
+          with LU9DCE closing down this echo has been shuttered for now.
+
 2019-10-02
 Removed - NET 5  This NET has been dis-established. The Omicron HUB at 
                  21:5/100 is sadly no more :(
