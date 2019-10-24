@@ -14,6 +14,41 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-10-23
+Added Node 4/163 Retro Acorn BBS (GBR) welcome to sysop Richard Fairman who
+                 is based in Glasgow, Scotland. The BBS is running Mystic
+                 under Windows. At this stage Richard has an IP address
+                 set up and is working to link that to a domain name.
+                 His website is www.retroacorn.co.uk
+                 
+Updated Node 4/162 vswitchzero BBS (CAN) lemonlime advises the BBS has now 
+                 changed names and is called Stellar Darkness BBS. The domain
+                 name is now stellardarkness.com and the nodelist has been
+                 updated accordingly.
+                 
+Added Node 4/164 FuSiON BBS (USA) also please welcome Chris Schneider aka
+                 SHIFT838 to fsxNet. Running Mystic under a Raspberry Pi
+                 you can find the BBS based in Deer Park, TX at 
+                 fusion.zapto.org               
+
+2019-10-19
+Removed Node 3/107 The Rusty Mailbox (CAN) Al has shuttered his system
+                 and it has been delisted.
+
+Added Node 2/109 Nexus Computers BBS (AUS) please welcome sysop Manu Ngamotu
+                 who is based on the Gold Coast in Queensland, Australia
+                 Manu is still getting set up but is running a Mystic BBS
+                 using Windows. For now his system is marked as PVT
+                 
+Revised FSXNET.TXT - The file has been updated to reflect the addition of 
+                 values as well as revised goals to the fsxNet network.
+                 This has been undertaken in discussion with the fsxNet
+                 community and is an attempt to ensure the information 
+                 presented to prospective and current members and their 
+                 users is up to date as of late 2019. My thanks to all for
+                 their input in recent discussions around this subject.
+                 -Avon.
+
 2019-10-16
 Updated Node 4/161 Gerlach BBS (SVK). The BBS can now be reached at
                  bbs.madaraszd.net:4321 or port 4322 on SSH. The nodelist 
