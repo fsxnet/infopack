@@ -14,6 +14,30 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-10-29
+Added Node 3/108 The File Bank BBS (AUS) hailing from Carins, Australia it's
+                 a warm welcome to sysop Terry Roati. Terry is running a 
+                 WIldcat BBS (v8.0.454.9) under Windows 10.
+                 You can reach his BBS at tfb.fsxnet.nz
+                 
+Added Node 1/147 The Comm's Nut BBS (AUS) ..and adding to our Australian 
+                 contingent please say gidday to sysop Danny Moss.
+                 Danny is based in Gagebrook, Hobart Tasmania and is running
+                 a Mystic BBS under Debian. You can find his BBS at
+                 tcnbbs.fsxnet.nz:2323 or port 2222 for SSH connections.
+                 Danny is an amateur radio operator, his callsign is VK7HDM.
+
+2019-10-27
+Added Node 2/123 Deadbeatz BBS (USA) joining the fsxNet community please 
+                 welcome Tim Blada from Albuquerque, NM. Tim is running a 
+                 Mystic BBS under Ubuntu and you can find his system at
+                 deadbeatz.org using port 23 (Telnet) or 22 (SSH)
+
+Added Node 2/122 WildCat Prison BBS (USA) Ruben Figueroa aka Zazz is running
+                 WildCat (WinServer) under Windows 10. You can reach his 
+                 system at wcalt.rdfig.net:2324 or via his website at
+                 http://rdfig.net/public/telnet.htm
+
 2019-10-23
 Added Node 4/163 Retro Acorn BBS (GBR) welcome to sysop Richard Fairman who
                  is based in Glasgow, Scotland. The BBS is running Mystic
