@@ -14,6 +14,38 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-11-05
+Added Node 2/139 - Gryphus BBS (AUS). Welcome back to sysop Stephen
+                   Arnold. Running Mystic BBS on a Raspberry Pi you can find
+                   Stephen's system at gryphus.vk2sja.org:5632
+                                      
+Updated Node 2/116 Chinwag BBS (AUS) Deon advises the domain name has changed 
+                 and is now alterant.leenooks.net the nodelist and systems.txt
+                 have been updated.
+                 
+Updated Node 1/444 Ozz advises his BBS has changed its name to PBBS WHQ
+                  Support and the port on his domain name has changed to
+                  exchangebbs.com:38400 the nodelist and systems.txt have
+                  been updated.                                    
+
+2019-11-03
+Added Node 2/126 Rust Belt BBS (USA) it's a warm welcome to sysop Kevin Miller
+                 who is based in Rochester, NY and is running his Mystic BBS
+                 under Windows 10. You can reach his system at 
+                 rbbbs.mtonetwork.com
+                 
+Updated Node 2/108 Storm BBS (USA) April advises her domain name has changed
+                 you can now reach the BBS at telnet.stormbbs.com
+                 The nodelist has been updated to reflect this change.                 
+
+2019-11-02
+Updated Node 2/109 Nexus Computers BBS (AUS) have removed PVT flag from the
+                 nodelist as the BBS can be reached via 
+                 bbs.nexuscomputers.com.au
+                 
+Updated Node 4/106 The Rusty Mailbox (CAN) updated telnet port to 2023 and
+                 removed ITN flag in nodelist.                 
+
 2019-10-29
 Added Node 3/108 The File Bank BBS (AUS) hailing from Carins, Australia it's
                  a warm welcome to sysop Terry Roati. Terry is running a 
