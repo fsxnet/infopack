@@ -14,6 +14,44 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-11-13
+Added Node 4/103 Ready Player Two BBS (USA) It's hello and welcome to 
+                 Scott Daniels who is based in Front Royal, VA and joins the
+                 community as he has some fun with BBSing :) You can reach
+                 his Mystic powered BBS at readyplayertwo.ddns.net
+                 
+Created - NET 5  This NET has been established as part of an experiment to
+                 better serve WildCat BBS sysops who wish to connect to 
+                 fsxNet.                                
+                  
+Created - HUB 5  The Omicron fsxHUB has been re-established as 21:5/100
+                 Omicron Theta is the planet "where Dr. Noonien Soong built
+                 and activated the android Data and his brother Lore". 
+                 The HUB (WildCat Prison BBS) uses a mix of Winserver,
+                 Platinum Xpress, Netserial and VMODEM to enable fellow
+                 Wildcat sysops to connect connect with each other and to
+                 link in to fsxNet. It's a work in progress.
+
+Removed Node 2/122 WildCat Prison BBS (USA) running WildCat (WinServer)
+                 moves to NET 5 and is now 21:5/100
+           
+Removed Node 3/108 The File Bank BBS (AUS) moves to NET 5 and is now
+                 21:5/101
+
+2019-11-10
+Updated Node 4/122 Reality Check BBS (USA) is now referred to in systems.txt
+                   and nodelist as realitycheckBBS as per sysop request.
+
+Added Node 2/144 Outremer BBS (CAN) please welcome to the fsxNet community
+                 sysop Pieter Bakker aka Olrik who has set up a Mystic BBS
+                 running under Windows. Olrik is based in Vancouver and you
+                 can reach his system at outremer.fsxnet.nz
+                 
+Added Node 2/147 ACME BBS (USA) also joining fsxNet this week say hi to 
+                 sysop Don Lowery who hails from Albany, OR. Don is running
+                 a Mystic system and it can be reached at
+                 acmebbs.ddns.net:7788
+
 2019-11-05
 Added Node 2/139 - Gryphus BBS (AUS). Welcome back to sysop Stephen
                    Arnold. Running Mystic BBS on a Raspberry Pi you can find

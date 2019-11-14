@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 5 November 2019 ---
+    --- fsxNet connected Systems as of 13 November 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -6,7 +6,7 @@ Node BBS Name            Sysop              Address
 
 NET 1 (21:1/xxx) Mystic BBS (BinkP)
 
-100 Risa HUB             Paul Hayton        agency.bbs.nz:24556
+100 Risa fsxHUB             Paul Hayton        agency.bbs.nz:24556
 101 Agency BBS           Paul Hayton        agency.bbs.nz:24555   
 102 Error 404 BBS        Todd Zieman        error404bbs.ddns.net:404  
 103 Micro Link BBS       Lloyd Russell      -- Private Node --
@@ -129,7 +129,6 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 116 Chinwag BBS          Deon George        alterant.leenooks.net
 118 SmokyThing BBS       Shannon Kuchler    inflecto.org
 119 Temple of Doom BBS   Kris Jones         tod.eothnet.com
-122 WildCat Prison BBS   Ruben Figueroa     wcalt.rdfig.net:2324
 123 Deadbeatz BBS        Tim Blada          deadbeatz.org
 124 Insane Asylum BBS    James Kulwicki     -- Private Node --
 125 Fishingnet BBS       Matthew Smith      fishingnet.phatstar.org:7777
@@ -151,8 +150,10 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 141 SiliconUnderground   Jason Bock         siliconu.fsxnet.nz
 142 Shakey BBS           Von Wallace        shakeybbs.com
 143 The Bit Bucket BBS   Stephen Atkins     bbs.thebitbucket.ca
+144 Outremer BBS         Pieter Bakker      outremer.fsxnet.nz
 145 Mike's Mansion BBS   Michael Pierce     mansion.dynv6.net
 146 Two Dudes BBS        Peter Spalding     twodudesbbs.fsxnet.nz
+147 ACME BBS             Don Lowery         acmebbs.ddns.net:7788
 148 Mystic Island BBS    Mickey Frklic      mysticisland.strangled.net
 149 Moderate Chaos BBS   David DeWell       bbs.moderatechaos.com
 151 Dock Sud BBS         Fernando Toledo    bbs.docksud.com.ar
@@ -162,18 +163,18 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 155 New Amiga Frontier   Charles Stephenson frontierbbs.net
 157 SBBS BBS             Phillip Taylor     sbbs.dynu.net
 
-NET 3 (21:3/xxx) Argus (EMSI/FTS6 + ZedZap) + Mystic BBS 
+NET 3 (21:3/xxx) Argus (EMSI/FTS6 + ZedZap)
 
 100 Mutura fsxHUB         Paul Hayton       agency.bbs.nz:24558
 104 Brain Storm BBS       Ioram Sette       ssh: bsbbs@bsbbs.com.br
 106 Linucus BBS           Deon George       chinwag.leenooks.net:60177
-108 The File Bank BBS     Terry Roati       tfb.fsxnet.nz
 
 NET 4 (21:4/xxx) Mystic BBS (BinkP)
 
 100 Niba fsxHUB          Dan Richter        bbs.castlerockbbs.com:24560
 101 Back to the Future   Bill Simon         bttfbbs.com
 102 Before the Web BBS   Dallas Vinson      loybbs.net:23232
+103 Ready Player Two BBS Scott Daniels      readyplayertwo.ddns.net
 104 Herbies BBS II       Thorsten Herb      herbies-bbs.ddns.net
 105 Phoenix BBS          Andrew Leary       phoenix.bnbbbs.net:2323
 106 Rusty Mailbox BBS    Alan Ianson        trmb.ca:2023
@@ -192,7 +193,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 119 After Hours BBS      Greg Youngblood    afterhours-bbs.com
 120 Deep Space Gateway   Sam Penwright       -- Private Node --
 121 AlcaBBS              Michael Trip       bbs.alcatrash.org
-122 Reality Check BBS    Kurt Weiske        realitycheckbbs.org
+122 realitycheckBBS      Kurt Weiske        realitycheckbbs.org
 123 Humongous BBS        Nathanael Culver   jenandcal.familyds.org:2323
 124 The Dungeon BBS      Keith Matthews     dungeon.barnabasmusic.com
 125 Veleno BBS           Thomas Bampi       velenobbs.ddns.net
@@ -229,6 +230,11 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 162 Stellar Darkness BBS Mike Da Costa      stellardarkness.com:1023
 163 Retro Acorn BBS      Richard Fairman    -- Private Node --
 164 Fusion BBS           Chris Schneider    fusion.zapto.org
+
+NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
+
+100 WildCat Prison BBS   Ruben Figueroa     wcalt.rdfig.net:2324
+101 The File Bank BBS    Terry Roati        tfb-bbs.org
 
 QWK Systems
 
