@@ -14,6 +14,20 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-11-17
+fsxNet Nodelist Housekeeping - NET 3
+
+Updated Node 3/100 The Mutura HUB duties are now being handled by Deon aka 
+                 Alterego at Linucus BBS using a Taurus mailer running 
+                 EMSI/FTS6 style connections at alterant.leenooks.net:60177
+                 - thanks Deon :)
+
+Removed Node 3/106 Linucus BBS now moves to 3/100 and carries HUB duties.
+
+Added Node 3/101 The Lower Planes BBS (AUS) Anthony Adverse aka Spectre
+                 rejoins NET 3 as a full node.
+
+
 2019-11-13
 Added Node 4/103 Ready Player Two BBS (USA) It's hello and welcome to 
                  Scott Daniels who is based in Front Royal, VA and joins the
