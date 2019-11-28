@@ -14,6 +14,22 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-11-29
+Updated Node 1/128 The OuijaBoard BBS domain of ftn.region14.org was not 
+                 working so have updated the domain name to bbs.ouijabrd.net
+                 
+Updated Node 1/142 The Vista BBS - Ian advises his system is 'down' for now
+                 while he rebuilds things. The node has been marked as 'down'
+                 in the nodelist for now.                 
+
+2019-11-25
+Added Node 5/102 TAK Software BBS (USA) welcome to sysop Thomas Kloos who is
+                 running Winserver v8 under Windows Server 2012. You can find
+                 his BBS at bbs.taksoftware.com
+
+Updated info in FSXNET.TXT to reflect recent changes to NET 3 and NET 5
+Also added updates to text on bbs.nz and fsxnet.nz
+
 2019-11-17
 fsxNet Nodelist Housekeeping - NET 3
 

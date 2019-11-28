@@ -134,10 +134,13 @@ The fsxNet Tholian HUB (21:2/100) accepts BinkD connections via
 error404bbs.ddns.net:24555
 
 The fsxNet Mutura HUB (21:3/100) accepts Telnet EMSI/FTS6 + ZedZap connections
-via agency.bbs.nz:24558
+via alterant.leenooks.net:60177
 
 The fsxNet Niba HUB (21:4/100) accepts BinkD connections via 
 bbs.castlerockbbs.com:24560
+
+The fsxNet Omicron HUB (21:5/100) accepts VMODEM NetSerial/PXW connections
+via rdfig.net:3141
 
 Please note the port numbers we're using are in a range from 24555 - 24560
 subject to which HUB you are polling.

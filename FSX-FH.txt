@@ -70,6 +70,7 @@ Bad Path = c:\doors\fh\bad           <--- Set path for bad packets received
 Delete Bad = False                   <--- Set 'False' to move bad packets to 
                                           Bad Path or set 'True' to delete
                                           bad packets received at your BBS
+Max Fights = 20                      <--- Set this to 20                                          
 
 [Interbbs]
 Enabled = true                       <--- Set to True or no Inter-BBS 4 u!
