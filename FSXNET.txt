@@ -103,7 +103,9 @@ FSX_ENG - ENiGMA 1/2 BBS discussions, support and development.
 
 FSX_HAM - Amateur Radio discussions. Covers all aspects of HAM radio
           including DX, HF, VHF/UHF, various digital modes etc.
-          
+
+FSX_NET - Discussions about fsxNet. Chat about current network operations,
+          plans for the future and how to best implement them.
         
 File Bases:
 

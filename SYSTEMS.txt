@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 26 November 2019 ---
+    --- fsxNet connected Systems as of 4 December 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -56,7 +56,6 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 147 The Comm's Nut BBS   Danny Moss         tcnbbs.fsxnet.nz:2323
 148 Coco's BBS           Luis Marin         cocosbbs.cr.rs:50600
 149 Xionum BBS           Martin Aue         server.xionum.de:2222
-150 Disconnected Reality Adam Gosselin      discreal.synchronetbbs.org
 151 Types of Squash      Oliver Thuns        -- Private Node --
 152 2nd Choice Core      Ian Segers         2ndchoicecore.nz:1024 
 153 Infoline BBS         Mickolas Pansky    -- Private Node -- 
@@ -157,11 +156,13 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 147 ACME BBS             Don Lowery         acmebbs.ddns.net:7788
 148 Mystic Island BBS    Mickey Frklic      mysticisland.strangled.net
 149 Moderate Chaos BBS   David DeWell       bbs.moderatechaos.com
+150 American Pi BBS      Paul Hughes        -- Private Node --
 151 Dock Sud BBS         Fernando Toledo    bbs.docksud.com.ar
 152 UnderZaNet BBS       Jan Henkins        bbs.under.za.net:2024
 153 t311net BBS          Rex Gibson         t311net.fsxnet.nz
 154 Danger Bay           Tom Swartz         dangerbaybbs.dyndns.org:1337
 155 New Amiga Frontier   Charles Stephenson frontierbbs.net
+156 CJ's Place BBS       Chris Johnson      cjsplace.thruhere.net
 157 SBBS BBS             Phillip Taylor     sbbs.dynu.net
 
 NET 3 (21:3/xxx) Taurus (EMSI/FTS6 + ZedZap)

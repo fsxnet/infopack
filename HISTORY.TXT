@@ -14,6 +14,37 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-12-04
+Added Node 2/150 American Pi BBS (USA) hailing from Portland, Oregon please
+                 give a warm welcome to sysop Paul Hughes who is setting up
+                 his Mystic BBS running on a Raspberry Pi. Paul is working
+                 on a domain name that you can connect to him on etc. so for
+                 now his system is marked as PVT in the nodelist.
+                 
+Added Node 2/156 CJ's Place BBS (USA) also joining the fsxNet community it's
+                 a big hey there and welcome to sysop Chris Johnson who is
+                 based in Orange City, FL. Chris runs a Synchronet BBS 
+                 under Windows 10 and can be reached at cjsplace.thruhere.net
+
+2019-12-03
+Created FSX_NET - fsxNet is now just over 4 years old. This echoarea has been
+                  created as a space for discussions about the network, its 
+                  current operations, plans for the future and how best to 
+                  implement them. Suggested topics include decentralization,
+                  collaboration, promotion, membership, encrypted connectivity
+                  mesh networking, new protocol development + implementation
+                  etc.                
+
+2019-12-01
+Removed Node 1/150  Disconnected Reality (USA) Adam advises he is shutting
+                 down his BBS. The node has been delisted. 
+                  
+2019-11-30
+Updated Node 1/135 Return to the lair of the Wolverine BBS (USA) is currently
+                 offline. Patch advises he is trying to work a solution to 
+                 fix his Raspberry Pi. The node has been marked as 'down'
+                 for now.
+
 2019-11-29
 Updated Node 1/128 The OuijaBoard BBS domain of ftn.region14.org was not 
                  working so have updated the domain name to bbs.ouijabrd.net
