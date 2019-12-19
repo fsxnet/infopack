@@ -14,6 +14,11 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2019-12-15
+Updated Node 1/154 Raiders BBS (USA) now using BinkP port 24554
+
+Updated Node 
+
 2019-12-04
 Added Node 2/150 American Pi BBS (USA) hailing from Portland, Oregon please
                  give a warm welcome to sysop Paul Hughes who is setting up
