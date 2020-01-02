@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 22 December 2019 ---
+    --- fsxNet connected Systems as of 28 December 2019 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -98,6 +98,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 190 Amoeba BBS           Mike Dee           amoeba.ohbah.com:24
 191 Slasho.me BBS        Christopher Hall   slasho.me
 192 A 90's Manila BBS    Michael Balcos     bbs.balcos.net 
+193 Darkstar BBS         Alexander Winkler  darkstar.bmxjo.org:2023 
 194 Diamond Mine Online  David Perrussel    bbs.dmine.net:24
 195 Dragon's Claw HUB    Stephen Walsh      ftn.vk3heg.net
 196 Dragon's Lair BBS    Stephen Walsh      dragon.vk3heg.net
@@ -163,7 +164,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 154 Danger Bay           Tom Swartz         dangerbaybbs.dyndns.org:1337
 155 New Amiga Frontier   Charles Stephenson frontierbbs.net
 156 CJ's Place BBS       Chris Johnson      cjsplace.thruhere.net
-157 SBBS BBS             Phillip Taylor     sbbs.dynu.net
+157 SBBS BBS             Phillip Taylor     mystic.dynu.net
 
 NET 3 (21:3/xxx) Taurus (EMSI/FTS6 + ZedZap)
 
@@ -189,7 +190,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 112 Sloane BBS           Steve Smith        sloanebbs.com
 113 Digital Wurmhole BBS Blair Lovell       digitalwurmhole.ddns.net:2323
 114 PlaneT Afr0 BBS      Jason Tefft        cetialphafive.com:8888
-115 The Big Edge BBS     Robin Ganderton thebigedge.gandertonconsulting.ca:2323
+115 Phaseshift BBS       Kevin Pausche      phased.port0.org:2323
 116 InterMail Support    Dale Barnes        im.ifidonet.com
 117 Brainsuxx.inc BBS    Michael Braun      brainsuxxinc.ddns.net
 118 Bit's Lair BBS       Yeray Dorta         -- Private Node --
