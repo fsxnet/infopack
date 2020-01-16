@@ -14,6 +14,15 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2020-01-07
+Removed Node 4/162 Stellar Darkness BBS - Mike advises he is closing his BBS 
+                 down so the system has been delisted. 
+                 
+Added Node 5/103 The Computer Express (USA). Welcome to sysop Chris Costakis
+                 who is running a Wildcat BBS and is based in Anoka, MN.
+                 You can reach his system at bbs.costakis.org
+                 Welcome aboard Chris :)                 
+
 2020-01-05
 Added Node 2/158 Segfault BBS (USA) a warm welcome to sysop Larry Wyble who
                  is based in Canyon TX. Running a Mystic BBS under Windows 10
