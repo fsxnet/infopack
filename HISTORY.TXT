@@ -14,6 +14,22 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2020-01-19
+Added Node 1/204 Family BBS (NZL) welcome to sysop Tony Pawson aka Widgit who
+                 is based in Auckland, New Zealaand. Widgit is running a 
+                 Mystic BBS under Windows 10 Pro. You can reach his system at
+                 familybbs.ddns.net
+                 
+Added Node 1/150 Sotano Msx BBS (ESP) hailing from Ibiza in Spain welcome to
+                 Pepe Diaz who is setting up a Mystic BBS running under
+                 Linux. The system is marked as PVT for now as there is no
+                 domain name established for it as yet.   
+
+Added Node 1/205 Wicked Garden BBS (AUS) please say gidday to sysop Hung Tran
+                 who is based in Burnside, Vic. and running a Mystic BBS 
+                 using Windows 10. The system can be reached at 
+                 wgbbs.fsxnet.nz
+
 2020-01-07
 Removed Node 4/162 Stellar Darkness BBS - Mike advises he is closing his BBS 
                  down so the system has been delisted. 

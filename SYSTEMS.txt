@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 14 January 2020 ---
+    --- fsxNet connected Systems as of 19 January 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -56,10 +56,11 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 147 The Comm's Nut BBS   Danny Moss         tcnbbs.fsxnet.nz:2323
 148 Coco's BBS           Luis Marin         cocosbbs.cr.rs:50600
 149 Xionum BBS           Martin Aue         server.xionum.de:2222
-151 Types of Squash      Oliver Thuns        -- Private Node --
+150 Sotano Msx BBS       Pepe Diaz          -- Private Node --
+151 Types of Squash      Oliver Thuns       -- Private Node --
 152 2nd Choice Core      Ian Segers         2ndchoicecore.nz:1024 
 153 Infoline BBS         Mickolas Pansky    -- Private Node -- 
-154 Raiders Inc BBS      Jon Justvig       vintagebbsing.com:23
+154 Raiders Inc BBS      Jon Justvig        vintagebbsing.com:23
 155 Haciend BBS          Antti Kiuru        haciend.com  
 156 Central Ontario      Mike Manning       oxfordmi.synchro.net  
 157 Shadowscope BBS      Richard Miles      bbs.shadowscope.com 
@@ -108,6 +109,8 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 201 Decker's Heaven      Eric Renfro        bbs.deckersheaven.com
 202 Star Collision BBS   Bjorn Wiberg       scbbs.nsupdate.info:50023
 203 Rocket Town BBS      Ricky DeLuco       rtbbs.ddns.net
+204 Family BBS           Tony Pawson        familybbs.ddns.net
+205 Wicked Garden BBS    Hung Tran          wgbbs.fsxnet.nz
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
 
