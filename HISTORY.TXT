@@ -14,6 +14,22 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2020-01-27
+Added Node 2/159 SBB Systems (GBR) welcome to Frans King who is running a
+                 Enigma 1/2 BBS under Raspian. Based in London, England you
+                 can reach the BBS via bbs.sbbsystems.com and use port 8888
+                 for telnet or port 8889 for SSH. Welcome to fsxNet Frans :)
+                 
+Added Node 4/165 w0pr.win BBS (USA) running a Mystic BBS please welcome 
+                 sysop Richard Swartz who is based in Sparta, Tennessee.
+                 You can visit the BBS by heading to w0pr.win
+                 
+Added Node 2/160 DarkAges BBS (USA) also joining the fsxNet community please
+                 give a warm welcome to Randy Henderson aka Gargoyle who is
+                 located in Wayne, Oklahoma.  Gargoyle is running a 
+                 Synchronet BBS and you can reach him at darkagesbbs.com or
+                 darkages.fsxnet.nz
+
 2020-01-19
 Added Node 1/204 Family BBS (NZL) welcome to sysop Tony Pawson aka Widgit who
                  is based in Auckland, New Zealaand. Widgit is running a 
