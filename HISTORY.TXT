@@ -14,6 +14,19 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2020-02-02
+Updated Node 4/158 Strontium 90 BBS (USA) has changed it's name to Card &
+                 Claw BBS. Robbie advises the domain name and ports are now 
+                 cardandclaw.servebbs.com 8888/8889 - the nodelist and info
+                 pack have been updated.
+                 
+2020-01-31
+Added Node 1/198 The Fat Dragon (USA) is working on getting connected to 
+                 fsxNet. Based in New York its admin Dan Cross is
+                 experimenting with FTN and BBSing in 2020. For more on
+                 his prject you can vist and read fat-dragon.org
+                 Welcome Dan :)
+
 2020-01-27
 Added Node 2/159 SBB Systems (GBR) welcome to Frans King who is running a
                  Enigma 1/2 BBS under Raspian. Based in London, England you
