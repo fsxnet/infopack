@@ -14,6 +14,44 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2020-02-13
+Added Node 4/167 The Vault BBS (ARG) also joining us from Argentina and
+                 located in Buenos Aires please welcome Rodrigo Peláez who is
+                 setting up a Mystic system running on Windows 10
+                 You can reach the BBS at thevaultbbs.fsxnet.nz:2323
+                 
+Added Node 4/168 Dales BBS (GBR) Welcome to returning sysop Dale Cousins who
+                 is based in Gorleston, Norfolk and returns to fsxNet after
+                 a year or three away :) Welcome back Dale. You can find his
+                 BBS at dalesbbs.fsxnet.nz:2323 or use port 2222 for SSH
+                 connects.
+
+Updated Node 4/102 Before the Web BBS (USA) has changed domain names to
+                  furmenservices.net - the nodelist and systems.txt have 
+                  been updated.
+
+2020-02-12
+Added Node 1/207 Argen-X BBS (ARG) please welcome back sysop Eduardo
+                 Castillo who is based in Tortuguitas, Argentina.
+                 Eduardo is a HAM radio operator who has the callsign LU9DCE
+                 You can reach his BBS via Telnet at sysop.kozow.com and he
+                 is joined by his co-sysop Guagua in running the system.
+                 Look for gated packet radio content etc. on his system.
+
+2020-02-09
+Added Node 1/206 Red Mud BBS (USA) welcome back to sysop David Snyder who is
+                 running a Mystic system at redmudbbs.site
+
+
+2020-02-08
+Added Node 4/166 Black Lodge Research BBS (USA) welcome Emory Balmer aka 
+                 Embalmed who has set up a Mystic BBS running on Linux.
+                 Head to blacklodge.fsxnet.nz and use port 4023 for telnet
+                 or 4022 for ssh. Black Lodge Research, founded in 2007,
+                 is a hackerspace located in Redmond, Washington that serves
+                 the greater Seattle Hacker community. For more info visit
+                 www.blacklodgeresearch.org
+
 2020-02-02
 Updated Node 4/158 Strontium 90 BBS (USA) has changed it's name to Card &
                  Claw BBS. Robbie advises the domain name and ports are now 

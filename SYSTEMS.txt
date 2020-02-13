@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 02 February 2020 ---
+    --- fsxNet connected Systems as of 13 February 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -112,6 +112,8 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 203 Rocket Town BBS      Ricky DeLuco       rtbbs.ddns.net
 204 Family BBS           Tony Pawson        familybbs.ddns.net
 205 Wicked Garden BBS    Hung Tran          wgbbs.fsxnet.nz
+206 Red Mud BBS          David Snyder       redmudbbs.site
+207 Argen-X BBS          Eduardo Castillo   sysop.kozow.com
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
 
@@ -184,7 +186,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 
 100 Niba fsxHUB          Dan Richter        bbs.castlerockbbs.com:24560
 101 Back to the Future   Bill Simon         bttfbbs.com
-102 Before the Web BBS   Dallas Vinson      loybbs.net:23232
+102 Before the Web BBS   Dallas Vinson      furmenservices.net:23232
 103 Ready Player Two BBS Scott Daniels      readyplayertwo.ddns.net
 104 Herbies BBS II       Thorsten Herb      herbies-bbs.ddns.net
 105 Phoenix BBS          Andrew Leary       phoenix.bnbbbs.net:2323
@@ -241,6 +243,9 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 163 Retro Acorn BBS      Richard Fairman    -- Private Node --
 164 Fusion BBS           Chris Schneider    fusion.zapto.org
 165 w0pr.win BBS         Richard Swartz     w0pr.win
+166 Black Lodge Research Emory Balmer       blacklodge.fsxnet.nz
+167 The Vault BBS        Rodrigo Pelaez     thevaultbbs.fsxnet.nz
+168 Dales BBS            Dale Cousins       dalesbbs.fsxnet.nz
 
 NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
 
