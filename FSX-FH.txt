@@ -110,7 +110,7 @@ The contents of start.bat looks like this
 
 c:
 cd\doors\fh
-ForHonour.exe -D %1 -N %2 -SOCKET %3
+ForHonour.exe %1 -N %2 -SOCKET %3
 ForHonour.exe maintenance
 cd\mystic
 fidopoll 21:1/10

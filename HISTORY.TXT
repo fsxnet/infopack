@@ -14,6 +14,37 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2020-02-20
+Added Node 4/169 What the Dormouse Said BBS (USA) arriving from Springfield
+                 IL it's welcome to Greg Zoll. Who's setting up his
+                 Synchronet BBS running under Windows 10. Pop over and say
+                 Hi :) The address is whatthed.synchro.net:23 Telnet or 
+                 port 22 for SSH.
+                 
+Added Node 1/209 LU8FJH BBS (ARG) welcome to sysop Juan Musso who is based
+                 in Rosario Argentina. His BBS can be reached at 
+                 lu8fjh.dyndns.org and his website is lu8fjh.ampr.org
+
+2020-02-18
+Added Node 1/208 S.W.A.T.S BBS (NZL) Please welcome sysop Stephen Hunt aka
+                 Major Queen based in Auckland, New Zealand. Returning to 
+                 BBSing after some years away. The BBS is being set up
+                 running Mystic and can be reached at swatsbbs.ddns.net
+                 Welcome back to the BBS scene :)
+
+2020-02-17
+Added Node 2/163 XM Core BBS (USA) It's a warm welcome to Dwight Spencer aka
+                 Cyberlord who is running a Mystic BBS on Linux. Based in
+                 Dallas TX you can reach XM Core at bbs.dapla.net or visit
+                 the website at http://web.bbs.dapla.net/
+                 
+Added Node 2/162 The Freespeak BBS (USA) also back to the BBS scene from a 
+                 hiatus that started in the early 2000s please welcome Gary
+                 Ailes who is based in Pittsburgh, PA. Gary is working on 
+                 setting up his Mystic system and enjoying re-learning all
+                 that BBS stuff we knew oh so much better back in the 90s :)
+                 You can visit Gary's system by heading to freepeak.hopto.org
+
 2020-02-13
 Added Node 4/167 The Vault BBS (ARG) also joining us from Argentina and
                  located in Buenos Aires please welcome Rodrigo Peláez who is
