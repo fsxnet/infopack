@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 20 February 2020 ---
+    --- fsxNet connected Systems as of 22 February 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -96,7 +96,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 187 Cosmik Debris BBS    Andrew Pepper      cosmikdebris.ddns.net:2323
 188 ACiD Underworld BBS  Hawk Hubbard       -- Private Node --
 189 The Virtual Terminal Joseph Werle       bbs.kernelerror.com:10023
-190 Amoeba BBS           Mike Dee           amoeba.ohbah.com:24
+190 Abacus BBS           Rick Smith         bbs.abon.us
 191 Slasho.me BBS        Christopher Hall   slasho.me
 192 A 90's Manila BBS    Michael Balcos     bbs.balcos.net 
 193 Darkstar BBS         Alexander Winkler  darkstar.bmxjo.org:2023 

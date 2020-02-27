@@ -14,6 +14,14 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2020-02-22
+Removed Node 1/190 Amoeba BBS (USA) Mike advises his system has closed down.
+                 Best wishes Mike and hope to see you back again sometime.
+                 
+Added Node 1/190 Abacus BBS (USA) please welcome sysop Rick Smith whos is
+                 based in Portland, OR. Rick is setting up a Mystic BBS and
+                 can be reached at bbs.abon.us                 
+
 2020-02-20
 Added Node 4/169 What the Dormouse Said BBS (USA) arriving from Springfield
                  IL it's welcome to Greg Zoll. Who's setting up his
