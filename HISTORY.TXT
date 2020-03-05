@@ -14,6 +14,16 @@ Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2020-03-01
+Added Node 2/161 DaRK Game BBS (USA) welcome to sysop Arturo Busleiman who is
+                 based in Kannapolis, NC annd running a Mystic BBS under Linux
+                 You can reach his system at darkgame.buanzo.org
+                 
+Added Node 2/164 Dragonstalon BBS (USA) and it's also a warm welcome to 
+                 Lee Staley who hails from Whiteville, TN and is set up using
+                 Mystic BBS under Windows 7. You can reach the BBS via Telnet
+                 at dtalon.ddns.net:8088
+
 2020-02-22
 Removed Node 1/190 Amoeba BBS (USA) Mike advises his system has closed down.
                  Best wishes Mike and hope to see you back again sometime.
