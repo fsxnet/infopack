@@ -6,13 +6,47 @@
 			 
 fsxNet is a fun, simple and experimental network established in late 2015
 
-This document contains a full rolling log of changes made to fsxNet.
+This document contains a full rolling log of changes made to fsxNet. 
+(Rolling logs can be painful and we recommend not engaging in the sport
+of playing chicken with rolling logs... it usually ends badly for you 
+and not the log.)
  
 It is saved as history.txt and ships as part of the weekly infopack hatched
-out to all fsxNet nodes. If you spot anything amiss please contact
-Paul Hayton at 21:1/101 or email at avon@bbs.nz :)
+out to all fsxNet nodes. If you spot anything amiss (really amiss or just
+looking like a plug fell out amiss or amiss as in my wife / girlfriend is
+going to kill me amiss) please contact Paul Hayton at 21:1/101 or email him
+at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+
+2020-03-10
+Added Node 4/170 Hispania BBS (GBR) Welcome to sysop Efraim Sanchez Gil who
+                 is based in Milton Keynes, UK. Running a Mystic BBS on a 
+                 Raspberry Pi you can reach the BBS by heading to
+                 hispaniabbs.dynamic-dns.net
+                 
+Added Node 4/171 Star Frontiers BBS (USA) And it's welcome William Williams
+                 who joins us from Huntsville, Tx where he is running a 
+                 Synchronet BBS under Linux. The BBS can be found at 
+                 starfron.synchronetbbs.org
+                 
+Added Node 2/165 LoFi BBS (CAN) Hi and welcome to Matt Gibson aka HiFi who 
+                 is setting up his Enigma 1/2 BBS. You can reach the BBS
+                 at lofi.ooo:8888 or SSH on port 8889
+                 
+Added Node 1/125 CrNet BBS (USA) and taking the world record for the fastest
+                 reuse of a delisted fsxNet node number please welcome John
+                 Gonzales who is based in Saint James, NY, USA and is setting
+                 up his Mystic BBS at bbs.crnet.net - welcome John :)
+                 
+                 Did you know that once in a while Avon may write something 
+                 rather random in HISTORY.TXT just cause :) The fun thing is
+                 that sometimes these may be much harder to spot than you
+                 think they actually are. Just saying... ;)
+
+2020-03-08
+Removed Node 1/125 Nocturnal BBS (AUS) Andrew advises this system has closed.
+                 The node has been delisted.
 
 2020-03-01
 Added Node 2/161 DaRK Game BBS (USA) welcome to sysop Arturo Busleiman who is
