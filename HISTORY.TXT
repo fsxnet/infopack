@@ -19,6 +19,44 @@ at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2020-04-02
+Added Node 2/167 ITBNET BBS (ITA) please welcome from Roma sysop Pasquale
+                 Monti. Pasquale is setting up a MagickaBBS running on
+                 Ubuntu and you can find his system at itbnet.fsxnet.nz
+                 
+Added Node 2/168 Conxtor BBS (ESP) based in Cartama, Spain it's a warm
+                 welcome to Volker Kerkhoff who is in the process of 
+                 setting up his Mystic BBS. You can visit his system at
+                 conxtor.fsxnet.nz
+
+Added Node 2/169 Jebula BBS (FIN) it's the second system based in Finland
+                 to join fsxNet. Please welcome Jesse Maenpaa who is 
+                 working on his Mystic BBS running on a Raspberry Pi.
+                 The system is not yet public so is marked at PVT for now
+                 in the nodelist.
+
+2020-04-01
+Added Node 4/172 Dark Forces BBS (USA) welcome to sysop Mark Iezzi who is
+                 running a Mystic BBS that can be found at
+                 darkforcesbbs.dyndns.org:2200
+                 
+Added Node 4/173 KN6Q BBS (USA) also welcome to Tom Kisner based in Azle, 
+                 Texas. Tom is running a Mystic BBS under Windows 10 and 
+                 it can be reached at bbs.kn6q.org
+
+Added QWK Node   NECROBBS Welcome to sysop Jonathan Tolentino who hails from
+                 Los Angeles, California and is running a Synchronet BBS
+                 You can telnet to the system at necrobbs.com
+                 
+Added Node 2/166 Dark Carnival BBS (USA) welcome to Richard Matthews aka
+                 FreshRich who is based in LaGrange, Georgia. You can 
+                 connect to his Mystic system at bbs.darkcarnival.org
+                 
+
+2020-03-29
+Updated Node 1/190 Abacus BBS (USA) Rick advises his telnet port has moved
+                 to port 2323. Nodelist has been updated.
+
 2020-03-10
 Added Node 4/170 Hispania BBS (GBR) Welcome to sysop Efraim Sanchez Gil who
                  is based in Milton Keynes, UK. Running a Mystic BBS on a 
