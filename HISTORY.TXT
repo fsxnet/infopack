@@ -19,6 +19,12 @@ at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2020-04-04
+Updated Node 2/169 Jebula BBS (FIN) is now linked to bbs.jebu.la and is no
+                 longer marked as a PVT node in the nodelist.
+                 
+Updated Node 1/151 has moved to NET 3 and is now 3/102                
+
 2020-04-02
 Added Node 2/167 ITBNET BBS (ITA) please welcome from Roma sysop Pasquale
                  Monti. Pasquale is setting up a MagickaBBS running on
