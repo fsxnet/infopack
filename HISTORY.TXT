@@ -19,6 +19,11 @@ at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2020-04-07
+Added Node 1/210 Digital Jackalope BBS (CAN) please welcome sysop Daria 
+                 Juniper aka Dasreal who is checking in from Toronto.
+                 You can reach his Mystic system at bbs.jackalope.pw
+                 
 2020-04-04
 Updated Node 2/169 Jebula BBS (FIN) is now linked to bbs.jebu.la and is no
                  longer marked as a PVT node in the nodelist.
