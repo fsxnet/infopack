@@ -30,6 +30,8 @@ Would you like to be part of a group that enjoy experimenting and developing
 those technologies further? If the answer is yes, then we invite you to 
 join us :) 
 
+== Goals ====================================================================
+
 Develop and encourage international communications between 100 (or more)
 geographically diverse bulletin board system operators (members)
 and their users in order to:
