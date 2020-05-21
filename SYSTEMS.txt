@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 11 May 2020 ---
+    --- fsxNet connected Systems as of 20 May 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -158,7 +158,6 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 140 Subcarrier BBS       John McCoy         subcarrier.ignorelist.com:2323
 141 SiliconUnderground   Jason Bock         siliconu.fsxnet.nz
 142 Shakey BBS           Von Wallace        shakeybbs.com
-143 The Bit Bucket BBS   Stephen Atkins     bbs.thebitbucket.ca
 144 Outremer BBS         Pieter Bakker      outremer.fsxnet.nz
 145 Mike's Mansion BBS   Michael Pierce     mansion.dynv6.net
 146 Two Dudes BBS        Peter Spalding     twodudesbbs.fsxnet.nz
@@ -200,7 +199,8 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 108 Buckeye Telegraph     Dean Galloway     mailer.buckeyetelegraph.net
 109 Manic Modem BBS       John Cameron      telnet.manic-modem.com
 110 Northern Realms       Jay Harris        bbs.nrbbs.net
-111 The Unknown Realm     Mike McCafferty   turealm.no-ip.org:3023 
+111 The Unknown Realm     Mike McCafferty   turealm.no-ip.org:3023
+112 Flee the Planet       Fang Castro       flee.fsxnet.nz 
 
 NET 4 (21:4/xxx) Mystic BBS (BinkP)
 
