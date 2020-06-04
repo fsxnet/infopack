@@ -19,7 +19,7 @@ This address and port number may differ from the usual address and/or port
 you connect to for your fsxNet HUB. However the Gateway runs on a different
 BinkP server to feed your BBS Usenet News + Games packets compared to your
 usual fsxNet echomail / netmail traffic fed from a fsxNet HUB
-(21:1/100, 2/100, 3/100 or 4/100)
+(21:1/100, 2/100, 3/100, 4/100 or 5/100)
 
 
  Description ¦ fsxNet Usenet + Games    Zone ¦ 21
