@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 25 May 2020 ---
+    --- fsxNet connected Systems as of 24 June 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -88,7 +88,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 182 The Colossus BBS     Jordan McGilvray   bbs.excalibursheath.com
 183 Vertrauen BBS        Rob Swindell       vert.synchro.net
 184 Echo Base BBS        Jeff Jun           telnet.echo-base-bbs.com
-185 Immortal's Domain    Steve Helferich    idomain.synchro.net
+185 Lightning BBS        Steve Helferich    lightningbbs.com:2400 
 186 Castle Rock BBS      Dan Richter        bbs.castlerockbbs.com
 187 Cosmik Debris BBS    Andrew Pepper      cosmikdebris.ddns.net:2323
 188 ACiD Underworld BBS  Hawk Hubbard       -- Private Node --
@@ -274,13 +274,18 @@ NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
 
 QWK Systems
 
-Castle Rock Experimental Dan Richter       CRBBSQWK
-Capital City Online      Mike Powell       CAPCITY
-Havens BBS               Steve Wolf        HAVENS
-Blackfair's Manor        Keith Cunningham  BLACKF
-Dark Matter BBS          Will Milberger    DARKMATT
+Castle Rock Experimental Dan Richter        CRBBSQWK
+Capital City Online      Mike Powell        CAPCITY
+Havens BBS               Steve Wolf         HAVENS
+Blackfair's Manor        Keith Cunningham   BLACKF
+Dark Matter BBS          Will Milberger     DARKMATT
 The Necropolis           Jonathan Tolentino NECROBBS
-Mind's Eye BBS           Tom Aberdeen       MINDSEYE  
+Mind's Eye BBS           Tom Aberdeen       MINDSEYE 
+Gray Matter BBS          Greg Youngblood    GMBBS
+Wicked BBS               Greg Youngblood    WBBSNET
+ConstructiveChaos BBS    Craig Hendricks    CONCHAOS
+AlleyCat! BBS            Gregg Somes        ALLEYCAT
+ 
 
 
 ===============================================================================
