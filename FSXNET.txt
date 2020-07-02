@@ -55,10 +55,9 @@ Members of fsxNet and their users to conduct themselves with the above goals
 and values in mind. Failure to do so risks being de-listed and/or removed
 by the Network Coordinator
 
-Please don't post echomail to fsxNet concerning country politics and/or
-religious views. These subjects inevitably seem to cause discord and are best
-left for discussion on other networks. Doing so risks being de-listed and/or
-removed by the Network Coordinator
+Please don't post echomail to fsxNet about country politics or religion. 
+These subjects inevitably seem to cause discord and are best left for
+discussion on other message networks. 
 
 The use of the fsxNet for illegal purposes is not permitted. Members or users
 deemed to be engaged in such activities will be de-listed and/or removed by
@@ -134,16 +133,17 @@ FSX_TEXT - Text Files (Various)
 There are currently four NETs operating in fsxNet each serviced by a HUB.
 
 The fsxNet WHQ HUB (21:1/100) accepts BinkD connections via 
-agency.bbs.nz:24556 
+agency.bbs.nz:24556 or port 24553 (SSL)
 
 The fsxNet Tholian HUB (21:2/100) accepts BinkD connections via 
-error404bbs.ddns.net:24555
+error404bbs.ddns.net:24555 or port 24553 (SSL)
 
-The fsxNet Mutura HUB (21:3/100) accepts Telnet EMSI/FTS6 + ZedZap connections
-via alterant.leenooks.net:60177
+The fsxNet Mutura HUB (21:3/100) accepts Telnet EMSI/FTS6 + ZedZap
+connections via alterant.leenooks.net:60177 and BinkD connections on 24554 
+or port 24553 (SSL)
 
 The fsxNet Niba HUB (21:4/100) accepts BinkD connections via 
-bbs.castlerockbbs.com:24560
+bbs.castlerockbbs.com:24560 or port 24553 (SSL)
 
 The fsxNet Omicron HUB (21:5/100) accepts VMODEM NetSerial/PXW connections
 via rdfig.net:3141
