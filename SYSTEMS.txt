@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 24 June 2020 ---
+    --- fsxNet connected Systems as of 12 July 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
