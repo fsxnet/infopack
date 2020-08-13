@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 17 July 2020 ---
+    --- fsxNet connected Systems as of 9 August 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -30,7 +30,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 123 Thiaramus' Den       Roman Litvinenko   thiaramus.fsxnet.nz
 124 apernevan.tk BBS     Andrei Pernevan    apernevan.tk
 124 CrNet BBS            John Gonzales      bbs.crnet.net
-126 HappyLand BBS        Andrew Pamment     magickabbs.com:2023 
+126 Wunderlust BBS       Andrew Pamment     wunderlust.ddns.net:2023
 127 Capital Station      Gregory Deyss      csbbs.dyndns.org  
 128 The OuijaBoard BBS   Jeff Smith         bbs.ouijabrd.net 
 129 SpaceSST BBS         Luc McCarragher    mccarragher.org  
