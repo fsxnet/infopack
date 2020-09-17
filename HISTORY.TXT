@@ -13,6 +13,22 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2020-09-13
+Removed Node 1/148  Coco's BBS (CRI) has been inactive for some time and has
+                 been delisted.
+                 
+Removed Node 1/182 The Colossus BBS (USA) has been inactive for some time and
+                 has been delisted.                
+
+Removed Node 1/197 Trigonia BBS (SWE) also inactive for quite some time and 
+                 now delisted.
+                 
+Removed Node 1/210 Digital Jackalope BBS (CAN) inactive and delisted.              
+
+2020-09-11
+Added Node 4/111 The Oasis (USA) welcome to Charles Pierson who is based in
+                 Houston TX. Charles is connecting to fsxNet using HotdogEd
+                 and is running as a private node.
 2020-09-10
 Updated Node 2/147 ACME BBS (USA) can now be polled by the NET 2 HUB again.
 
