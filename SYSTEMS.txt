@@ -260,6 +260,6 @@ Gray Matter BBS          Greg Youngblood    GMBBS
 Wicked BBS               Greg Youngblood    WBBSNET
 ConstructiveChaos BBS    Craig Hendricks    CONCHAOS
 AlleyCat! BBS            Gregg Somes        ALLEYCAT
- 
+3 Corners BBS            Hatton Humphrey    THRCORN 
 
 ===============================================================================
