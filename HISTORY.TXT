@@ -37,7 +37,7 @@ Added Node 3/120 Westland BBS (NLD)welcome to Martien Korenblom who is based
                  
 Added Node 4/113 Baud BBS (USA) welcome to Richard Orr from Kirkland, WA.
                  The Mystic BBS can be found at bbs.baud.games:6502 or use
-                 port 6800 for SSH.
+                 port 6800 for SSH.  
 
 2020-09-13
 Removed Node 1/148  Coco's BBS (CRI) has been inactive for some time and has
