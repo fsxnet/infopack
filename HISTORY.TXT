@@ -13,6 +13,32 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2020-09-25
+More admin cleaning up inactive nodes from NET 2.
+
+Removed Node 2/149 Moderate Chaos BBS (USA)
+
+Removed Node 2/107 The Northern Borderlands BBS
+
+Removed Node 2/118 SmokyThing BBS (USA)
+
+Removed Node 2/128 The Dragon's Den (USA)
+
+Removed Node 2/142 Shakey BBS (USA)
+
+Removed Node 2/148 Mystic Island BBS (USA)
+
+And some welcomes also :)
+
+Added Node 3/120 Westland BBS (NLD)welcome to Martien Korenblom who is based
+                 in Westland, Netherlands and is running his Mystic BBS using
+                 CentOS. You can reach the BBS at bbs.korenblom.nl:23 or by
+                 SSH on port 22.
+                 
+Added Node 4/113 Baud BBS (USA) welcome to Richard Orr from Kirkland, WA.
+                 The Mystic BBS can be found at bbs.baud.games:6502 or use
+                 port 6800 for SSH.
+
 2020-09-13
 Removed Node 1/148  Coco's BBS (CRI) has been inactive for some time and has
                  been delisted.
