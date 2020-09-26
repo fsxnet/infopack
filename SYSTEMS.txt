@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 25 Sept 2020 ---
+    --- fsxNet connected Systems as of 26 Sept 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -79,7 +79,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 177 Dali's Cat BBS       Ismar Hasanbegovic daliscat.synchro.net
 178 Internal Dimension   Dave Vandermeer    id-bbs.ddns.net:59
 179 Cryptogenic Radix    Paul Hayton        -- Private Node --
-180 Perceptronica BBS    Jeff Thiele        -- Private Node --
+180 Cold War Computing   Jeff Thiele        -- Private Node --
 181 Ninho do Abutre 2    Mauro Veiga        abutre.no-ip.org:2323
 183 Vertrauen BBS        Rob Swindell       vert.synchro.net
 184 Echo Base BBS        Jeff Jun           telnet.echo-base-bbs.com
@@ -182,6 +182,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 118 Panopticon BBS        Alex Spezowka     panoptic.onl:7778 (SSH)
 119 FuNToPia BBS          Stephan Gebbers   funtopia.ddnss.eu:2023
 120 Westland BBS          Martien Korenblom bbs.korenblom.nl 
+121 ElGringo BBS          Yanick McDonald   bbs.el-gringo.ca
 
 NET 4 (21:4/xxx) Mystic BBS (BinkP)
 

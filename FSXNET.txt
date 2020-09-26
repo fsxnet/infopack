@@ -92,7 +92,7 @@ FSX_BOT - The first choice for non-human roBOT output.
           traces of nuts etc. Set your BOT free in this area :)
           
 FSX_BBS - BBS software, development and support. The echoarea is also 
-          host to fsxNet Wiki (wiki.bbs.nz) discussions and support.
+          host to fsxNet Wiki (wiki.fsxnet.nz) discussions and support.
           
 FSX_DAT - InterBBS Data. An echomail area used by software such as InterBBS 
           Oneliner or Double-Up (both by Darryl Perry) to send inter-BBS
