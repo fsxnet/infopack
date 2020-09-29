@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 26 Sept 2020 ---
+    --- fsxNet connected Systems as of 27 Sept 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -236,10 +236,8 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 166 Black Lodge Research Emory Balmer       blacklodge.fsxnet.nz
 167 The Vault BBS        Rodrigo Pelaez     thevaultbbs.fsxnet.nz
 168 Dales BBS            Dale Cousins       dalesbbs.fsxnet.nz
-170 Hispania BBS         Efraim Sanchez Gil hispaniabbs.ddns.net 
 171 Star Frontiers BBS   William Williams   starfron.synchronetbbs.org
 172 Dark Forces BBS      Mark Iezzi         darkforcesbbs.dyndns.org:2200
-174 Mirrored Lands BBS   Chris Lagonick-Weitzel mirroredlands.ddns.net
 
 NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
 
