@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 27 Sept 2020 ---
+    --- fsxNet connected Systems as of 30 Sept 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -18,6 +18,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 110 AmigaXess            Ingo Juergensmann  ftn.amigaxess.de
 111 Another Droid BBS    Andreas Apostolou  andr01d.zapto.org:9999
 112 Black Flag BBS       Hawk Hubbard       blackflag.acid.org:28  
+113 Athelstan BBS        Lance Vavricka     athelstan.fsxnet.nz
 114 Throwback BBS        Todd Yatzook       bbs.throwbackbbs.com  
 115 1st Choice Core      Ian Segers         1stchoicecore.co.nz
 116 sOUNDGARDEn          Marco Reparon      -- Private Node --
@@ -110,6 +111,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 
 100 Tholian fsxHUB       Todd Zieman        error404bbs.ddns.net:24555
 101 End Of The Line BBS  Nigel Reed         endofthelinebbs.com
+102 Point Of No Return BBS Mark Da Silva    pointofnoreturn.zapto.org
 103 Resistance Pride     Kevin Sonney       resistancepride.sytes.net
 104 Vger.Cloud BBS       Bradley Thornton   vger.fsxnet.nz
 105 The New Frontier 2   Charles Stephenson frontierbbs.net
@@ -228,7 +230,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 155 Flower BBS           Troy Marchant      flower.sytes.net
 156 The Rock BBS III     Michael Batts      therockbbs.net:10023
 157 LostCause Halfway House Ernest Gainey   bbs.lostcause.house
-158 Card & Claw BBS      Robbie Whiting     cardandclaw.servebbs.com:8888
+158 The Drunken Gamer BBS Robbie Whiting    thedrunkengamer.com:8888
 160 Brotherhood of Groovyness John Porterfield b-o-g.net
 161 Gerlach BBS          Dominik Madarasz   bbs.madaraszd.net4321
 164 Fusion BBS           Chris Schneider    fusion.zapto.org
