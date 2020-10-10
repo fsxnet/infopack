@@ -13,6 +13,11 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2020-10-10
+Added Node 3/123 Binary Dreams BBS (USA) welcome to Vincent Jacobs who is 
+                 based in Little Flock, AR USA and is running a Synchronet 
+                 system. His BBS is at binarydreamsbbs.ddns.net:53412
+
 2020-10-07
 Added Node 3/122 Final Zone BBS (USA) welcome to Kurisu Yamato who is running
                  Synchronet-Win32 and can be found at finalzone.ddns.net 
