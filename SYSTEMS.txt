@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 10 October 2020 ---
+    --- fsxNet connected Systems as of 13 October 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -112,11 +112,12 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 
 100 Tholian fsxHUB       Todd Zieman        error404bbs.ddns.net:24555
 101 End Of The Line BBS  Nigel Reed         endofthelinebbs.com
-102 Point Of No Return BBS Mark Da Silva    pointofnoreturn.zapto.org
+102 Point Of No Return   Mark Da Silva    pointofnoreturn.zapto.org
 103 Resistance Pride     Kevin Sonney       resistancepride.sytes.net
 104 Vger.Cloud BBS       Bradley Thornton   vger.fsxnet.nz
 105 The New Frontier 2   Charles Stephenson frontierbbs.net
 106 NeoCincinnati BBS    Nikki Jenks        neocinci.bbs.io
+107 The Mage's Keep BBS  Joe Derr           bbs.themageskeep.com
 108 Storm BBS            April Monoceros    telnet.stormbbs.com
 109 Nexus Computers BBS  Manu Ngamotu       bbs.nexuscomputers.com.au
 110 Ink Two BBS          Lawrence Manuel    bbs.inktwo.com
@@ -126,6 +127,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 114 Freeside BBS         Marty Taylor       freeside.bbs.io
 115 Mystic Rhythms BBS   Rob Cole           mystic.wwivbbs.org
 116 Chinwag BBS          Deon George        alterant.leenooks.net
+118 Halls of Valhalla    Morgan Collins     hoval.synchro.net:2333
 119 Temple of Doom BBS   Kris Jones         tod.eothnet.com
 123 Deadbeatz BBS        Tim Blada          deadbeatz.org
 124 Insane Asylum BBS    James Kulwicki     -- Private Node --
