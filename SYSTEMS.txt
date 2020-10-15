@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 13 October 2020 ---
+    --- fsxNet connected Systems as of 16 October 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -129,6 +129,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 116 Chinwag BBS          Deon George        alterant.leenooks.net
 118 Halls of Valhalla    Morgan Collins     hoval.synchro.net:2333
 119 Temple of Doom BBS   Kris Jones         tod.eothnet.com
+122 Battlestar III BBS   Mark Iezzi         battlestar3.dyndns.org:2400
 123 Deadbeatz BBS        Tim Blada          deadbeatz.org
 124 Insane Asylum BBS    James Kulwicki     -- Private Node --
 126 Rust Belt BBS        Kevin Miller       rbbbs.mtonetwork.com
@@ -190,6 +191,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 121 ElGringo BBS          Yanick McDonald   bbs.el-gringo.ca
 122 Final Zone BBS        Kurisu Yamato     finalzone.ddns.net
 123 Binary Dreams BBS     Vincent Jacobs    binarydreamsbbs.ddns.net:53412
+124 Coffee House BBS      Jeffrey Bodenstein bbs.coffeehousebbs.me:2323 
 
 NET 4 (21:4/xxx) Mystic BBS (BinkP)
 
