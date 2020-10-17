@@ -14,6 +14,11 @@ Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2020-10-18
+Added Node 1/139 Retro16 BBS (AUS) welcome to fsxNet sysop David Florey who 
+                 is based in Melbourne and running a Mystic BBS under 
+                 Windows. You can reach the BBS at retro16.fsxnet.nz
+
 2020-10-16
 Added Node 3/124 Coffee House BBS (USA) please welcome Jeffrey Bodenstein
                  who is based in Lisle to fsxNet :) His BBS is running 
@@ -22,6 +27,32 @@ Added Node 3/124 Coffee House BBS (USA) please welcome Jeffrey Bodenstein
                  
 Added Node 2/122 Battlestar III BBS (USA) Mark has spun up a new system
                  at battlestar3.dyndns.org:2400
+                 
+Re-created a new echomail area:
+          
+FSX_ESP - Español General Chat. This echoarea offers a place for Spanish
+          language conversations. Like FSX_GEN it is a general discussion
+          echoarea covering many topics. Test messages and other
+          experimentation is welcome.
+          
+          Este echoarea ofrece un lugar para conversaciones en español.
+          Al igual que FSX_GEN, es una discusión general que abarca muchos
+          temas. Mensajes de prueba y otros experimentos son bienvenidos.
+          
+Sub domain aliases have been created for NET 1-5 using the fsxnet.nz domain
+name. This means you can now use the following to poll each HUB if you wish:
+
+net1.fsxnet.nz - NET 1 (21:1/100)
+net2.fsxnet.nz - NET 2 (21:2/100)
+net3.fsxnet.nz - NET 3 (21:3/100)
+net4.fsxnet.nz - NET 4 (21:4/100)
+net5.fsxnet.nz - NET 5 (21:5/100)
+
+Prior domain names associated with each HUB will still work but it's hoped
+this may make things easier for folks setting up their BBS wanting to quickly
+enter domain name address details for any given fsxNet HUB. FSXNET.TXT has
+been updated accordingly.
+
 
 2020-10-13
 Added Node 2/107 The Mage's Keep BBS (USA) hailing from Las Vegas in Nevada

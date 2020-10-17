@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 16 October 2020 ---
+    --- fsxNet connected Systems as of 18 October 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -43,6 +43,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 136 force9 BBS           David Stephens     bbs.force9.org
 137 Digital Distortion   Eric Oulashin      digdist.synchro.net
 138 Electronic Warfare   Nicholas Loch      bbs.ewbbs.net 
+139 Retro16 BBS          David Florey       retro16.fsxnet.nz
 140 Daves BBS            David Smith        davesbbs.com
 141 Pie33 BBS            Moises Aranas      pie33.com:2223 
 143 The Bridge BBS       Tony Langdon       bridge.vkradio.com 
