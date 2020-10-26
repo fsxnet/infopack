@@ -78,8 +78,12 @@ and obtaining approval from the Zone 21 ZC.
 
 Message Echos:
 
+FSX_TST - Test messages and other experimentation is welcome here! Messages
+          using the subject of 'Test' *should* receive an automated response
+          from a roBOT. Humans can also appear magically with reports too.
+          "Your mileage may vary. Offer not available at Vanda Station"
+
 FSX_GEN - A general discussion echoarea covering many topics.
-          Test messages and other experimentation is welcome. 
 	     
 FSX_MYS - Mystic BBS discussions, support and development.
 
@@ -109,15 +113,30 @@ FSX_ESP - Espanol General Chat. This echoarea offers a place for Spanish
           Al igual que FSX_GEN, es una discusión general que abarca muchos
           temas. Mensajes de prueba y otros experimentos son bienvenidos.  
          
-FSX_BOT - The first choice for non-human roBOT output. 
-          May contain BBS and NET ads, stats reports, telemetry reports,
-          traces of nuts etc. Set your BOT free in this area :)
+FSX_ADS - BBS and NETwork Ads. Run a BBS you want to tell the world about?
+          Use a roBOT or manually post your BBS ASCII / ANSI ads here.
+          Please don't post the same thing more than once a week (7 days). 
+          Let's keep it 'minty fresh' - too much of the same thing usually 
+          ends in a diet :)          
+
+FSX_BOT - We welcome non-human roBOT output here. Gated or original content
+          (e.g. weather, telemetry, entertainment etc.) lives here. BBS ads
+          (FSX_ADS) , echomail stats (FSX_STA) or file announcements (FSX_FIL)
+          live elsewhere.
+
+FSX_STA - Echomail + Network Stats. The echoarea for roBOT posts about 
+          echomail area stats, BBS mailer traffic and gateway activity.
+          FTN network stats / reports are also posted here. Some people 
+          read them cover to cover while others like horoscopes better :)
+
+FSX_FIL - File Announcements. I like files, you like files, we all like files!
+          This echoarea contains roBOT posts covering files received by fsxNet
+          member BBS or files hatched from fsxNet HUBS to the wider community.
           
 FSX_DAT - InterBBS Data. An echomail area used by software such as InterBBS 
-          Oneliner or Double-Up (both by Darryl Perry) to send inter-BBS
-          data between nodes in fsxNet. In most cases the data is not readable
-          or of interest to human eyes. Sysops may wish to hide this echo
-          from BBS users.
+          Oneliners, Last Caller Mods etc to send inter-BBS data between nodes
+          in fsxNet. In most cases the data is not readable or of interest to
+          human eyes. Sysops may wish to hide this echo from BBS users.
         
 File Bases:
 
