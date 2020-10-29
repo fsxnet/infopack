@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 26 October 2020 ---
+    --- fsxNet connected Systems as of 29 October 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -194,7 +194,8 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 122 Final Zone BBS        Kurisu Yamato     finalzone.ddns.net
 123 Binary Dreams BBS     Vincent Jacobs    binarydreamsbbs.ddns.net:53412
 124 Coffee House BBS      Jeffrey Bodenstein bbs.coffeehousebbs.me:2323 
-124 Inner Realm BBS       Michael Long      innerrealmbbs.us:2323
+125 Inner Realm BBS       Michael Long      innerrealmbbs.us:2323
+126 The Forze BBS         Robbert Langezaal bbs.opicron.eu
 
 NET 4 (21:4/xxx) Mystic BBS (BinkP)
 
@@ -213,7 +214,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 112 Sloane BBS           Steve Smith        sloanebbs.com
 113 Baud BBS             Richard Orr        bbs.baud.games:6502
 114 Reisub BBS           Fabián Bonetti     reisub.nsupdate.info:7020  
-115 Phaseshift BBS       Kevin Pausche      phased.port0.org:2323
+115 TCS Online           Chris Schoppy      bbs.trianglecloud.xyz
 116 InterMail Support    Dale Barnes        im.ifidonet.com
 118 Bit's Lair BBS       Yeray Dorta         -- Private Node --
 119 After Hours BBS      Greg Youngblood    afterhours-bbs.com
@@ -258,6 +259,7 @@ NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
 101 The File Bank BBS    Terry Roati        tfb-bbs.org
 102 TAK Software BBS     Thomas Kloos       bbs.taksoftware.com
 103 The Computer Express Chris Costakis     bbs.costakis.org
+104 EMS!BBS              Scott Labrecque    ems-bbs.com
 
 QWK Systems
 
