@@ -213,7 +213,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 111 The Oasis            Charles Pierson     -- Private Node --
 112 Sloane BBS           Steve Smith        sloanebbs.com
 113 Baud BBS             Richard Orr        bbs.baud.games:6502
-114 Reisub BBS           Fabián Bonetti     reisub.nsupdate.info:7020  
+114 Reisub BBS           Fabian Bonetti     reisub.nsupdate.info:7020
 115 TCS Online           Chris Schoppy      bbs.trianglecloud.xyz
 116 InterMail Support    Dale Barnes        im.ifidonet.com
 118 Bit's Lair BBS       Yeray Dorta         -- Private Node --
