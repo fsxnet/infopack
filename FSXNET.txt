@@ -78,37 +78,65 @@ and obtaining approval from the Zone 21 ZC.
 
 Message Echos:
 
+FSX_TST - Test messages and other experimentation is welcome here! Messages
+          using the subject of 'Test' *should* receive an automated response
+          from a roBOT. Humans can also appear magically with reports too.
+          "Your mileage may vary. Offer not available at Vanda Station"
+
 FSX_GEN - A general discussion echoarea covering many topics.
-          Test messages and other experimentation is welcome. 
 	     
 FSX_MYS - Mystic BBS discussions, support and development.
+
+FSX_MAG - Magicka BBS discussions, support and development.
+
+FSX_BBS - BBS software, development and support. The echoarea is also 
+          host to fsxNet Wiki (wiki.fsxnet.nz) discussions and support.
+
+FSX_ENG - ENiGMA 1/2 BBS discussions, support and development.
+
+FSX_HAM - Amateur Radio discussions. Covers all aspects of HAM radio
+          including DX, HF, VHF/UHF, various digital modes etc.          
 
 FSX_CRY - Cryptographic discussion and experimentation.
           Public key sharing, encoded messages, testing etc.
           is welcome here. 
-         
-FSX_BOT - The first choice for non-human roBOT output. 
-          May contain BBS and NET ads, stats reports, telemetry reports,
-          traces of nuts etc. Set your BOT free in this area :)
-          
-FSX_BBS - BBS software, development and support. The echoarea is also 
-          host to fsxNet Wiki (wiki.fsxnet.nz) discussions and support.
-          
-FSX_DAT - InterBBS Data. An echomail area used by software such as InterBBS 
-          Oneliner or Double-Up (both by Darryl Perry) to send inter-BBS
-          data between nodes in fsxNet. In most cases the data is not readable
-          or of interest to human eyes. Sysops may wish to hide this echo
-          from BBS users.
-
-FSX_MAG - Magicka BBS discussions, support and development. 
-                    
-FSX_ENG - ENiGMA 1/2 BBS discussions, support and development.
-
-FSX_HAM - Amateur Radio discussions. Covers all aspects of HAM radio
-          including DX, HF, VHF/UHF, various digital modes etc.
 
 FSX_NET - Discussions about fsxNet. Chat about current network operations,
           plans for the future and how to best implement them.
+          
+FSX_ESP - Espanol General Chat. This echoarea offers a place for Spanish
+          language conversations. Like FSX_GEN it is a general discussion
+          echoarea covering many topics. Test messages and other
+          experimentation is welcome.
+          
+          Este echoarea ofrece un lugar para conversaciones en espanol.
+          Al igual que FSX_GEN, es una discusión general que abarca muchos
+          temas. Mensajes de prueba y otros experimentos son bienvenidos.  
+         
+FSX_ADS - BBS and NETwork Ads. Run a BBS you want to tell the world about?
+          Use a roBOT or manually post your BBS ASCII / ANSI ads here.
+          Please don't post the same thing more than once a week (7 days). 
+          Let's keep it 'minty fresh' - too much of the same thing usually 
+          ends in a diet :)          
+
+FSX_BOT - We welcome non-human roBOT output here. Gated or original content
+          (e.g. weather, telemetry, entertainment etc.) lives here. BBS ads
+          (FSX_ADS) , echomail stats (FSX_STA) or file announcements (FSX_FIL)
+          live elsewhere.
+
+FSX_STA - Echomail + Network Stats. The echoarea for roBOT posts about 
+          echomail area stats, BBS mailer traffic and gateway activity.
+          FTN network stats / reports are also posted here. Some people 
+          read them cover to cover while others like horoscopes better :)
+
+FSX_FIL - File Announcements. I like files, you like files, we all like files!
+          This echoarea contains roBOT posts covering files received by fsxNet
+          member BBS or files hatched from fsxNet HUBS to the wider community.
+          
+FSX_DAT - InterBBS Data. An echomail area used by software such as InterBBS 
+          Oneliners, Last Caller Mods etc to send inter-BBS data between nodes
+          in fsxNet. In most cases the data is not readable or of interest to
+          human eyes. Sysops may wish to hide this echo from BBS users.
         
 File Bases:
 
@@ -130,23 +158,23 @@ FSX_TEXT - Text Files (Various)
 
 **** IMPORTANT DETAILS - PLEASE NOTE ****
 
-There are currently four NETs operating in fsxNet each serviced by a HUB.
+There are currently five NETs operating in fsxNet each serviced by a HUB.
 
 The fsxNet WHQ HUB (21:1/100) accepts BinkD connections via 
-agency.bbs.nz:24556 or port 24553 (SSL)
+net1.fsxnet.nz:24556 or port 24553 (SSL)
 
 The fsxNet Tholian HUB (21:2/100) accepts BinkD connections via 
-error404bbs.ddns.net:24555 or port 24553 (SSL)
+net2.fsxnet.nz:24555 or port 24553 (SSL)
 
 The fsxNet Mutura HUB (21:3/100) accepts Telnet EMSI/FTS6 + ZedZap
-connections via alterant.leenooks.net:60177 and BinkD connections on 24554 
+connections via net3.fsxnet.nz:60177 and BinkD connections on 24554 
 or port 24553 (SSL)
 
 The fsxNet Niba HUB (21:4/100) accepts BinkD connections via 
-bbs.castlerockbbs.com:24560 or port 24553 (SSL)
+net4.fsxnet.nz:24560 or port 24553 (SSL)
 
 The fsxNet Omicron HUB (21:5/100) accepts VMODEM NetSerial/PXW connections
-via rdfig.net:3141
+via net5.fsxnet.nz:3141
 
 Please note the port numbers we're using are in a range from 24555 - 24560
 subject to which HUB you are polling.
