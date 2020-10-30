@@ -14,6 +14,10 @@ Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 2020-10-29
+Added Node 4/123 SpaceX Starship BBS (USA) Sam Penwright is starting up a
+                 second BBS. It is listed as a private node for now, as it
+		 is not completely set up.
+
 Added Node 5/104 EMS!BBS (USA) welcome to sysop Scott Labrecque who hails 
                  from Anaheim and is running a Wildcat Interactive Net Server
                  The BBS can be found at ems-bbs.com
