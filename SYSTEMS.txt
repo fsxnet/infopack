@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 29 October 2020 ---
+    --- fsxNet connected Systems as of 1 November 2020 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -13,7 +13,8 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 104 Shenk's Express BBS  Carol Shenkenberger shenks.dyndns.org 
 105 Fluph BBS            Leslie Given       fluph.zapto.org  
 106 BlackICE BBS         Vitus Zeel         blackice.bbsindex.de  
-107 The ByteXchange BBS  Chad Adams         bbs.thebytexchange.com  
+107 The ByteXchange BBS  Chad Adams         bbs.thebytexchange.com 
+108 Eternal Domain BBS   Kenny Taylor       eternaldomain.fsxnet.nz 
 109 Freeway BBS          Tony Langdon       freeway.vkradio.com
 110 AmigaXess            Ingo Juergensmann  ftn.amigaxess.de
 111 Another Droid BBS    Andreas Apostolou  andr01d.zapto.org:9999
@@ -24,7 +25,8 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 116 sOUNDGARDEn          Marco Reparon      -- Private Node --
 117 Mystic Dreams BBS    Mark Iezzi         mysticdreams.dyndns.org:24   
 118 Crystal Peak BBS     Will Du Chene      crystalp.duckdns.org  
-119 Sysgod BBS           Scott Little       ftn.sysgod.org   
+119 Sysgod BBS           Scott Little       ftn.sysgod.org
+120 Starbase 11 BBS      Alexander Knerlein -- Private Node --  
 121 Xibalba BBS          Bryan Ashby        xibalba.l33t.codes:44510
 122 Necronomicon BBS     Carlos Roldan      necrobbs.ddns.net
 123 Thiaramus' Den       Roman Litvinenko   thiaramus.fsxnet.nz
