@@ -106,16 +106,16 @@ X Y           │ 0  0                               Left  │ 0   PageUp │ 0
 Timer         │ 0                                  Right │ 0   PageDn │ 0
 Timer Type    │ Interval      Redraw │ Yes         Home  │ 0   End    │ 0
 Command ────────────────── Access ───── Data ─────────────────────────────
-(D3) Exec DOOR32 program        c:\doors\galatic\start.bat %P\door32.sys %3 %0
+(D3) Exec DOOR32 program        c:\doors\galatic\start.bat %Pdoor32.sys %3 %0
 
 The contents of start.bat looks like this
 
 c:
 cd\doors\galatic
-GalacticDynasty.exe -D %1 -N %2 -SOCKET %3
+GalacticDynasty.exe %1 -N %2 -SOCKET %3
 GalacticDynasty.exe maintenance
 cd\mystic
-fidopoll 21:1/10
+mis poll 21:1/10
 goto done
 
 :done
