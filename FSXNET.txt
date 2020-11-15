@@ -87,7 +87,7 @@ FSX_GEN - A general discussion echoarea covering many topics.
 	     
 FSX_MYS - Mystic BBS discussions, support and development.
 
-FSX_MAG - Magicka BBS discussions, support and development.
+FSX_MAG - Talisman BBS + Magicka BBS discussions, support and development.
 
 FSX_BBS - BBS software, development and support. The echoarea is also 
           host to fsxNet Wiki (wiki.fsxnet.nz) discussions and support.
