@@ -13,6 +13,44 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2020-11-16
+Added Node 3/128 Omega BBS (DEU) welcome to Andy Froese aka Memo who is also
+                 based in Germany (Schwerin) and is setting up his Mystic BBS
+                 running under Debian. You can find the BBS by heading to
+                 obbs.one  Welcome Memo!
+                 
+Fun fact: according to the latest Nodelist stats Germany is now the country
+where the fifth most BBS reside in the fsxNet network. With the arrival of
+Omega BBS the stats below will also increase and give New Zealand a run for
+fourth slot :)
+                           NetCountry v1.0.1a(RCS)
+                    Current Runtime: 15 Nov 2020 01:33:44
+                         Current Nodelist: FSXNET.325
+=============================================================================
+            United States            154          59.92%
+                   Canada             26          10.12%
+                Australia             20           7.78%
+              New Zealand             12           4.67%
+                  Germany              8           3.11%
+           United Kingdom              6           2.33%
+                   Sweden              5           1.95%
+              Netherlands              5           1.95%
+                Argentina              4           1.56%
+                    Italy              3           1.17%
+                   Brazil              2           0.78%
+                    Spain              2           0.78%
+                  Finland              1           0.39%
+                   Greece              1           0.39%
+           Czech Republic              1           0.39%
+                  Ireland              1           0.39%
+                 Slovakia              1           0.39%
+              Philippines              1           0.39%
+                   France              1           0.39%
+                  Romania              1           0.39%
+                  Austria              1           0.39%
+=============================================================================
+Totals                 22            257         100.00%
+
 2020-11-15
 Added Node 3/127 Imzadi Box BBS (DEU) a warm welcome to Anna Nass who is
                  based in Karlsruhe. The BBS is running Mystic and will
