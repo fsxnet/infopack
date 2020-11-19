@@ -210,7 +210,6 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 104 Herbies BBS II       Thorsten Herb      herbies-bbs.ddns.net
 105 Phoenix BBS          Andrew Leary       phoenix.bnbbbs.net:2323
 106 Rusty Mailbox BBS    Alan Ianson        trmb.ca:2023
-107 Centaurus BBS        Stephen Berard     centaurus.ventouxlabs.com:2323
 108 Inland Utopia BBS    Matthew Munson     iutopia.duckdns.org:23
 109 9640 News BBS        Beery Miller       9640news.ddns.net:9640
 110 BZ&BZ BBS            Steve Thielemann   bbs.red-green.com:4023
