@@ -13,6 +13,17 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2020-12-20
+Added Node 1/142 The Trashcan BBS (NZL) welcome to sysop Nick MacKechnie who
+                 is based in Christchurch, New Zealand. Nick is running 
+                 Searchlight BBS software and has been running his BBS in
+                 NZ for many years. Welcome Nick. :)
+                 
+Added Node 1/148 Dark Systems BBS (CAN) welcome to Aaron Grasswell who hails
+                 from Peterborough, Ontario. He's running a Remote Access BBS 
+                 that can be reached at bbs.dsbbs.ca  
+                 Welcome to fsxNet Aaron :)
+                 
 2020-12-13
 Updated Node 1/178 Internal Dimension BBS (USA) is now using bbs.idbbs.ca as
                  its domain name. The BBS is available on telnet port 59
