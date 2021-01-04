@@ -13,6 +13,38 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2021-01-04
+
+Firstly, Happy New Year. What a year 2020 was (and for probably all the wrong
+reasons) with the impacts of Covid-19 being felt globally. Here's to an 
+improving global health scene in 2021. I wish you good health and happiness 
+for the year ahead. Thank you for continuing to take part in the
+conversations and good natured community that is fsxNet.
+
+My sincere thanks to Todd, Dan, Deon and Ruben for their support and efforts
+they put into fsxNet to keep the various HUBs and NETs rolling along. Thanks
+guys!
+
+Righto, some admin for the first entry into HISTORY.TXT for 2021. I am still
+getting used to writing 2021. Don't you hate that niggle we all face with 
+developing a new habit of writing down the new year :) We'll all get there :)
+
+Updated Node 1/146 Saturn’s Orbit (BRA) Flavio advises his domain name has
+                 changed. It's now saturnsorbit.ddns.net and the nodelist
+                 and infopack has been updated accordingly.
+                 
+Added Node 1/149 The Fool's Quarter (USA) please welcome sysop Tim Whitson
+                 who is based in West Linn, OR and is running a Synchronet
+                 BBS under Windows 10. You can reach his BBS by heading to
+                 fqbbs.synchro.net or use port 2022 for an SSH connection.
+                 Welcome Tim!
+                 
+Added Node 1/192 Communication Connection BBS (USA) also it's a warm welcome
+                 to sysop Jeff Squires. Jeff is based in Rochester Hills,
+                 Michigan and has set up a Mystic BBS running under Win 10.
+                 You Telnet to the BBS at commconnbbs.net or use port 22 for
+                 an SSH connect. Welcome to fsxNet Jeff :)            
+
 2020-12-20
 Added Node 1/142 The Trashcan BBS (NZL) welcome to sysop Nick MacKechnie who
                  is based in Christchurch, New Zealand. Nick is running 
