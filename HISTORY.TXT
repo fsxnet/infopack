@@ -13,8 +13,27 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
-2021-01-04
+2021-01-06
+Updated Node 3/127 Imzadi Box (DEU) have moved to port 23 instead of 2323
+                 the SYSTEMS.TXT file has been updated accordingly.
 
+2021-01-05
+Added Node 4/140 Redshift BBS (CAN) welcome back to returning sysop Scott
+                 Carter. At this stage the BBS is a PVT system.
+                 Nice to see you active again Scott :)
+                 
+Added Node 3/131 Hundred Acre BBS (USA) based in Little Rock, Arkansas
+                 please welcome Aaron Clark aka eeyore who has started his
+                 Mystic BBS running on Raspbian OS. You can reach his system
+                 at hundredacrebbs.ddns.net  ... I'm now really tempted to
+                 find an eeyore quote right now :)
+                 
+Added Node 1/197 Compufuck BBS (USA) welcome to sysop Aaron Thomas who is
+                 based in Binghamton, NY. The BBS is running Mystic under
+                 Linux and can be found at cfbbs.fsxnet.nz
+                 Welcome to fsxNet Aaron :)
+
+2021-01-04
 Firstly, Happy New Year. What a year 2020 was (and for probably all the wrong
 reasons) with the impacts of Covid-19 being felt globally. Here's to an 
 improving global health scene in 2021. I wish you good health and happiness 
@@ -31,7 +50,7 @@ developing a new habit of writing down the new year :) We'll all get there :)
 
 Updated Node 1/146 Saturn’s Orbit (BRA) Flavio advises his domain name has
                  changed. It's now saturnsorbit.ddns.net and the nodelist
-                 and infopack has been updated accordingly.
+                 has been updated accordingly.
                  
 Added Node 1/149 The Fool's Quarter (USA) please welcome sysop Tim Whitson
                  who is based in West Linn, OR and is running a Synchronet

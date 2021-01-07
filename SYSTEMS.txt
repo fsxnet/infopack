@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 4 January 2021 ---
+    --- fsxNet connected Systems as of 5 January 2021 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -103,6 +103,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 194 Diamond Mine Online  David Perrussel    bbs.dmine.net:24
 195 Dragon's Claw HUB    Stephen Walsh      ftn.vk3heg.net
 196 Dragon's Lair BBS    Stephen Walsh      dragon.vk3heg.net
+197 Compufuck BBS        Aaron Thomas       cfbbs.fsxnet.nz
 198 The Fat Dragon       Dan Cross          -- Private Node --
 199 Clutch BBS           Mark Stark         bbs.clutchbbs.com
 200 Pharcyce BBS         Nicholas Boel      -- Private Node --
@@ -202,10 +203,11 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 124 Coffee House BBS      Jeffrey Bodenstein bbs.coffeehousebbs.me:2323 
 125 Inner Realm BBS       Michael Long      innerrealmbbs.us:2323
 126 The Forze BBS         Robbert Langezaal bbs.opicron.eu
-127 Imzadi Box BBS        Anna Nass         box.imzadi.de:2323
+127 Imzadi Box            Anna Christina Nass  box.imzadi.de
 128 Omega BBS             Andy Froese       obbs.one
 129 Red Mud BBS           David Snyder      redmudbbs.com
-130 PB Renegade          Ruben Figueroa     gapbbs.rdfig.net:2424
+130 PB Renegade           Ruben Figueroa    gapbbs.rdfig.net:2424
+131 Hundred Acre BBS      Aaron Clark       hundredacrebbs.ddns.net
 
 NET 4 (21:4/xxx) Mystic BBS (BinkP)
 
@@ -242,6 +244,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 136 Total Lost BBS       Dennis Eklund      bbs.deek.se
 137 8-Bit Boyz BBS       Shane O'Neill      8bitboyz.bbs.io:6502
 138 CIA Amiga BBS        Tim Grooms         ciaamigabbs.dynu.net:6400
+140 Redshift BBS         Scott Carter       -- Private Node --
 143 Eggy BBS             Matt Richards      eggy.fsxnet.nz:2300
 144 Sonic BBS            Louis Northmore    sonicbbs.ddns.net
 147 Aliens' Alcove BBS   Eric Pareja        aliens.free.net.ph
