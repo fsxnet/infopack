@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 5 January 2021 ---
+    --- fsxNet connected Systems as of 8 January 2021 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -227,6 +227,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 114 Reisub BBS           Fabian Bonetti     reisub.nsupdate.info:7020
 115 TCS Online           Chris Schoppy      bbs.trianglecloud.xyz
 116 InterMail Support    Dale Barnes        im.ifidonet.com
+117 The Reactor BBS      Bruce Weitzman     thereactorbbs.com
 118 Bit's Lair BBS       Yeray Dorta         -- Private Node --
 119 After Hours BBS      Greg Youngblood    afterhours-bbs.com
 120 Deep Space Gateway   Sam Penwright       deepspacegateway.net
@@ -237,6 +238,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 125 Veleno BBS           Thomas Bampi       velenobbs.ddns.net
 126 Another F-ing BBS    Gary Crunk         anotherbbs.dynu.net
 128 DragonsWeb Labs BBS  James DiGriz       bbs.dragonsweb.org 
+129 Hive 32 BBS          Luke Galutia       bbs.hive32.com
 131 The Wrong Number 2   Al DeRosa          wn2.duckdns.org
 133 Fading Black BBS     Will Smith         fadingblack.net
 134 Possum Lodge South   Mike Powell        possumso.fsxnet.nz:7636
