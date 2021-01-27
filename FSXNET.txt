@@ -74,7 +74,6 @@ Please do not gate fsxNet traffic to other FTN/QWK networks, Usenet,
 or any other network without first discussing your request in FSX_GEN
 and obtaining approval from the Zone 21 ZC. 
  
-
 == Echoareas ================================================================
 
 Message Echos:
@@ -154,7 +153,6 @@ FSX_UTLS - BBS Utils, Tools, Networking etc.
 FSX_ARTS - ANSI Art - Groups, Individuals etc.
 FSX_IMGE - Image Files (Various)
 FSX_TEXT - Text Files (Various)
-
 
 == Technical Details ========================================================
 
