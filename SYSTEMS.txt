@@ -231,10 +231,10 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 117 The Reactor BBS      Bruce Weitzman     thereactorbbs.com
 118 Bit's Lair BBS       Yeray Dorta         -- Private Node --
 119 After Hours BBS      Greg Youngblood    afterhours-bbs.com
-120 Deep Space Gateway   Sam Penwright       deepspacegateway.net
+120 Deep Space Gateway   Sam Penwright      deepspacegateway.net
 121 AlcaBBS              Michael Trip       bbs.alcatrash.org
 122 realitycheckBBS      Kurt Weiske        realitycheckbbs.org
-123 SpaceX Starship BBS  Sam Penwright      -- Private Node --
+123 SpaceX Starship BBS  Sam Penwright       -- Private Node --
 124 The Dungeon BBS      Keith Matthews     dungeon.barnabasmusic.com
 125 Veleno BBS           Thomas Bampi       velenobbs.ddns.net
 126 Another F-ing BBS    Gary Crunk         anotherbbs.dynu.net
