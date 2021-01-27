@@ -13,6 +13,240 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2021-01-25
+Added Node 1/168 Technically BBS (CAN) boosting the Canadian ranks of fsxNet 
+                 members please welcome sysop Jason Billingham from Newmarket
+                 Ontario. Running a Mystic system Jason can be reached at 
+                 bbs.billingham.ca:2323 or port 2222 for SSH. Welcome :)
+
+2021-01-23
+Added Node 3/132 Herp Derp BBS (ZAF) please welcome our first BBS located in
+                 South Africa to join fsxNet. It's run by sysop Andrew Lewis
+                 who is based in Roodepoort. The BBS is running Synchronet 
+                 and accepts SSH connects only via herp.derp.org.org.za:2222
+                 Welcome to fsxNet Andrew :)
+                 
+Added Node 3/133 Slate Hell BBS (USA) also welcome to sysop Anthony Stump aka
+                 cellguy who hails from Mooresburg, TN. Cellguy is also
+                 running a Synchronet system and you will find that at 
+                 msbgtn01.synchro.net. Nice to have you as a member of our 
+                 community Anthony :)
+
+2021-01-21
+Updated Node 4/106 The Rusty Mailbox (CAN) Al advises his domain name has 
+                 changed. It's now trmb.synchro.net and the nodelist and
+                 systems.txt has been updated.
+                 
+Added Node 4/130 TradersBay BBS (USA) Chad Adams aka Ayex has spun up a 
+                 new system that can be found at tradersbay.fsxnet.nz
+                 The BBS is running Synchronet BBS. 
+                 
+Added Node 1/139 bitHaven BBS (CAN) welcome to sysop Jean-Francois Joly who 
+                 is based in Ontario, Canada. Running a Mystic BBS he is 
+                 currently listed as a PVT node for now.                
+                 
+2021-01-11
+Removed Node 1/139 Retro16 BBS (AUS) delisted due to inactivity.
+
+Removed Node 1/168 Monterey BBS (USA) delisted due to inactivity.
+
+Removed Node 1/177 Dali's Cat BBS (USA) delisted due to inactivity.
+
+
+2021-01-08
+Added Node 4/117 The Reactor BBS (USA) welcome back to fsxNet sysop
+                 Bruce Weitzman who hails from New Britain, CT. He's running
+                 a Mystic system which can be found at Thereactorbbs.com 
+                 
+Added Node 4/129 Hive 32 BBS (USA) please also welcome sysop Luke Galutia 
+                 who is working away getting his Mystic system running.
+                 The BBS can be found at bbs.hive32.com
+
+2021-01-06
+Updated Node 3/127 Imzadi Box (DEU) have moved to port 23 instead of 2323
+                 the SYSTEMS.TXT file has been updated accordingly.
+
+2021-01-05
+Added Node 4/140 Redshift BBS (CAN) welcome back to returning sysop Scott
+                 Carter. At this stage the BBS is a PVT system.
+                 Nice to see you active again Scott :)
+                 
+Added Node 3/131 Hundred Acre BBS (USA) based in Little Rock, Arkansas
+                 please welcome Aaron Clark aka eeyore who has started his
+                 Mystic BBS running on Raspbian OS. You can reach his system
+                 at hundredacrebbs.ddns.net  ... I'm now really tempted to
+                 find an eeyore quote right now :)
+                 
+Added Node 1/197 Compufuck BBS (USA) welcome to sysop Aaron Thomas who is
+                 based in Binghamton, NY. The BBS is running Mystic under
+                 Linux and can be found at cfbbs.fsxnet.nz
+                 Welcome to fsxNet Aaron :)
+
+2021-01-04
+Firstly, Happy New Year. What a year 2020 was (and for probably all the wrong
+reasons) with the impacts of Covid-19 being felt globally. Here's to an 
+improving global health scene in 2021. I wish you good health and happiness 
+for the year ahead. Thank you for continuing to take part in the
+conversations and good natured community that is fsxNet.
+
+My sincere thanks to Todd, Dan, Deon and Ruben for their support and efforts
+they put into fsxNet to keep the various HUBs and NETs rolling along. Thanks
+guys!
+
+Righto, some admin for the first entry into HISTORY.TXT for 2021. I am still
+getting used to writing 2021. Don't you hate that niggle we all face with 
+developing a new habit of writing down the new year :) We'll all get there :)
+
+Updated Node 1/146 Saturn’s Orbit (BRA) Flavio advises his domain name has
+                 changed. It's now saturnsorbit.ddns.net and the nodelist
+                 has been updated accordingly.
+                 
+Added Node 1/149 The Fool's Quarter (USA) please welcome sysop Tim Whitson
+                 who is based in West Linn, OR and is running a Synchronet
+                 BBS under Windows 10. You can reach his BBS by heading to
+                 fqbbs.synchro.net or use port 2022 for an SSH connection.
+                 Welcome Tim!
+                 
+Added Node 1/192 Communication Connection BBS (USA) also it's a warm welcome
+                 to sysop Jeff Squires. Jeff is based in Rochester Hills,
+                 Michigan and has set up a Mystic BBS running under Win 10.
+                 You Telnet to the BBS at commconnbbs.net or use port 22 for
+                 an SSH connect. Welcome to fsxNet Jeff :)            
+
+2020-12-20
+Added Node 1/142 The Trashcan BBS (NZL) welcome to sysop Nick MacKechnie who
+                 is based in Christchurch, New Zealand. Nick is running 
+                 Searchlight BBS software and has been running his BBS in
+                 NZ for many years. Welcome Nick. :)
+                 
+Added Node 1/148 Dark Systems BBS (CAN) welcome to Aaron Grasswell who hails
+                 from Peterborough, Ontario. He's running a Remote Access BBS 
+                 that can be reached at bbs.dsbbs.ca  
+                 Welcome to fsxNet Aaron :)
+                 
+2020-12-13
+Updated Node 1/178 Internal Dimension BBS (USA) is now using bbs.idbbs.ca as
+                 its domain name. The BBS is available on telnet port 59
+                 
+Updated Node 5/105 PB Renegade BBS (USA) has moved to NET 3 and is now Node
+                   3/130
+                   
+Added Node 4/127 The Oasis BBS (USA) Charles has started up his BBS and it
+                 can be reached at theoasisbbs.ddns.net
+                 
+Updated Node 4/111 has been marked as 'Down'                 
+
+Updated Node 1/126 Talisman BBS (AUS) can be found at talismanbbs.com
+
+Updated Node 1/182 HappyLand 2.0 (AUS) can be reached at happyland.zapto.org
+
+2020-11-24
+Updated Node 1/168 Monterey BBS (USA) has been marked as 'Down' in the 
+                   nodelist.
+
+2020-11-20
+Updated Node 4/120 Deep Space Gateway (USA) is no longer PVT and can be 
+                   reached at deepspacegateway.net
+                   
+Added Node 4/123 SpaceX Starship BBS (USA) a PVT node system run by sysop
+                 Sam Penwright.
+                 
+Added Node 5/105 PB Renegade BBS (USA) is a new Renegade 1.20/DOS system 
+                 that can be found at gapbbs.rdfig.net:2424 and is run by
+                 Ruben aka Zazz.
+
+Added Node 3/129 Red Mud BBS (USA) welcome back to sysop David Snyder who
+                 has again spun up his BBS and can be reached at
+                 redmudbbs.com                 
+
+2020-11-18
+Removed Node 4/107 Centaurus BBS (FRA) has been delisted due to inactivity.
+                   No connections etc. for > 55 days.
+
+2020-11-16
+Added Node 3/128 Omega BBS (DEU) welcome to Andy Froese aka Memo who is also
+                 based in Germany (Schwerin) and is setting up his Mystic BBS
+                 running under Debian. You can find the BBS by heading to
+                 obbs.one  Welcome Memo!
+                 
+Fun fact: according to the latest Nodelist stats Germany is now the country
+where the fifth most BBS reside in the fsxNet network. With the arrival of
+Omega BBS the stats below will also increase and give New Zealand a run for
+fourth slot :)
+                           NetCountry v1.0.1a(RCS)
+                    Current Runtime: 15 Nov 2020 01:33:44
+                         Current Nodelist: FSXNET.325
+=============================================================================
+            United States            154          59.92%
+                   Canada             26          10.12%
+                Australia             20           7.78%
+              New Zealand             12           4.67%
+                  Germany              8           3.11%
+           United Kingdom              6           2.33%
+                   Sweden              5           1.95%
+              Netherlands              5           1.95%
+                Argentina              4           1.56%
+                    Italy              3           1.17%
+                   Brazil              2           0.78%
+                    Spain              2           0.78%
+                  Finland              1           0.39%
+                   Greece              1           0.39%
+           Czech Republic              1           0.39%
+                  Ireland              1           0.39%
+                 Slovakia              1           0.39%
+              Philippines              1           0.39%
+                   France              1           0.39%
+                  Romania              1           0.39%
+                  Austria              1           0.39%
+=============================================================================
+Totals                 22            257         100.00%
+
+2020-11-15
+Added Node 3/127 Imzadi Box BBS (DEU) a warm welcome to Anna Nass who is
+                 based in Karlsruhe. The BBS is running Mystic and will
+                 be available at box.imzadi.de:2323 when it's up and running.
+                 Welcome to fsxNet I hope you have fun with your BBSing 
+                 hobby :)
+                 
+Added Node 2/128 Cortex BBS (USA) welcome back to sysop Tony Toon aka 
+                 Deepthaw. Deepthaw first joined fsxNet back in August 2017
+                 and after a break has rejoined the network. Welcome back :)
+                 Nice to have you as a member of our online community.
+                 
+2020-11-13
+Changed description for FSX_MAG echomail area to:
+
+FSX_MAG - Talisman BBS + Magicka BBS discussions, support and development.
+
+The echoarea now also covers support for Talisman BBS (a new BBS also being 
+developed by Apam).
+
+The FSXNET.NA file has been updated to:
+
+FSX_MAG              Talisman BBS Support/Dev
+
+2020-11-11
+Updated Node 2/150 BBS has changed its name to 20 For Beers and is no longer
+                 at PVT system. You can reach it at 20ForBeers.com:1337
+
+2020-11-07
+Removed Node 3/106 Neuroflux BBS has been delisted due to node inactivity.
+
+2020-11-01
+Added Node 1/108 Eternal Domain BBS (USA) welcome to sysop Kenny Taylor aka
+                 Chaise who is based in Bakersfield, CA and is running a 
+                 Mystic BBS under Windows. You can reach his system at 
+                 eternaldomain.fsxnet.nz
+                 
+Added Node 1/120 Starbase 11 BBS (DEU) and please also say hi and welcome to
+                 Alexander Knerlein who is setting up his BBS running Mystic
+                 on a Raspberry Pi. For now the system is PVT
+
+2020-10-31
+Minor change to the nodelist. The country code for Germany that was being 
+used in the nodelist has been changed from GER to DEU. This keeps things
+consistent with the ISO 3166-1 Alpha-3 codes we're using across the nodelist.
+
 2020-10-29
 Added Node 4/123 SpaceX Starship BBS (USA) Sam Penwright is starting up a
                  second BBS. It is listed as a private node for now, as it
