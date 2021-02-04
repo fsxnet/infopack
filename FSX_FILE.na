@@ -7,8 +7,8 @@
 ; ------------------------------------------------------------------------
 ;
 ;
-Area FSX_NODE  0     !      Weekly Nodelists (fsxNet, etc.)
-Area FSX_INFO  0     !      Weekly Infopacks (fsxNet, etc.)
+Area FSX_NODE  0     !      Weekly Nodelist (fsxNet)
+Area FSX_INFO  0     !      Weekly Infopack (fsxNet)
 Area FSX_MYST  0     !      Mystic BBS Software
 Area FSX_MUTL  0     !      Mystic BBS Utils, Mods etc.
 Area FSX_SOFT  0     !      BBS Software (Current + Legacy)
