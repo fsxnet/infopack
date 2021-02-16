@@ -1,9 +1,9 @@
-				
-				
-			fsxNet - [F]un, [S]imple, e[X]perimental Network
+                
+                
+            fsxNet - [F]un, [S]imple, e[X]perimental Network
 
-		               ==== History of fsxNet ====
-			 
+                       ==== History of fsxNet ====
+             
 fsxNet is a fun, simple and experimental network established in late 2015
 
 This document contains a full rolling log of changes made to fsxNet. 
@@ -13,6 +13,35 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+
+2021-02-08
+Added Node 1/177 Tribe BBS (GBR) welcome to sysop Ian Staney who is running a
+         Mystic BBS under Linux. Ian is based in London and you can
+         reach his system at tribe.duckdns.org:2222 if using Telnet
+         or posrt 2223 for SSH. Welcome :)
+
+Added Node 1/205 Magnum BBS (GBR) based in Huddersfield welcome to Keyop Troy
+         who has spun up his Synchronet BBS and is connecting in to 
+         fsxNet, You'll find the BBS at bbs.magnum.uk.net
+         Welcome aboard :)
+
+Added Node 1/206 The File Cabinet BBS (USA) ..and also please welcome from 
+         Minnetonka, MN sysop Richard Vonzel who has set up his 
+         Synchronet BBS. You can visit it at filecabi.synchro.net
+         Glad to have you as a member of our online community 
+         Richard.. a warm welcome to you too :)
+
+Changes at 21:1/100 (NET 1)
+
+Please note there have been changes made to the systems running the NET 1
+HUB (21:1/100). If you are having any issues with the HUB please email
+me avon@bbs.nz to let me know and I'll do my best to help sort out any
+issues :)
+
+The HUB is now running BinkD (mailer), HPT (tosser/areafix) and Htick
+(file manager / filefiix) and should now be available via port 24554
+as well as 24556. In time I will look to shutter port 24556.
+
 2021-02-03
 Added Node 4/139 Mythical Kingdom Tech BBS (USA) based in Dayton please
                  welcome sysop Mark May. Mark is running a Synchronet BBS 
@@ -286,7 +315,7 @@ consistent with the ISO 3166-1 Alpha-3 codes we're using across the nodelist.
 2020-10-29
 Added Node 4/123 SpaceX Starship BBS (USA) Sam Penwright is starting up a
                  second BBS. It is listed as a private node for now, as it
-		 is not completely set up.
+         is not completely set up.
 
 Added Node 5/104 EMS!BBS (USA) welcome to sysop Scott Labrecque who hails 
                  from Anaheim and is running a Wildcat Interactive Net Server

@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 3 February 2021 ---
+    --- fsxNet connected Systems as of 8 February 2021 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -83,6 +83,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 174 The Zone BBS         Mike Warnock       zonebbs.net
 175 Capitol City Online  Mike Powell        capitolcityonline.net
 176 Darkrealms BBS       Nick Andre         bbs.darkrealms.ca
+177 Tribe BBS		 Ian Stanley	    tribe.duckdns.org:2222
 178 Internal Dimension   Dave Vandermeer    bbs.idbbs.ca:59
 179 Cryptogenic Radix    Paul Hayton        -- Private Node --
 180 Cold War Computing   Jeff Thiele        -- Private Node --
@@ -110,6 +111,8 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 202 Star Collision BBS   Bjorn Wiberg       scbbs.nsupdate.info:50023
 203 Rocket Town BBS      Ricky DeLuco       rtbbs.ddns.net
 204 Family BBS           Tony Pawson        familybbs.ddns.net
+205 Magnum BBS		 Keyop Troy	    bbs.magnum.uk.net
+206 File Cabinet BBS 	 Richard Vonzel     filecabi.synchro.net
 208 S.W.A.T.S BBS        Stephen Hunt       swatsbbs.ddns.net
 209 LU8FJH BBS           Juan Musso         lu8fjh.dyndns.org
 211 The Pub BBS          Bob Smith          thepub.fsxnet.nz
