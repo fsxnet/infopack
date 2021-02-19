@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 17 February 2021 ---
+    --- fsxNet connected Systems as of 19 February 2021 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -113,6 +113,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 204 Family BBS           Tony Pawson        familybbs.ddns.net
 205 Magnum BBS		 Keyop Troy	    bbs.magnum.uk.net
 206 File Cabinet BBS 	 Richard Vonzel     filecabi.synchro.net
+207 Trading Post BBS 	 Craig Dooley		-- Private Node --
 208 S.W.A.T.S BBS        Stephen Hunt       swatsbbs.ddns.net
 209 LU8FJH BBS           Juan Musso         lu8fjh.dyndns.org
 211 The Pub BBS          Bob Smith          thepub.fsxnet.nz
@@ -254,6 +255,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 138 CIA Amiga BBS        Tim Grooms         ciaamigabbs.dynu.net:6400
 139 Mythical Kingdom TechMark May           bbs.mythicalkingdom.com
 140 Redshift BBS         Scott Carter       -- Private Node --
+141 Constructive Chaos 	 Craig Hendricks	conchaos.synchro.net
 143 Eggy BBS             Matt Richards      eggy.fsxnet.nz:2300
 144 Sonic BBS            Louis Northmore    sonicbbs.ddns.net
 147 Aliens' Alcove BBS   Eric Pareja        aliens.free.net.ph
@@ -294,7 +296,6 @@ The Necropolis           Jonathan Tolentino NECROBBS
 Mind's Eye BBS           Tom Aberdeen       MINDSEYE 
 Gray Matter BBS          Greg Youngblood    GMBBS
 Wicked BBS               Greg Youngblood    WBBSNET
-ConstructiveChaos BBS    Craig Hendricks    CONCHAOS
 AlleyCat! BBS            Gregg Somes        ALLEYCAT
 3 Corners BBS            Hatton Humphrey    THRCORN 
 
