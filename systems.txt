@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 19 February 2021 ---
+    --- fsxNet connected Systems as of 15 March 2021 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -32,9 +32,8 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 123 Thiaramus' Den       Roman Litvinenko   thiaramus.fsxnet.nz
 124 apernevan.tk BBS     Andrei Pernevan    apernevan.tk
 124 CrNet BBS            John Gonzales      bbs.crnet.net
-126 Talisman BBS         Andrew Pamment     talismanbbs.com
-127 Capital Station      Gregory Deyss      csbbs.dyndns.org  
-128 The OuijaBoard BBS   Jeff Smith         bbs.ouijabrd.net 
+127 Capital Station      Gregory Deyss      csbbs.dyndns.org 
+128 Odyssey BBS 		 Michael Schaffer   odysseybbs.ddns.net:8080
 129 SpaceSST BBS         Luc McCarragher    mccarragher.org  
 130 Tiny's BBS           Shawn Highfield    tinysbbs.com:3023
 131 Weather Station HUB  Mark Hofmann       bbs.weather-station.org   
@@ -113,7 +112,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 204 Family BBS           Tony Pawson        familybbs.ddns.net
 205 Magnum BBS		 Keyop Troy	    bbs.magnum.uk.net
 206 File Cabinet BBS 	 Richard Vonzel     filecabi.synchro.net
-207 Trading Post BBS 	 Craig Dooley		-- Private Node --
+207 Trading Post [South] Craig Dooley		ttps.dyndns.org
 208 S.W.A.T.S BBS        Stephen Hunt       swatsbbs.ddns.net
 209 LU8FJH BBS           Juan Musso         lu8fjh.dyndns.org
 211 The Pub BBS          Bob Smith          thepub.fsxnet.nz
@@ -122,9 +121,9 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
 
-100 Tholian fsxHUB       Todd Zieman        error404bbs.ddns.net:24555
+100 Tholian fsxHUB       Todd Zieman        net2.fsxnet.nz:24555
 101 End Of The Line BBS  Nigel Reed         endofthelinebbs.com
-102 Point Of No Return   Mark Da Silva    pointofnoreturn.zapto.org
+102 Point Of No Return   Mark Da Silva      pointofnoreturn.zapto.org
 103 Resistance Pride     Kevin Sonney       resistancepride.sytes.net
 104 Vger.Cloud BBS       Bradley Thornton   vger.fsxnet.nz
 105 The New Frontier 2   Charles Stephenson frontierbbs.net
@@ -182,7 +181,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 
 NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 
-100 Linucus BBS           Deon George       chinwag.leenooks.net:60177
+100 Linucus BBS           Deon George       net3.fsxnet.nz
 101 The Lower Planes BBS  Anthony Adverse   tlp.zapto.org
 102 Types of Squash       Oliver Thuns       -- Private Node --
 105 The Lab BBS           Les Wade          bbs.dicksonlabs.net
@@ -213,16 +212,19 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 134 Westwood BBS II       Mike Newkirk      westwoodbbs.net
 135 Lunatics Unleashed    Ross Branham      lunaticsunleashed.ddns.net
 136 Mind's Eye BBS        Tom Aberdeen      mindseye.synchronetbbs.org 
+137 Wicked Garden BBS 	  Hung Tran 		wgbbs.ddns.net
+138 Taliadon BBS 		  Lee Westlake 		taliadon.ddns.net 
+139 The Bat Cave BBS 	  Minh Nguyen 		batcave.fsxnet.nz
 
 NET 4 (21:4/xxx) Mystic BBS (BinkP)
 
-100 Niba fsxHUB          Dan Richter        bbs.castlerockbbs.com:24560
+100 Niba fsxHUB          Dan Richter        net4.fsxnet.nz:24560
 101 Back to the Future   Bill Simon         bttfbbs.com
 102 Before the Web BBS   Dallas Vinson      furmenservices.net:23232
 103 The Undermine BBS    Kostie Muirhead    bbs.undermine.ca:423
 104 Herbies BBS II       Thorsten Herb      herbies-bbs.ddns.net
 105 Phoenix BBS          Andrew Leary       phoenix.bnbbbs.net:2323
-106 Rusty Mailbox BBS    Alan Ianson        trmb.synchro.net:2023
+106 Rusty Mailbox BBS    Alan Ianson        trmb.synchro.net:2030
 108 Inland Utopia BBS    Matthew Munson     iutopia.duckdns.org:23
 109 9640 News BBS        Beery Miller       9640news.ddns.net:9640
 110 BZ&BZ BBS            Steve Thielemann   bbs.red-green.com:4023
@@ -256,8 +258,11 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 139 Mythical Kingdom TechMark May           bbs.mythicalkingdom.com
 140 Redshift BBS         Scott Carter       -- Private Node --
 141 Constructive Chaos 	 Craig Hendricks	conchaos.synchro.net
+142 Off the Wall 		 Robert Stinnett	offthewall.dmxrob.net
 143 Eggy BBS             Matt Richards      eggy.fsxnet.nz:2300
 144 Sonic BBS            Louis Northmore    sonicbbs.ddns.net
+145 TFSI BBS 			 Nick Young 		tfsi.fsxnet.nz
+146 BeBeeS				 Milan Minic		gopher.su:1234
 147 Aliens' Alcove BBS   Eric Pareja        aliens.free.net.ph
 150 VA7AQD's Tavern BBS  Adam Clark         bbs.isurf.ca
 152 Blackfair's Manor    Keith Cunningham   blackf.synchro.net

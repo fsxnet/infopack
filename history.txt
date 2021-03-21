@@ -13,6 +13,71 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2021-03-15
+Updated Node 1/207 The Trading Post [SOUTH] BBS is no longer a PVT node.
+                 the nodelist has been updated accordingly.
+
+2021-03-07
+Added Node 3/137 Wicked Garden BBS (AUS) welcome to returning sysop Hung Tran
+                 who is based in Burnside, Victoria. Running Ezycom BBS you
+                 can reach the system via telnet to wgbbs.ddns.net
+                 Welcome back to fsxNet :)
+
+Added Node 3/138 Taliadon BBS (GBR) hailing from South Wales say hi to 
+                 sysop Lee Westlake who has set up his Mystic BBS running 
+                 Windows OS. Head to taliadon.ddns.net if you would like to 
+                 visit the system.
+
+Added Node 4/145 TFSI BBS (GBR) from London welcome to Nick Young who runs 
+                 a Synchronet BBS under Ubuntu. You can reach the BBS by 
+                 heading to tfsi.fsxnet.nz
+
+Added Node 4/146 BeBeeS (CZE) based in Prague it's a warm welcome to Milan 
+                 Minic aka BluX who has started up his Enigma 1/2 BBS running
+                 Gentoo Linux. Telnet to gopher.su:1234 or ssh on port 4321
+                 Nice to have you as a member of our online community :)
+
+Added Node 3/139 The Bat Cave BBS (USA) heading now to Powell, Ohio please 
+                 give a warm fsxNet welcome to sysop Minh Nguyen who has 
+                 set up a Mystic BBS that can be found at batcave.fsxnet.nz
+                 Nice to see you in fsxNet Minh, welcome :)
+
+Removed Node 1/128 The OuijaBoard BBS (USA) Jeff has advised he is shutting
+                his BBS down. The node has been delisted. Best wishes to you
+                Jeff and thanks for being part of fsxNet over the years.
+
+Added Node 1/128 Odyssey BBS (USA) welcome to Michael Schaffer who hails 
+                 from Chicago. Setting up a Mystic BBS running Raspbian OS
+                 you can visit his system at odysseybbs.ddns.net:8080
+                 Great to have you as a member of fsxNet Michael - welcome.
+
+Removed Node 1/126 Talisman BBS (AUS) Andrew advises he's shutting this 
+                 system down. He's still active and running his Happyland
+                 2.0 system (21:1/182)
+
+
+2021-02-25
+Update Node 1/207 The Trading Post BBS has had its name updated to
+                 The Trading Post [SOUTH] BBS.
+
+2021-02-20
+We've made a change to the name of the file being hatched out each week that
+contains the infopack. Previously it was called fsxinfo.zip and was hatched
+out to the file area FSX_INFO with a command to 'replace' the old file with
+the new one of the same name.
+
+The file name has changed to fsxnet.zip .. all other behaviours remain the 
+same with it too being sent to the FSX_INFO file base, and the same weekly
+'replace' command being used to swap out old version with new.
+
+** Please manually delete your old fsxinfo.zip from your FSX_INFO file base
+as it will not be updated anymore **
+
+Added Node 4/142 Off the Wall BBS (USA) Hello to sysop Robert Stinnett aka
+                 dmxrob, based in St. Peters, Missouri he has set up a WWIV
+                 BBS under CentOS. You can reach the system at
+                 offthewall.dmxrob.net - welcome :)
+
 2021-02-19
 Added Node 4/141 ConstructiveChaos BBS (USA) Craig has moved his setup from
  			     QWK to FTN and has aquired this node number. The nodelist
