@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 15 March 2021 ---
+    --- fsxNet connected Systems as of 23 March 2021 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -264,6 +264,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 145 TFSI BBS 			 Nick Young 		tfsi.fsxnet.nz
 146 BeBeeS				 Milan Minic		gopher.su:1234
 147 Aliens' Alcove BBS   Eric Pareja        aliens.free.net.ph
+148 Roon's BBS 			 Daniel Path		bbs.studio64.hu:1212
 150 VA7AQD's Tavern BBS  Adam Clark         bbs.isurf.ca
 152 Blackfair's Manor    Keith Cunningham   blackf.synchro.net
 153 ARDA BBS             Tim Woodland       arda-bbs.com
@@ -303,5 +304,6 @@ Gray Matter BBS          Greg Youngblood    GMBBS
 Wicked BBS               Greg Youngblood    WBBSNET
 AlleyCat! BBS            Gregg Somes        ALLEYCAT
 3 Corners BBS            Hatton Humphrey    THRCORN 
+El Burro Diablo			 Brad Brown			ELBURROD 
 
 ===============================================================================
