@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 23 March 2021 ---
+    --- fsxNet connected Systems as of 27 March 2021 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -118,6 +118,14 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 211 The Pub BBS          Bob Smith          thepub.fsxnet.nz
 212 SugarRush BBS        Johnathon Arnold   bbs.mrhatestheworld.com
 213 Deep Thought BBS     Nick Burchett      bbs.deepthoughtbbs.com
+214 Midnight Lounge BBS  Allie Prather 		lounge.mbl.social
+215 Project Open Gate 	 Justin Waymire		pog.fsxnet.nz
+216 Infinite Space BBS 	 Lenny Lacey 		infinitespacebbs.ddns.net
+217 Battlestar Pegasus	 Mark Iezzi 		pegasusbbs.dyndns.org
+218 KCM BBS 			 Andreas Zahrl 		zahrl.ddns.net:2023
+616 cold fusion      	 Alexander Grotewohl cfbbs.net
+
+
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
 
@@ -265,6 +273,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 146 BeBeeS				 Milan Minic		gopher.su:1234
 147 Aliens' Alcove BBS   Eric Pareja        aliens.free.net.ph
 148 Roon's BBS 			 Daniel Path		bbs.studio64.hu:1212
+149 Viper's Den 		 Jeremy Wyble 		vipersden.hopto.org
 150 VA7AQD's Tavern BBS  Adam Clark         bbs.isurf.ca
 152 Blackfair's Manor    Keith Cunningham   blackf.synchro.net
 153 ARDA BBS             Tim Woodland       arda-bbs.com

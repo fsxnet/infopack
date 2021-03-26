@@ -13,6 +13,33 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2021-03-27
+Added Node 1/214 Midnight Lounge BBS (USA) welcome to sysop Allie Prather
+                 based in Panama City Beach, FL and running a Synchronet BBS
+                 You can reach the system at lounge.mbl.social or use port 
+                 2022 for SSH
+
+Added Node 1/215 Project Open Gate BBS (USA) welcome also to Justin Waymire
+                 who is located in Houston, TX. Justin has set up a Mystic BBS
+                 and can be contacted at pog.fsxnet.nz or visit 
+                 projectopengate.com for more details.
+
+Added Node 1/216 Infinite Space BBS (USA) a shout out and welcome to Lenny 
+                 Lacey who's in Orlando setting up his Mystic BBS under Win 10
+                 Check it out at infinitespacebbs.ddns.net
+
+Added Node 1/217 Battlestar Pegasus (USA) adding to the mix of BBS software
+                 be sure to check out sysop Mark Iezzi's new system running
+                 Renegade BBS. You'll find this at pegasusbbs.dyndns.org
+
+Added Node 1/218 KCM BBS (AUT) based in Kautzen, Austria it's a warm welcome
+                 to sysop Andreas Zahrl who is spinning up his Mystic BBS
+                 running under Raspian. Reach it at zahrl.ddns.net:2023 or
+                 use port 2222 for SSH.
+
+Added Node 1/616 cold fusion bbs (USA) welcome to the fsxNet community sysop
+                Alexander Grotewohl aka fusion. fusion has set up a Mystic BBS
+                running Windows. You can find it at cfbbs.net
 
 2021-03-19
 Added Node 4/149 Viper's Den (USA) located in Kyle, TX you will find the 
