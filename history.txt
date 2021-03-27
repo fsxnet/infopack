@@ -41,6 +41,11 @@ Added Node 1/616 cold fusion bbs (USA) welcome to the fsxNet community sysop
                 Alexander Grotewohl aka fusion. fusion has set up a Mystic BBS
                 running Windows. You can find it at cfbbs.net
 
+Added Node 1/219 Radio Freqs & Geeks BBS (USA) welcome back to a returning 
+                 fsxNet member - Rich Gattie aka mobbyg who is setting his
+                 system again. You can reach it at rfgeeksbbs.ddns.net:2323
+                 or use port 2222 for SSH connections. Welcome back sir :)
+
 2021-03-19
 Added Node 4/149 Viper's Den (USA) located in Kyle, TX you will find the 
                  Mystic BBS powered system run by susop Jeremy Wyble aka SkiZM
