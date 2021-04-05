@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 27 March 2021 ---
+    --- fsxNet connected Systems as of 5 Apri 2021 ---
 
 ===============================================================================
 Node BBS Name            Sysop              Address    
@@ -32,6 +32,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 123 Thiaramus' Den       Roman Litvinenko   thiaramus.fsxnet.nz
 124 apernevan.tk BBS     Andrei Pernevan    apernevan.tk
 124 CrNet BBS            John Gonzales      bbs.crnet.net
+126 Al's Geek Lab BBS    Alistair Ross      bbs.alsgeeklab.com:2323
 127 Capital Station      Gregory Deyss      csbbs.dyndns.org 
 128 Odyssey BBS          Michael Schaffer   odysseybbs.ddns.net:8080
 129 SpaceSST BBS         Luc McCarragher    mccarragher.org  
@@ -124,6 +125,7 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 217 Battlestar Pegasus   Mark Iezzi         pegasusbbs.dyndns.org
 218 KCM BBS              Andreas Zahrl      zahrl.ddns.net:2023
 219 Radio Freqs & Geeks  Rich Gattie        rfgeeksbbs.ddns.net:2323
+220 swissIRC BBS         Alisha Manuela     swissirc.fsxnet.nz
 616 Cold Fusion          Alexander Grotewohl cfbbs.net
 
 
