@@ -13,6 +13,19 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2021-04-14
+Added Node 2/168 Capitol Shrill BBS (USA) it's a warm welcome to sysop
+                 Vincent Macaluso aka nolageek who is based in Washington, DC.
+                 Running a Synchronet BBS you can reach the BBS by heading to
+                 capitolshrill.com
+
+Updated Node 1/202 Star Collision BBS. The BBS is now accepting part time 
+                 phone calls on +46-18-7501515. The nodelist has been updated.
+
+Updated Node 3/124 Coffe House BBS (USA) has moved locale and is now based in
+                 Ponchatoula, LA. The nodelist has been updated.
+
+
 2021-04-05
 Added Node 1/220 swissIRC BBS (CHE) please welcome back to the BBS scene
                  sysop Alisha Manuela. Running Mystic BBS under Debian you 
