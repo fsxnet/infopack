@@ -1,11 +1,17 @@
 =============================================================================
 
-             fsxNet - [F]un, [S]imple, e[X]perimental Network
+                   ____                    _   __         __
+                  / __/   _____   _  __   / | / /  ___   / /_
+                 / /_    / ___/  | |/_/  /  |/ /  / _ \ / __/
+                / __/   (__  )  _>  <   / /|  /  /  __// /_
+               /_/     /____/  /_/|_/  /_/ |_/   \___/ \__/
 
-                               (Zone 21)
+
+               The [F]un, [S]imple, e[X]perimental Network
+               ===========================================
+
+                    (Est. 2015 | Zone 21 | fsxnet.nz)
  
-= Introducing fsxNet ========================================================
-	
 fsxNet is a fun, simple and experimental network established in late 2015
 
 fsxNet is not a prescriptive network. e[X]perimentation is at heart
@@ -161,7 +167,7 @@ FSX_TEXT - Text Files (Various)
 There are currently five NETs operating in fsxNet each serviced by a HUB.
 
 The fsxNet WHQ HUB (21:1/100) accepts BinkD connections via 
-net1.fsxnet.nz:24556 or port 24553 (SSL)
+net1.fsxnet.nz:24554
 
 The fsxNet Tholian HUB (21:2/100) accepts BinkD connections via 
 net2.fsxnet.nz:24555 or port 24553 (SSL)
@@ -176,7 +182,7 @@ net4.fsxnet.nz:24560 or port 24553 (SSL)
 The fsxNet Omicron HUB (21:5/100) accepts VMODEM NetSerial/PXW connections
 via net5.fsxnet.nz:3141
 
-Please note the port numbers we're using are in a range from 24555 - 24560
+Please note the port numbers we're using are in a range from 24553 - 24560
 subject to which HUB you are polling.
 
 Please also note when you receive your node number it may likely be in
@@ -201,7 +207,7 @@ frequently.
 
 Joining is easy, to obtain a node number just complete the application form
 below then either email it to avon@bbs.nz or send it as Fidonet netmail
-to Paul Hayton (3:770/100) at agency.bbs.nz:24554
+to Paul Hayton (3:770/100) at agency.bbs.nz
 
 For anything that's not applicable below, please state "NA".
 Thanks for your interest.
@@ -257,8 +263,6 @@ Your BinkP details
 
  Binkp Address.................:
  Crash or Hold Traffic.........:
- 
- 
  
 = END OF APPLICATION ========================================================
 		

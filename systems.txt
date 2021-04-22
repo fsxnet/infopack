@@ -1,10 +1,11 @@
-    --- fsxNet connected Systems as of 14 April 2021 ---
+    --- fsxNet connected Systems as of 21 April 2021 ---
 
-===============================================================================
+=============================================================================
 Node BBS Name            Sysop              Address    
-===============================================================================
+=============================================================================
 
-NET 1 (21:1/xxx) Mystic BBS (BinkP)
+NET 1 (21:1/xxx) HPT (BinkP)
+============================
 
 100 Risa fsxHUB          Paul Hayton        agency.bbs.nz:24556
 101 Agency BBS           Paul Hayton        agency.bbs.nz:24555   
@@ -128,9 +129,8 @@ NET 1 (21:1/xxx) Mystic BBS (BinkP)
 220 swissIRC BBS         Alisha Manuela     swissirc.fsxnet.nz
 616 Cold Fusion          Alexander Grotewohl cfbbs.net
 
-
-
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
+===================================
 
 100 Tholian fsxHUB       Todd Zieman        net2.fsxnet.nz:24555
 101 End Of The Line BBS  Nigel Reed         endofthelinebbs.com
@@ -192,6 +192,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 168 Capitol Shrill BBS   Vincent Macaluso   capitolshrill.com
 
 NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
+================================================
 
 100 Linucus BBS           Deon George       net3.fsxnet.nz
 101 The Lower Planes BBS  Anthony Adverse   tlp.zapto.org
@@ -227,8 +228,11 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 137 Wicked Garden BBS     Hung Tran         wgbbs.ddns.net
 138 Taliadon BBS          Lee Westlake      taliadon.ddns.net 
 139 The Bat Cave BBS      Minh Nguyen       batcave.fsxnet.nz
+140 Ground Central BBS    Matthew Blocker   gcbbs.duckdns.org:2323
+141 Thrace BBS            Dafcho Tabakov    bbs.tabakov.net:13023
 
-NET 4 (21:4/xxx) Mystic BBS (BinkP)
+NET 4 (21:4/xxx) HPT (BinkP)
+============================
 
 100 Niba fsxHUB          Dan Richter        net4.fsxnet.nz:24560
 101 Back to the Future   Bill Simon         bttfbbs.com
@@ -297,6 +301,7 @@ NET 4 (21:4/xxx) Mystic BBS (BinkP)
 172 Dark Forces BBS      Mark Iezzi         darkforcesbbs.dyndns.org:2200
 
 NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
+=================================================
 
 100 WildCat Prison BBS   Ruben Figueroa     wcalt.rdfig.net:2324
 101 The File Bank BBS    Terry Roati        tfb-bbs.org
@@ -304,7 +309,8 @@ NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
 103 The Computer Express Chris Costakis     bbs.costakis.org
 104 EMS!BBS              Scott Labrecque    ems-bbs.com
 
-QWK Systems
+QWK Connected Systems 
+=====================
 
 Castle Rock Experimental Dan Richter        CRBBSQWK
 Capital City Online      Mike Powell        CAPCITY
@@ -318,5 +324,12 @@ Wicked BBS               Greg Youngblood    WBBSNET
 AlleyCat! BBS            Gregg Somes        ALLEYCAT
 3 Corners BBS            Hatton Humphrey    THRCORN 
 El Burro Diablo          Brad Brown         ELBURROD 
+Mutiny BBS               Tom Powers         MUTINY
+Silent Chat BBS          Michael Mrak       SILCHAT 
 
-===============================================================================
+=============================================================================
+
+Spotted an error, something out of date? Let Avon know. Contact avon@bbs.nz
+or send netmail to 21:1/101. Thanks :)
+
+=============================================================================
