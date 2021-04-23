@@ -1,4 +1,4 @@
-    --- fsxNet connected Systems as of 21 April 2021 ---
+    --- fsxNet connected Systems as of 24 April 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -99,7 +99,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 189 The Virtual Terminal Joseph Werle       bbs.kernelerror.com:10023
 190 Abacus BBS           Rick Smith         bbs.abon.us:2323
 191 The Ruins BBS        Doug Cooper        theunderground.us:9707
-192 Communication Connection Jeff Squires   commconnbbs.net
+192 Communication Connection Jeff Squires   commconnbbs.net:2323
 193 Darkstar BBS         Alexander Winkler  darkstar.bmxjo.org:2023 
 194 Diamond Mine Online  David Perrussel    bbs.dmine.net:24
 195 Dragon's Claw HUB    Stephen Walsh      ftn.vk3heg.net
@@ -127,6 +127,8 @@ NET 1 (21:1/xxx) HPT (BinkP)
 218 KCM BBS              Andreas Zahrl      zahrl.ddns.net:2023
 219 Radio Freqs & Geeks  Rich Gattie        rfgeeksbbs.ddns.net:2323
 220 swissIRC BBS         Alisha Manuela     swissirc.fsxnet.nz
+221 Twinkle BBS          Christopher Malo   twinklebbs.xyz
+222 Tiny's BBS II        Shawn Highfield    tinysbbs.com:4323
 616 Cold Fusion          Alexander Grotewohl cfbbs.net
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
