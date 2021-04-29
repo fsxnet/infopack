@@ -69,7 +69,7 @@ The use of the fsxNet for illegal purposes is not permitted. Members or users
 deemed to be engaged in such activities will be de-listed and/or removed by
 the Network Coordinator
 
-Members real names are used in the nodelist, members and users’ aliases or
+Members real names are used in the nodelist, members and users aliases or
 real names are welcome in all echoareas
 
 Messages containing ANSI should use a [ANSI] prefix in the message subject
