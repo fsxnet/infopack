@@ -13,6 +13,19 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2021-05-01
+Added Node 1/223 OldComp.EU BBS (CZE) based in the Czech Republic please 
+                 welcome sysop Cerny Eduard aka MaDCz who is running a Mystic
+                 BBS using Centos. You will find the BBS at 
+                 bbs1.oldcomp.eu:2323 Welcome to fsxNet MaDCz :)
+
+Added Node 1/224 Spot BBS (USA) also please welcome sysop Steve Weinert who
+                 is based in Whitelaw, Wisconsin. Steve is an active HAM
+                 radio operator callsign K9Zw and you can find his BBS at
+                 spotbbs.k9zw.com he also runs at blog at k9zw.wordpress.com
+
+Removed Node 2/106 NeoCincinnati BBS has closed and has been delisted.                
+
 2021-04-24
 Added Node 1/221 Twinkle BBS (USA) it's a warm welcome back to Pequito who
                  has rejoined the scene and fsxNet. You can find his BBS at 

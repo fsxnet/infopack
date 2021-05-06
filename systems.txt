@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 24 April 2021 ---
+              --- Connected Systems as of 1 May 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -139,6 +139,8 @@ NET 1 (21:1/xxx) HPT (BinkP)
 220 swissIRC BBS         Alisha Manuela     swissirc.fsxnet.nz
 221 Twinkle BBS          Christopher Malo   twinklebbs.xyz
 222 Tiny's BBS II        Shawn Highfield    tinysbbs.com:4323
+223 OldComp.EU BBS       Cerny Eduard       bbs1.oldcomp.eu:2323
+224 Spot BBS             Steve Weinert      spotbbs.k9zw.com
 616 Cold Fusion          Alexander Grotewohl cfbbs.net
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
@@ -150,7 +152,6 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 103 Resistance Pride     Kevin Sonney       resistancepride.sytes.net
 104 Vger.Cloud BBS       Bradley Thornton   vger.fsxnet.nz
 105 The New Frontier 2   Charles Stephenson frontierbbs.net
-106 NeoCincinnati BBS    Nikki Jenks        neocinci.bbs.io
 107 The Mage's Keep BBS  Joe Derr           bbs.themageskeep.com
 108 Storm BBS            April Monoceros    telnet.stormbbs.com
 109 Nexus Computers BBS  Manu Ngamotu       bbs.nexuscomputers.com.au
