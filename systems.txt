@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 1 May 2021 ---
+              --- Connected Systems as of 13 May 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -232,7 +232,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 127 Imzadi Box            Anna Christina Nass  box.imzadi.de
 129 Red Mud BBS           David Snyder      redmudbbs.com
 130 PB Renegade           Ruben Figueroa    gapbbs.rdfig.net:2424
-131 Hundred Acre BBS      Aaron Clark       hundredacrebbs.ddns.net
 132 Herp Derp BBS         Andrew Lewis      herp.derp.org.org.za:2222
 133 Slate Hell BBS        Anthony Stump     msbgtn01.synchro.net
 134 Westwood BBS II       Mike Newkirk      westwoodbbs.net
@@ -243,6 +242,9 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 139 The Bat Cave BBS      Minh Nguyen       batcave.fsxnet.nz
 140 Ground Central BBS    Matthew Blocker   gcbbs.duckdns.org:2323
 141 Thrace BBS            Dafcho Tabakov    bbs.tabakov.net:13023
+142 Baffa BBS             Augusto Baffa     baffa.zapto.org:2323
+143 Pedalion BBS          Joe Ferraro       bbs.pedalion.net
+
 
 NET 4 (21:4/xxx) HPT (BinkP)
 ============================
@@ -254,6 +256,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 104 Herbies BBS II       Thorsten Herb      herbies-bbs.ddns.net
 105 Phoenix BBS          Andrew Leary       phoenix.bnbbbs.net:2323
 106 Rusty Mailbox BBS    Alan Ianson        trmb.synchro.net:2030
+107 Carnage! BBS         Brian Rogers       carnage.fsxnet.nz:2300
 108 Inland Utopia BBS    Matthew Munson     iutopia.duckdns.org:23
 109 9640 News BBS        Beery Miller       9640news.ddns.net:9640
 110 BZ&BZ BBS            Steve Thielemann   bbs.red-green.com:4023
@@ -272,13 +275,11 @@ NET 4 (21:4/xxx) HPT (BinkP)
 123 SpaceX Starship BBS  Sam Penwright       -- Private Node --
 124 The Dungeon BBS      Keith Matthews     dungeon.barnabasmusic.com
 125 Veleno BBS           Thomas Bampi       velenobbs.ddns.net
-126 Another F-ing BBS    Gary Crunk         anotherbbs.dynu.net
 128 DragonsWeb Labs BBS  James DiGriz       bbs.dragonsweb.org 
 129 Hive 32 BBS          Luke Galutia       bbs.hive32.com
 130 TradersBay BBS       Chad Adams         tradersbay.fsxnet.nz 
 131 The Wrong Number 2   Al DeRosa          wn2.duckdns.org
 132 Black Flag OBV/2     Hawk Hubbard       blackflag.acid.org:2629
-133 Fading Black BBS     Will Smith         fadingblack.net
 134 Possum Lodge South   Mike Powell        possumso.fsxnet.nz:7636
 135 Veteran BBS          Mike Welborn       vetbbs.fsxnet.nz
 136 Total Lost BBS       Dennis Eklund      bbs.deek.se
@@ -296,7 +297,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 148 Roon's BBS           Daniel Path        bbs.studio64.hu:1212
 149 Viper's Den          Jeremy Wyble       vipersden.hopto.org
 150 VA7AQD's Tavern BBS  Adam Clark         bbs.isurf.ca
-152 Blackfair's Manor    Keith Cunningham   blackf.synchro.net
 153 ARDA BBS             Tim Woodland       arda-bbs.com
 154 Diskshop BBS         Frank Linhares     bbs.diskshop.ca
 155 Flower BBS           Troy Marchant      flower.sytes.net
@@ -304,7 +304,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 157 LostCause Halfway House Ernest Gainey   bbs.lostcause.house
 158 The Drunken Gamer BBS Robbie Whiting    thedrunkengamer.com:8888
 160 Brotherhood of Groovyness John Porterfield b-o-g.net
-161 Gerlach BBS          Dominik Madarasz   bbs.madaraszd.net4321
 164 Fusion BBS           Chris Schneider    fusion.zapto.org
 165 w0pr.win             Richard Swartz     w0pr.win
 166 Black Lodge Research Emory Balmer       blacklodge.fsxnet.nz

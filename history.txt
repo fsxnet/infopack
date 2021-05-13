@@ -13,6 +13,34 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2021-05-13
+Added Node 21:3/143 Pedalion BBS (USA) hailing from Louisville, KY please say
+                 hello and welcome to sysop Joe Ferraro who has set up his
+                 Mystic BBS running Linux at bbs.pedalion.net
+
+Added Node 21:3/142 Baffa BBS (BRA) also welcome aboard to sysop Augusto Baffa
+                 who is based in Rio de Janeiro, Brazil. The Synchronet 
+                 powered BBS can be reached at baffa.zapto.org:2323 or use 
+                 port 2322 for SSH
+
+Added Node 21:4/107 Carnage! BBS (USA) please also make welcome sysop
+                 Brian Rogers who hails from Unionville, Connecticut. Brian is
+                 setting up a Synchronet BBS running Linux. The system can
+                 be reached at carnage.fsxnet.nz:2300 or use port 2200 for SSH
+
+2021-05-10
+Removed Node 3/131 Hundred Acre BBS has been delisted due to inactivity.
+
+2021-05-09
+Time for some housekeeping and removal of inactive nodes. Starting with NET4
+
+The following nodes have been delisted due to inactivity
+
+21:4/126      Another F-ing BBS         Gary Crunk
+21:4/133      Fading Black BBS          Will Smith
+21:4/152      Blackfair's Manor BBS     Keith Cunningham
+21:4/161      Gerlach BBS               Dominik Madarasz
+
 2021-05-01
 Added Node 1/223 OldComp.EU BBS (CZE) based in the Czech Republic please 
                  welcome sysop Cerny Eduard aka MaDCz who is running a Mystic
