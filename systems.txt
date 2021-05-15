@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 13 May 2021 ---
+              --- Connected Systems as of 16 May 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -53,7 +53,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 133 The Parity Error     Ian McLaughlin     theparityerror.com  
 134 Mystic Prison Board  Ruben Figueroa     pbmystic.rdfig.net:24   
 135 Lair of the Wolveri  Kevin Taylor       bbs.r2lotw.com 
-136 force9 BBS           David Stephens     bbs.force9.org
 137 Digital Distortion   Eric Oulashin      digdist.synchro.net
 138 Electronic Warfare   Nicholas Loch      bbs.ewbbs.net 
 139 bitHaven BBS         Jean-Francois Joly -- Private Node -- 
@@ -141,6 +140,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 222 Tiny's BBS II        Shawn Highfield    tinysbbs.com:4323
 223 OldComp.EU BBS       Cerny Eduard       bbs1.oldcomp.eu:2323
 224 Spot BBS             Steve Weinert      spotbbs.k9zw.com
+225 Free Speech U Smeghd Doug McComber      freespeech.smeghead.club:6623
 616 Cold Fusion          Alexander Grotewohl cfbbs.net
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
