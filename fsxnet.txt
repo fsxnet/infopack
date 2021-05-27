@@ -175,7 +175,7 @@ FSX_VIDEO - Watched a good movie? Seen an awesome TV show? Found a cool
           series on Disney+, Netflix etc? If it's something you've seen or wish
           you could, or you just want to tell others to check it out - share 
           your thoughts here. Reviews are welcome. Please preface posts
-          containing spoilers with [spoilers] in your subject heading.
+          containing spoilers with [spoilers] or [sp] in your subject heading.
 
 FSX_MUSIC - This forum covers anything to do with music. From the instruments
           performers play to the artists and bands they play in. All formats,
