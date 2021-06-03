@@ -16,7 +16,7 @@ fsxNet is a fun, simple and experimental network established in late 2015
 
 fsxNet is not a prescriptive network. e[X]perimentation is at heart
 of its name and members are actively encouraged to be creative in their
-use of the network. Only a handfull of message areas and file bases are
+use of the network. A limited number of message areas and file bases are
 used - setup is quick and [S]imple.
 
 Technologies covered by the network include (but are not limited to)
@@ -164,7 +164,7 @@ FSX_SPORTS - Do you like sport? Some of us play it while the rest of us surf
           - dodge, duck, dip, dive and...??
 
 FSX_RETRO - Retro computing and any old tech discussions. From early computer
-          hardware and software, calculators, watches and more.  if you have
+          hardware and software, calculators, watches and more.  If you have
           collected it, use it, need it fixed tell us about it here.
 
 FSX_TRANSPORT - Petrol, diesel, electric, human powered - if it gets you from
@@ -278,13 +278,18 @@ state this in your reply :)  If you don't run a BBS, just state a system name
 you will be known by. 
 
 By completing this application you agree to abide by the fsxNet goals, values
-and housekeeping items detailed in this document. 
+and housekeeping items detailed in this document. You also consent to the ZC
+and HUB administrators holding/using the information supplied by you for the 
+purposes of joining and administering the fsxNet network. Your name, city and 
+country details will appear in the fsxNet nodelist. Your name is also used in
+the systems.txt file that lists all participating BBS and sysops involved  in
+the fsxNet network.
 
 Thank you for your interest!
 
         
  Your Name.....................:
- Location......................:
+ City / Country................:
  BBS / System Name.............:
  BBS Software..................:
  Operating System..............:
@@ -318,8 +323,9 @@ Your BinkP details
 
         BinkP
 
- Binkp Address.................:
- Crash or Hold Traffic.........:
+ Binkp Address.....................:
+ Binkp Port (usually 24554)........:
+ Crash / Hold Traffic Required?....:
  
 = END OF APPLICATION ========================================================
 		
