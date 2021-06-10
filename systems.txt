@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 30 May 2021 ---
+              --- Connected Systems as of 6 June 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -142,6 +142,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 224 Spot BBS             Steve Weinert      spotbbs.k9zw.com:1123
 225 Free Speech U Smeghd Doug McComber      freespeech.smeghead.club:6623
 226 Retro16 BBS          David Florey       retro16.fsxnet.nz
+227 Shipwrecks & Shibboleths Chris Hizny    shibboleths.fsxnet.nz
 616 Cold Fusion          Alexander Grotewohl cfbbs.net
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
