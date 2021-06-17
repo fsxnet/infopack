@@ -13,6 +13,32 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2021-06-13
+Added Node 1/228 El Gato de Fuego BBS (PAN) welcome to sysop John Dovey aka 
+                 BoonDock who is based in Pedasi, Panama. BoonDock is running
+                 a Synchronet BBS, the system can be reached at
+                 elgato.fsxnet.nz   Welcome to fsxNet John!
+                 
+2021-06-10
+Added Node 3/145 Darkest Hour BBS (USA) welcome to sysop Shawn Rapp aka
+                 BadOPCode who is based in Maricopa. BadOPCode is running a
+                 Mystic system that you can find at dhbbs.org
+                 Welcome to fsxNet!
+2021-06-09
+Added Node 4/151 CaNerDUH BBS (CAN) please make welcome sysop Travis Mehrer
+                 aka Blade who is based in Medicine Hat, AB. He's setting up
+                 a Mystic BBS that you can find at bbs.canerduh.com:23905
+                 Welcome aboard good sir :)
+
+Added Node 2/106 Dock Sud Mystic BBS (ARG) Fernando aka Ragnarok has added a 
+                 Mystic system and has set this up as a PVT node.
+
+2021-06-07
+Added Node 3/144 Flocks BBS (UKR) welcome to Ruslan Ivanyuk who is based in 
+                 Askania-Nova, Ukraine. Ruslan is setting up a PVT node 
+                 that's powered by HPT and BinkD. Great to have you as a 
+                 member of fsxNet :) Thanks for joining!
+
 2021-06-06
 Added Node 1/227 Shipwrecks & Shibboleths BBS (USA) please welcome sysop
                  Chris Hizny aka DustCouncil who hails from Marana, Arizona.

@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 6 June 2021 ---
+              --- Connected Systems as of 13 June 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -137,12 +137,13 @@ NET 1 (21:1/xxx) HPT (BinkP)
 219 Radio Freqs & Geeks  Rich Gattie        rfgeeksbbs.ddns.net:2323
 220 swissIRC BBS         Alisha Manuela     swissirc.fsxnet.nz
 221 Twinkle BBS          Christopher Malo   twinklebbs.xyz
-222 Tiny's BBS II        Shawn Highfield    tinysbbs.com:4323
+222 Tiny's BBS II        Shawn Highfield    bbs.tinysbbs.com:4323
 223 OldComp.EU BBS       Cerny Eduard       bbs1.oldcomp.eu:2323
 224 Spot BBS             Steve Weinert      spotbbs.k9zw.com:1123
 225 Free Speech U Smeghd Doug McComber      freespeech.smeghead.club:6623
 226 Retro16 BBS          David Florey       retro16.fsxnet.nz
 227 Shipwrecks & Shibboleths Chris Hizny    shibboleths.fsxnet.nz
+228 El Gato de Fuego BBS John Dovey         elgato.fsxnet.nz
 616 Cold Fusion          Alexander Grotewohl cfbbs.net
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
@@ -154,6 +155,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 103 Resistance Pride     Kevin Sonney       resistancepride.sytes.net
 104 Vger.Cloud BBS       Bradley Thornton   vger.fsxnet.nz
 105 The New Frontier 2   Charles Stephenson frontierbbs.net
+106 Dock Sud Mystic BBS  Fernando Toledo    -- Private Node --
 107 The Mage's Keep BBS  Joe Derr           bbs.themageskeep.com
 108 Storm BBS            April Monoceros    telnet.stormbbs.com
 109 Nexus Computers BBS  Manu Ngamotu       bbs.nexuscomputers.com.au
@@ -246,6 +248,8 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 141 Thrace BBS            Dafcho Tabakov    bbs.tabakov.net:13023
 142 Baffa BBS             Augusto Baffa     baffa.zapto.org:2323
 143 Pedalion BBS          Joe Ferraro       bbs.pedalion.net
+144 Flocks BBS            Ruslan Ivanyuk    -- Private Node --
+145 Darkest Hour BBS      Shawn Rapp        dhbbs.org
 
 
 NET 4 (21:4/xxx) HPT (BinkP)
@@ -299,6 +303,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 148 Roon's BBS           Daniel Path        bbs.studio64.hu:1212
 149 Viper's Den          Jeremy Wyble       vipersden.hopto.org
 150 VA7AQD's Tavern BBS  Adam Clark         bbs.isurf.ca
+151 CaNerDUH BBS         Travis Mehrer      bbs.canerduh.com:23905
 153 ARDA BBS             Tim Woodland       arda-bbs.com
 154 Diskshop BBS         Frank Linhares     bbs.diskshop.ca
 155 Flower BBS           Troy Marchant      flower.sytes.net
