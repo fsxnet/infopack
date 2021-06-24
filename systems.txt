@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 13 June 2021 ---
+              --- Connected Systems as of 20 June 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -144,6 +144,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 226 Retro16 BBS          David Florey       retro16.fsxnet.nz
 227 Shipwrecks & Shibboleths Chris Hizny    shibboleths.fsxnet.nz
 228 El Gato de Fuego BBS John Dovey         elgato.fsxnet.nz
+229 TCOB1 BBS            Sean Rima          tcob1.duckdns.org
 616 Cold Fusion          Alexander Grotewohl cfbbs.net
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
