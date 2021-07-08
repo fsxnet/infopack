@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 20 June 2021 ---
+              --- Connected Systems as of 7 July 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -60,7 +60,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 141 Pie33 BBS            Moises Aranas      pie33.com:2223 
 142 The Trashcan BBS     Nick MacKechnie    bbs.thenet.gen.nz
 143 The Bridge BBS       Tony Langdon       bridge.vkradio.com 
-144 PBBS WHQ Support     Ozz Nixon          exchangebbs.com:38400 
+144 Brain Patchwork DX   Ozz Nixon          exchangebbs.com:38400 
 145 Mystic Pi BBS        Brian Wallace      bcw142.zapto.org   
 146 Saturn's Orbit BBS   Flavio Bessa       saturnsorbit.ddns.net
 147 The Comm's Nut BBS   Danny Moss         tcnbbs.fsxnet.nz:2323
@@ -145,6 +145,8 @@ NET 1 (21:1/xxx) HPT (BinkP)
 227 Shipwrecks & Shibboleths Chris Hizny    shibboleths.fsxnet.nz
 228 El Gato de Fuego BBS John Dovey         elgato.fsxnet.nz
 229 TCOB1 BBS            Sean Rima          tcob1.duckdns.org
+230 Lost Underground BBS Spiro Harvey       lostunderground.org
+231 DelNet BBS           Don Stratton       delnetbbs.ddns.net
 616 Cold Fusion          Alexander Grotewohl cfbbs.net
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
@@ -251,6 +253,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 143 Pedalion BBS          Joe Ferraro       bbs.pedalion.net
 144 Flocks BBS            Ruslan Ivanyuk    -- Private Node --
 145 Darkest Hour BBS      Shawn Rapp        dhbbs.org
+146 Lost Worlds BBS       John Julian       lostworlds.fsxnet.nz 
 
 
 NET 4 (21:4/xxx) HPT (BinkP)
@@ -273,7 +276,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 114 Reisub BBS           Fabian Bonetti     reisub.nsupdate.info:7020
 115 TCS Online           Chris Schoppy      bbs.trianglecloud.xyz
 116 InterMail Support    Dale Barnes        im.ifidonet.com
-117 The Reactor BBS      Bruce Weitzman     thereactorbbs.com
 118 Bit's Lair BBS       Yeray Dorta         -- Private Node --
 119 After Hours BBS      Greg Youngblood    afterhours-bbs.com
 120 Deep Space Gateway   Sam Penwright      deepspacegateway.net
@@ -288,7 +290,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 131 The Wrong Number 2   Al DeRosa          wn2.duckdns.org
 132 Black Flag OBV/2     Hawk Hubbard       blackflag.acid.org:2629
 134 Possum Lodge South   Mike Powell        possumso.fsxnet.nz:7636
-135 Veteran BBS          Mike Welborn       vetbbs.fsxnet.nz
 136 Total Lost BBS       Dennis Eklund      bbs.deek.se
 137 8-Bit Boyz BBS       Shane O'Neill      8bitboyz.bbs.io:6502
 138 CIA Amiga BBS        Tim Grooms         ciaamigabbs.dynu.net:6400
@@ -299,19 +300,16 @@ NET 4 (21:4/xxx) HPT (BinkP)
 143 Eggy BBS             Matt Richards      eggy.fsxnet.nz:2300
 144 Sonic BBS            Louis Northmore    sonicbbs.ddns.net
 145 TFSI BBS             Nick Young         tfsi.fsxnet.nz
-146 BeBeeS               Milan Minic        gopher.su:1234
 147 Aliens' Alcove BBS   Eric Pareja        aliens.free.net.ph
 148 Roon's BBS           Daniel Path        bbs.studio64.hu:1212
-149 Viper's Den          Jeremy Wyble       vipersden.hopto.org
-150 VA7AQD's Tavern BBS  Adam Clark         bbs.isurf.ca
 151 CaNerDUH BBS         Travis Mehrer      bbs.canerduh.com:23905
 153 ARDA BBS             Tim Woodland       arda-bbs.com
 154 Diskshop BBS         Frank Linhares     bbs.diskshop.ca
-155 Flower BBS           Troy Marchant      flower.sytes.net
 156 The Rock BBS III     Michael Batts      therockbbs.net:10023
 157 LostCause Halfway House Ernest Gainey   bbs.lostcause.house
 158 The Drunken Gamer BBS Robbie Whiting    thedrunkengamer.com:8888
 160 Brotherhood of Groovyness John Porterfield b-o-g.net
+162 SlipStream BBS       Scott Styles       www.slipstreambbs.net
 164 Fusion BBS           Chris Schneider    fusion.zapto.org
 165 w0pr.win             Richard Swartz     w0pr.win
 166 Black Lodge Research Emory Balmer       blacklodge.fsxnet.nz
