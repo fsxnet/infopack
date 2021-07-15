@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 7 July 2021 ---
+              --- Connected Systems as of 11 July 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -190,6 +190,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 139 Gryphus BBS          Stephen Arnold     gryphus.vk2sja.org:5632
 140 Subcarrier BBS       John McCoy         subcarrier.ignorelist.com:2323
 141 SiliconUnderground   Jason Bock         siliconu.fsxnet.nz
+142 TheViper BBS         Lloyd Fellon       theviperbbs.mywire.org
 144 Outremer BBS         Pieter Bakker      outremer.fsxnet.nz
 145 Mike's Mansion BBS   Michael Pierce     mansion.dynv6.net
 147 ACME BBS             Don Lowery         acmebbs.ddns.net:7788
@@ -310,6 +311,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 158 The Drunken Gamer BBS Robbie Whiting    thedrunkengamer.com:8888
 160 Brotherhood of Groovyness John Porterfield b-o-g.net
 162 SlipStream BBS       Scott Styles       www.slipstreambbs.net
+163 Jensencloud BBS      Pat Jensen         jensencloud.net
 164 Fusion BBS           Chris Schneider    fusion.zapto.org
 165 w0pr.win             Richard Swartz     w0pr.win
 166 Black Lodge Research Emory Balmer       blacklodge.fsxnet.nz
