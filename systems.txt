@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 18 July 2021 ---
+              --- Connected Systems as of 22 July 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -297,7 +297,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 154 Diskshop BBS         Frank Linhares     bbs.diskshop.ca
 156 The Rock BBS III     Michael Batts      therockbbs.net:10023
 157 LostCause Halfway House Ernest Gainey   bbs.lostcause.house
-158 The Drunken Gamer BBS Robbie Whiting    thedrunkengamer.com:8888
+158 The Alpha Complex    Robbie Whiting     alphacomplex.us:2323
 160 Brotherhood of Groovyness John Porterfield b-o-g.net
 162 SlipStream BBS       Scott Styles       www.slipstreambbs.net
 163 Jensencloud BBS      Pat Jensen         jensencloud.net
