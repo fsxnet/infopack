@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 22 July 2021 ---
+              --- Connected Systems as of 3 August 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -37,7 +37,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 117 Mystic Dreams BBS    Mark Iezzi         mysticdreams.dyndns.org:24   
 118 Crystal Peak BBS     Will Du Chene      crystalp.duckdns.org  
 119 Sysgod BBS           Scott Little       ftn.sysgod.org
-120 Starbase 11 BBS      Alexander Knerlein -- Private Node --  
+120 Starbase 11 BBS      Alexander Knerlein starbase11.fsxnet.nz
 121 Xibalba BBS          Bryan Ashby        xibalba.l33t.codes:44510
 122 Necronomicon BBS     Carlos Roldan      necrobbs.ddns.net
 123 Thiaramus' Den       Roman Litvinenko   thiaramus.fsxnet.nz
