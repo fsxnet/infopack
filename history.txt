@@ -13,6 +13,25 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2021-08-06
+Added Node 1/233 The Swamp BBS (NLD) welcome aboard to sysop
+                 Maurice den Braber who is based in Rotterdam, Netherlands.
+                 You can reach his Mystic system at swamp.fsxnet.nz
+                 Great to have you aboard Maurice. Welcome.
+
+Added Node 1/234 Crewmate's Test Lab (USA) please give a warm welcome too
+                Mike Edwards aka Crewmate who is based in Reno County.
+                Crewmate is setting up his Mystic BBS running under Linux
+                The system is not yet open but you will be able to reach
+                it at testlab.fsxnet.nz:7357 (telnet) or use port 148 for 
+                SSH when it does open up. Nice to have you as a member 
+                of the fsxNet community crewmate :)
+
+Added Node 1/235 Fratm's BBS (USA) based in Santa Rosa, California say hey
+                 to sysop Steve Johnson aka Fratm. Fratm is running a Mystic
+                 BBS under Linux and you can find his system at bbs.fratm.com
+                 Welcome good sir thanks for choosing to join fsxNet :)
+
 2021-08-03
 Updated Node 1/120 Starbase 11 BBS (DEU)now has a custom fsxNet domain name 
                  of starbase11.fsxnet.nz  the nodelist etc. has been updated.

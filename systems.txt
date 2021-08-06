@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 3 August 2021 ---
+              --- Connected Systems as of 6 August 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -144,6 +144,9 @@ NET 1 (21:1/xxx) HPT (BinkP)
 230 Lost Underground BBS Spiro Harvey       lostunderground.org
 231 DelNet BBS           Don Stratton       delnetbbs.ddns.net
 232 Zooropa BBS          Gaston Martres     zooropabbs.ddns.net:2323
+233 The Swamp BBS        Maurice den Braber swamp.fsxnet.nz
+234 Crewmate's Test Lab  Mike Edwards       testlab.fsxnet.nz:7357
+235 Fratm's BBS          Steve Johnson      bbs.fratm.com
 616 Cold Fusion          Alexander Grotewohl cfbbs.net
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
