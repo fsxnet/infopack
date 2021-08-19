@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 6 August 2021 ---
+              --- Connected Systems as of 19 August 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -221,7 +221,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 113 Pweck's Retreat BBS   Dean Lodge        bbs.pweck.net
 116 Farm BBS              Scott Bogatinoff   -- Private Node --
 117 Runaan BBS            Andre & Etienne   bbs.k9zn.org
-118 Panopticon BBS        Alex Spezowka     panoptic.onl:7778 (SSH)
 119 FuNToPia BBS          Stephan Gebbers   funtopia.ddnss.eu:2023
 120 Westland BBS          Martien Korenblom bbs.korenblom.nl 
 122 Final Zone BBS        Kurisu Yamato     finalzone.ddns.net
@@ -247,6 +246,10 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 144 Flocks BBS            Ruslan Ivanyuk    -- Private Node --
 145 Darkest Hour BBS      Shawn Rapp        dhbbs.org
 146 Lost Worlds BBS       John Julian       lostworlds.fsxnet.nz 
+147 FullSys BBS           Steven Paul       -- Private Node --
+148 Nodewarrior BBS       Wes Evans         nodewarrior.fsxnet.nz:2323
+149 Roughneck BBS         Michael Ryan      host.roughneckbbs.com
+150 Planet Caravan BBS    Kevin Blalock     lab.zylone.org
 
 
 NET 4 (21:4/xxx) HPT (BinkP)
@@ -295,6 +298,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 145 TFSI BBS             Nick Young         tfsi.fsxnet.nz
 147 Aliens' Alcove BBS   Eric Pareja        aliens.free.net.ph
 148 Roon's BBS           Daniel Path        bbs.studio64.hu:1212
+149 UAT_SOC BBS          Aaron Jones        uatsoc.fsxnet.nz:8889
 151 CaNerDUH BBS         Travis Mehrer      bbs.canerduh.com:23905
 153 ARDA BBS             Tim Woodland       arda-bbs.com
 154 Diskshop BBS         Frank Linhares     bbs.diskshop.ca
