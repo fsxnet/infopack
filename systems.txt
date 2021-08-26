@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 19 August 2021 ---
+              --- Connected Systems as of 25 August 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -147,6 +147,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 233 The Swamp BBS        Maurice den Braber swamp.fsxnet.nz
 234 Crewmate's Test Lab  Mike Edwards       testlab.fsxnet.nz:7357
 235 Fratm's BBS          Steve Johnson      bbs.fratm.com
+236 Classic BBS          Mike Chilson       classicbbs.fsxnet.nz:2323
 616 Cold Fusion          Alexander Grotewohl cfbbs.net
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
@@ -162,7 +163,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 108 Storm BBS            April Monoceros    telnet.stormbbs.com
 110 Ink Two BBS          Lawrence Manuel    bbs.inktwo.com
 111 Leisure Time BBS     Robert Riddell     bbs.riddells.net:10023
-113 PHATstar RetroBOX    Matthew Smith      echo.phatstar.org
+113 Fishingnet BBS       Matthew Smith      fishingnet.phatstar.org:7777
 114 Freeside BBS         Marty Taylor       freeside.bbs.io
 115 Mystic Rhythms BBS   Rob Cole           mystic.wwivbbs.org
 116 Chinwag BBS          Deon George        alterant.leenooks.net
@@ -217,7 +218,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 109 Manic Modem BBS       John Cameron      telnet.manic-modem.com
 110 Northern Realms       Jay Harris        bbs.nrbbs.net
 111 The Unknown Realm     Mike McCafferty   turealm.no-ip.org:3023
-112 Flee the Planet       Fang Castro       flee.fsxnet.nz 
+112 Nightvault BBS        Fang Castro       nightvault.fsxnet.nz 
 113 Pweck's Retreat BBS   Dean Lodge        bbs.pweck.net
 116 Farm BBS              Scott Bogatinoff   -- Private Node --
 117 Runaan BBS            Andre & Etienne   bbs.k9zn.org
@@ -231,6 +232,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 127 Imzadi Box            Anna Christina Nass  box.imzadi.de
 129 Red Mud BBS           David Snyder      redmudbbs.com
 130 PB Renegade           Ruben Figueroa    gapbbs.rdfig.net:2424
+132 Black Sun BBS         Aaron Clark       blacksunbbs.ddns.net
 132 Herp Derp BBS         Andrew Lewis      herp.derp.org.org.za:2222
 133 Slate Hell BBS        Anthony Stump     msbgtn01.synchro.net
 134 Westwood BBS II       Mike Newkirk      westwoodbbs.net
