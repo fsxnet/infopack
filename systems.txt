@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 25 August 2021 ---
+              --- Connected Systems as of 28 August 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -105,7 +105,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 188 ACiD Underworld BBS  Hawk Hubbard       -- Private Node --
 189 The Virtual Terminal Joseph Werle       bbs.kernelerror.com:10023
 190 Abacus BBS           Rick Smith         bbs.abon.us:2323
-191 The Ruins BBS        Doug Cooper        theunderground.us:9707
+191 The Ruins BBS        Doug Cooper        theruins.ddns.net:9707
 192 Communication Connection Jeff Squires   commconnbbs.net:2323
 193 Darkstar BBS         Alexander Winkler  darkstar.bmxjo.org:2023 
 194 Diamond Mine Online  David Perrussel    bbs.dmine.net:24
@@ -232,7 +232,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 127 Imzadi Box            Anna Christina Nass  box.imzadi.de
 129 Red Mud BBS           David Snyder      redmudbbs.com
 130 PB Renegade           Ruben Figueroa    gapbbs.rdfig.net:2424
-132 Black Sun BBS         Aaron Clark       blacksunbbs.ddns.net
+131 Black Sun BBS         Aaron Clark       blacksunbbs.ddns.net
 132 Herp Derp BBS         Andrew Lewis      herp.derp.org.org.za:2222
 133 Slate Hell BBS        Anthony Stump     msbgtn01.synchro.net
 134 Westwood BBS II       Mike Newkirk      westwoodbbs.net
