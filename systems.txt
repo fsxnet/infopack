@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 28 August 2021 ---
+              --- Connected Systems as of 13 September 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -252,6 +252,8 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 148 Nodewarrior BBS       Wes Evans         nodewarrior.fsxnet.nz:2323
 149 Roughneck BBS         Michael Ryan      host.roughneckbbs.com
 150 Planet Caravan BBS    Kevin Blalock     lab.zylone.org
+151 daytona BBS           Henk Hilgersum    94.209.184.72 
+153 Mortal BBS            Shaun Ewing       mortalbbs.com
 
 
 NET 4 (21:4/xxx) HPT (BinkP)
@@ -344,6 +346,7 @@ AlleyCat! BBS            Gregg Somes        ALLEYCAT
 El Burro Diablo          Brad Brown         ELBURROD 
 Mutiny BBS               Tom Powers         MUTINY
 Silent Chat BBS          Michael Mrak       SILCHAT 
+sbbs.dynu.net            Phillip Taylor     
 
 =============================================================================
 
