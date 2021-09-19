@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 13 September 2021 ---
+              --- Connected Systems as of 19 September 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -148,6 +148,8 @@ NET 1 (21:1/xxx) HPT (BinkP)
 234 Crewmate's Test Lab  Mike Edwards       testlab.fsxnet.nz:7357
 235 Fratm's BBS          Steve Johnson      bbs.fratm.com
 236 Classic BBS          Mike Chilson       classicbbs.fsxnet.nz:2323
+237 Brainsuxx.inc BBS    Michael Braun      brainsuxxinc.ddns.net
+238 The Dark Abyss       Chris Foti         bbs.w1cjf.com:419
 616 Cold Fusion          Alexander Grotewohl cfbbs.net
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
@@ -289,6 +291,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 130 TradersBay BBS       Chad Adams         tradersbay.fsxnet.nz 
 131 The Wrong Number 2   Al DeRosa          wn2.duckdns.org
 132 Black Flag OBV/2     Hawk Hubbard       blackflag.acid.org:2629
+133 sbbs.dynu.net        Phillip Taylor     sbbs.dynu.net:2025 
 134 Possum Lodge South   Mike Powell        possumso.fsxnet.nz:7636
 136 Total Lost BBS       Dennis Eklund      bbs.deek.se
 137 8-Bit Boyz BBS       Shane O'Neill      8bitboyz.bbs.io:6502
@@ -320,6 +323,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 171 Star Frontiers BBS   William Williams   starfron.synchronetbbs.org
 172 Dark Forces BBS      Mark Iezzi         darkforcesbbs.dyndns.org:2200
 
+
 NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
 =================================================
 
@@ -346,7 +350,7 @@ AlleyCat! BBS            Gregg Somes        ALLEYCAT
 El Burro Diablo          Brad Brown         ELBURROD 
 Mutiny BBS               Tom Powers         MUTINY
 Silent Chat BBS          Michael Mrak       SILCHAT 
-sbbs.dynu.net            Phillip Taylor     
+   
 
 =============================================================================
 
