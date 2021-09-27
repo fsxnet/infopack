@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 19 September 2021 ---
+              --- Connected Systems as of 26 September 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -240,14 +240,12 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 134 Westwood BBS II       Mike Newkirk      westwoodbbs.net
 135 Lunatics Unleashed    Ross Branham      lunaticsunleashed.ddns.net
 136 Mind's Eye BBS        Tom Aberdeen      mindseye.synchronetbbs.org 
-137 Wicked Garden BBS     Hung Tran         wgbbs.ddns.net
 138 Taliadon BBS          Lee Westlake      taliadon.ddns.net 
 139 The Bat Cave BBS      Minh Nguyen       batcave.fsxnet.nz
 140 Ground Central BBS    Matthew Blocker   gcbbs.duckdns.org:2323
 141 Thrace BBS            Dafcho Tabakov    bbs.tabakov.net:13023
 142 Baffa BBS             Augusto Baffa     baffa.zapto.org:2323
 143 Pedalion BBS          Joe Ferraro       bbs.pedalion.net
-144 Flocks BBS            Ruslan Ivanyuk    -- Private Node --
 145 Darkest Hour BBS      Shawn Rapp        dhbbs.org
 146 Lost Worlds BBS       John Julian       lostworlds.fsxnet.nz 
 147 FullSys BBS           Steven Paul       -- Private Node --
