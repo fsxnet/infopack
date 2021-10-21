@@ -13,6 +13,30 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2021-10-18
+
+Some NET 1 admin and pruning of inactive nodes. Thanks to Jason who replied
+and took the time to get connected again. Adieu to the others who didn't.
+
+Removed Node 1/151 Geek Sphere BBS (PRT) Node inactive for 40+ days with
+                 no reply to emails sent to sysop. The node is delisted.
+
+Removed Node 1/189 The Virtual Terminal. Node has been inactive for 40+ days. 
+                 No reply to email sent to sysop. Node has been delisted.
+
+Updated Node 1/168 Technically BBS (CAN) is no longer marked as 'Down' 
+                 welcome back Jason!
+
+Removed Node 1/228 El Gato de Fuego BBS (PAN). Node inactive for 40+ days,
+                 no reply from email sent to sysop. Node has been delisted.  
+
+Removed Node 1/231 DelNet BBS (USA). Node inactive for 40+ days, no reply
+                 from email sent to sysop. Node is delisted.                            
+
+2021-10-17
+Updated Node 1/208 S.W.A.T.S BBS (NZL) has moved BinkP server to port 24556
+                 the nodelist has been updated.
+
 2021-10-12
 Updated Node 1/165 The Underground BBS (USA) is marked 'Down' in the nodelist
 

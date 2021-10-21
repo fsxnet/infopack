@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 12 October 2021 ---
+              --- Connected Systems as of 18 October 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -67,7 +67,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 148 Dark Systems BBS        Aaron Grasswell    bbs.dsbbs.ca 
 149 The Fool's Quarter      Tim Whitson        fqbbs.synchro.net
 150 Sotano Msx BBS          Pepe Diaz          -- Private Node --
-151 Geek Sphere BBS         Vasco Costa        bbs.geeksphere.tk:2023
 152 2nd Choice Core         Ian Segers         2ndchoicecore.nz:1024 
 153 Infoline BBS            Mickolas Pansky    -- Private Node -- 
 154 Raiders Inc BBS         Jon Justvig        vintagebbsing.com:23
@@ -103,7 +102,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 186 Castle Rock BBS         Dan Richter        bbs.castlerockbbs.com
 187 Cosmik Debris BBS       Andrew Pepper      cosmikdebris.ddns.net:2323
 188 ACiD Underworld BBS     Hawk Hubbard       -- Private Node --
-189 The Virtual Terminal    Joseph Werle       bbs.kernelerror.com:10023
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
 191 The Ruins BBS           Doug Cooper        theruins.ddns.net:9707
 192 Communication ConnectionJeff Squires       commconnbbs.net:2323
@@ -139,10 +137,8 @@ NET 1 (21:1/xxx) HPT (BinkP)
 225 Free Speech U Smeghd    Doug McComber      freespeech.smeghead.club:6623
 226 Retro16 BBS             David Florey       retro16.fsxnet.nz
 227 Shipwrecks & Shibbole   ths Chris Hizny    shibboleths.fsxnet.nz
-228 El Gato de Fuego BBS    John Dovey         elgato.fsxnet.nz
 229 TCOB1 BBS               Sean Rima          tcob1.duckdns.org
 230 Lost Underground BBS    Spiro Harvey       lostunderground.org
-231 DelNet BBS              Don Stratton       delnetbbs.ddns.net
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
 233 The Swamp BBS           Maurice den Braber swamp.fsxnet.nz
 234 Crewmate's Test Lab     Mike Edwards       testlab.fsxnet.nz:7357
