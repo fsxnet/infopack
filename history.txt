@@ -13,8 +13,46 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
-2021-10-18
+2021-11-04
 
+Added Node 3/156 Digital Abyss BBS (USA) based in Tampa, FL. Welcome to 
+                 sysop Karl Schleelein who has spun up a Mystic BBS running 
+                 on a RPi. The BBS can be reached at digitalabyss.fsxnet.nz
+
+Removed Node 3/131 Black Sun BBS (USA) Aaron advises he had hit hardware 
+                issues and has opted to close his system down. The node has 
+                been delisted.
+
+Added Node 3/155 ON2ON BBS (BEL) welcome to sysop Luc Bodson who is setting
+                 up his Mystic BBS running on a Raspberry Pi. The BBS can be
+                 reached at on2on.fsxnet.nz:2000
+
+2021-10-31
+More NET admin as we work to keep things accurate accross the various NETs
+Thanks (as always) to Todd, Deon, Dan and Ruben for their work in this space.
+
+Removed Node 4/154 Diskshop BBS (CAN) Frank's system has been inactive for 
+                many months now and traffic has piled up. The node has been
+                delisted. No contact from the sysop to emails sent.
+
+Added Node 3/137 Wicked Garden BBS (AUS) welcome back to sysop Hung Tran
+                 who is based in Burnside, Victoria. Running Ezycom BBS you
+                 can reach the system via telnet to wgonline.pw
+
+Removed Node 3/134 Westwood BBS II (USA) Mike advises he is shutting his 
+                  BBS down and opting to be a user vs a sysop. The node has
+                  been delisted.
+
+Added Node 2/109 Nexus Computers BBS (AUS) please welcome sysop Manu Ngamotu
+                 has returned to the scene. The system can be reached at
+                 bbs.nexuscomputers.com.au
+
+Added Node 1/151 The Grinning Cat BBS (AUS) Andrew aka Apam has set this
+                 new system up it can be found at gcat.talismanbbs.com
+                 via telnet port 11823, ssh on port 11822 
+
+
+2021-10-18
 Some NET 1 admin and pruning of inactive nodes. Thanks to Jason who replied
 and took the time to get connected again. Adieu to the others who didn't.
 

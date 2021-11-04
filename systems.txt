@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 18 October 2021 ---
+              --- Connected Systems as of 4 November 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -42,7 +42,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 122 Necronomicon BBS        Carlos Roldan      necrobbs.ddns.net
 123 Thiaramus' Den          Roman Litvinenko   thiaramus.fsxnet.nz
 124 apernevan.tk BBS        Andrei Pernevan    apernevan.tk
-124 CrNet BBS               John Gonzales      bbs.crnet.net
+125 CrNet BBS               John Gonzales      bbs.crnet.net
 126 Al's Geek Lab BBS       Alistair Ross      bbs.alsgeeklab.com:2323
 127 Capital Station         Gregory Deyss      csbbs.dyndns.org 
 128 Odyssey BBS             Michael Schaffer   odysseybbs.ddns.net:8080
@@ -67,6 +67,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 148 Dark Systems BBS        Aaron Grasswell    bbs.dsbbs.ca 
 149 The Fool's Quarter      Tim Whitson        fqbbs.synchro.net
 150 Sotano Msx BBS          Pepe Diaz          -- Private Node --
+151 The Grinning Cat        Andrew Pamment     gcat.talismanbbs.com:11823
 152 2nd Choice Core         Ian Segers         2ndchoicecore.nz:1024 
 153 Infoline BBS            Mickolas Pansky    -- Private Node -- 
 154 Raiders Inc BBS         Jon Justvig        vintagebbsing.com:23
@@ -159,6 +160,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 105 The New Frontier 2      Charles Stephenson frontierbbs.net
 106 Dock Sud Mystic BBS     Fernando Toledo    -- Private Node --
 108 Storm BBS               April Monoceros    telnet.stormbbs.com
+109 Nexus Computers BBS     Manu Ngamotu       bbs.nexuscomputers.com.au
 110 Ink Two BBS             Lawrence Manuel    bbs.inktwo.com
 111 Leisure Time BBS        Robert Riddell     bbs.riddells.net:10023
 113 Fishingnet BBS          Matthew Smith      fishingnet.phatstar.org:7777
@@ -229,12 +231,11 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 127 Imzadi Box              Anna Nass         box.imzadi.de
 129 Red Mud BBS             David Snyder      redmudbbs.com
 130 PB Renegade             Ruben Figueroa    gapbbs.rdfig.net:2424
-131 Black Sun BBS           Aaron Clark       blacksunbbs.ddns.net
 132 Herp Derp BBS           Andrew Lewis      herp.derp.org.org.za:2222
 133 Slate Hell BBS          Anthony Stump     msbgtn01.synchro.net
-134 Westwood BBS II         Mike Newkirk      westwoodbbs.net
 135 Lunatics Unleashed      Ross Branham      lunaticsunleashed.ddns.net
-136 Mind's Eye BBS          Tom Aberdeen      mindseye.synchronetbbs.org 
+136 Mind's Eye BBS          Tom Aberdeen      mindseye.synchronetbbs.org
+137 Wicked Garden BBS       Hung Tran         wgonline.pw
 138 Taliadon BBS            Lee Westlake      taliadon.ddns.net 
 139 The Bat Cave BBS        Minh Nguyen       batcave.fsxnet.nz
 140 Ground Central BBS      Matthew Blocker   gcbbs.duckdns.org:2323
@@ -248,6 +249,8 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 150 Planet Caravan BBS      Kevin Blalock     lab.zylone.org
 151 daytona BBS             Henk Hilgersum    94.209.184.72 
 153 Mortal BBS              Shaun Ewing       mortalbbs.com
+155 ON2ON BBS               Luc Bodson        on2on.fsxnet.nz:2000
+156 Digital Abyss BBS       Karl Schleelein   digitalabyss.fsxnet.nz
 
 
 NET 4 (21:4/xxx) HPT (BinkP)
@@ -300,7 +303,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 149 UAT_SOC BBS             Aaron Jones        uatsoc.fsxnet.nz:8889
 151 CaNerDUH BBS            Travis Mehrer      bbs.canerduh.com:23905
 153 ARDA BBS                Tim Woodland       arda-bbs.com
-154 Diskshop BBS            Frank Linhares     bbs.diskshop.ca
 156 The Rock BBS III        Michael Batts      therockbbs.net:10023
 157 LostCause Halfway House Ernest Gainey      bbs.lostcause.house
 158 The Alpha Complex       Robbie Whiting     alphacomplex.us:2323
