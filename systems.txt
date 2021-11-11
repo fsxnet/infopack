@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 4 November 2021 ---
+              --- Connected Systems as of 11 November 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -159,10 +159,12 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 104 Vger.Cloud BBS          Bradley Thornton   vger.fsxnet.nz
 105 The New Frontier 2      Charles Stephenson frontierbbs.net
 106 Dock Sud Mystic BBS     Fernando Toledo    -- Private Node --
+107 The Creeping Crud BBS   Gary Bush          bbs.thecreepingcrud.com:1313
 108 Storm BBS               April Monoceros    telnet.stormbbs.com
 109 Nexus Computers BBS     Manu Ngamotu       bbs.nexuscomputers.com.au
 110 Ink Two BBS             Lawrence Manuel    bbs.inktwo.com
 111 Leisure Time BBS        Robert Riddell     bbs.riddells.net:10023
+112 Thunder BBS             Jay Wheeler        thunderbss.ringet.org
 113 Fishingnet BBS          Matthew Smith      fishingnet.phatstar.org:7777
 114 Freeside BBS            Marty Taylor       freeside.bbs.io
 115 Mystic Rhythms BBS      Rob Cole           mystic.wwivbbs.org
@@ -314,6 +316,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 166 Black Lodge Research    Emory Balmer       blacklodge.fsxnet.nz
 167 The Vault BBS           Rodrigo Pelaez     thevaultbbs.fsxnet.nz
 168 Dales BBS               Dale Cousins       dalesbbs.fsxnet.nz
+170 Amiga Retro Brisbane BBS Mark Casteleijn   www.amigaretro.com:23
 171 Star Frontiers BBS      William Williams   starfron.synchronetbbs.org
 172 Dark Forces BBS         Mark Iezzi         darkforcesbbs.dyndns.org:2200
 
