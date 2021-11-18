@@ -13,6 +13,16 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2021-11-15
+Removed Node 3/124 Coffe House BBS (USA) the BBS has been closed down for
+                 now. The sysop may return down the track but for now the
+                 node is delisted.
+
+Added Node 3/157 Paranormal Panorama BBS (GBR) please welcome sysop
+                 Owen Evers who is based in Hull. He's setting up a Mystic
+                 BBS under Windows 10 and can be reached at
+                 ppbbs-26643.portmap.host:26643  welcome to fsxNet Owen :)
+
 2021-11-11
 Added Node 2/107 The Creeping Crud BBS (USA) welcome to sysop Gary Bush who
                  is based in The Colony, TX. Gary is running a Mystic BBS

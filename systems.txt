@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 11 November 2021 ---
+              --- Connected Systems as of 15 November 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -227,7 +227,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 120 Westland BBS            Martien Korenblom bbs.korenblom.nl 
 122 Final Zone BBS          Kurisu Yamato     finalzone.ddns.net
 123 Binary Dreams BBS       Vincent Jacobs    binarydreamsbbs.ddns.net:53412
-124 Coffee House BBS        Jeff Bodenstein   bbs.coffeehousebbs.me:2323 
 125 Inner Realm BBS         Michael Long      innerrealmbbs.us:2323
 126 The Forze BBS           Robbert Langezaal bbs.opicron.eu
 127 Imzadi Box              Anna Nass         box.imzadi.de
@@ -253,6 +252,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 153 Mortal BBS              Shaun Ewing       mortalbbs.com
 155 ON2ON BBS               Luc Bodson        on2on.fsxnet.nz:2000
 156 Digital Abyss BBS       Karl Schleelein   digitalabyss.fsxnet.nz
+157 Paranormal Panorama BBS Owen Evers        ppbbs-26643.portmap.host:26643
 
 
 NET 4 (21:4/xxx) HPT (BinkP)
