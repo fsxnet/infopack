@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 15 November 2021 ---
+              --- Connected Systems as of 24 November 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -135,7 +135,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 222 Tiny's BBS II           Shawn Highfield    bbs.tinysbbs.com:4323
 223 OldComp.EU BBS          Cerny Eduard       bbs1.oldcomp.eu:2323
 224 Spot BBS                Steve Weinert      spotbbs.k9zw.com:1123
-225 Free Speech U Smeghd    Doug McComber      freespeech.smeghead.club:6623
 226 Retro16 BBS             David Florey       retro16.fsxnet.nz
 227 Shipwrecks & Shibbole   ths Chris Hizny    shibboleths.fsxnet.nz
 229 TCOB1 BBS               Sean Rima          tcob1.duckdns.org
@@ -319,6 +318,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 170 Amiga Retro Brisbane BBS Mark Casteleijn   www.amigaretro.com:23
 171 Star Frontiers BBS      William Williams   starfron.synchronetbbs.org
 172 Dark Forces BBS         Mark Iezzi         darkforcesbbs.dyndns.org:2200
+173 Hobby BBS               Mike Dippel        hobby-bbs.com
 
 
 NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
