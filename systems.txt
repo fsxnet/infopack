@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 12 December 2021 ---
+              --- Connected Systems as of 18 December 2021 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -168,11 +168,13 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 115 Mystic Rhythms BBS      Rob Cole           mystic.wwivbbs.org
 116 Chinwag BBS             Deon George        alterant.leenooks.net
 118 Halls of Valhalla       Morgan Collins     hoval.synchro.net:2333
+119 Anderson's Toolshed     Jon Thorson        bbs.andersonstoolshed.com:2323
 122 Battlestar III BBS      Mark Iezzi         battlestar3.dyndns.org:2400
 123 Deadbeatz BBS           Tim Blada          deadbeatz.org
 124 Insane Asylum BBS       James Kulwicki     -- Private Node --
 126 Rust Belt BBS           Kevin Miller       rbbbs.mtonetwork.com
 127 Battlestar BBS          Mark Iezzi         battlestarbbs.dyndns.org
+128 SeeLive's Rusty HedgehogClive Reuben       rustyhedgehog.dynv6.net:2300
 129 Risky Business BBS      Roger Ouimette     riskybusiness.hopto.org:2323
 130 Delta City BBS          Joacim Melin       deltacity.fsxnet.nz
 131 Orbit BBS               Allen Scofield     orbitbbs.ddns.net
@@ -288,6 +290,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 132 Black Flag OBV/2        Hawk Hubbard       blackflag.acid.org:2629
 133 sbbs.dynu.net           Phillip Taylor     sbbs.dynu.net:2025 
 134 Possum Lodge South      Mike Powell        possumso.fsxnet.nz:7636
+135 PiBBS                   Shaun Buzza        pibbs.sytes.net
 136 Total Lost BBS          Dennis Eklund      bbs.deek.se
 137 8-Bit Boyz BBS          Shane O'Neill      8bitboyz.bbs.io:6502
 138 CIA Amiga BBS           Tim Grooms         ciaamigabbs.dynu.net:6400
