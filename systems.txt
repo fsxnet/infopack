@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 27 December 2021 ---
+              --- Connected Systems as of 6 January 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -73,14 +73,13 @@ NET 1 (21:1/xxx) HPT (BinkP)
 154 Raiders Inc BBS         Jon Justvig        vintagebbsing.com:23
 155 Haciend BBS             Antti Kiuru        haciend.com  
 156 Central Ontario         Mike Manning       oxfordmi.synchro.net  
-157 Shadowscope BBS         Richard Miles      bbs.shadowscope.com 
+157 Shadowscope BBS         Richard Miles      shadowscope.noip.us 
 158 The Quantum Wormhole    Christian Sacks    bbs.erb.pw
 159 The GateHouse BBS       John Riley         bbs.digitalgatehouse.com   
 160 Slime City BBS          David Jacoby       bbs.retrohack.se  
 161 The Search BBS          Karl Harris        searchbbs.fsxnet.nz
 163 Dreamland BBS           Tony Master        bbs.dreamlandbbs.org
 164 Electronic Chicken      Derek Mullin       bbs.electronicchicken.com
-165 The Underground BBS     Doug Cooper        theunderground.us:10023
 166 Datanet BBS             Steve Ellis        datanetbbs.net 
 167 Nitemare Cafe BBS       Rod Barnhart       bbs.nitemarecafe.com:2002
 168 Technically BBS         Jason Billingham   bbs.billingham.ca:2323
@@ -104,7 +103,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 187 Cosmik Debris BBS       Andrew Pepper      cosmikdebris.ddns.net:2323
 188 ACiD Underworld BBS     Hawk Hubbard       -- Private Node --
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
-191 The Ruins BBS           Doug Cooper        theruins.ddns.net:9707
 193 Darkstar BBS            Alexander Winkler  darkstar.bmxjo.org:2023 
 194 Diamond Mine Online     David Perrussel    bbs.dmine.net:24
 195 Dragon's Claw HUB       Stephen Walsh      ftn.vk3heg.net
@@ -191,7 +189,6 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 142 TheViper BBS            Lloyd Fellon       theviperbbs.mywire.org
 144 Outremer BBS            Pieter Bakker      outremer.fsxnet.nz
 145 Mike's Mansion BBS      Michael Pierce     mansion.dynv6.net
-147 ACME BBS                Don Lowery         acmebbs.ddns.net:7788
 150 20 For Beers BBS        Paul Lee           20ForBeers.com:1337
 151 Dock Sud BBS            Fernando Toledo    bbs.docksud.com.ar
 152 UnderZaNet BBS          Jan Henkins        bbs.under.za.net:2024
@@ -241,7 +238,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 141 Thrace BBS              Dafcho Tabakov    bbs.tabakov.net:13023
 142 Baffa BBS               Augusto Baffa     baffa.zapto.org:2323
 143 Pedalion BBS            Joe Ferraro       bbs.pedalion.net
-145 Darkest Hour BBS        Shawn Rapp        dhbbs.org
 146 Lost Worlds BBS         John Julian       lostworlds.fsxnet.nz 
 148 Nodewarrior BBS         Wes Evans         nodewarrior.fsxnet.nz:2323
 149 Roughneck BBS           Michael Ryan      host.roughneckbbs.com
@@ -320,6 +316,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 172 Dark Forces BBS         Mark Iezzi         darkforcesbbs.dyndns.org:2200
 173 Hobby BBS               Mike Dippel        hobby-bbs.com
 174 Exoplanet BBS           Shane Wolfe        exoplanetbbs.net
+175 Mystic Hobbies BBS      Mike Dippel        mystic-hobbies.us
 
 
 NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
