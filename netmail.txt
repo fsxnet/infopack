@@ -11,7 +11,7 @@ directly between those two BBS or be routed via a number of BBS to make it to
 its final destination after several hops. 
 
 The term 'mostly private' is given in that if the netmail is routed there 
-is a small chance that any system that handles your netmail may read it. 
+is a chance that any system that handles your netmail may read it. 
 In the authors view 99.9% of sysops usually set their BBS up to simply 
 pass in-transit netmail onwards, uninspected and untouched. The BBS community
 is pretty good in that respect. Still, be aware that unless you're sending
@@ -21,9 +21,10 @@ someone else who intentionally wants to.
 Every netmail has both a sender and a receiver and both have addresses
 constructed using the format ZONE:NET/NODE.POINT 
 
-In fsxNet we use Zone 21 and run four NETs (21:1/xxx , 21:2/xxx , 21:3/xxx
-and 21:4/xxx). All nodes are assigned a unique node number that associates
-them with one of those NETs e.g. 21:1/101 is Agency BBS in New Zealand.
+In fsxNet we use Zone 21 and run five NETs (21:1/xxx , 21:2/xxx , 21:3/xxx ,
+21:4/xxx and 21:5/xxx). All nodes are assigned a unique node number that
+associates them with one of those NETs e.g. 21:1/101 is Agency BBS in 
+New Zealand.
 
 For example if Paul Hayton (Avon) at Agency BBS wants to send a private
 netmail to Alan Ianson (Al) at The Rusty Mailbox BBS then Paul is sending 
@@ -132,6 +133,7 @@ All going well there are plans to extend this idea to include othernets
 for even further netmail routing flexibility.
 
 =============================================================================
-Author: Paul Hayton (Avon) - July 2018
-Rev   : 1.0
+Author: Paul Hayton (Avon) - Jan 2021
+Rev   : 1.0 - July 2018
+        1.1 - Jan 2021 
 =============================================================================

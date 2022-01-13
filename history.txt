@@ -13,9 +13,57 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2022-01-13
+Added Node 1/136 The Oracle BBS (USA) please welcome sysop Alex Sardo who
+                 joins us from Pittsburgh. He's running a Mystic BBS under
+                 Linux and the BBS can be reached at theoraclebbs.com
+                 Welcome to the community Alex :)
+
+Removed Node 1/128 Odyssey BBS (USA) has been delisted due to inactivity and 
+                 no contact from sysop.
+
+Removed Node 1/135 Return to the lair of the Wolverine BBS (USA) has been
+                 delisted due to inactivity and no contact from sysop.
+
+Removed Node 1/238 The Dark Abyss (USA). Deslisted due to inactivity and no 
+                 sysop contact.
+
+2022-01-11
+Removed Node 1/235 Fratm's BBS (USA) has closed its doors. The node has been
+                 delisted.
+
+2022-01-09
+Removed Node 1/167 Nitemare Cafe BBS (USA) Rod advises his system has closed
+                 for now, the node has been delisted. He may return when he
+                 has time to enjoy the hobby again :)
+
+2022-01-08
+Added Node 1/192 Zruspa's BBS (ESP) hailing from Madrid, Spain please welcome
+                 sysop Angel Ripoll who is running a Synchronet BBS. You can 
+                 reach the system at bbs.zruspas.org via port 23 or use port 
+                 2221 for SSH connections.
+
+Added Node 1/191 Zruspa's HUB (ESP) this is a HUB run by Angel. All fsxNet
+                 and Fidonet traffic is routed via this node. The node only
+                 accepts BinkP traffic.                
+
+2022-01-07
+Removed Node 1/236 Classic BBS (USA) Mike advises he has shutdown his BBS. The
+                 node has been delisted.
+
+Added Node 3/159 The Basement BBS (CAN) based in Kamloops it's a warm welcome
+                 back to sysop Adam Clark who returns running a Synchronet
+                 BBS. He can be reached at basement.isurf.ca or via SSH at
+                 basement.isurf.ca:8825
+
+Removed Node 1/211 The Pub BBS has closed down and has been delisted. 
+
+Updated Node 1/226 Retro16 BBS (AUS) has updated its domain name to
+                 bbs.retro16.com while retro16.fsxnet.nz also works too :)
+
 2022-01-06
 Removed Node 1/191 The Ruins BBS (USA). Doug's system has been down for some
-                 time. There's no indictaion at this stage he is returning.
+                 time. There's no indication at this stage he is returning.
                  The node has been delisted.
 
 Removed Node 1/165 The Underground BBS (USA) ditto for this node it has also
