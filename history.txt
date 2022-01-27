@@ -13,6 +13,24 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2022-01-22
+Removed Node 3/132 Herp Derp BBS (ZAF) Andrew advises his hardware has died
+                 and he has elected to shutdown his BBS for now. We hope to
+                 catch him as a user of other BBS still :)
+
+Added Node 1/162 Cheshire Underground (USA) please welcome sysop Jonathan
+                 Martin who is based in Cheshire, CT, Jon is running a
+                 Mystic BBS under Linux. He was co-sysop of one of the first 
+                 100 Fidonets back in the 80s. You can find it the system at
+                 bbs.cheshirezine.com and use port 6522 for SSH.   
+                 Welcome back to the BBS scene Jonathan :)
+
+Added Node 3/160 Online World BBS (USA) say Hi to sysop Jason Garneau aka
+                 SixtyFour who hails from Swanton, VT. Jason has spun up a
+                 Mystic BBS running on a Raspberry Pi. You can reach his 
+                 system at bbs.onlineworld.ninja - welcome to fsxNet 
+                 Jason :)
+
 2022-01-13
 Added Node 1/136 The Oracle BBS (USA) please welcome sysop Alex Sardo who
                  joins us from Pittsburgh. He's running a Mystic BBS under

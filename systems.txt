@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 13 January 2022 ---
+              --- Connected Systems as of 25 January 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -77,6 +77,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 159 The GateHouse BBS       John Riley         bbs.digitalgatehouse.com   
 160 Slime City BBS          David Jacoby       bbs.retrohack.se  
 161 The Search BBS          Karl Harris        searchbbs.fsxnet.nz
+162 Cheshire Underground    Jonathan Martin    bbs.cheshirezine.com
 163 Dreamland BBS           Tony Master        bbs.dreamlandbbs.org
 164 Electronic Chicken      Derek Mullin       bbs.electronicchicken.com
 166 Datanet BBS             Steve Ellis        datanetbbs.net 
@@ -224,7 +225,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 126 The Forze BBS           Robbert Langezaal bbs.opicron.eu
 127 Imzadi Box              Anna Nass         box.imzadi.de
 130 PB Renegade             Ruben Figueroa    gapbbs.rdfig.net:2424
-132 Herp Derp BBS           Andrew Lewis      herp.derp.org.org.za:2222
 135 Lunatics Unleashed      Ross Branham      lunaticsunleashed.ddns.net
 136 Mind's Eye BBS          Tom Aberdeen      mindseye.synchronetbbs.org
 137 Wicked Garden BBS       Hung Tran         wgonline.pw
@@ -244,7 +244,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 157 Paranormal Panorama BBS Owen Evers        ppbbs-26643.portmap.host:26643
 158 BodaX BBS               Tobias Rosenqvist bodax.fsxnet.nz
 159 The Basement BBS        Adam Clark        basement.isurf.ca
-
+160 Online World BBS        Jason Garneau     bbs.onlineworld.ninja
 
 NET 4 (21:4/xxx) HPT (BinkP)
 ============================
