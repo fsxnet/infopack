@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 25 January 2022 ---
+              --- Connected Systems as of 8 February 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -90,6 +90,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 174 The Zone BBS            Mike Warnock       zonebbs.net
 175 Capitol City Online     Mike Powell        capitolcityonline.net
 176 Darkrealms BBS          Nick Andre         bbs.darkrealms.ca
+177 Nephilim BBS            David Abutbul      nephilim.fsxnet.nz
 178 Internal Dimension      Dave Vandermeer    bbs.idbbs.ca:59
 179 Cryptogenic Radix       Paul Hayton        -- Private Node --
 180 Cold War Computing      Jeff Thiele        -- Private Node --
@@ -101,6 +102,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 186 Castle Rock BBS         Dan Richter        bbs.castlerockbbs.com
 187 Cosmik Debris BBS       Andrew Pepper      cosmikdebris.ddns.net:2323
 188 ACiD Underworld BBS     Hawk Hubbard       -- Private Node --
+189 Extricate BBS           Tristan Greaves    bbs.extricate.org
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
 191 Zruspa's HUB            Ángel Ripoll       bbs.zruspas.org:24554
 192 Zruspa's BBS            Ángel Ripoll       bbs.zruspas.org:23 
@@ -122,8 +124,10 @@ NET 1 (21:1/xxx) HPT (BinkP)
 208 S.W.A.T.S BBS           Stephen Hunt       swatsbbs.ddns.net
 209 LU8FJH BBS              Juan Musso         lu8fjh.dyndns.org
 212 SugarRush BBS           Johnathon Arnold   bbs.mrhatestheworld.com
+213 Votrex BBS              Strahinja Bojovic  vortex.redirectme.net:3777
 214 Midnight Lounge BBS     Allie Prather      lounge.mbl.social
 215 Project Open Gate       Justin Waymire     pog.fsxnet.nz
+216 Mystic Realms BBS       Jeff Earle         mysticrealms.ddns.net:11000
 217 Battlestar Pegasus      Mark Iezzi         pegasusbbs.dyndns.org
 218 KCM BBS                 Andreas Zahrl      zahrl.ddns.net:2023
 219 Radio Freqs & Geeks     Rich Gattie        rfgeeksbbs.ddns.net:2323
@@ -132,6 +136,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 222 Tiny's BBS II           Shawn Highfield    bbs.tinysbbs.com:4323
 223 OldComp.EU BBS          Cerny Eduard       bbs1.oldcomp.eu:2323
 224 Spot BBS                Steve Weinert      spotbbs.k9zw.com:1123
+225 GameBlipsBBS            Fred San Juan      gameblipsbbs.tplinkdns.net
 226 Retro16 BBS             David Florey       bbs.retro16.com
 227 Shipwrecks & Shibbole   ths Chris Hizny    shibboleths.fsxnet.nz
 229 TCOB1 BBS               Sean Rima          tcob1.duckdns.org
@@ -221,7 +226,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 120 Westland BBS            Martien Korenblom bbs.korenblom.nl 
 122 Final Zone BBS          Kurisu Yamato     finalzone.ddns.net
 123 Binary Dreams BBS       Vincent Jacobs    binarydreamsbbs.ddns.net:53412
-125 Inner Realm BBS         Michael Long      innerrealmbbs.us:2323
 126 The Forze BBS           Robbert Langezaal bbs.opicron.eu
 127 Imzadi Box              Anna Nass         box.imzadi.de
 130 PB Renegade             Ruben Figueroa    gapbbs.rdfig.net:2424
