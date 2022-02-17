@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 8 February 2022 ---
+              --- Connected Systems as of 18 February 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -61,7 +61,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 143 The Bridge BBS          Tony Langdon       bridge.vkradio.com 
 144 Brain Patchwork DX      Ozz Nixon          exchangebbs.com:38400 
 145 Mystic Pi BBS           Brian Wallace      bcw142.zapto.org   
-146 Saturn's Orbit BBS      Flavio Bessa       saturnsorbit.ddns.net
 147 The Comm's Nut BBS      Danny Moss         tcnbbs.fsxnet.nz:2323
 148 Dark Systems BBS        Aaron Grasswell    bbs.dsbbs.ca 
 149 The Fool's Quarter      Tim Whitson        fqbbs.synchro.net
@@ -139,6 +138,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 225 GameBlipsBBS            Fred San Juan      gameblipsbbs.tplinkdns.net
 226 Retro16 BBS             David Florey       bbs.retro16.com
 227 Shipwrecks & Shibbole   ths Chris Hizny    shibboleths.fsxnet.nz
+228 Vienna-Matrix BBS       Alexander Payer    sbbs.viennamatrix.at
 229 TCOB1 BBS               Sean Rima          tcob1.duckdns.org
 230 Lost Underground BBS    Spiro Harvey       lostunderground.org
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
@@ -294,7 +294,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 141 Constructive Chaos      Craig Hendricks    conchaos.synchro.net
 142 Off the Wall            Robert Stinnett    offthewall.dmxrob.net
 143 Eggy BBS                Matt Richards      eggy.fsxnet.nz:2300
-144 Sonic BBS               Louis Northmore    sonicbbs.ddns.net
+144 Sonic BBS               Louis Northmore    bbs.sonicbbs.co.uk
 145 TFSI BBS                Nick Young         tfsi.fsxnet.nz
 147 Aliens' Alcove BBS      Eric Pareja        aliens.free.net.ph
 148 Roon's BBS              Daniel Path        bbs.studio64.hu:1212
