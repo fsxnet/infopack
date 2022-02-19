@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 18 February 2022 ---
+              --- Connected Systems as of 20 February 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -141,6 +141,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 228 Vienna-Matrix BBS       Alexander Payer    sbbs.viennamatrix.at
 229 TCOB1 BBS               Sean Rima          tcob1.duckdns.org
 230 Lost Underground BBS    Spiro Harvey       lostunderground.org
+231 Southern Comfort BBS    Mike Giddens       soco.bbs.io
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
 233 The Swamp BBS           Maurice den Braber swamp.fsxnet.nz
 234 Crewmate's Test Lab     Mike Edwards       testlab.fsxnet.nz:7357
@@ -231,7 +232,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 130 PB Renegade             Ruben Figueroa    gapbbs.rdfig.net:2424
 135 Lunatics Unleashed      Ross Branham      lunaticsunleashed.ddns.net
 136 Mind's Eye BBS          Tom Aberdeen      mindseye.synchronetbbs.org
-137 Wicked Garden BBS       Hung Tran         wgonline.pw
 138 Taliadon BBS            Lee Westlake      taliadon.ddns.net 
 139 The Bat Cave BBS        Minh Nguyen       batcave.fsxnet.nz
 140 Ground Central BBS      Matthew Blocker   gcbbs.duckdns.org:2323
@@ -249,6 +249,8 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 158 BodaX BBS               Tobias Rosenqvist bodax.fsxnet.nz
 159 The Basement BBS        Adam Clark        basement.isurf.ca
 160 Online World BBS        Jason Garneau     bbs.onlineworld.ninja
+161 Itchy Butt BBS          Michael Newkirk   itchybutt.net:8888
+162 Drakefire BBS           Jake Parks        bbs.drakefire.com 
 
 NET 4 (21:4/xxx) HPT (BinkP)
 ============================
@@ -328,6 +330,7 @@ NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
 102 TAK Software BBS        Thomas Kloos       bbs.taksoftware.com
 103 The Computer Express    Chris Costakis     bbs.costakis.org
 104 EMS!BBS                 Scott Labrecque    ems-bbs.com
+107 Cavan Rural Community   Steve Reader       86.47.50.239
 
 QWK Connected Systems 
 =====================

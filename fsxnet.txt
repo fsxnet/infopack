@@ -298,6 +298,8 @@ Thank you for your interest!
  Website URL...................:
  Email Address.................:
  Areafix/Filefix/BinkP Password:
+ 
+ ** Password must be a maximum of 8 UPPERCASE characters using A-Z and 0-9 **
 
 
 Do you have a static IP address? 
