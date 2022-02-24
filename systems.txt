@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 20 February 2022 ---
+              --- Connected Systems as of 23 February 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -131,7 +131,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 218 KCM BBS                 Andreas Zahrl      zahrl.ddns.net:2023
 219 Radio Freqs & Geeks     Rich Gattie        rfgeeksbbs.ddns.net:2323
 220 swissIRC BBS            Alisha Manuela     swissirc.fsxnet.nz
-221 Twinkle BBS             Christopher Malo   twinklebbs.xyz
 222 Tiny's BBS II           Shawn Highfield    bbs.tinysbbs.com:4323
 223 OldComp.EU BBS          Cerny Eduard       bbs1.oldcomp.eu:2323
 224 Spot BBS                Steve Weinert      spotbbs.k9zw.com:1123
@@ -190,6 +189,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 140 Subcarrier BBS          John McCoy         subcarrier.ignorelist.com:2323
 141 SiliconUnderground      Jason Bock         siliconu.fsxnet.nz
 142 TheViper BBS            Lloyd Fellon       theviperbbs.mywire.org
+143 Digicom BBS (USA)       Gary Barr          bbs.digicombbs.com
 144 Outremer BBS            Pieter Bakker      outremer.fsxnet.nz
 145 Mike's Mansion BBS      Michael Pierce     mansion.dynv6.net
 150 20 For Beers BBS        Paul Lee           20ForBeers.com:1337
