@@ -13,6 +13,44 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2022-03-04
+Added Node 3/165 The Underground BBS (USA) welcome back to Doug who has
+                 restarted his BBS again. Nice to have you back as a member
+                 this online community Doug. You were missed :)
+
+Removed Node 3/139 The Bat Cave BBS. The system is inactive and has been 
+                 delisted.
+
+Added Node 4/173 Monterey BBS (USA) also a warm welcome back to sysop
+                 Ryan Fantus who is running his Daydream powered BBS
+                 under Linux. Hope this finds you well Ryan and welcome 
+                 back to fsxNet
+
+Added Node 3/163 Caught in a Dream BBS (USA) welcome to sysop Brian Klauss
+                 who is based in Morrison, Colorado. Brian is running a 
+                 Synchronet BBS and can be found at caughtinadream.com
+
+Added Node 4/146 GGNET BBS (ITA) based in Rome, Italy please welcome sysop
+                 Maurizio Dionisi who has set up a Mystic BBS running under
+                 Linux. You can find his system at mulettotim.ddns.net:10023
+
+Added Node 3/164 Angstridden BBS (USA) welcome to sysop Steve Layton based in
+                 Portland, OR. Steve is running a Mystic BBS and can be 
+                 reached at angstridden.net:1337 using SSH
+
+Added Node 4/177 Alcoholiday BBS (USA) a warm welcome back to the BBS scene to
+                 returning sysop Andy Haworth who has restarted his BBS this
+                 time running under Mystic and contactable at alco.bbs.io
+                 Welcome back to the BBS scene Andy and to the fsxNet
+                 community too :)
+
+Added Node 3/166 The Raterace Losers (USA) based in El Paso, TX please 
+                 weclome sysop Chad Douglas who is running a Mystic BBS
+                 under Linux. You can reach his system at
+                 therateracelosers.com:2323 (Telnet) and 2222 (SSH)
+
+
+
 2022-02-23
 Added Node 2/143 Digicom BBS (USA) welcome aboard to sysop Gary Barr who 
                  is based in Evansville, Indiana and running a Mystic BBS

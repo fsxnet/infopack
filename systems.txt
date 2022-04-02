@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 23 February 2022 ---
+              --- Connected Systems as of 3 April 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -233,7 +233,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 135 Lunatics Unleashed      Ross Branham      lunaticsunleashed.ddns.net
 136 Mind's Eye BBS          Tom Aberdeen      mindseye.synchronetbbs.org
 138 Taliadon BBS            Lee Westlake      taliadon.ddns.net 
-139 The Bat Cave BBS        Minh Nguyen       batcave.fsxnet.nz
 140 Ground Central BBS      Matthew Blocker   gcbbs.duckdns.org:2323
 141 Thrace BBS              Dafcho Tabakov    bbs.tabakov.net:13023
 142 Baffa BBS               Augusto Baffa     baffa.zapto.org:2323
@@ -251,6 +250,11 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 160 Online World BBS        Jason Garneau     bbs.onlineworld.ninja
 161 Itchy Butt BBS          Michael Newkirk   itchybutt.net:8888
 162 Drakefire BBS           Jake Parks        bbs.drakefire.com 
+163 Caught in a Dream       Brian Klauss      caughtinadream.com
+164 Angstridden BBS         Steve Layton      angstridden.net:1377
+165 The Underground BBS     Doug Cooper       theunderground.us
+166 The Ratrace Losers      Chad Douglas      theratracelosers.com
+
 
 NET 4 (21:4/xxx) HPT (BinkP)
 ============================
@@ -298,6 +302,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 143 Eggy BBS                Matt Richards      eggy.fsxnet.nz:2300
 144 Sonic BBS               Louis Northmore    bbs.sonicbbs.co.uk
 145 TFSI BBS                Nick Young         tfsi.fsxnet.nz
+146 GGNETBBS                Maurizio Dionisi   mulettotim.ddns.net:10023
 147 Aliens' Alcove BBS      Eric Pareja        aliens.free.net.ph
 148 Roon's BBS              Daniel Path        bbs.studio64.hu:1212
 149 UAT_SOC BBS             Aaron Jones        uatsoc.fsxnet.nz:8889
@@ -317,9 +322,10 @@ NET 4 (21:4/xxx) HPT (BinkP)
 170 Amiga Retro Brisbane BBS Mark Casteleijn   www.amigaretro.com:23
 171 Star Frontiers BBS      William Williams   starfron.synchronetbbs.org
 172 Dark Forces BBS         Mark Iezzi         darkforcesbbs.dyndns.org:2200
-173 Hobby BBS               Mike Dippel        hobby-bbs.com
+173 Monterey BBS            Ryan Fantus        montereybbs.com
 174 Exoplanet BBS           Shane Wolfe        exoplanetbbs.net
 175 Mystic Hobbies BBS      Mike Dippel        mystic-hobbies.us
+177 Alcoholiday BBS         Andy Haworth       alco.bbs.io
 
 
 NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
