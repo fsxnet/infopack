@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 3 April 2022 ---
+              --- Connected Systems as of 18 April 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -114,7 +114,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 199 Clutch BBS              Mark Stark         bbs.clutchbbs.com
 200 Pharcyce BBS            Nicholas Boel      -- Private Node --
 201 Decker's Heaven         Eric Renfro        bbs.deckersheaven.com
-202 Star Collision BBS      Bjorn Wiberg       scbbs.nsupdate.info:50023
+202 Star Collision BBS      Bjorn Wiberg       scbbs.nsupdate.info:61023
 203 Rocket Town BBS         Ricky DeLuco       rtbbs.ddns.net
 204 Family BBS              Tony Pawson        familybbs.ddns.net
 205 Magnum BBS              Keyop Troy         bbs.magnum.uk.net
@@ -122,6 +122,8 @@ NET 1 (21:1/xxx) HPT (BinkP)
 207 Trading Post [South]    Craig Dooley       ttps.dyndns.org
 208 S.W.A.T.S BBS           Stephen Hunt       swatsbbs.ddns.net
 209 LU8FJH BBS              Juan Musso         lu8fjh.dyndns.org
+210 Noverdu BBS             Jonah Clausen      noverdu.com
+211 NeedFul Things BBS      Michael Dennison   NeedFulThings.ddns.net:2381
 212 SugarRush BBS           Johnathon Arnold   bbs.mrhatestheworld.com
 213 Votrex BBS              Strahinja Bojovic  vortex.redirectme.net:3777
 214 Midnight Lounge BBS     Allie Prather      lounge.mbl.social
