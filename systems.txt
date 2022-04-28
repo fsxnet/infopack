@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 18 April 2022 ---
+              --- Connected Systems as of 25 April 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -21,7 +21,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 101 Agency BBS              Paul Hayton        agency.bbs.nz:24555   
 102 Error 404 BBS           Todd Zieman        error404bbs.ddns.net:404  
 103 Micro Link BBS          Lloyd Russell      -- Private Node --
-104 Shenk's Express BBS     Carol Shenkenberger shenks.dyndns.org 
 105 Fluph BBS               Leslie Given       fluph.zapto.org  
 106 BlackICE BBS            Vitus Zeel         blackice.bbsindex.de  
 107 The ByteXchange BBS     Chad Adams         bbs.thebytexchange.com 
@@ -80,6 +79,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 163 Dreamland BBS           Tony Master        bbs.dreamlandbbs.org
 164 Electronic Chicken      Derek Mullin       bbs.electronicchicken.com
 166 Datanet BBS             Steve Ellis        datanetbbs.net 
+167 CyberBBS WHQ BBS        Chad Adams         whq.cyberbbs.com:6023 
 168 Technically BBS         Jason Billingham   bbs.billingham.ca:2323
 169 Sinner's Haven BBS      Karl Kunc          bbs.sinnershaven.com
 170 Weather Station BBS     Mark Hofmann       bbs.weather-station.org

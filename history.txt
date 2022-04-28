@@ -13,6 +13,16 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2022-04-25
+Removed Node 1/104 Shenk's Express BBS has been delisted at sysop request.
+
+Added Node 1/167 CyberBBS WHQ BBS (USA) sysop Chad Adams aka Nugax has been
+                 keeping busy crafting his own BBS software - CyberBBS, a
+                 Linux BBS that is just starting out. You can reach his BBS
+                 by visiting whq.cyberbbs.com:6023 via Telnet or check the
+                 website cyberbbs.com for more info. Look for a new fsxNet
+                 support echomail are in the coming days.
+
 2022-04-18
 Updated Node 1/202 Star Collision BBS (SWE) has changed it's telnet port to
                  port scbbs.nsupdate.info:61023 systems.txt has been updated.
