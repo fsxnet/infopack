@@ -57,9 +57,9 @@ and their users in order to:
 
 == Housekeeping =============================================================
 
-Members of fsxNet and their users to conduct themselves with the above goals
-and values in mind. Failure to do so risks being de-listed and/or removed
-by the Network Coordinator
+Members of fsxNet and their users will conduct themselves according to the
+goals and values of fsxNet. Failure to do so risks members being de-listed
+and/or removed by the Network Coordinator
 
 Please don't post echomail to fsxNet about country politics or religion. 
 These subjects inevitably seem to cause discord and are best left for
@@ -277,30 +277,41 @@ Please complete as best as you can. If unsure or not applicable just
 state this in your reply :)  If you don't run a BBS, just state a system name
 you will be known by. 
 
-By completing this application you agree to abide by the fsxNet goals, values
-and housekeeping items detailed in this document. You also consent to the ZC
-and HUB administrators holding/using the information supplied by you for the 
-purposes of joining and administering the fsxNet network. Your name, city and 
-country details will appear in the fsxNet nodelist. Your name is also used in
-the systems.txt file that lists all participating BBS and sysops involved  in
-the fsxNet network.
+By completing this application you:
+
+- Agree to abide by the fsxNet goals, values and housekeeping items detailed 
+in this document. 
+
+- Consent to the ZC and HUB administrators holding/using the information 
+supplied by you for the purposes of joining and administering the fsxNet 
+network. 
+
+- Consent to your your name, city and country details will appearing in the
+fsxNet nodelist and systems.txt file that lists all participating BBS and
+sysops active in fsxNet.
+
+- Agree to notify your fsxNet HUB admin when you decide to leave the network.
+This ensures HUBs don't hold files/messages for your system long after you
+have left fsxNet. 
 
 Thank you for your interest!
-
         
- Your Name.....................:
+ Real Name.....................:
+ Alias/AKA (if any)............:
  City / Country................:
  BBS / System Name.............:
  BBS Software..................:
  Operating System..............:
- Telnet address................:
- SSH address...................:
+ Telnet Address................:
+ SSH Address...................:
  Website URL...................:
  Email Address.................:
  Areafix/Filefix/BinkP Password:
  
- ** Password must be a maximum of 8 UPPERCASE characters using A-Z and 0-9 **
+Notes:
 
+* Password must be a maximum of 8 UPPERCASE characters using A-Z and 0-9
+* If you use non standard Telnet or SSH ports please state them above
 
 Do you have a static IP address? 
 If you do, please state your IP details below.
@@ -312,22 +323,32 @@ by your BBS :)
  Static IPv4 Address...........:
  Static IPv6 Address...........:
  
-** If you have a static IP address ** would you like an optional 
-custom fsxnet.nz domain name that will resolve to your IP? 
-e.g.  mybbsname.fsxnet.nz This gives you another vanity domain name
-that works on the Internet for your BBS
+If you have a static IP address would you like an optional custom fsxnet.nz
+domain name that will resolve to your IP? e.g. mybbsname.fsxnet.nz 
+This gives you another vanity domain name that works for your BBS
 
 If yes, please state your preferred domain below. 
 
- Please assign my BBS..........:  _________.fsxnet.nz
+Please assign my BBS..........:  _________.fsxnet.nz
      
-Your BinkP details
+Your BinkP server details
 
-        BinkP
+ Binkp Server Address...............................:
+ Binkp Port (usually 24554).........................:
+ Set my node for CRASH / HOLD traffic (choose one)..:
 
- Binkp Address.....................:
- Binkp Port (usually 24554)........:
- Crash / Hold Traffic Required?....:
+ Notes:
+
+ * CRASH traffic means files/message packets will be pushed to your BinkP 
+ server by your HUB when they arrive at the HUB. HOLD traffic means the HUB
+ will hold on to your files/packets until your BBS polls the HUB to collect
+ them when you are ready.
+
+ * Regardless of HUB traffic option chosen your BBS should poll its fsxNet HUB
+ hourly or at a minimum, daily. This means if the HUB can't reach your BBS you
+ can reach it to collect your mail/packets etc.
+
+ * If you use a non standard BinkP server port please state it above.
  
 = END OF APPLICATION ========================================================
 		
