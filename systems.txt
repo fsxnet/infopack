@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 15 May 2022 ---
+              --- Connected Systems as of 26 May 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -52,7 +52,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 136 The Oracle BBS          Alex Sardo         theoraclebbs.com  
 137 Digital Distortion      Eric Oulashin      digdist.synchro.net
 138 Electronic Warfare      Nicholas Loch      bbs.ewbbs.net 
-139 bitHaven BBS            Jean-Francois Joly -- Private Node -- 
 140 Daves BBS               David Smith        davesbbs.com
 141 Pie33 BBS               Moises Aranas      pie33.com:2223 
 142 The Trashcan BBS        Nick MacKechnie    bbs.thenet.gen.nz
@@ -141,7 +140,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 230 Lost Underground BBS    Spiro Harvey       lostunderground.org
 231 Southern Comfort BBS    Mike Giddens       soco.bbs.io
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
-233 The Swamp BBS           Maurice den Braber swamp.fsxnet.nz
 234 Crewmate's Test Lab     Mike Edwards       testlab.fsxnet.nz:7357
 237 Brainsuxx.inc BBS       Michael Braun      brainsuxxinc.ddns.net
 616 Cold Fusion             Alexander Grotewohl cfbbs.net
@@ -156,9 +154,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 104 Vger.Cloud BBS          Bradley Thornton   vger.fsxnet.nz
 105 The New Frontier 2      Charles Stephenson frontierbbs.net
 106 Dock Sud Mystic BBS     Fernando Toledo    -- Private Node --
-107 The Creeping Crud BBS   Gary Bush          bbs.thecreepingcrud.com:1313
 108 Storm BBS               April Monoceros    telnet.stormbbs.com
-109 Nexus Computers BBS     Manu Ngamotu       bbs.nexuscomputers.com.au
 110 Ink Two BBS             Lawrence Manuel    bbs.inktwo.com
 111 Leisure Time BBS        Robert Riddell     bbs.riddells.net:10023
 112 Thunder BBS             Jay Wheeler        thunderbss.ringet.org
@@ -167,7 +163,6 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 115 Mystic Rhythms BBS      Rob Cole           mystic.wwivbbs.org
 116 Chinwag BBS             Deon George        alterant.leenooks.net
 118 Halls of Valhalla       Morgan Collins     hoval.synchro.net:2333
-119 Anderson's Toolshed     Jon Thorson        bbs.andersonstoolshed.com:2323
 122 Battlestar III BBS      Mark Iezzi         battlestar3.dyndns.org:2400
 123 Deadbeatz BBS           Tim Blada          deadbeatz.org
 124 Insane Asylum BBS       James Kulwicki     -- Private Node --
@@ -190,20 +185,17 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 142 TheViper BBS            Lloyd Fellon       theviperbbs.mywire.org
 143 Digicom BBS (USA)       Gary Barr          bbs.digicombbs.com
 144 Outremer BBS            Pieter Bakker      outremer.fsxnet.nz
-145 Mike's Mansion BBS      Michael Pierce     mansion.dynv6.net
 146 Hold Fast! BBS          Paul Lopez         telnet.holdfastbbs.ca:2323 
 147 Altair IV BBS           Scott Daniels      altairiv.ddns.net
 150 20 For Beers BBS        Paul Lee           20ForBeers.com:1337
 151 Dock Sud BBS            Fernando Toledo    bbs.docksud.com.ar
 152 UnderZaNet BBS          Jan Henkins        bbs.under.za.net:2024
 154 Danger Bay              Tom Swartz         dangerbaybbs.dyndns.org:1337
-155 The Amiga Frontier      Charles Stephenson frontierbbs.net
 156 CJ's Place BBS          Chris Johnson      cjsplace.thruhere.net
 159 SBB Systems BBS         Frans King         bbs.sbbsystems.com:8888
 160 DarkAges BBS            Randy Henderson    darkagesbbs.com
 161 DaRK Game BBS           Arturo Busleiman   darkgame.buanzo.org
 162 The Freekspeak BBS      Gary Ailes         freespeak.hopto.org
-164 Dragonstalon BBS        Lee Staley         dtalon.ddns.net:8088
 165 LoFi BBS                Matt Gibson        lofi.ooo:8888
 166 Dark Carnival BBS       Richard Matthews   bbs.darkcarnival.org
 167 ITBNET BBS              Pasquale Monti     itbnet.fsxnet.nz
@@ -250,12 +242,12 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 159 The Basement BBS        Adam Clark        basement.isurf.ca
 160 Online World BBS        Jason Garneau     bbs.onlineworld.ninja
 161 Itchy Butt BBS          Michael Newkirk   itchybutt.net:8888
-162 Drakefire BBS           Jake Parks        bbs.drakefire.com 
-163 Caught in a Dream       Brian Klauss      caughtinadream.com
+163 42bytes BBS             Brian Klauss      42bytes.net
 164 Angstridden BBS         Steve Layton      angstridden.net:1377
 165 The Underground BBS     Doug Cooper       theunderground.us
 166 The Ratrace Losers      Chad Douglas      theratracelosers.com
 167 VET BBS                 Mike Welborn      bbs.thewelborns.net
+168 ReTR0aKTiV BBS          Rob Koliha        retr0aktiv.com
 
 NET 4 (21:4/xxx) HPT (BinkP)
 ============================
