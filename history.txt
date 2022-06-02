@@ -14,6 +14,17 @@ Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 2022-05-26
+Updated Node 4/135 PiBBS (CAN) has been marked PVT in the nodelist by sysop
+                 request.
+
+Updated Node 1/187 Cosmik Debris BBS (USA) has been marked as Down.
+
+Updated Node 1/177 Nephilim BBS (ISR) has been marked as Down.
+
+
+
+
+2022-05-26
 Housekeeping for NET 2 and more to come in other NETs as we keep on top of
 who is coming and going. 
 

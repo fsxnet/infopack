@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 26 May 2022 ---
+              --- Connected Systems as of 29 May 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -20,7 +20,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 100 Risa fsxHUB             Paul Hayton        agency.bbs.nz:24556
 101 Agency BBS              Paul Hayton        agency.bbs.nz:24555   
 102 Error 404 BBS           Todd Zieman        error404bbs.ddns.net:404  
-103 Micro Link BBS          Lloyd Russell      -- Private Node --
+103 Micro Link BBS          Lloyd Russell       -- Private Node --
 105 Fluph BBS               Leslie Given       fluph.zapto.org  
 106 BlackICE BBS            Vitus Zeel         blackice.bbsindex.de  
 107 The ByteXchange BBS     Chad Adams         bbs.thebytexchange.com 
@@ -32,7 +32,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 113 Athelstan BBS           Lance Vavricka     athelstan.fsxnet.nz
 114 Throwback BBS           Todd Yatzook       bbs.throwbackbbs.com  
 115 1st Choice Core         Ian Segers         1stchoicecore.co.nz
-116 sOUNDGARDEn             Marco Reparon      -- Private Node --
+116 sOUNDGARDEn             Marco Reparon       -- Private Node --
 117 Mystic Dreams BBS       Mark Iezzi         mysticdreams.dyndns.org:24   
 118 Crystal Peak BBS        Will Du Chene      crystalp.duckdns.org  
 119 Sysgod BBS              Scott Little       ftn.sysgod.org
@@ -61,9 +61,9 @@ NET 1 (21:1/xxx) HPT (BinkP)
 147 The Comm's Nut BBS      Danny Moss         tcnbbs.fsxnet.nz:2323
 148 Dark Systems BBS        Aaron Grasswell    bbs.dsbbs.ca 
 149 The Fool's Quarter      Tim Whitson        fqbbs.synchro.net
-150 Sotano Msx BBS          Pepe Diaz          -- Private Node --
+150 Sotano Msx BBS          Pepe Diaz           -- Private Node --
 152 2nd Choice Core         Ian Segers         2ndchoicecore.nz:1024 
-153 Infoline BBS            Mickolas Pansky    -- Private Node -- 
+153 Infoline BBS            Mickolas Pansky     -- Private Node -- 
 154 Raiders Inc BBS         Jon Justvig        vintagebbsing.com:23
 155 Haciend BBS             Antti Kiuru        haciend.com  
 156 Central Ontario         Mike Manning       oxfordmi.synchro.net  
@@ -80,7 +80,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 168 Technically BBS         Jason Billingham   bbs.billingham.ca:2323
 169 Sinner's Haven BBS      Karl Kunc          bbs.sinnershaven.com
 170 Weather Station BBS     Mark Hofmann       bbs.weather-station.org
-171 Modema Tider BBS        Andreas Selstam    -- Private Node --
+171 Modema Tider BBS        Andreas Selstam     -- Private Node --
 172 The Bottomless Abyss    Dave Cloutier      bbs.bottomlessabyss.net
 173 Sinclair Retro BBS      Simone Voltolini   retrobbs.sinclair.homepc.it
 174 The Zone BBS            Mike Warnock       zonebbs.net
@@ -88,15 +88,15 @@ NET 1 (21:1/xxx) HPT (BinkP)
 176 Darkrealms BBS          Nick Andre         bbs.darkrealms.ca
 177 Nephilim BBS            David Abutbul      nephilim.fsxnet.nz
 178 Internal Dimension      Dave Vandermeer    bbs.idbbs.ca:59
-179 Cryptogenic Radix       Paul Hayton        -- Private Node --
-180 Cold War Computing      Jeff Thiele        -- Private Node --
+179 Cryptogenic Radix       Paul Hayton         -- Private Node --
+180 Cold War Computing      Jeff Thiele         -- Private Node --
 181 Ninho do Abutre 2       Mauro Veiga        abutre.no-ip.org:2323
 183 Vertrauen BBS           Rob Swindell       vert.synchro.net
 184 Echo Base BBS           Jeff Jun           telnet.echo-base-bbs.com
 185 Lightning BBS           Steve Helferich    lightningbbs.com:2400 
 186 Castle Rock BBS         Dan Richter        bbs.castlerockbbs.com
 187 Cosmik Debris BBS       Andrew Pepper      cosmikdebris.ddns.net:2323
-188 ACiD Underworld BBS     Hawk Hubbard       -- Private Node --
+188 ACiD Underworld BBS     Hawk Hubbard        -- Private Node --
 189 Extricate BBS           Tristan Greaves    bbs.extricate.org
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
 191 Zruspa's HUB            Ángel Ripoll       bbs.zruspas.org:24554
@@ -106,9 +106,9 @@ NET 1 (21:1/xxx) HPT (BinkP)
 195 Dragon's Claw HUB       Stephen Walsh      ftn.vk3heg.net
 196 Dragon's Lair BBS       Stephen Walsh      dragon.vk3heg.net
 197 Compufuck BBS           Aaron Thomas       cfbbs.fsxnet.nz
-198 The Fat Dragon          Dan Cross          -- Private Node --
+198 The Fat Dragon          Dan Cross           -- Private Node --
 199 Clutch BBS              Mark Stark         bbs.clutchbbs.com
-200 Pharcyce BBS            Nicholas Boel      -- Private Node --
+200 Pharcyce BBS            Nicholas Boel       -- Private Node --
 201 Decker's Heaven         Eric Renfro        bbs.deckersheaven.com
 202 Star Collision BBS      Bjorn Wiberg       scbbs.nsupdate.info:61023
 203 Rocket Town BBS         Ricky DeLuco       rtbbs.ddns.net
@@ -165,7 +165,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 118 Halls of Valhalla       Morgan Collins     hoval.synchro.net:2333
 122 Battlestar III BBS      Mark Iezzi         battlestar3.dyndns.org:2400
 123 Deadbeatz BBS           Tim Blada          deadbeatz.org
-124 Insane Asylum BBS       James Kulwicki     -- Private Node --
+124 Insane Asylum BBS       James Kulwicki      -- Private Node --
 126 Rust Belt BBS           Kevin Miller       rbbbs.mtonetwork.com
 127 Battlestar BBS          Mark Iezzi         battlestarbbs.dyndns.org
 128 SeeLive's Rusty HedgehogClive Reuben       rustyhedgehog.dynv6.net:2300
@@ -284,12 +284,12 @@ NET 4 (21:4/xxx) HPT (BinkP)
 132 Black Flag OBV/2        Hawk Hubbard       blackflag.acid.org:2629
 133 sbbs.dynu.net           Phillip Taylor     sbbs.dynu.net:2025 
 134 Possum Lodge South      Mike Powell        possumso.fsxnet.nz:7636
-135 PiBBS                   Shaun Buzza        pibbs.sytes.net
+135 PiBBS                   Shaun Buzza         -- Private Node --
 136 Total Lost BBS          Dennis Eklund      bbs.deek.se
 137 8-Bit Boyz BBS          Shane O'Neill      8bitboyz.bbs.io:6502
 138 CIA Amiga BBS           Tim Grooms         ciaamigabbs.dynu.net:6400
 139 Mythical Kingdom Tech   Mark May           bbs.mythicalkingdom.com
-140 Redshift BBS            Scott Carter       -- Private Node --
+140 Redshift BBS            Scott Carter        -- Private Node --
 141 Constructive Chaos      Craig Hendricks    conchaos.synchro.net
 142 Off the Wall            Robert Stinnett    offthewall.dmxrob.net
 143 Eggy BBS                Matt Richards      eggy.fsxnet.nz:2300
