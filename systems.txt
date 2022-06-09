@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 29 May 2022 ---
+              --- Connected Systems as of 6 June 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -44,10 +44,8 @@ NET 1 (21:1/xxx) HPT (BinkP)
 126 Al's Geek Lab BBS       Alistair Ross      bbs.alsgeeklab.com:2323
 127 Capital Station         Gregory Deyss      csbbs.dyndns.org 
 129 SpaceSST BBS            Luc McCarragher    mccarragher.org  
-130 Tiny's BBS              Shawn Highfield    tinysbbs.com:3023
 131 Weather Station HUB     Mark Hofmann       bbs.weather-station.org   
 132 Weather Station BBS     Mark Hofmann       bbs.weather-station.org  
-133 The Parity Error        Ian McLaughlin     theparityerror.com  
 134 Mystic Prison Board     Ruben Figueroa     pbmystic.rdfig.net:24
 136 The Oracle BBS          Alex Sardo         theoraclebbs.com  
 137 Digital Distortion      Eric Oulashin      digdist.synchro.net
@@ -120,7 +118,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 209 LU8FJH BBS              Juan Musso         lu8fjh.dyndns.org
 210 Noverdu BBS             Jonah Clausen      noverdu.com
 211 NeedFul Things BBS      Michael Dennison   NeedFulThings.ddns.net:2381
-212 SugarRush BBS           Johnathon Arnold   bbs.mrhatestheworld.com
 213 Votrex BBS              Strahinja Bojovic  vortex.redirectme.net:3777
 214 Midnight Lounge BBS     Allie Prather      lounge.mbl.social
 215 Project Open Gate       Justin Waymire     pog.fsxnet.nz
@@ -320,6 +317,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 175 Mystic Hobbies BBS      Mike Dippel        mystic-hobbies.us
 177 Alcoholiday BBS         Andy Haworth       alco.bbs.io
 181 PlaneT Afr0 BBS         Jason Reznor       planetafr0.org:8888
+182 RedFrog BBS             Ergo Paalaman      redfrog.duckdns.org:667
 
 
 NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)

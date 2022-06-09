@@ -13,6 +13,20 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2022-06-06
+Removed Node 1/130 Tinys BBS (CAN) Shawn advises this system has closed and 
+                 can be delisted. He's still running 1/222
+
+Added Node 4/182 RedFrog BBS (EST) welcome to Ergo Paalman aka Eku from
+                 Tallinn in Estonia. Running a Mystic BBS on a Raspeberry Pi
+                 you can reach the BBS at redfrog.duckdns.org:667 or via
+                 redfrog.fsxnet.nz:667 too :) Welcome Eku :)
+
+Removed Node 1/133 The Parity Error (CAN) node delisted due to inactivty.
+
+Removed Node 1/212 SugarRush BBS (USA) node delisted due to inactivity.
+
+
 2022-05-26
 Updated Node 4/135 PiBBS (CAN) has been marked PVT in the nodelist by sysop
                  request.
@@ -20,9 +34,6 @@ Updated Node 4/135 PiBBS (CAN) has been marked PVT in the nodelist by sysop
 Updated Node 1/187 Cosmik Debris BBS (USA) has been marked as Down.
 
 Updated Node 1/177 Nephilim BBS (ISR) has been marked as Down.
-
-
-
 
 2022-05-26
 Housekeeping for NET 2 and more to come in other NETs as we keep on top of
