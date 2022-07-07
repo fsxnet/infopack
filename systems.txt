@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 6 June 2022 ---
+              --- Connected Systems as of 7 July 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -89,6 +89,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 179 Cryptogenic Radix       Paul Hayton         -- Private Node --
 180 Cold War Computing      Jeff Thiele         -- Private Node --
 181 Ninho do Abutre 2       Mauro Veiga        abutre.no-ip.org:2323
+182 Positronic Brain BBS    Andrew Pamment     positronicbrain.net:11892
 183 Vertrauen BBS           Rob Swindell       vert.synchro.net
 184 Echo Base BBS           Jeff Jun           telnet.echo-base-bbs.com
 185 Lightning BBS           Steve Helferich    lightningbbs.com:2400 
@@ -151,6 +152,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 104 Vger.Cloud BBS          Bradley Thornton   vger.fsxnet.nz
 105 The New Frontier 2      Charles Stephenson frontierbbs.net
 106 Dock Sud Mystic BBS     Fernando Toledo    -- Private Node --
+107 Ed's Place BBS          Edwin Wentworth    bbs.ew3host.com
 108 Storm BBS               April Monoceros    telnet.stormbbs.com
 110 Ink Two BBS             Lawrence Manuel    bbs.inktwo.com
 111 Leisure Time BBS        Robert Riddell     bbs.riddells.net:10023
@@ -238,13 +240,16 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 158 BodaX BBS               Tobias Rosenqvist bodax.fsxnet.nz
 159 The Basement BBS        Adam Clark        basement.isurf.ca
 160 Online World BBS        Jason Garneau     bbs.onlineworld.ninja
-161 Itchy Butt BBS          Michael Newkirk   itchybutt.net:8888
 163 42bytes BBS             Brian Klauss      42bytes.net
 164 Angstridden BBS         Steve Layton      angstridden.net:1377
 165 The Underground BBS     Doug Cooper       theunderground.us
 166 The Ratrace Losers      Chad Douglas      theratracelosers.com
 167 VET BBS                 Mike Welborn      bbs.thewelborns.net
 168 ReTR0aKTiV BBS          Rob Koliha        retr0aktiv.com
+169 TassieBob BBS           Bob Purdon        bbs.tassiebob.com:2323
+170 RVs and RPGs BBS        Jeff Brissette    bbs.rvsandrpgs.com:2323
+171 STar Fleet HQ BBS       Drew Klenotic     bbs.sfhqbbs.org:5983
+172 d0p3.intersrv.net BBS   Nicholas Brennan  d0p3.intersrv.net
 
 NET 4 (21:4/xxx) HPT (BinkP)
 ============================
