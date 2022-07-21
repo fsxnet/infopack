@@ -13,6 +13,35 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2022-07-19
+Updated Node 2/128 seeLive's rusty Hedgehog BBS (USA) is now called oNyX BBS
+                 the address is onyxbbs.mywire.org:2300 (telnet) or use port
+                 2200 for SSH. The nodelist and systems.txt has been updated.
+
+Added Node 2/109 ByteBarn BBS (GER) welcome to sysop Markus Maussner aka
+                 Tassilo who is based in Sernow, Germany and running a Mystic
+                 BBS powered by Debian. You can reach the system at 
+                 bbs.bytebarn.de:2300 Great to have you as a member of our
+                 online community Tassilo :)                 
+
+2022-07-14
+Added Node 2/125 Kumpute BBS (CAN) a warm welcome to sysop Madison Brooks aka
+                 Fae Empress who is based in Kamloops, Canada. Running a 
+                 Mystic BBS you can reach the system at bbs.kumpute.org
+                 Fae, thanks for joining fsxNet and welcome aboard :)
+
+Added Node 3/173 Step to the Left BBS (AUS) please welcome sysop and amateur 
+                 radio operator Jared Quinn (VK2WAY) who is based in Sydney,
+                 Australia. Running an Enigma 1/2 system you can check out
+                 the BBS by heading to bbs.vk2way.id.au  ... welcome Jared
+                 nice to have you as a member of the fsxNet community.
+
+Added Node 2/119 The Other Realm BBS (USA) its hello and welcome to sysop
+                 Lawrence Stockman aka AngryLarry who is based in Garland,
+                 TX. The BBS is powered by Mystic and can be found at
+                 theotherrealmbbs.com  ... nice to have you as a member of
+                 fsxNet Lawrence. Welcome :)                 
+
 2022-07-05
 Added Node 3/172 d0p3.intersrv.net BBS (AUS) welcome aboard to sysop
                  Nicholas Brennan aka tetrazocine. tetrazocine is based in 

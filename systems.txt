@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 7 July 2022 ---
+              --- Connected Systems as of 22 July 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -154,6 +154,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 106 Dock Sud Mystic BBS     Fernando Toledo    -- Private Node --
 107 Ed's Place BBS          Edwin Wentworth    bbs.ew3host.com
 108 Storm BBS               April Monoceros    telnet.stormbbs.com
+109 ByteBarn BBS            Markus Maussner    bbs.bytebarn.de:2300
 110 Ink Two BBS             Lawrence Manuel    bbs.inktwo.com
 111 Leisure Time BBS        Robert Riddell     bbs.riddells.net:10023
 112 Thunder BBS             Jay Wheeler        thunderbss.ringet.org
@@ -162,12 +163,14 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 115 Mystic Rhythms BBS      Rob Cole           mystic.wwivbbs.org
 116 Chinwag BBS             Deon George        alterant.leenooks.net
 118 Halls of Valhalla       Morgan Collins     hoval.synchro.net:2333
+119 The Other Realm BBS     Lawrence Stockman  theotherrealmbbs.com
 122 Battlestar III BBS      Mark Iezzi         battlestar3.dyndns.org:2400
 123 Deadbeatz BBS           Tim Blada          deadbeatz.org
 124 Insane Asylum BBS       James Kulwicki      -- Private Node --
+125 Kumpute BBS             Madison Brooks     bbs.kumpute.org
 126 Rust Belt BBS           Kevin Miller       rbbbs.mtonetwork.com
 127 Battlestar BBS          Mark Iezzi         battlestarbbs.dyndns.org
-128 SeeLive's Rusty HedgehogClive Reuben       rustyhedgehog.dynv6.net:2300
+128 oNyX BBS                Clive Reuben       onyxbbs.mywire.org:2300
 129 Risky Business BBS      Roger Ouimette     riskybusiness.hopto.org:2323
 130 Delta City BBS          Joacim Melin       deltacity.fsxnet.nz
 131 Orbit BBS               Allen Scofield     orbitbbs.ddns.net
@@ -250,6 +253,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 170 RVs and RPGs BBS        Jeff Brissette    bbs.rvsandrpgs.com:2323
 171 STar Fleet HQ BBS       Drew Klenotic     bbs.sfhqbbs.org:5983
 172 d0p3.intersrv.net BBS   Nicholas Brennan  d0p3.intersrv.net
+173 Step to the left BBS    Jared Quinn       bbs.vk2way.id.au
 
 NET 4 (21:4/xxx) HPT (BinkP)
 ============================
