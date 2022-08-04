@@ -262,6 +262,11 @@ Joining is easy, to obtain a node number just complete the application form
 below then either email it to avon@bbs.nz or send it as Fidonet netmail
 to Paul Hayton (3:770/100) at agency.bbs.nz
 
+Note: If you are using the test 21:1/999 AKA you can only link to a handful
+of the total available echomail areas, namely FSX_TST, FSX_GEN and FSX_MYS
+We encourage you to apply for your own node number to obtain full access to 
+all available fsxNet echomail areas :)
+
 For anything that's not applicable below, please state "NA".
 Thanks for your interest.
 
