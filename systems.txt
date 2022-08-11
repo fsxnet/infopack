@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 22 July 2022 ---
+              --- Connected Systems as of 7 August 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -264,7 +264,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 103 The Undermine BBS       Kostie Muirhead    bbs.undermine.ca:423
 104 Herbies BBS II          Thorsten Herb      herbies-bbs.ddns.net
 105 Phoenix BBS             Andrew Leary       phoenix.bnbbbs.net:2323
-106 Rusty Mailbox BBS       Alan Ianson        trmb.synchro.net:2030
+106 Rusty Mailbox BBS       Alan Ianson        trmb.ca:2030
 107 Carnage! BBS            Brian Rogers       carnage.fsxnet.nz:2300
 108 Inland Utopia BBS       Matthew Munson     iutopia.duckdns.org:23
 109 9640 News BBS           Beery Miller       9640news.ddns.net:9640
