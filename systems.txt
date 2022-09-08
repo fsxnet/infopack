@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 7 August 2022 ---
+              --- Connected Systems as of 9 September 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -89,7 +89,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 179 Cryptogenic Radix       Paul Hayton         -- Private Node --
 180 Cold War Computing      Jeff Thiele         -- Private Node --
 181 Ninho do Abutre 2       Mauro Veiga        abutre.no-ip.org:2323
-182 Positronic Brain BBS    Andrew Pamment     positronicbrain.net:11892
+182 Smuggler's Cove BBS     Andrew Pamment     scove.talismanbbs.com:2323
 183 Vertrauen BBS           Rob Swindell       vert.synchro.net
 184 Echo Base BBS           Jeff Jun           telnet.echo-base-bbs.com
 185 Lightning BBS           Steve Helferich    lightningbbs.com:2400 
