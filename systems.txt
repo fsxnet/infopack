@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 9 September 2022 ---
+              --- Connected Systems as of 17 September 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -47,7 +47,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 131 Weather Station HUB     Mark Hofmann       bbs.weather-station.org   
 132 Weather Station BBS     Mark Hofmann       bbs.weather-station.org  
 134 Mystic Prison Board     Ruben Figueroa     pbmystic.rdfig.net:24
-136 The Oracle BBS          Alex Sardo         theoraclebbs.com  
 137 Digital Distortion      Eric Oulashin      digdist.synchro.net
 138 Electronic Warfare      Nicholas Loch      bbs.ewbbs.net 
 140 Daves BBS               David Smith        davesbbs.com
@@ -64,13 +63,11 @@ NET 1 (21:1/xxx) HPT (BinkP)
 153 Infoline BBS            Mickolas Pansky     -- Private Node -- 
 154 Raiders Inc BBS         Jon Justvig        vintagebbsing.com:23
 155 Haciend BBS             Antti Kiuru        haciend.com  
-156 Central Ontario         Mike Manning       oxfordmi.synchro.net  
 157 Shadowscope BBS         Richard Miles      shadowscope.noip.us 
 158 The Quantum Wormhole    Christian Sacks    bbs.erb.pw
 159 The GateHouse BBS       John Riley         bbs.digitalgatehouse.com   
 160 Slime City BBS          David Jacoby       bbs.retrohack.se  
 161 The Search BBS          Karl Harris        searchbbs.fsxnet.nz
-162 Cheshire Underground    Jonathan Martin    bbs.cheshirezine.com
 163 Dreamland BBS           Tony Master        bbs.dreamlandbbs.org
 164 Electronic Chicken      Derek Mullin       bbs.electronicchicken.com
 166 Datanet BBS             Steve Ellis        datanetbbs.net 
@@ -100,7 +97,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
 191 Zruspa's HUB            Ángel Ripoll       bbs.zruspas.org:24554
 192 Zruspa's BBS            Ángel Ripoll       bbs.zruspas.org:23 
-193 Darkstar BBS            Alexander Winkler  darkstar.bmxjo.org:2023 
 194 Diamond Mine Online     David Perrussel    bbs.dmine.net:24
 195 Dragon's Claw HUB       Stephen Walsh      ftn.vk3heg.net
 196 Dragon's Lair BBS       Stephen Walsh      dragon.vk3heg.net
@@ -119,6 +115,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 209 LU8FJH BBS              Juan Musso         lu8fjh.dyndns.org
 210 Noverdu BBS             Jonah Clausen      noverdu.com
 211 NeedFul Things BBS      Michael Dennison   NeedFulThings.ddns.net:2381
+212 BBSisCOOL BBS           John Luton         bbsiscool.emailisstupid.com
 213 Votrex BBS              Strahinja Bojovic  vortex.redirectme.net:3777
 214 Midnight Lounge BBS     Allie Prather      lounge.mbl.social
 215 Project Open Gate       Justin Waymire     pog.fsxnet.nz
@@ -127,10 +124,10 @@ NET 1 (21:1/xxx) HPT (BinkP)
 218 KCM BBS                 Andreas Zahrl      zahrl.ddns.net:2023
 219 Radio Freqs & Geeks     Rich Gattie        rfgeeksbbs.ddns.net:2323
 220 swissIRC BBS            Alisha Manuela     swissirc.fsxnet.nz
+221 The FBO                 Charles Blackburn  bbs.thefbo.us
 222 Tiny's BBS II           Shawn Highfield    bbs.tinysbbs.com:4323
 223 OldComp.EU BBS          Cerny Eduard       bbs1.oldcomp.eu:2323
 224 Spot BBS                Steve Weinert      spotbbs.k9zw.com:1123
-225 GameBlipsBBS            Fred San Juan      gameblipsbbs.tplinkdns.net
 226 Retro16 BBS             David Florey       bbs.retro16.com
 227 Shipwrecks & Shibbole   ths Chris Hizny    shibboleths.fsxnet.nz
 228 Vienna-Matrix BBS       Alexander Payer    sbbs.viennamatrix.at
@@ -138,6 +135,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 230 Lost Underground BBS    Spiro Harvey       lostunderground.org
 231 Southern Comfort BBS    Mike Giddens       soco.bbs.io
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
+233 Paranor BBS             Michael Slaunwhite 71.7.154.249:23
 234 Crewmate's Test Lab     Mike Edwards       testlab.fsxnet.nz:7357
 237 Brainsuxx.inc BBS       Michael Braun      brainsuxxinc.ddns.net
 616 Cold Fusion             Alexander Grotewohl cfbbs.net
