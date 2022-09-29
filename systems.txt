@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 17 September 2022 ---
+              --- Connected Systems as of 28 September 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -21,6 +21,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 101 Agency BBS              Paul Hayton        agency.bbs.nz:24555   
 102 Error 404 BBS           Todd Zieman        error404bbs.ddns.net:404  
 103 Micro Link BBS          Lloyd Russell       -- Private Node --
+104 Region 15 HQ BBS        Terry Barlow       region15.net
 105 Fluph BBS               Leslie Given       fluph.zapto.org  
 106 BlackICE BBS            Vitus Zeel         blackice.bbsindex.de  
 107 The ByteXchange BBS     Chad Adams         bbs.thebytexchange.com 
@@ -41,6 +42,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 122 Necronomicon BBS        Carlos Roldan      necrobbs.ddns.net
 123 Thiaramus' Den          Roman Litvinenko   thiaramus.fsxnet.nz
 124 apernevan.tk BBS        Andrei Pernevan    apernevan.tk
+125 The Horizon BBS         Chris Wilson       bbs.horizonbbs.org
 126 Al's Geek Lab BBS       Alistair Ross      bbs.alsgeeklab.com:2323
 127 Capital Station         Gregory Deyss      csbbs.dyndns.org 
 129 SpaceSST BBS            Luc McCarragher    mccarragher.org  
@@ -165,7 +167,6 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 122 Battlestar III BBS      Mark Iezzi         battlestar3.dyndns.org:2400
 123 Deadbeatz BBS           Tim Blada          deadbeatz.org
 124 Insane Asylum BBS       James Kulwicki      -- Private Node --
-125 Kumpute BBS             Madison Brooks     bbs.kumpute.org
 126 Rust Belt BBS           Kevin Miller       rbbbs.mtonetwork.com
 127 Battlestar BBS          Mark Iezzi         battlestarbbs.dyndns.org
 128 oNyX BBS                Clive Reuben       onyxbbs.mywire.org:2300
@@ -195,7 +196,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 159 SBB Systems BBS         Frans King         bbs.sbbsystems.com:8888
 160 DarkAges BBS            Randy Henderson    darkagesbbs.com
 161 DaRK Game BBS           Arturo Busleiman   darkgame.buanzo.org
-162 The Freekspeak BBS      Gary Ailes         freespeak.hopto.org
+162 BBS Gametime            Gary Ailes         web.bbsgametime.com
 165 LoFi BBS                Matt Gibson        lofi.ooo:8888
 166 Dark Carnival BBS       Richard Matthews   bbs.darkcarnival.org
 167 ITBNET BBS              Pasquale Monti     itbnet.fsxnet.nz
