@@ -13,6 +13,12 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2022-10-14
+Added history.txt and systems.txt files to fsxnet.nz as dedicated pages on
+the website. These pages are updated each time a new infopack is hatched out
+to nodes. This should mean at least weekly updates to the site with this
+content.
+
 2022-10-09
 Removed references to wiki.fsxnet.nz in infopack etc. as steps begin to
 shutter this wiki and migrate content to fsxnet.nz as time permits.
