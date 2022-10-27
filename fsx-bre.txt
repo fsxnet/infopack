@@ -34,7 +34,7 @@ Max PKT Size ¦ 512
 Max ARC Size ¦ 2048
  Use FileBox ¦ Yes
      FileBox ¦ c:\mystic\filebox\fsxnet_z21n1n10
-TIC Password ¦                         Session Options
+TIC Password ¦                         
 
     Be sure to create a filebox that will be used to send your BRE
     game packets to the 21:1/10 HUB. The above example assumes a

@@ -49,7 +49,7 @@ Max PKT Size │ 512
 Max ARC Size │ 2048
  Use FileBox │ Yes
      FileBox │ c:\mystic\filebox\fsxnet\
-TIC Password │                         Session Options
+TIC Password │                        
 
 4)
 

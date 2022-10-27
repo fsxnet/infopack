@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 14 October 2022 ---
+              --- Connected Systems as of 26 October 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -61,11 +61,12 @@ NET 1 (21:1/xxx) HPT (BinkP)
 148 Dark Systems BBS        Aaron Grasswell    bbs.dsbbs.ca 
 149 The Fool's Quarter      Tim Whitson        fqbbs.synchro.net
 150 Sotano Msx BBS          Pepe Diaz           -- Private Node --
-152 2nd Choice Core         Ian Segers         2ndchoicecore.nz:1024 
+152 2nd Choice Core         Ian Segers         2ndchoicecore.ddns.net:1024 
 153 Infoline BBS            Mickolas Pansky     -- Private Node -- 
 154 Raiders Inc BBS         Jon Justvig        vintagebbsing.com:23
 155 Haciend BBS             Antti Kiuru        haciend.com  
-157 Shadowscope BBS         Richard Miles      shadowscope.noip.us 
+156 Insomnia City BBS       Mark Hartmann      insomniacity.fsxnet.nz
+157 Shadowscope BBS         Richard Miles      shadowscope.noip.us
 158 The Quantum Wormhole    Christian Sacks    bbs.erb.pw
 159 The GateHouse BBS       John Riley         bbs.digitalgatehouse.com   
 160 Slime City BBS          David Jacoby       bbs.retrohack.se  
