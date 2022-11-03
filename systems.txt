@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 26 October 2022 ---
+              --- Connected Systems as of 4 November 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -326,7 +326,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 175 Mystic Hobbies BBS      Mike Dippel        mystic-hobbies.us
 177 Alcoholiday BBS         Andy Haworth       alco.bbs.io
 181 PlaneT Afr0 BBS         Jason Reznor       planetafr0.org:8888
-182 RedFrog BBS             Ergo Paalaman      redfrog.duckdns.org:667
+182 RedFrog BBS             Ergo Paalaman      redfrog.duckdns.org:2323
 
 
 NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
