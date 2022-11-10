@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 4 November 2022 ---
+              --- Connected Systems as of 9 November 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -45,6 +45,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 125 The Horizon BBS         Chris Wilson       bbs.horizonbbs.org
 126 Al's Geek Lab BBS       Alistair Ross      bbs.alsgeeklab.com:2323
 127 Capital Station         Gregory Deyss      csbbs.dyndns.org 
+128 Drakonai BBS            Audrius Puplinskas bbs.drakonai.lt
 129 SpaceSST BBS            Luc McCarragher    mccarragher.org  
 131 Weather Station HUB     Mark Hofmann       bbs.weather-station.org   
 132 Weather Station BBS     Mark Hofmann       bbs.weather-station.org  
@@ -254,6 +255,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 171 STar Fleet HQ BBS       Drew Klenotic     bbs.sfhqbbs.org:5983
 172 d0p3.intersrv.net BBS   Nicholas Brennan  d0p3.intersrv.net
 173 Step to the left BBS    Jared Quinn       bbs.vk2way.id.au
+174 Made to Raid BBS        Chris Manigan     bbs.madetoraid.com:2323
 
 NET 4 (21:4/xxx) HPT (BinkP)
 ============================
