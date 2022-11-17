@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 9 November 2022 ---
+              --- Connected Systems as of 15 November 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -47,6 +47,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 127 Capital Station         Gregory Deyss      csbbs.dyndns.org 
 128 Drakonai BBS            Audrius Puplinskas bbs.drakonai.lt
 129 SpaceSST BBS            Luc McCarragher    mccarragher.org  
+130 The Unmarked Van BBS    Dave Scott         unmarkedvan.fsxnet.nz
 131 Weather Station HUB     Mark Hofmann       bbs.weather-station.org   
 132 Weather Station BBS     Mark Hofmann       bbs.weather-station.org  
 134 Mystic Prison Board     Ruben Figueroa     pbmystic.rdfig.net:24
