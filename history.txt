@@ -13,6 +13,20 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2022-11-30
+Removed Node 1/159 The GateHouse BBS has been delisted at sysop request. 
+
+2022-11-16
+Removed Node 3/117 Runaan BBS inactive and has been delisted.
+
+Removed Node 3/163 42bytes BBS inactive and has been delisted.
+
+Removed Node 3/164 Angstridden BBS inactive and has been delisted.
+
+Removed Node 3/165 The Underground BBS inactive and has been delisted.
+
+Removed Node 3/166 The Ratrace Losers inactive and has been delisted.
+
 2022-11-15
 Added Node 1/130 The Unmarked Van (USA) please welcome sysop Dave Scott who
                  aka Alonzo who is running a Mystic BBS under Windows 10. 
