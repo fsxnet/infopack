@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 30 November 2022 ---
+              --- Connected Systems as of 10 December 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -49,8 +49,11 @@ NET 1 (21:1/xxx) HPT (BinkP)
 129 SpaceSST BBS            Luc McCarragher    mccarragher.org  
 130 The Unmarked Van BBS    Dave Scott         unmarkedvan.fsxnet.nz
 131 Weather Station HUB     Mark Hofmann       bbs.weather-station.org   
-132 Weather Station BBS     Mark Hofmann       bbs.weather-station.org  
+132 Weather Station BBS     Mark Hofmann       bbs.weather-station.org
+133 Blacklight Underground  James Haight       majicka.at2k.org:2424   
 134 Mystic Prison Board     Ruben Figueroa     pbmystic.rdfig.net:24
+135 Brokedown Palace BBS  Steven Southworth palace.brokedownpalace.online:2323
+136 N4TDX BBS               Ricky DeLuco       n4tdx.ddns.net:2323
 137 Digital Distortion      Eric Oulashin      digdist.synchro.net
 138 Electronic Warfare      Nicholas Loch      bbs.ewbbs.net 
 140 Daves BBS               David Smith        davesbbs.com
