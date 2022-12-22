@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 10 December 2022 ---
+              --- Connected Systems as of 22 December 2022 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -56,6 +56,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 136 N4TDX BBS               Ricky DeLuco       n4tdx.ddns.net:2323
 137 Digital Distortion      Eric Oulashin      digdist.synchro.net
 138 Electronic Warfare      Nicholas Loch      bbs.ewbbs.net 
+139 Ultramax BBS            Martin Mitchell    ultramax.synchro.net
 140 Daves BBS               David Smith        davesbbs.com
 141 Pie33 BBS               Moises Aranas      pie33.com:2223 
 142 The Trashcan BBS        Nick MacKechnie    bbs.thenet.gen.nz
@@ -252,7 +253,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 170 RVs and RPGs BBS        Jeff Brissette    bbs.rvsandrpgs.com:2323
 171 STar Fleet HQ BBS       Drew Klenotic     bbs.sfhqbbs.org:5983
 172 d0p3.intersrv.net BBS   Nicholas Brennan  d0p3.intersrv.net
-173 Step to the left BBS    Jared Quinn       bbs.vk2way.id.au
 174 Made to Raid BBS        Chris Manigan     bbs.madetoraid.com:2323
 
 NET 4 (21:4/xxx) HPT (BinkP)
