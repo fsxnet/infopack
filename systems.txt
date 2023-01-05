@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 22 December 2022 ---
+              --- Connected Systems as of 6 January 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -74,8 +74,10 @@ NET 1 (21:1/xxx) HPT (BinkP)
 156 Insomnia City BBS       Mark Hartmann      insomniacity.fsxnet.nz
 157 Shadowscope BBS         Richard Miles      shadowscope.noip.us
 158 The Quantum Wormhole    Christian Sacks    bbs.erb.pw
+159 Bad Poetry Blues BBS    Mick Manning       centralontarioremote.com
 160 Slime City BBS          David Jacoby       bbs.retrohack.se  
 161 The Search BBS          Karl Harris        searchbbs.fsxnet.nz
+162 Midnight Coffee BBS     Jim McBride        ssh.midnightcoffee.org:31323
 163 Dreamland BBS           Tony Master        bbs.dreamlandbbs.org
 164 Electronic Chicken      Derek Mullin       bbs.electronicchicken.com
 166 Datanet BBS             Steve Ellis        datanetbbs.net 
@@ -89,7 +91,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 174 The Zone BBS            Mike Warnock       zonebbs.net
 175 Capitol City Online     Mike Powell        capitolcityonline.net
 176 Darkrealms BBS          Nick Andre         bbs.darkrealms.ca
-177 Nephilim BBS            David Abutbul      nephilim.fsxnet.nz
 178 Internal Dimension      Dave Vandermeer    bbs.idbbs.ca:59
 179 Cryptogenic Radix       Paul Hayton         -- Private Node --
 180 Cold War Computing      Jeff Thiele         -- Private Node --
