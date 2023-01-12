@@ -13,6 +13,50 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2023-01-12
+Added Node 1/177 Goosenet BBS (GER) welcome back to sysop Michael Geller
+                 aka Goose who is based in Nuremberg, Germany. Goose is 
+                 running a Mystic BBS you can reach his system (just getting
+                 set up now) by heading to bbs.nifty5fty.com ports 22 and 23
+                 Welcome back Goose to the scene. :)
+
+2023-01-11
+Removed Node 1/156 Insomnia City BBS has closed while sysop works to relocate
+                 his system to a new hardware platform.
+
+2023-01-10
+NET 4 housekeeping. A number of nodes have been inactive for 80+ days so it's
+time for a tidy up of the nodelist: 
+
+Removed Node 4/107 Carnage! BBS inactive and has been delisted. 
+Removed Node 4/129 Hive 32 BBS inactive and has been delisted.                
+Removed Node 4/132 Black Flag OBV/2 inactive and has been delisted. 
+Removed Node 4/133 sbbs.dynu.net inactive and has been delisted. 
+Removed Node 4/135 PiBBS inactive and has been delisted. 
+Removed Node 4/140 Redshift BBS inactive and has been delisted. 
+Removed Node 4/143 Eggy BBS inactive and has been delisted. 
+Removed Node 4/146 GGNET BBS inactive and has been delisted. 
+Removed Node 4/166 Black Lodge Research inactive and has been delisted. 
+Removed Node 4/115 TCS Online BBS sysop has shutdown their BBS. 
+Removed Node 4/123 SpaceX Starship BBS inactive and has been delisted.
+Removed Node 4/160 Brotherhood of Groovynes inactive and has been delisted.
+Removed Node 4/179 Moon Base Camp BBS inactive and has been delisted.
+Removed Node 4/104 Herbies BBS II inactive and has been delisted.
+Removed Node 4/111 HotDogEd inactive and has been delisted.
+Removed Node 4/127 The Oasis BBS inactive and has been delisted.
+Removed Node 4/142 Off the Wall inactive and has been delisted.
+
+2023-01-09
+Removed Node 1/233 Paranor BBS (CAN) has been inactive 60+ days, no contact
+                 from sysop, the node has been delisted.
+
+2023-01-06
+Updated Node 1/124 apernevan.tk BBS (ROU) has been marked as 'Down' in the
+                 nodelist. Sysop advises he is rebuilding his system with a
+                 new domain name to follow soon.
+
+Updated Node 1/221 The FBO BBS is no longer marked as 'Down' in the nodelist.                 
+
 2023-01-05
 Added Node 1/162 Midnight Coffee BBS (USA) welcome aboard Jim McBride aka
                  Spaceman who hails from St. Louis. Spaceman is running an

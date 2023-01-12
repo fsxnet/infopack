@@ -290,9 +290,9 @@ in this document.
 supplied by you for the purposes of joining and administering the fsxNet 
 network. 
 
-- Consent to your your name, city and country details will appearing in the
-fsxNet nodelist and systems.txt file that lists all participating BBS and
-sysops active in fsxNet.
+- Consent to your your name, city and country details appearing in the
+fsxNet nodelist and systems.txt file . These files list all participating
+BBS and sysops that are active in fsxNet.
 
 - Agree to notify your fsxNet HUB admin when you decide to leave the network.
 This ensures HUBs don't hold files/messages for your system long after you
@@ -308,6 +308,9 @@ Thank you for your interest!
  Operating System..............:
  Telnet Address................:
  SSH Address...................:
+ Binkp Server Address..........:
+ Binkp Port (usually 24554)....:
+ CRASH or HOLD traffic (select):
  Website URL...................:
  Email Address.................:
  Areafix/Filefix/BinkP Password:
@@ -315,44 +318,37 @@ Thank you for your interest!
 Notes:
 
 * Password must be a maximum of 8 UPPERCASE characters using A-Z and 0-9
-* If you use non standard Telnet or SSH ports please state them above
 
-Do you have a static IP address? 
-If you do, please state your IP details below.
+* If you use non standard Telnet, SSH or BinkP ports please state them above
 
-This will ensure your node is whitelisted so it will not be auto-blocked by
-an fsxNet HUB due to any frequent polling (3-4 times in 1 minute) of it 
-by your BBS :)
+* CRASH traffic means files/message packets will be pushed to your BinkP 
+  server by your HUB when they arrive at the HUB. HOLD traffic means the HUB
+  will hold on to your files/packets until your BBS polls the HUB to collect
+  them when you are ready.
 
- Static IPv4 Address...........:
- Static IPv6 Address...........:
+* Regardless of HUB traffic option chosen please ensure your BBS polls its 
+  fsxNet HUB hourly (at a minimum once daily). This ensures if the HUB can't
+  reach your BBS you can reach it to collect your files/ message packets etc.
+
+
+Do you have a static IPv4 and/or IPv6 address? 
+
+If yes, please state the details below. This will help ensure your node is
+whitelisted and not auto-blocked by a fsxNet HUB due to any frequent polling
+by your BBS. (e.g. 3-4 times in 1 minute) 
+
+ My Static IPv4 Address is:
+
+ My Static IPv6 Address is:
  
 If you have a static IP address would you like an optional custom fsxnet.nz
 domain name that will resolve to your IP? e.g. mybbsname.fsxnet.nz 
-This gives you another vanity domain name that works for your BBS
 
 If yes, please state your preferred domain below. 
 
-Please assign my BBS..........:  _________.fsxnet.nz
+Please assign my BBS:  ________________.fsxnet.nz
      
-Your BinkP server details
 
- Binkp Server Address...............................:
- Binkp Port (usually 24554).........................:
- Set my node for CRASH / HOLD traffic (choose one)..:
-
- Notes:
-
- * CRASH traffic means files/message packets will be pushed to your BinkP 
- server by your HUB when they arrive at the HUB. HOLD traffic means the HUB
- will hold on to your files/packets until your BBS polls the HUB to collect
- them when you are ready.
-
- * Regardless of HUB traffic option chosen your BBS should poll its fsxNet HUB
- hourly or at a minimum, daily. This means if the HUB can't reach your BBS you
- can reach it to collect your mail/packets etc.
-
- * If you use a non standard BinkP server port please state it above.
- 
 = END OF APPLICATION ========================================================
+
 		
