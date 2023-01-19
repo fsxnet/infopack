@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 12 January 2023 ---
+              --- Connected Systems as of 15 January 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -132,11 +132,12 @@ NET 1 (21:1/xxx) HPT (BinkP)
 217 Battlestar Pegasus      Mark Iezzi         pegasusbbs.dyndns.org
 218 KCM BBS                 Andreas Zahrl      zahrl.ddns.net:2023
 219 Radio Freqs & Geeks     Rich Gattie        rfgeeksbbs.ddns.net:2323
-220 swissIRC BBS            Alisha Manuela     swissirc.fsxnet.nz
+220 swissIRC BBS            Alisha Stutz       swissirc.fsxnet.nz
 221 The FBO                 Charles Blackburn  bbs.thefbo.us
 222 Tiny's BBS II           Shawn Highfield    bbs.tinysbbs.com:4323
 223 OldComp.EU BBS          Cerny Eduard       bbs1.oldcomp.eu:2323
 224 Spot BBS                Steve Weinert      spotbbs.k9zw.com:1123
+225 The b33zNet BBS         Brent Kemp         bbs.b33z.net
 226 Retro16 BBS             David Florey       bbs.retro16.com
 227 Shipwrecks & Shibbole   ths Chris Hizny    shibboleths.fsxnet.nz
 228 Vienna-Matrix BBS       Alexander Payer    sbbs.viennamatrix.at
@@ -144,6 +145,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 230 Lost Underground BBS    Spiro Harvey       lostunderground.org
 231 Southern Comfort BBS    Mike Giddens       soco.bbs.io
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
+233 Phrenetic BBS           Per Gustav Ousdal  bbs.ousdal.net:2023
 234 Crewmate's Test Lab     Mike Edwards       testlab.fsxnet.nz:7357
 237 Brainsuxx.inc BBS       Michael Braun      brainsuxxinc.ddns.net
 616 Cold Fusion             Alexander Grotewohl cfbbs.net
