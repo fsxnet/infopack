@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 24 January 2023 ---
+              --- Connected Systems as of 29 January 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -106,6 +106,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
 191 Zruspa's HUB            Ángel Ripoll       bbs.zruspas.org:24554
 192 Zruspa's BBS            Ángel Ripoll       bbs.zruspas.org:23 
+193 Disconnected by Peer    Mario Fetka        bbs.disconnected-by-peer.at
 194 Diamond Mine Online     David Perrussel    bbs.dmine.net:24
 195 Dragon's Claw HUB       Stephen Walsh      ftn.vk3heg.net
 196 Dragon's Lair BBS       Stephen Walsh      dragon.vk3heg.net
@@ -147,7 +148,10 @@ NET 1 (21:1/xxx) HPT (BinkP)
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
 233 Phrenetic BBS           Per Gustav Ousdal  bbs.ousdal.net:2023
 234 Crewmate's Test Lab     Mike Edwards       testlab.fsxnet.nz:7357
+235 ZorgluBBS               Pierre Pignon      bbs.pitichampi.fr:2023
+236 Lunar Mod               David Thielemann   bbs.beanzilla.net:2323
 237 Brainsuxx.inc BBS       Michael Braun      brainsuxxinc.ddns.net
+238 The Global Village   Sebastian van der Veen the.globalvillagebbs.net:2222
 616 Cold Fusion             Alexander Grotewohl cfbbs.net
 
 NET 2 (21:2/xxx) Mystic BBS (BinkP)
@@ -266,6 +270,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 103 The Undermine BBS       Kostie Muirhead    bbs.undermine.ca:423
 105 Phoenix BBS             Andrew Leary       phoenix.bnbbbs.net:2323
 106 Rusty Mailbox BBS       Alan Ianson        trmb.ca:2030
+107 The X-Bit BBS           Rob McGee          x-bit.org
 108 Inland Utopia BBS       Matthew Munson     iutopia.duckdns.org:23
 109 9640 News BBS           Beery Miller       9640news.ddns.net:9640
 110 BZ&BZ BBS               Steve Thielemann   bbs.red-green.com:4023
@@ -274,7 +279,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 114 Reisub BBS              Fabian Bonetti     reisub.nsupdate.info:7020
 116 InterMail Support       Dale Barnes        im.ifidonet.com
 118 Bit's Lair BBS          Yeray Dorta         -- Private Node --
-119 After Hours BBS         Greg Youngblood    afterhours-bbs.com
 120 Deep Space Gateway      Sam Penwright      deepspacegateway.net
 121 AlcaBBS                 Michael Trip       bbs.alcatrash.org
 122 realitycheckBBS         Kurt Weiske        realitycheckbbs.org
@@ -302,15 +306,12 @@ NET 4 (21:4/xxx) HPT (BinkP)
 162 SlipStream BBS          Scott Styles       www.slipstreambbs.net
 163 Jensencloud BBS         Pat Jensen         jensencloud.net
 164 Fusion BBS              Chris Schneider    fusion.zapto.org
-165 w0pr.win                Richard Swartz     w0pr.win
 167 The Vault BBS           Rodrigo Pelaez     thevaultbbs.fsxnet.nz
-168 Dales BBS               Dale Cousins       dalesbbs.fsxnet.nz
 170 Amiga Retro Brisbane BBS Mark Casteleijn   www.amigaretro.com:23
 171 Star Frontiers BBS      William Williams   starfron.synchronetbbs.org
 172 Dark Forces BBS         Mark Iezzi         darkforcesbbs.dyndns.org:2200
 173 Monterey BBS            Ryan Fantus        montereybbs.com
 174 Exoplanet BBS           Shane Wolfe        exoplanetbbs.net
-175 Mystic Hobbies BBS      Mike Dippel        mystic-hobbies.us
 177 Alcoholiday BBS         Andy Haworth       alco.bbs.io
 181 PlaneT Afr0 BBS         Jason Reznor       planetafr0.org:8888
 182 RedFrog BBS             Ergo Paalaman      redfrog.duckdns.org:2323
