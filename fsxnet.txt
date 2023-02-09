@@ -106,8 +106,10 @@ FSX_CRY - Cryptographic discussion and experimentation.
           Public key sharing, encoded messages, testing etc.
           is welcome here. 
 
-FSX_NET - Discussions about fsxNet. Chat about current network operations,
-          plans for the future and how to best implement them.
+FSX_NET - Discussions about fsxNet. Administrative news and other network
+          operations announcements (new nodes etc.) are posted here.
+          This is also the best place to discuss ideas and plans for fsxNet
+          and how to best implement them.
           
 FSX_ESP - Espanol General Chat. This echoarea offers a place for Spanish
           language conversations. Like FSX_GEN it is a general discussion

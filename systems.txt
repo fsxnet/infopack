@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 29 January 2023 ---
+              --- Connected Systems as of 6 February 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -173,12 +173,13 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 113 Fishingnet BBS          Matthew Smith      fishingnet.phatstar.org:7777
 114 Freeside BBS            Marty Taylor       freeside.bbs.io
 115 Mystic Rhythms BBS      Rob Cole           mystic.wwivbbs.org
-116 Chinwag BBS             Deon George        alterant.leenooks.net
+116 Chinwag BBS             Deon George        alterant.bbs.dege.au
 118 Halls of Valhalla       Morgan Collins     hoval.synchro.net:2333
 119 The Other Realm BBS     Lawrence Stockman  theotherrealmbbs.com
 122 Battlestar III BBS      Mark Iezzi         battlestar3.dyndns.org:2400
 123 Deadbeatz BBS           Tim Blada          deadbeatz.org
 124 Insane Asylum BBS       James Kulwicki      -- Private Node --
+125 Mystic Hobbies BBS      Mike Dippel        mystic-hobbies.com
 126 Rust Belt BBS           Kevin Miller       rbbbs.mtonetwork.com
 127 Battlestar BBS          Mark Iezzi         battlestarbbs.dyndns.org
 128 oNyX BBS                Clive Reuben       onyxbbs.mywire.org:2300
@@ -260,6 +261,9 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 171 STar Fleet HQ BBS       Drew Klenotic     bbs.sfhqbbs.org:5983
 172 d0p3.intersrv.net BBS   Nicholas Brennan  d0p3.intersrv.net
 174 Made to Raid BBS        Chris Manigan     bbs.madetoraid.com:2323
+175 One Ring BBS            Dylan McIntosh     -- Private Node --
+176 FlipperZero BBS         Guido Giorgi      bbs.gglab.cloud
+
 
 NET 4 (21:4/xxx) HPT (BinkP)
 ============================
@@ -347,6 +351,7 @@ El Burro Diablo             Brad Brown         ELBURROD
 Mutiny BBS                  Tom Powers         MUTINY
 Silent Chat BBS             Michael Mrak       SILCHAT 
 KN6Q BBS                    Tom Kisner         KN6Q
+Slinky's Place              Steven Bennett     SLINKY
    
 
 =============================================================================
