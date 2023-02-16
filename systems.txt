@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 6 February 2023 ---
+              --- Connected Systems as of 16 February 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -188,7 +188,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 131 Orbit BBS               Allen Scofield     orbitbbs.ddns.net
 132 Archaic Binary BBS      Wayne Smith        bbs.archaicbinary.net 
 133 8-Bit Classics' BBS     Corey Koltz        bbs.8bitclassics.com
-134 Troy's Den BBS          Scott Miller       troybbs.com
+134 Splatterhaus BBS        Vincent Macaluso   splatter.haus:666
 135 Omicron Theta Mail      Robert Wolfe       winserver.org:2300
 136 Omicron Theta BBS       Robert Wolfe       winserver.org
 137 Tsali's BBS             James Washington   tsali.ddns.net:9023
@@ -319,6 +319,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 177 Alcoholiday BBS         Andy Haworth       alco.bbs.io
 181 PlaneT Afr0 BBS         Jason Reznor       planetafr0.org:8888
 182 RedFrog BBS             Ergo Paalaman      redfrog.duckdns.org:2323
+185 Slinky's Place          Steven Bennett     slinkybbs.com
 
 
 NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
@@ -351,7 +352,6 @@ El Burro Diablo             Brad Brown         ELBURROD
 Mutiny BBS                  Tom Powers         MUTINY
 Silent Chat BBS             Michael Mrak       SILCHAT 
 KN6Q BBS                    Tom Kisner         KN6Q
-Slinky's Place              Steven Bennett     SLINKY
    
 
 =============================================================================
