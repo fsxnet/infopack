@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 16 February 2023 ---
+              --- Connected Systems as of 27 February 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -59,7 +59,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 139 Ultramax BBS            Martin Mitchell    ultramax.synchro.net
 140 Daves BBS               David Smith        davesbbs.com
 141 Pie33 BBS               Moises Aranas      pie33.com:2223 
-142 The Trashcan BBS        Nick MacKechnie    bbs.thenet.gen.nz
+142 The Trashcan BBS        Nick MacKechnie    bbs.thenet.gen.nz:2324
 143 The Bridge BBS          Tony Langdon       bridge.vkradio.com 
 144 Brain Patchwork DX      Ozz Nixon          exchangebbs.com:38400 
 145 Mystic Pi BBS           Brian Wallace      bcw142.zapto.org   
@@ -85,7 +85,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 169 Sinner's Haven BBS      Karl Kunc          bbs.sinnershaven.com
 170 Weather Station BBS     Mark Hofmann       bbs.weather-station.org
 171 Modema Tider BBS        Andreas Selstam     -- Private Node --
-172 The Bottomless Abyss    Dave Cloutier      bbs.bottomlessabyss.net
+172 The Bottomless Abyss    Dave Cloutier      bbs.bottomlessabyss.net:2023
 173 Sinclair Retro BBS      Simone Voltolini   retrobbs.sinclair.homepc.it
 174 The Zone BBS            Mike Warnock       zonebbs.net
 175 Capitol City Online     Mike Powell        capitolcityonline.net
