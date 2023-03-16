@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 27 February 2023 ---
+              --- Connected Systems as of 16 March 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -63,6 +63,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 143 The Bridge BBS          Tony Langdon       bridge.vkradio.com 
 144 Brain Patchwork DX      Ozz Nixon          exchangebbs.com:38400 
 145 Mystic Pi BBS           Brian Wallace      bcw142.zapto.org   
+146 Digital Sanctuary BBS   Chris Hallford     digitalsanctuarybbs.com
 147 The Comm's Nut BBS      Danny Moss         tcnbbs.fsxnet.nz:2323
 148 Dark Systems BBS        Aaron Grasswell    bbs.dsbbs.ca 
 149 The Fool's Quarter      Tim Whitson        fqbbs.synchro.net
@@ -116,7 +117,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 200 Pharcyce BBS            Nicholas Boel       -- Private Node --
 201 Decker's Heaven         Eric Renfro        bbs.deckersheaven.com
 202 Star Collision BBS      Bjorn Wiberg       scbbs.nsupdate.info:61023
-203 Rocket Town BBS         Ricky DeLuco       rtbbs.ddns.net
 204 Family BBS              Tony Pawson        familybbs.ddns.net
 205 Magnum BBS              Keyop Troy         bbs.magnum.uk.net
 206 File Cabinet BBS        Richard Vonzel     filecabi.synchro.net
@@ -197,6 +197,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 140 Subcarrier BBS          John McCoy         subcarrier.ignorelist.com:2323
 141 SiliconUnderground      Jason Bock         siliconu.fsxnet.nz
 142 TheViper BBS            Lloyd Fellon       theviperbbs.mywire.org
+143 KF5QEO's Shack          John Guillory      kf5qeo.servebbs.net
 143 Digicom BBS (USA)       Gary Barr          bbs.digicombbs.com
 144 Outremer BBS            Pieter Bakker      outremer.fsxnet.nz
 146 Hold Fast! BBS          Paul Lopez         telnet.holdfastbbs.ca:2323 
@@ -263,6 +264,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 174 Made to Raid BBS        Chris Manigan     bbs.madetoraid.com:2323
 175 One Ring BBS            Dylan McIntosh     -- Private Node --
 176 FlipperZero BBS         Guido Giorgi      bbs.gglab.cloud
+177 Kludge BBS              joshua stein      klud.ge
 
 
 NET 4 (21:4/xxx) HPT (BinkP)
