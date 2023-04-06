@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 16 March 2023 ---
+              --- Connected Systems as of 3 April 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -101,7 +101,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 184 Echo Base BBS           Jeff Jun           telnet.echo-base-bbs.com
 185 Lightning BBS           Steve Helferich    lightningbbs.com:2400 
 186 Castle Rock BBS         Dan Richter        bbs.castlerockbbs.com
-187 Cosmik Debris BBS       Andrew Pepper      cosmikdebris.ddns.net:2323
 188 ACiD Underworld BBS     Hawk Hubbard        -- Private Node --
 189 Extricate BBS           Tristan Greaves    bbs.extricate.org
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
@@ -255,6 +254,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 158 BodaX BBS               Tobias Rosenqvist bodax.fsxnet.nz
 159 The Basement BBS        Adam Clark        basement.isurf.ca
 160 Online World BBS        Jason Garneau     bbs.onlineworld.ninja
+165 The Underground         Doug Cooper       theunderground.us:10023
 167 VET BBS                 Mike Welborn      bbs.thewelborns.net
 168 ReTR0aKTiV BBS          Rob Koliha        retr0aktiv.com
 169 TassieBob BBS           Bob Purdon        bbs.tassiebob.com:2323
