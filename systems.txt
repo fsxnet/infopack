@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 3 April 2023 ---
+              --- Connected Systems as of 7 April 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -201,6 +201,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 144 Outremer BBS            Pieter Bakker      outremer.fsxnet.nz
 146 Hold Fast! BBS          Paul Lopez         telnet.holdfastbbs.ca:2323 
 147 Altair IV BBS           Scott Daniels      altairiv.ddns.net
+148 Shurato's Heavenly Sphere Martin Kazmaier  shsbbs.ddns.net
 150 20 For Beers BBS        Paul Lee           20ForBeers.com:1337
 151 Dock Sud BBS            Fernando Toledo    bbs.docksud.com.ar
 152 UnderZaNet BBS          Jan Henkins        bbs.under.za.net:2024
@@ -265,6 +266,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 175 One Ring BBS            Dylan McIntosh     -- Private Node --
 176 FlipperZero BBS         Guido Giorgi      bbs.gglab.cloud
 177 Kludge BBS              joshua stein      klud.ge
+178 Massive BBS             Andy Diller       bbs.diller.org
 
 
 NET 4 (21:4/xxx) HPT (BinkP)
@@ -322,6 +324,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 181 PlaneT Afr0 BBS         Jason Reznor       planetafr0.org:8888
 182 RedFrog BBS             Ergo Paalaman      redfrog.duckdns.org:2323
 185 Slinky's Place          Steven Bennett     slinkybbs.com
+186 Excelsior BBS      Michael Christoffersen  awesome.fredslev.net:6969
 
 
 NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
