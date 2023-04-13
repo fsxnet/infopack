@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 7 April 2023 ---
+              --- Connected Systems as of 10 April 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -17,7 +17,7 @@ Node BBS Name            Sysop              Address
 NET 1 (21:1/xxx) HPT (BinkP)
 ============================
 
-100 Risa fsxHUB             Paul Hayton        agency.bbs.nz:24556
+100 Risa fsxHUB             Paul Hayton        agency.bbs.nz
 101 Agency BBS              Paul Hayton        agency.bbs.nz:24555   
 102 Error 404 BBS           Todd Zieman        error404bbs.ddns.net:404  
 103 Micro Link BBS          Lloyd Russell       -- Private Node --
@@ -101,6 +101,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 184 Echo Base BBS           Jeff Jun           telnet.echo-base-bbs.com
 185 Lightning BBS           Steve Helferich    lightningbbs.com:2400 
 186 Castle Rock BBS         Dan Richter        bbs.castlerockbbs.com
+187 CrNet BBS               John Gonzales      bbs.crnet.net  
 188 ACiD Underworld BBS     Hawk Hubbard        -- Private Node --
 189 Extricate BBS           Tristan Greaves    bbs.extricate.org
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
@@ -199,12 +200,14 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 143 KF5QEO's Shack          John Guillory      kf5qeo.servebbs.net
 143 Digicom BBS (USA)       Gary Barr          bbs.digicombbs.com
 144 Outremer BBS            Pieter Bakker      outremer.fsxnet.nz
+145 WalledCTTY              Thom Miller        bbs.walledctty.com:1989
 146 Hold Fast! BBS          Paul Lopez         telnet.holdfastbbs.ca:2323 
 147 Altair IV BBS           Scott Daniels      altairiv.ddns.net
 148 Shurato's Heavenly Sphere Martin Kazmaier  shsbbs.ddns.net
 150 20 For Beers BBS        Paul Lee           20ForBeers.com:1337
 151 Dock Sud BBS            Fernando Toledo    bbs.docksud.com.ar
 152 UnderZaNet BBS          Jan Henkins        bbs.under.za.net:2024
+153 Cw Shack BBS            Tom Moore          kf4yey.com
 154 Danger Bay              Tom Swartz         dangerbaybbs.dyndns.org:1337
 156 CJ's Place BBS          Chris Johnson      cjsplace.thruhere.net
 159 SBB Systems BBS         Frans King         bbs.sbbsystems.com:8888
@@ -267,6 +270,8 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 176 FlipperZero BBS         Guido Giorgi      bbs.gglab.cloud
 177 Kludge BBS              joshua stein      klud.ge
 178 Massive BBS             Andy Diller       bbs.diller.org
+179 Third Rock BBS          Michael Borthwick bbs.thirdrockbbs.au
+180 Lost Reality BBS        Michael Borthwick bbs.lostrealitybbs.au
 
 
 NET 4 (21:4/xxx) HPT (BinkP)
@@ -293,7 +298,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 124 The Dungeon BBS         Keith Matthews     dungeon.barnabasmusic.com
 125 Veleno BBS              Thomas Bampi       velenobbs.ddns.net
 128 DragonsWeb Labs BBS     James DiGriz       bbs.dragonsweb.org 
-130 TradersBay BBS          Chad Adams         tradersbay.fsxnet.nz 
 131 The Wrong Number 2      Al DeRosa          wn2.duckdns.org
 134 Possum Lodge South      Mike Powell        possumso.fsxnet.nz:7636
 136 Total Lost BBS          Dennis Eklund      bbs.deek.se
