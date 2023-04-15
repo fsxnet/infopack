@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 10 April 2023 ---
+              --- Connected Systems as of 16 April 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
