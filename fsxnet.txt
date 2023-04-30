@@ -111,15 +111,37 @@ FSX_NET - Discussions about fsxNet. Administrative news and other network
           This is also the best place to discuss ideas and plans for fsxNet
           and how to best implement them.
           
-FSX_ESP - Espanol General Chat. This echoarea offers a place for Spanish
-          language conversations. Like FSX_GEN it is a general discussion
-          echoarea covering many topics. Test messages and other
-          experimentation is welcome.
-          
-          Este echoarea ofrece un lugar para conversaciones en espanol.
-          Al igual que FSX_GEN, es una discusión general que abarca muchos
-          temas. Mensajes de prueba y otros experimentos son bienvenidos.  
-         
+FSX_GAMING Anything gaming related is on-topic here. From electronic to
+          board games, action, adventure and role-playing, to simulations,
+          strategy, sports and puzzles. This forum covers everything gaming
+          related including MUDs, first-person shooters, real-time strategy,
+          massively multiplayer online games, console wars, hints, tips and
+          tricks and more.
+
+FSX_SPACE If it's space or astronomy related you've come to the right
+          place. Topics include space industry activities (SpaceX, NASA, Blue
+          Origin, Rocket Labs etc.) discussions about satellites,
+          interplanetary missions, the science of space travel and more.
+
+FSX_RETRO Retro computing and any old tech discussions. From early computer
+          hardware and software, calculators, watches and more.  If you have
+          collected it, use it, need it fixed tell us about it here.
+
+FSX_VIDEO - Watched a good movie? Seen an awesome TV show? Found a cool
+          series on Disney+, Netflix etc? If it's something you've seen or wish
+          you could, or you just want to tell others to check it out - share 
+          your thoughts here. Reviews are welcome. Please preface posts
+          containing spoilers with [spoilers] or [sp] in your subject heading.
+
+FSX_MUSIC This forum covers anything to do with music. From the instruments
+          performers play to the artists and bands they play in. All formats,
+          genres and eras are welcome.
+
+FSX_LFE - Lifestyle - There's lots of ways to enjoy life! This echo covers
+          many different lifestyle topics including (but not limited to) 
+          Gardening, DIY, Art, Food, Travel, Transport, Sports, Pets,
+          Health & Fitness etc. Dive in, lets chat :)
+
 FSX_ADS - BBS and NETwork Ads. Run a BBS you want to tell the world about?
           Use a roBOT or manually post your BBS ASCII / ANSI ads here.
           Please don't post the same thing more than once a week (7 days). 
@@ -143,60 +165,8 @@ FSX_FIL - File Announcements. I like files, you like files, we all like files!
 FSX_DAT - InterBBS Data. An echomail area used by software such as InterBBS 
           Oneliners, Last Caller Mods etc to send inter-BBS data between nodes
           in fsxNet. In most cases the data is not readable or of interest to
-          human eyes. Sysops may wish to hide this echo from BBS users.
-
-FSX_GAMING - Anything gaming related is on-topic here. From electronic to
-          board games, action, adventure and role-playing, to simulations,
-          strategy, sports and puzzles. This forum covers everything gaming
-          related including MUDs, first-person shooters, real-time strategy,
-          massively multiplayer online games, console wars, hints, tips and
-          tricks and more.
-
-FSX_SPACE - If it's space or astronomy related you've come to the right
-          place. Topics include space industry activities (SpaceX, NASA, Blue
-          Origin, Rocket Labs etc.) discussions about satellites,
-          interplanetary missions, the science of space travel and more.
-
-FSX_SPORTS - Do you like sport? Some of us play it while the rest of us surf
-          the TV to watch it. No matter how you do sport, any discussion about
-          it is on topic here. From Baseball to Basketball, Cricket to Golf, 
-          Diving to Darts, Hunting, Fishing, Tennis, Motorsport and even 
-          Dodgeball... talking sport just got easier. Just remember those 5Ds
-          - dodge, duck, dip, dive and...??
-
-FSX_RETRO - Retro computing and any old tech discussions. From early computer
-          hardware and software, calculators, watches and more.  If you have
-          collected it, use it, need it fixed tell us about it here.
-
-FSX_TRANSPORT - Petrol, diesel, electric, human powered - if it gets you from
-          A to B let's chat about it here. From cars and trains to boats, planes
-          and bikes, fsxNet Transport will get you there. 
-
-FSX_VIDEO - Watched a good movie? Seen an awesome TV show? Found a cool
-          series on Disney+, Netflix etc? If it's something you've seen or wish
-          you could, or you just want to tell others to check it out - share 
-          your thoughts here. Reviews are welcome. Please preface posts
-          containing spoilers with [spoilers] or [sp] in your subject heading.
-
-FSX_MUSIC - This forum covers anything to do with music. From the instruments
-          performers play to the artists and bands they play in. All formats,
-          genres and eras are welcome.
-
-FSX_DIY - Who needs a professional when you can do it yourself! Discussions
-          about all things DIY and how best to do them are welcome. At the end
-          we want you to come home and find your significant other still
-          smiling :)
-
-FSX_FOOD - Food glorious food! Share your favourite recipes, cooking tips and
-          tricks etc.  
-
-FSX_GARDENING - Covering everything from indoor houseplants to outdoor
-          vegetable plots. If you have green thumb or the secret to a 
-          successful lawn, we need you here now! 
-
-FSX_ARTS - Painting, photography, drawing, modelling, wood turning,
-          sculpturing, ANSI/ASCII art etc. If you have an artistic streak
-          share it with others and/or get help here.          
+          human eyes. Sysops may wish to hide this echo from BBS users.          
+        
         
 File Bases:
 

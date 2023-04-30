@@ -7,7 +7,6 @@ FSX_ENG              ENiGMA 1/2 BBS Support/Dev
 FSX_HAM              Amateur Radio
 FSX_CRY              Cryptographics
 FSX_NET              fsxNet Network Ops/Planning
-FSX_ESP              Espanol General Chat
 FSX_ADS              BBS and NETwork Ads
 FSX_STA              Echomail + Network Stats
 FSX_FIL              File Announcements 
@@ -15,12 +14,7 @@ FSX_BOT              Automated roBOT Posts
 FSX_DAT              InterBBS Data
 FSX_GAMING           Games/Gaming Chat
 FSX_SPACE            Space/Astronomy Chat
-FSX_SPORTS           Sports Chat
 FSX_RETRO            Retro Computing/Tech Chat
-FSX_TRANSPORT        Transportation Chat (All Modes)
 FSX_VIDEO            Movies/TV/Streaming Chat
 FSX_MUSIC            Music Chat (Artists,Songs Etc)
-FSX_DIY              D.I.Y Chat, Tips + Tricks
-FSX_FOOD             Food + Cooking Chat
-FSX_GARDENING        Gardening Chat
-FSX_ARTS             Arts + Artistic Chat 
+FSX_LFE              Lifestyle
