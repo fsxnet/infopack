@@ -1,20 +1,20 @@
-FSX_TST              fsxNet Test Arena
 FSX_GEN              General Chat + More..
-FSX_MYS              Mystic BBS Support/Dev
-FSX_MAG              Talisman BBS Support/Dev
 FSX_BBS              BBS Support/Dev
 FSX_ENG              ENiGMA 1/2 BBS Support/Dev
+FSX_MYS              Mystic BBS Support/Dev
+FSX_MAG              Talisman BBS Support/Dev
 FSX_HAM              Amateur Radio
 FSX_CRY              Cryptographics
+FSX_GAMING           Games/Gaming
+FSX_LFE              Lifestyle
+FSX_VIDEO            Movies/TV/Streaming
+FSX_MUSIC            Music
+FSX_RETRO            Retro Computing/Tech
+FSX_SPACE            Space/Astronomy
 FSX_NET              fsxNet Network Ops/Planning
-FSX_ADS              BBS and NETwork Ads
+FSX_TST              fsxNet Test Arena
+FSX_ADS              BBS + NETwork Ads
 FSX_STA              Echomail + Network Stats
 FSX_FIL              File Announcements 
 FSX_BOT              Automated roBOT Posts
 FSX_DAT              InterBBS Data
-FSX_GAMING           Games/Gaming Chat
-FSX_SPACE            Space/Astronomy Chat
-FSX_RETRO            Retro Computing/Tech Chat
-FSX_VIDEO            Movies/TV/Streaming Chat
-FSX_MUSIC            Music Chat (Artists,Songs Etc)
-FSX_LFE              Lifestyle
