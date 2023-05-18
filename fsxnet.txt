@@ -110,6 +110,11 @@ FSX_NET - Discussions about fsxNet. Administrative news and other network
           operations announcements (new nodes etc.) are posted here.
           This is also the best place to discuss ideas and plans for fsxNet
           and how to best implement them.
+
+FSX_LFE   Lifestyle - There's lots of ways to enjoy life! This echo covers 
+          many different lifestyle topics including (but not limited to) 
+          Gardening, DIY, Art, Reading, Food, Travel, Transport, Sports,
+          Pets, Health & Fitness etc. Dive in, lets chat :)          
           
 FSX_GAMING Anything gaming related is on-topic here. From electronic to
           board games, action, adventure and role-playing, to simulations,
@@ -136,11 +141,6 @@ FSX_VIDEO - Watched a good movie? Seen an awesome TV show? Found a cool
 FSX_MUSIC This forum covers anything to do with music. From the instruments
           performers play to the artists and bands they play in. All formats,
           genres and eras are welcome.
-
-FSX_LFE - Lifestyle - There's lots of ways to enjoy life! This echo covers
-          many different lifestyle topics including (but not limited to) 
-          Gardening, DIY, Art, Food, Travel, Transport, Sports, Pets,
-          Health & Fitness etc. Dive in, lets chat :)
 
 FSX_ADS - BBS and NETwork Ads. Run a BBS you want to tell the world about?
           Use a roBOT or manually post your BBS ASCII / ANSI ads here.

@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 6 May 2023 ---
+              --- Connected Systems as of 18 May 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -71,7 +71,8 @@ NET 1 (21:1/xxx) HPT (BinkP)
 152 2nd Choice Core         Ian Segers         2ndchoicecore.ddns.net:1024 
 153 Infoline BBS            Mickolas Pansky     -- Private Node -- 
 154 Raiders Inc BBS         Jon Justvig        vintagebbsing.com:23
-155 Haciend BBS             Antti Kiuru        haciend.com  
+155 Haciend BBS             Antti Kiuru        haciend.com 
+156 Global Chaos BBS        Michael Selhof     globalchaosbbs.com:21
 157 Shadowscope BBS         Richard Miles      shadowscope.noip.us
 158 The Quantum Wormhole    Christian Sacks    bbs.erb.pw
 159 Bad Poetry Blues BBS    Mick Manning       centralontarioremote.com
@@ -117,6 +118,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 200 Pharcyce BBS            Nicholas Boel       -- Private Node --
 201 Decker's Heaven         Eric Renfro        bbs.deckersheaven.com
 202 Star Collision BBS      Bjorn Wiberg       scbbs.nsupdate.info:61023
+203 Bullseye Shareware BBS  Robert Russell     shareware.ddns.net:8888
 204 Family BBS              Tony Pawson        familybbs.ddns.net
 205 Magnum BBS              Keyop Troy         bbs.magnum.uk.net
 206 File Cabinet BBS        Richard Vonzel     filecabi.synchro.net
@@ -253,7 +255,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 176 FlipperZero BBS         Guido Giorgi      bbs.gglab.cloud
 177 Kludge BBS              joshua stein      klud.ge
 178 Massive BBS             Andy Diller       bbs.diller.org
-179 Third Rock BBS          Michael Borthwick bbs.thirdrockbbs.au
 181 StarPort BBS            Tomas Ukkonen     bbs.starport.fi:17337
 
 
