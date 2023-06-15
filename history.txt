@@ -13,6 +13,25 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2023-06-08
+Added Node 2/103 The Nexus BBS (GBR) welcome to sysop Nathan Lennox aka
+                 aefinity who is based in Hitchin, UK. aefinity is running a
+                 Synchronet BBS under Windows 2022 you can reach his system
+                 by heading to nexus.aefinity.io with both Telnet and SSH
+                 options avaliable. Welcome aefinity :)
+
+Added Node 3/182 Starship Junkyard BBS (AUS) let's also give a warm welcome 
+                 to Sheridan Tighe aka lime who is based in Brisbane, 
+                 Australia. lime is running a Synchronet system under 
+                 Windows. Head to bbs.starshipjunkyard.com to check it out.
+                 Nice to have you as a member of fsxNet lime :)
+
+Added Node 3/183 The River Styx BBS (USA) it's also hello and welcome to 
+                 sysop Elliot Adams aka Charon. Based in Manchester, Missouri
+                 the BBS is running Synchronet underr Windows 10. Head to
+                 riverstyx.ddns.net:2323 to check it out, SSH is port 2222
+                 Thanks for your interest in fsxNet and welcome Charon :)
+
 2023-05-17
 Removed Node 3/179 Third Rock BBS (AUS) the BBS has shutdown and the node is
                  delisted.
