@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 10 June 2023 ---
+              --- Connected Systems as of 18 June 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -22,7 +22,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 102 Error 404 BBS           Todd Zieman        error404bbs.ddns.net:404  
 103 Micro Link BBS          Lloyd Russell       -- Private Node --
 104 Region 15 HQ BBS        Terry Barlow       region15.net
-105 Fluph BBS               Leslie Given       fluph.zapto.org  
+105 Fluph BBS               Leslie Given       47.223.172.117 
 106 BlackICE BBS            Vitus Zeel         blackice.bbsindex.de  
 107 The ByteXchange BBS     Chad Adams         bbs.thebytexchange.com 
 108 Eternal Domain BBS      Kenny Taylor       eternaldomain.fsxnet.nz 
@@ -41,21 +41,18 @@ NET 1 (21:1/xxx) HPT (BinkP)
 121 Xibalba BBS             Bryan Ashby        xibalba.l33t.codes:44510
 122 Necronomicon BBS        Carlos Roldan      necrobbs.ddns.net
 123 Thiaramus' Den          Roman Litvinenko   thiaramus.fsxnet.nz
-124 apernevan.tk BBS        Andrei Pernevan    apernevan.tk
 125 The Horizon BBS         Chris Wilson       bbs.horizonbbs.org
 126 Al's Geek Lab BBS       Alistair Ross      bbs.alsgeeklab.com:2323
 127 Capital Station         Gregory Deyss      csbbs.dyndns.org 
 128 Drakonai BBS            Audrius Puplinskas bbs.drakonai.lt
-129 SpaceSST BBS            Luc McCarragher    mccarragher.org  
-130 The Unmarked Van BBS    Dave Scott         unmarkedvan.fsxnet.nz
+129 SpaceSST BBS            Luc McCarragher    mccarragher.org 
+130 The Unmarked Van BBS    Dave Scott         unmarkedvan.fsxnet.nz,         
 131 Weather Station HUB     Mark Hofmann       bbs.weather-station.org   
 132 Weather Station BBS     Mark Hofmann       bbs.weather-station.org
-133 Blacklight Underground  James Haight       majicka.at2k.org:2424   
 134 Mystic Prison Board     Ruben Figueroa     pbmystic.rdfig.net:24
 135 Brokedown Palace BBS  Steven Southworth palace.brokedownpalace.online:2323
 136 N4TDX BBS               Ricky DeLuco       n4tdx.ddns.net:2323
 137 Digital Distortion      Eric Oulashin      digdist.synchro.net
-138 Electronic Warfare      Nicholas Loch      bbs.ewbbs.net 
 139 Ultramax BBS            Martin Mitchell    ultramax.synchro.net
 140 Daves BBS               David Smith        davesbbs.com
 141 Pie33 BBS               Moises Aranas      pie33.com:2223 
@@ -81,8 +78,9 @@ NET 1 (21:1/xxx) HPT (BinkP)
 162 Midnight Coffee BBS     Jim McBride        ssh.midnightcoffee.org:31323
 163 Dreamland BBS           Tony Master        bbs.dreamlandbbs.org
 164 Electronic Chicken      Derek Mullin       bbs.electronicchicken.com
+165 Central Ontario Remote  Mick Manning       centralontarioremote.com:2300
 166 Datanet BBS             Steve Ellis        datanetbbs.net 
-167 CyberBBS WHQ BBS        Chad Adams         whq.cyberbbs.com:6023 
+167 CyberBBS WHQ BBS        Chad Adams         whq.cyberbbs.dev:6023 
 168 Technically BBS         Jason Billingham   bbs.billingham.ca:2323
 169 Sinner's Haven BBS      Karl Kunc          bbs.sinnershaven.com
 170 Weather Station BBS     Mark Hofmann       bbs.weather-station.org
@@ -126,11 +124,9 @@ NET 1 (21:1/xxx) HPT (BinkP)
 208 S.W.A.T.S BBS           Stephen Hunt       swatsbbs.ddns.net
 209 LU8FJH BBS              Juan Musso         lu8fjh.dyndns.org
 210 Noverdu BBS             Jonah Clausen      noverdu.com
-211 NeedFul Things BBS      Michael Dennison   NeedFulThings.ddns.net:2381
 212 BBSisCOOL BBS           John Luton         bbsiscool.emailisstupid.com
 213 Votrex BBS              Strahinja Bojovic  vortex.redirectme.net:3777
 214 Midnight Lounge BBS     Allie Prather      lounge.mbl.social
-215 Project Open Gate       Justin Waymire     pog.fsxnet.nz
 216 Mystic Realms BBS       Jeff Earle         mysticrealms.ddns.net:11000
 217 Battlestar Pegasus      Mark Iezzi         pegasusbbs.dyndns.org
 218 KCM BBS                 Andreas Zahrl      zahrl.ddns.net:2023
@@ -140,7 +136,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 222 Tiny's BBS II           Shawn Highfield    bbs.tinysbbs.com:4323
 223 OldComp.EU BBS          Cerny Eduard       bbs1.oldcomp.eu:2323
 224 Spot BBS                Steve Weinert      spotbbs.k9zw.com:1123
-225 The b33zNet BBS         Brent Kemp         bbs.b33z.net
 226 Retro16 BBS             David Florey       bbs.retro16.com
 227 Shipwrecks & Shibbole   ths Chris Hizny    shibboleths.fsxnet.nz
 228 Vienna-Matrix BBS       Alexander Payer    sbbs.viennamatrix.at
@@ -298,6 +293,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 148 Roon's BBS              Daniel Path        bbs.studio64.hu:1212
 149 UAT_SOC BBS             Aaron Jones        uatsoc.fsxnet.nz:8889
 151 CaNerDUH BBS            Travis Mehrer      bbs.canerduh.com:23905
+152 Blackfair's Mannor BBS  Keith Cunningham   blackf.synchro.net
 153 ARDA BBS                Tim Woodland       arda-bbs.com
 156 The Rock BBS III        Michael Batts      therockbbs.net:10023
 157 LostCause Halfway House Ernest Gainey      bbs.lostcause.house
@@ -317,6 +313,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 182 RedFrog BBS             Ergo Paalaman      redfrog.duckdns.org:2323
 185 Slinky's Place          Steven Bennett     slinkybbs.com
 186 Excelsior BBS      Michael Christoffersen  awesome.fredslev.net:6969
+187 Operation Ivy BBS       David Sachs        opivy-bbs.com
 
 
 NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
@@ -336,7 +333,6 @@ QWK Connected Systems
 Castle Rock Experimental    Dan Richter        CRBBSQWK
 Capital City Online         Mike Powell        CAPCITY
 Havens BBS                  Steve Wolf         HAVENS
-Blackfair's Manor           Keith Cunningham   BLACKF
 Dark Matter BBS             Will Milberger     DARKMATT
 The Necropolis              Jonathan Tolentino NECROBBS
 Mind's Eye BBS              Tom Aberdeen       MINDSEYE 

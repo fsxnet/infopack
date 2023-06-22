@@ -59,7 +59,7 @@ and their users in order to:
 
 Members of fsxNet and their users will conduct themselves according to the
 goals and values of fsxNet. Failure to do so risks members being de-listed
-and/or removed by the Network Coordinator
+and/or removed by the Network Coordinator.
 
 Please don't post echomail to fsxNet about country politics or religion. 
 These subjects inevitably seem to cause discord and are best left for
@@ -67,10 +67,10 @@ discussion on other message networks.
 
 The use of the fsxNet for illegal purposes is not permitted. Members or users
 deemed to be engaged in such activities will be de-listed and/or removed by
-the Network Coordinator
+the Network Coordinator.
 
 Members real names are used in the nodelist, members and users aliases or
-real names are welcome in all echoareas
+real names are welcome in all echoareas.
 
 Messages containing ANSI should use a [ANSI] prefix in the message subject
 line. This allows members who can not view ANSI content to opt out reading it
@@ -78,7 +78,19 @@ if they are unable to do so. e.g. Subject: [ANSI] Something I drew last night
   
 Please do not gate fsxNet traffic to other FTN/QWK networks, Usenet, 
 or any other network without first discussing your request in FSX_GEN
-and obtaining approval from the Zone 21 ZC. 
+and obtaining approval from the Zone 21 ZC.
+
+Members will be de-listed from the network if their BBS/system has 
+packets/files held for it at their assigned fsxNet HUB for 45+ days. 
+A HUB admin may extend this grace period at their discretion. If you are
+having technical issues please contact your HUB admin and/or the Network 
+Coordinator so they are aware of your issues.
+
+If you decide to leave fsxNet please delink your BBS/system from all echomail
+and file areas before you depart. This ensures packets/files are not being
+held at the HUB for your system needlessly. Please also contact your HUB
+admin and let them know you are leaving. This allows our admin team to
+remove you from their HUB config, the fsxNet nodelist and systems.txt
  
 == Echoareas ================================================================
 
@@ -215,7 +227,7 @@ and NODE number when you obtain your fsxNet address. Along with changing some
 address details and session password for the HUB system your BBS is allocated
 to poll.
 
-If you are running Mystic BBS please add the IP address 219.89.83.33 and
+If you are running Mystic BBS please add the IP address 103.193.138.76 and
 2001:470:d:123::50 to the WHITELIST.TXT file in your Mystic BBS data 
 directory. These are the known IP addresses for the fsxNet HUB in NET1
 You may want to add further addresses for other HUBs you connect to in

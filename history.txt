@@ -13,6 +13,56 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2023-06-18
+Updated Node 1/107 The ByteXchange BBS has been marked as 'Down' in the 
+                nodelist.
+
+Updated Node 1/167 CyberBBS WHQ BBS the domain name has been updated to 
+                 whq.cyberbbs.dev
+
+Updated Node 1/105 Fluph BBS the domain name on file fails to resolve but
+                 the IP address 47.223.172.117 does work. The nodelist has
+                 been updated to reflect this.
+
+Added a new item in fsxnet.txt in 'Housekeeping' this is to address how
+nodes being de-listed from the network are managed. As a general rule of
+thumb if your BBS/system has packets/files held for it at your assigned HUB
+longer than 45+ days then it will be up for being de-listed. There's also
+some guidance about how to 'gracefully' depart the network.
+
+The text added is as follows:
+
+Members will be de-listed from the network if their BBS/system has 
+packets/files held for it at their assigned fsxNet HUB for 45+ days. 
+A HUB admin may extend this grace period at their discretion. If you are
+having technical issues please contact your HUB admin and/or the Network 
+Coordinator so they are aware of your issues.
+
+If you decide to leave fsxNet please de-link your BBS/system from all echomail
+and file areas before you depart. This ensures packets/files are not being
+held at the HUB for your system needlessly. Please also contact your HUB
+admin and let them know you are leaving. This allows our admin team to
+remove you from their HUB config, the fsxNet nodelist and systems.txt
+
+2023-06-17
+The following NET 1 nodes have been delisted due to inactivity.
+
+Removed Node 1/124 apernevan.tk BBS
+Removed Node 1/133 Blacklight Underground BBS
+Removed Node 1/138 Electronic Warfare BBS
+Removed Node 1/211 NeedFul Things BBS
+Removed Node 1/215 Project Open Gate BBS
+Removed Node 1/225 The b33zNet BBS
+
+2023-06-16
+Added Node 1/165 Central Ontario Remote BBS (CAN) Mick has spun up a system
+                 running WWIV. The address is centralontarioremote.com:2300
+
+2023-06-14
+Added Node 4/187 Operation Ivy BBS (USA) Hi and welcome to sysop David Sachs
+                 aka disconnex. You can reach the BBS by heading to
+                 opivy-bbs.com                   
+
 2023-06-08
 Added Node 2/103 The Nexus BBS (GBR) welcome to sysop Nathan Lennox aka
                  aefinity who is based in Hitchin, UK. aefinity is running a
