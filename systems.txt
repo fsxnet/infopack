@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 18 June 2023 ---
+              --- Connected Systems as of 2 July 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -41,6 +41,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 121 Xibalba BBS             Bryan Ashby        xibalba.l33t.codes:44510
 122 Necronomicon BBS        Carlos Roldan      necrobbs.ddns.net
 123 Thiaramus' Den          Roman Litvinenko   thiaramus.fsxnet.nz
+124 EONA BBS                Noemi Abril        eonanet.org:2600
 125 The Horizon BBS         Chris Wilson       bbs.horizonbbs.org
 126 Al's Geek Lab BBS       Alistair Ross      bbs.alsgeeklab.com:2323
 127 Capital Station         Gregory Deyss      csbbs.dyndns.org 
@@ -49,10 +50,12 @@ NET 1 (21:1/xxx) HPT (BinkP)
 130 The Unmarked Van BBS    Dave Scott         unmarkedvan.fsxnet.nz,         
 131 Weather Station HUB     Mark Hofmann       bbs.weather-station.org   
 132 Weather Station BBS     Mark Hofmann       bbs.weather-station.org
+133 Penguin BBS!            Jeffrey Benshoff   mrpenguin.ddns.net:2023
 134 Mystic Prison Board     Ruben Figueroa     pbmystic.rdfig.net:24
 135 Brokedown Palace BBS  Steven Southworth palace.brokedownpalace.online:2323
 136 N4TDX BBS               Ricky DeLuco       n4tdx.ddns.net:2323
 137 Digital Distortion      Eric Oulashin      digdist.synchro.net
+138 Lost Worlds BBS         John Julian        lostworldsbbs.com:2323 
 139 Ultramax BBS            Martin Mitchell    ultramax.synchro.net
 140 Daves BBS               David Smith        davesbbs.com
 141 Pie33 BBS               Moises Aranas      pie33.com:2223 
@@ -158,6 +161,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 101 End Of The Line BBS     Nigel Reed         endofthelinebbs.com
 102 Point Of No Return      Mark Da Silva      pointofnoreturn.zapto.org
 103 The Nexus BBS           Nathan Lennox      nexus.aefinity.io
+104 The Underground Network Daniel Dziubanski  theunderground.network:2300
 106 Dock Sud Mystic BBS     Fernando Toledo    -- Private Node --
 108 Storm BBS               April Monoceros    telnet.stormbbs.com
 109 ByteBarn BBS            Markus Maussner    bbs.bytebarn.de:2300

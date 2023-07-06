@@ -13,6 +13,49 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2023-07-20
+Updated Node 1/124 EONA BBS (ESP) the domain name for the BBS is now
+                 eonanet.org
+
+2023-07-01
+Added Node 1/124 EONA BBS (ESP) welcome to sysop Noemi Abril aka noemia who
+                 hails from Sabadell, Barcelona. noemia is running a Mystic 
+                 BBS under Debian. You can find the system by visiting
+                 bbs.irc-net.org:2600  welcome to fsxNet Noemi :)
+
+Added Node 1/133 Penguin BBS! (USA) please also say Hi and welcome to 
+                 sysop Jeffrey Benshoff who is based in Erie, PA. Running a
+                 Synchronet BBS you can reach his system by heading to
+                 mrpenguin.ddns.net:2023 Welcome to fsxNet Jeffrey :)    
+
+Added Node 1/138 Lost Worlds BBS (USA) welcome back to John Julian who is
+                 based in Denver, Co. John is running a Mystic BBS which can
+                 be found at lostworldsbbs.com:2323 or port 2222 for SSH.
+                 Nice to see you active again John :)
+
+2023-06-23
+The ISP used by the NET 1 server has changed and with it have the IPv4 and
+IPv6 addresses presently used. DNS records for net1.fsxnet.nz and 
+agency.bbs.nz have been updated. 
+
+The IPv4 address is not likely to change again anytime soon (he says fingers
+crossed) however the IPv6 address may yet again change if we move from a 
+He.Net tunnel to native IPv6 connection.
+
+Please ensure the following IP addresses are not blocked by your BBS if you
+are connecting to the 21:1/100 NET 1 HUB. i.e, if you can white list these
+IP's please :)
+
+IPv4 - 103.193.138.76
+IPv6 - 2001:470:d:3a4::200
+
+2023-06-20
+Added Node 2/104 The Underground Network BBS (USA) welcome to sysop 
+                 Daniel Dziubanski aka Mr Disk who is based in Clearlake, CA 
+                 and is running a Mystic BBS. You can visit his system by
+                 heading to theunderground.network:2300 or SSH vis port 2200
+                 Nice to have you as a member of fsxNet Daniel. :)
+
 2023-06-18
 Updated Node 1/107 The ByteXchange BBS has been marked as 'Down' in the 
                 nodelist.
