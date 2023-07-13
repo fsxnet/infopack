@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 2 July 2023 ---
+              --- Connected Systems as of 13 July 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -17,8 +17,8 @@ Node BBS Name            Sysop              Address
 NET 1 (21:1/xxx) HPT (BinkP)
 ============================
 
-100 Risa fsxHUB             Paul Hayton        agency.bbs.nz
-101 Agency BBS              Paul Hayton        agency.bbs.nz:24555   
+100 Risa fsxHUB             Paul Hayton        agency.bbs.nz:24554
+101 Agency BBS              Paul Hayton        agency.bbs.nz
 102 Error 404 BBS           Todd Zieman        error404bbs.ddns.net:404  
 103 Micro Link BBS          Lloyd Russell       -- Private Node --
 104 Region 15 HQ BBS        Terry Barlow       region15.net
@@ -195,7 +195,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 145 WalledCTTY              Thom Miller        bbs.walledctty.com:1989
 146 Hold Fast! BBS          Paul Lopez         telnet.holdfastbbs.ca:2323 
 147 Altair IV BBS           Scott Daniels      altairiv.ddns.net
-148 Shurato's Heavenly Sphere Martin Kazmaier  shsbbs.ddns.net
+148 Shurato's Heavenly Sphere Martin Kazmaier  shsbbs.net 
 150 20 For Beers BBS        Paul Lee           20ForBeers.com:1337
 151 Dock Sud BBS            Fernando Toledo    bbs.docksud.com.ar
 152 UnderZaNet BBS          Jan Henkins        bbs.under.za.net:2024
