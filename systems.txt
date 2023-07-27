@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 13 July 2023 ---
+              --- Connected Systems as of 23 July 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -127,6 +127,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 208 S.W.A.T.S BBS           Stephen Hunt       swatsbbs.ddns.net
 209 LU8FJH BBS              Juan Musso         lu8fjh.dyndns.org
 210 Noverdu BBS             Jonah Clausen      noverdu.com
+211 Crazy Paradise          Daniel Elsner      -- Private Node -- 
 212 BBSisCOOL BBS           John Luton         bbsiscool.emailisstupid.com
 213 Votrex BBS              Strahinja Bojovic  vortex.redirectme.net:3777
 214 Midnight Lounge BBS     Allie Prather      lounge.mbl.social
@@ -240,6 +241,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 148 Nodewarrior BBS         Wes Evans         nodewarrior.fsxnet.nz:2323
 149 Roughneck BBS           Michael Ryan      host.roughneckbbs.com
 150 Planet Caravan BBS      Kevin Blalock     lab.zylone.org
+153 Mortal BBS              Shaun Ewing       mortalbbs.com
 156 Digital Abyss BBS       Karl Schleelein   digitalabyss.fsxnet.nz
 157 Paranormal Panorama BBS Owen Evers        ppbbs-26643.portmap.host:26643
 158 BodaX BBS               Tobias Rosenqvist bodax.fsxnet.nz
@@ -292,7 +294,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 139 Mythical Kingdom Tech   Mark May           bbs.mythicalkingdom.com
 141 Constructive Chaos      Craig Hendricks    conchaos.synchro.net
 144 Sonic BBS               Louis Northmore    bbs.sonicbbs.co.uk
-145 TFSI BBS                Nick Young         tfsi.fsxnet.nz
+145 TFSI BBS                Nick Young         bbs.tfsi.dev
 147 Aliens' Alcove BBS      Eric Pareja        aliens.free.net.ph
 148 Roon's BBS              Daniel Path        bbs.studio64.hu:1212
 149 UAT_SOC BBS             Aaron Jones        uatsoc.fsxnet.nz:8889
