@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 23 July 2023 ---
+              --- Connected Systems as of 4 Aug 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -144,7 +144,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 227 Shipwrecks & Shibbole   ths Chris Hizny    shibboleths.fsxnet.nz
 228 Vienna-Matrix BBS       Alexander Payer    sbbs.viennamatrix.at
 229 TCOB1 BBS               Sean Rima          tcob1.duckdns.org
-230 Lost Underground BBS    Spiro Harvey       lostunderground.org
 231 Southern Comfort BBS    Mike Giddens       soco.bbs.io
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
 233 Phrenetic BBS           Per Gustav Ousdal  bbs.ousdal.net:2023
@@ -163,6 +162,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 102 Point Of No Return      Mark Da Silva      pointofnoreturn.zapto.org
 103 The Nexus BBS           Nathan Lennox      nexus.aefinity.io
 104 The Underground Network Daniel Dziubanski  theunderground.network:2300
+105 CCX BBS                 Jim Nessen         ccxbbs.fsxnet.nz
 106 Dock Sud Mystic BBS     Fernando Toledo    -- Private Node --
 108 Storm BBS               April Monoceros    telnet.stormbbs.com
 109 ByteBarn BBS            Markus Maussner    bbs.bytebarn.de:2300
