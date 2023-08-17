@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 4 Aug 2023 ---
+              --- Connected Systems as of 12 Aug 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -245,7 +245,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 156 Digital Abyss BBS       Karl Schleelein   digitalabyss.fsxnet.nz
 157 Paranormal Panorama BBS Owen Evers        ppbbs-26643.portmap.host:26643
 158 BodaX BBS               Tobias Rosenqvist bodax.fsxnet.nz
-159 The Basement BBS        Adam Clark        basement.isurf.ca
 165 The Underground         Doug Cooper       theunderground.us:10023
 167 VET BBS                 Mike Welborn      bbs.thewelborns.net
 168 ReTR0aKTiV BBS          Rob Koliha        retr0aktiv.com
@@ -260,6 +259,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 181 StarPort BBS            Tomas Ukkonen     bbs.starport.fi:17337
 182 Starship Junkyard BBS   Sheridan Tighe    bbs.starshipjunkyard.com
 183 The River Styx BBS      Elliot Adams      riverstyx.ddns.net:2323
+184 Port of Call BBS        Dave Weissinger   BBS.PCTechDr.com:2323
 
 
 NET 4 (21:4/xxx) HPT (BinkP)
