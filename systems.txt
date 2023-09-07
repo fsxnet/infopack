@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 12 Aug 2023 ---
+              --- Connected Systems as of 4 Sept 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -50,18 +50,14 @@ NET 1 (21:1/xxx) HPT (BinkP)
 130 The Unmarked Van BBS    Dave Scott         unmarkedvan.fsxnet.nz,         
 131 Weather Station HUB     Mark Hofmann       bbs.weather-station.org   
 132 Weather Station BBS     Mark Hofmann       bbs.weather-station.org
-133 Penguin BBS!            Jeffrey Benshoff   mrpenguin.ddns.net:2023
 134 Mystic Prison Board     Ruben Figueroa     pbmystic.rdfig.net:24
 135 Brokedown Palace BBS  Steven Southworth palace.brokedownpalace.online:2323
 136 N4TDX BBS               Ricky DeLuco       n4tdx.ddns.net:2323
 137 Digital Distortion      Eric Oulashin      digdist.synchro.net
-138 Lost Worlds BBS         John Julian        lostworldsbbs.com:2323 
 139 Ultramax BBS            Martin Mitchell    ultramax.synchro.net
 140 Daves BBS               David Smith        davesbbs.com
-141 Pie33 BBS               Moises Aranas      pie33.com:2223 
 142 The Trashcan BBS        Nick MacKechnie    bbs.thenet.gen.nz:2324
 143 The Bridge BBS          Tony Langdon       bridge.vkradio.com 
-144 Brain Patchwork DX      Ozz Nixon          exchangebbs.com:38400 
 145 Mystic Pi BBS           Brian Wallace      bcw142.zapto.org   
 146 Digital Sanctuary BBS   Chris Hallford     digitalsanctuarybbs.com
 147 The Comm's Nut BBS      Danny Moss         tcnbbs.fsxnet.nz:2323
@@ -70,21 +66,16 @@ NET 1 (21:1/xxx) HPT (BinkP)
 150 Sotano Msx BBS          Pepe Diaz           -- Private Node --
 152 2nd Choice Core         Ian Segers         2ndchoicecore.ddns.net:1024 
 153 Infoline BBS            Mickolas Pansky     -- Private Node -- 
-154 Raiders Inc BBS         Jon Justvig        vintagebbsing.com:23
 155 Haciend BBS             Antti Kiuru        haciend.com 
 156 Global Chaos BBS        Michael Selhof     globalchaosbbs.com:21
 157 Shadowscope BBS         Richard Miles      shadowscope.noip.us
 158 The Quantum Wormhole    Christian Sacks    bbs.erb.pw
 159 Bad Poetry Blues BBS    Mick Manning       centralontarioremote.com
 160 Slime City BBS          David Jacoby       bbs.retrohack.se  
-161 The Search BBS          Karl Harris        searchbbs.fsxnet.nz
-162 Midnight Coffee BBS     Jim McBride        ssh.midnightcoffee.org:31323
 163 Dreamland BBS           Tony Master        bbs.dreamlandbbs.org
 164 Electronic Chicken      Derek Mullin       bbs.electronicchicken.com
-165 Central Ontario Remote  Mick Manning       centralontarioremote.com:2300
 166 Datanet BBS             Steve Ellis        datanetbbs.net 
 167 CyberBBS WHQ BBS        Chad Adams         whq.cyberbbs.dev:6023 
-168 Technically BBS         Jason Billingham   bbs.billingham.ca:2323
 169 Sinner's Haven BBS      Karl Kunc          bbs.sinnershaven.com
 170 Weather Station BBS     Mark Hofmann       bbs.weather-station.org
 171 Modema Tider BBS        Andreas Selstam     -- Private Node --
@@ -96,7 +87,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 177 Goosenet BBS            Michael Geller     bbs.nifty5fty.com  
 178 Internal Dimension      Dave Vandermeer    bbs.idbbs.ca:59
 179 Cryptogenic Radix       Paul Hayton         -- Private Node --
-180 Cold War Computing      Jeff Thiele         -- Private Node --
 181 Ninho do Abutre 2       Mauro Veiga        abutre.no-ip.org:2323
 182 Smuggler's Cove BBS     Andrew Pamment     scove.talismanbbs.com:2323
 183 Vertrauen BBS           Rob Swindell       vert.synchro.net
@@ -109,7 +99,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
 191 Zruspa's HUB            Ángel Ripoll       bbs.zruspas.org:24554
 192 Zruspa's BBS            Ángel Ripoll       bbs.zruspas.org:23 
-193 Disconnected by Peer    Mario Fetka        bbs.disconnected-by-peer.at
 194 Diamond Mine Online     David Perrussel    bbs.dmine.net:24
 195 Dragon's Claw HUB       Stephen Walsh      ftn.vk3heg.net
 196 Dragon's Lair BBS       Stephen Walsh      dragon.vk3heg.net
@@ -150,7 +139,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 234 Crewmate's Test Lab     Mike Edwards       testlab.fsxnet.nz:7357
 235 ZorgluBBS               Pierre Pignon      bbs.pitichampi.fr:2023
 236 Lunar Mod               David Thielemann   bbs.beanzilla.net:2323
-237 Brainsuxx.inc BBS       Michael Braun      brainsuxxinc.ddns.net
+237 Eye of the Storm        Benjamin Aitchison on.the.net.nz
 238 The Global Village   Sebastian van der Veen the.globalvillagebbs.net:2222
 616 Cold Fusion             Alexander Grotewohl cfbbs.net
 
@@ -164,6 +153,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 104 The Underground Network Daniel Dziubanski  theunderground.network:2300
 105 CCX BBS                 Jim Nessen         ccxbbs.fsxnet.nz
 106 Dock Sud Mystic BBS     Fernando Toledo    -- Private Node --
+107 Torrent BBS             Joseph Diaz        torrentbbs.net
 108 Storm BBS               April Monoceros    telnet.stormbbs.com
 109 ByteBarn BBS            Markus Maussner    bbs.bytebarn.de:2300
 110 Ink Two BBS             Lawrence Manuel    bbs.inktwo.com
@@ -234,7 +224,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 130 PB Renegade             Ruben Figueroa    gapbbs.rdfig.net:2424
 135 Lunatics Unleashed      Ross Branham      lunaticsunleashed.ddns.net
 138 Taliadon BBS            Lee Westlake      taliadon.ddns.net 
-140 Ground Central BBS      Matthew Blocker   gcbbs.net:2323
 141 Thrace BBS              Dafcho Tabakov    bbs.tabakov.net:13023
 142 Baffa BBS               Augusto Baffa     baffa.zapto.org:2323
 143 Pedalion BBS            Joe Ferraro       bbs.pedalion.net
@@ -258,7 +247,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 178 Massive BBS             Andy Diller       bbs.diller.org
 181 StarPort BBS            Tomas Ukkonen     bbs.starport.fi:17337
 182 Starship Junkyard BBS   Sheridan Tighe    bbs.starshipjunkyard.com
-183 The River Styx BBS      Elliot Adams      riverstyx.ddns.net:2323
 184 Port of Call BBS        Dave Weissinger   BBS.PCTechDr.com:2323
 
 
