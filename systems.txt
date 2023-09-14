@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 4 Sept 2023 ---
+              --- Connected Systems as of 9 Sept 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -54,6 +54,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 135 Brokedown Palace BBS  Steven Southworth palace.brokedownpalace.online:2323
 136 N4TDX BBS               Ricky DeLuco       n4tdx.ddns.net:2323
 137 Digital Distortion      Eric Oulashin      digdist.synchro.net
+138 Lost Worlds BBS         John Julian        lostworldsbbs.com:2323
 139 Ultramax BBS            Martin Mitchell    ultramax.synchro.net
 140 Daves BBS               David Smith        davesbbs.com
 142 The Trashcan BBS        Nick MacKechnie    bbs.thenet.gen.nz:2324
@@ -70,7 +71,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 156 Global Chaos BBS        Michael Selhof     globalchaosbbs.com:21
 157 Shadowscope BBS         Richard Miles      shadowscope.noip.us
 158 The Quantum Wormhole    Christian Sacks    bbs.erb.pw
-159 Bad Poetry Blues BBS    Mick Manning       centralontarioremote.com
+159 Central Ontario Remote  Mick Manning       centralontarioremote.com
 160 Slime City BBS          David Jacoby       bbs.retrohack.se  
 163 Dreamland BBS           Tony Master        bbs.dreamlandbbs.org
 164 Electronic Chicken      Derek Mullin       bbs.electronicchicken.com
