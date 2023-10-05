@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 29 Sept 2023 ---
+              --- Connected Systems as of 3 Oct 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -316,7 +316,7 @@ NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
 
 100 WildCat Prison BBS      Ruben Figueroa     wcalt.rdfig.net:2324
 101 The File Bank BBS       Terry Roati        tfb-bbs.org
-102 TAK Software BBS        Thomas Kloos       bbs.taksoftware.com
+102 Tri-Star BBS            Thomas Kloos       bbs.tristarbbs.com
 103 The Computer Express    Chris Costakis     bbs.costakis.org
 104 EMS!BBS                 Scott Labrecque    ems-bbs.com
 107 Cavan Rural Community   Steve Reader       86.47.50.239
