@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 24 Oct 2023 ---
+              --- Connected Systems as of 1 Nov 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -151,7 +151,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 101 End Of The Line BBS     Nigel Reed         endofthelinebbs.com
 102 Point Of No Return      Mark Da Silva      pointofnoreturn.zapto.org
 103 The Nexus BBS           Nathan Lennox      nexus.aefinity.io
-104 The Underground Network Daniel Dziubanski  theunderground.network:2300
+104 The Lake House BBS      Chris Richardson   lakehouse.lilpenguins.com:2323
 105 CCX BBS                 Jim Nessen         ccxbbs.fsxnet.nz
 106 Dock Sud Mystic BBS     Fernando Toledo    -- Private Node --
 107 Torrent BBS             Joseph Diaz        torrentbbs.net
