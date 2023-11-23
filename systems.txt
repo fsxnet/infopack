@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 9 Nov 2023 ---
+              --- Connected Systems as of 21 Nov 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -41,7 +41,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 121 Xibalba BBS             Bryan Ashby        xibalba.l33t.codes:44510
 122 Necronomicon BBS        Carlos Roldan      necrobbs.ddns.net
 123 Thiaramus' Den          Roman Litvinenko   thiaramus.fsxnet.nz
-124 EONA BBS                Noemi Abril        eonanet.org:2600
+124 EONA BBS                Noemi Abril        bbs.eona.cat:2600
 125 The Horizon BBS         Chris Wilson       bbs.horizonbbs.org
 126 Al's Geek Lab BBS       Alistair Ross      bbs.alsgeeklab.com:2323
 127 Capital Station         Gregory Deyss      csbbs.dyndns.org 
