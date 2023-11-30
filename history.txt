@@ -13,6 +13,28 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2023-11-30
+Added Node 1/180 The Realm of Serion BBS (USA) welcome to sysop Rex Hondo 
+                 aka Booch who hails from Cloquet, MN. You can check out his
+                 Synchronet powered BBS by heading to connect.serionbbs.com
+                 or via serion.fsxnet.nz
+
+2023-11-29
+Added Node 3/191 The Ruins BBS (USA) welcome back to  Doug Cooper and family 
+                 and a warm welcome to sysop Jax who is running the system.
+                 You can reach it at www.theunderground.us:9707 or for SSH
+                 use port 9991
+
+2023-11-28
+Removed Node 3/122 Final Zone BBS (USA) the system has been inactive for 
+                 45+ days and there has been no response to hails from the
+                 sysop. The node has been delisted.
+
+2023-11-25
+Added Node 2/119 Digital Asylum BBS (ARG) welcome to sysop Damian Kleiman aka
+                 Orphan. Based in Rosario, Argentina you can reach his Mystic
+                 powered BBS by heading to bbs.digitalasylum.com.ar:2323
+
 2023-11-21
 Updated Node 1/124 EONA BBS (ESP) the domain name for the BBS is now
                  bbs.eona.cat the nodelist has been updated.

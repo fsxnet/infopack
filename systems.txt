@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 21 Nov 2023 ---
+              --- Connected Systems as of 1 Dec 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -88,6 +88,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 177 Goosenet BBS            Michael Geller     bbs.nifty5fty.com  
 178 Internal Dimension      Dave Vandermeer    bbs.idbbs.ca:59
 179 Cryptogenic Radix       Paul Hayton         -- Private Node --
+180 The Realm of Serion BBS Rex Hondo          connect.serionbbs.com
 181 Ninho do Abutre 2       Mauro Veiga        abutre.no-ip.org:2323
 182 Smuggler's Cove BBS     Andrew Pamment     scove.talismanbbs.com:2323
 183 Vertrauen BBS           Rob Swindell       vert.synchro.net
@@ -165,6 +166,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 115 Mystic Rhythms BBS      Rob Cole           mystic.wwivbbs.org
 116 Chinwag BBS             Deon George        alterant.bbs.dege.au
 118 Halls of Valhalla       Morgan Collins     hoval.synchro.net:2333
+119 Digital Asylum BBS      Damian Kleiman     bbs.digitalasylum.com.ar:2323
 122 Battlestar III BBS      Mark Iezzi         battlestar3.dyndns.org:2400
 123 Deadbeatz BBS           Tim Blada          deadbeatz.org
 124 Insane Asylum BBS       James Kulwicki      -- Private Node --
@@ -219,7 +221,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 113 Pweck's Retreat BBS     Dean Lodge        bbs.pweck.net
 119 FuNToPia BBS            Stephan Gebbers   funtopia.ddnss.eu:2023
 120 Westland BBS            Martien Korenblom bbs.korenblom.nl 
-122 Final Zone BBS          Kurisu Yamato     finalzone.ddns.net
 126 The Forze BBS           Robbert Langezaal bbs.opicron.eu
 127 Imzadi Box              Anna Nass         box.imzadi.de
 130 PB Renegade             Ruben Figueroa    gapbbs.rdfig.net:2424
@@ -248,7 +249,8 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 178 Massive BBS             Andy Diller       bbs.diller.org
 181 StarPort BBS            Tomas Ukkonen     bbs.starport.fi:17337
 182 Starship Junkyard BBS   Sheridan Tighe    bbs.starshipjunkyard.com
-184 Port of Call BBS        Dave Weissinger   BBS.PCTechDr.com:2323
+184 Port of Call BBS        Dave Weissinger   bbs.PCTechDr.com:2323
+191 The Ruins BBS           Doug Cooper       www.theunderground.us:9707
 
 
 NET 4 (21:4/xxx) HPT (BinkP)
