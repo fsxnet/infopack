@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 1 Dec 2023 ---
+              --- Connected Systems as of 3 Dec 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -22,7 +22,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 102 Error 404 BBS           Todd Zieman        error404bbs.ddns.net:404  
 103 Micro Link BBS          Lloyd Russell       -- Private Node --
 104 Region 15 HQ BBS        Terry Barlow       region15.net
-105 Fluph BBS               Leslie Given       47.223.172.117 
 106 BlackICE BBS            Vitus Zeel         blackice.bbsindex.de  
 107 The ByteXchange BBS     Chad Adams         bbs.thebytexchange.com 
 108 Eternal Domain BBS      Kenny Taylor       eternaldomain.fsxnet.nz 
@@ -39,7 +38,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 119 Sysgod BBS              Scott Little       ftn.sysgod.org
 120 Starbase 11 BBS         Alexander Knerlein starbase11.fsxnet.nz
 121 Xibalba BBS             Bryan Ashby        xibalba.l33t.codes:44510
-122 Necronomicon BBS        Carlos Roldan      necrobbs.ddns.net
 123 Thiaramus' Den          Roman Litvinenko   thiaramus.fsxnet.nz
 124 EONA BBS                Noemi Abril        bbs.eona.cat:2600
 125 The Horizon BBS         Chris Wilson       bbs.horizonbbs.org
@@ -133,13 +131,10 @@ NET 1 (21:1/xxx) HPT (BinkP)
 224 Spot BBS                Steve Weinert      spotbbs.k9zw.com:1123
 226 Retro16 BBS             David Florey       bbs.retro16.com
 227 Shipwrecks & Shibbole   ths Chris Hizny    shibboleths.fsxnet.nz
-228 Vienna-Matrix BBS       Alexander Payer    sbbs.viennamatrix.at
 229 TCOB1 BBS               Sean Rima          tcob1.duckdns.org
 231 Southern Comfort BBS    Mike Giddens       soco.bbs.io
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
 233 Phrenetic BBS           Per Gustav Ousdal  bbs.ousdal.net:2023
-234 Crewmate's Test Lab     Mike Edwards       testlab.fsxnet.nz:7357
-235 ZorgluBBS               Pierre Pignon      bbs.pitichampi.fr:2023
 236 Lunar Mod               David Thielemann   bbs.beanzilla.net:2323
 237 Eye of the Storm        Benjamin Aitchison on.the.net.nz
 238 The Global Village   Sebastian van der Veen the.globalvillagebbs.net:2222
