@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 3 Dec 2023 ---
+              --- Connected Systems as of 10 Dec 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -232,7 +232,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 157 Paranormal Panorama BBS Owen Evers        ppbbs-26643.portmap.host:26643
 158 BodaX BBS               Tobias Rosenqvist bodax.fsxnet.nz
 165 The Underground         Doug Cooper       theunderground.us:10023
-167 VET BBS                 Mike Welborn      bbs.thewelborns.net
 168 ReTR0aKTiV BBS          Rob Koliha        retr0aktiv.com
 169 TassieBob BBS           Bob Purdon        bbs.tassiebob.com:2323
 170 RVs and RPGs BBS        Jeff Brissette    bbs.rvsandrpgs.com:2323
