@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 10 Dec 2023 ---
+              --- Connected Systems as of 15 Dec 2023 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -216,6 +216,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 113 Pweck's Retreat BBS     Dean Lodge        bbs.pweck.net
 119 FuNToPia BBS            Stephan Gebbers   funtopia.ddnss.eu:2023
 120 Westland BBS            Martien Korenblom bbs.korenblom.nl 
+122 Final Zone BBS          Chris Elderidge   finalzone.ddns.net
 126 The Forze BBS           Robbert Langezaal bbs.opicron.eu
 127 Imzadi Box              Anna Nass         box.imzadi.de
 130 PB Renegade             Ruben Figueroa    gapbbs.rdfig.net:2424
