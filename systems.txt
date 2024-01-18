@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 6 Jan 2024 ---
+              --- Connected Systems as of 18 Jan 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -38,6 +38,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 119 Sysgod BBS              Scott Little       ftn.sysgod.org
 120 Starbase 11 BBS         Alexander Knerlein starbase11.fsxnet.nz
 121 Xibalba BBS             Bryan Ashby        xibalba.l33t.codes:44510
+122 After Hours BBS         Greg Youngblood    ah-bbs.com:2333
 123 Thiaramus' Den          Roman Litvinenko   thiaramus.fsxnet.nz
 124 EONA BBS                Noemi Abril        bbs.eona.cat:2600
 125 The Horizon BBS         Chris Wilson       bbs.horizonbbs.org
@@ -108,7 +109,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 200 Pharcyce HUB            Nicholas Boel      binkp.pharcyde.org
 201 Decker's Heaven         Eric Renfro        bbs.deckersheaven.com
 202 Star Collision BBS      Bjorn Wiberg       scbbs.nsupdate.info:61023
-203 Bullseye Shareware BBS  Robert Russell     shareware.ddns.net:8888
 204 Family BBS              Tony Pawson        familybbs.ddns.net
 205 Magnum BBS              Keyop Troy         bbs.magnum.uk.net
 206 File Cabinet BBS        Richard Vonzel     filecabi.synchro.net
@@ -126,7 +126,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 219 Radio Freqs & Geeks     Rich Gattie        rfgeeksbbs.ddns.net:2323
 220 swissIRC BBS            Alisha Stutz       swissirc.fsxnet.nz
 221 The FBO                 Charles Blackburn  bbs.thefbo.us
-222 Tiny's BBS II           Shawn Highfield    bbs.tinysbbs.com:4323
 223 OldComp.EU BBS          Cerny Eduard       bbs1.oldcomp.eu:2323
 224 Spot BBS                Steve Weinert      spotbbs.k9zw.com:1123
 226 Retro16 BBS             David Florey       bbs.retro16.com
