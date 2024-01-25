@@ -13,6 +13,18 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2023-01-21
+Added Node 1/193 Darkstar BBS (AUT) Welcome back from Vienna, Austria 
+                 sysop Alexander Winkler.
+
+Added Node 1/141 68k Mac Club (JPN) welcome to sysop Andrew Young aka Vaelen
+                 based in Tokyo, Japan the BBS is running Subtext under Mac
+                 OS. Head to bbs.m68k.club to check it out.
+
+Added Node 1/144 NorthSEA BBS (DNK) welcome aboard to sysop Torben Jensen aka
+                 Yakin. Running a Mystic BBS under Windows you can reach the
+                 system by heading to bbs.northsea.dk:8000
+
 2023-01-17
 Added Node 1/122 After Hours BBS (USA) welcome to sysop Greg Youngblood who
                  has spun up a BinkP connection to collect his fsxNet traffic

@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 18 Jan 2024 ---
+              --- Connected Systems as of 22 Jan 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -56,8 +56,10 @@ NET 1 (21:1/xxx) HPT (BinkP)
 138 Lost Worlds BBS         John Julian        lostworldsbbs.com:2323
 139 Ultramax BBS            Martin Mitchell    ultramax.synchro.net
 140 Daves BBS               David Smith        davesbbs.com
+141 68k Mac Club            Andrew Young       bbs.m68k.club
 142 The Trashcan BBS        Nick MacKechnie    bbs.thenet.gen.nz:2324
 143 The Bridge BBS          Tony Langdon       bridge.vkradio.com 
+144 NorthSEA BBS            Torben Jensen      bbs.northsea.dk:8000
 145 Mystic Pi BBS           Brian Wallace      bcw142.zapto.org   
 146 Digital Sanctuary BBS   Chris Hallford     digitalsanctuarybbs.com
 147 The Comm's Nut BBS      Danny Moss         tcnbbs.fsxnet.nz:2323
@@ -100,6 +102,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
 191 Zruspa's HUB            Ángel Ripoll       bbs.zruspas.org:24554
 192 Zruspa's BBS            Ángel Ripoll       bbs.zruspas.org:23 
+193 Darkstar BBS            Alexander Winkler  darkstar.bmxjo.org:2023 
 194 Diamond Mine Online     David Perrussel    bbs.dmine.net:24
 195 Dragon's Claw HUB       Stephen Walsh      ftn.vk3heg.net
 196 Dragon's Lair BBS       Stephen Walsh      dragon.vk3heg.net
