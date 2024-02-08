@@ -13,7 +13,39 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
-2023-01-21
+2024-02-04
+Added Node 1/154 Queen City BBS (USA) a warm welcome to sysop Malachi Doane
+                 aka N2QFD who is based in Elmira USA. Running a Mystic BBS
+                 under Linux you can visit the BBS by pointing your terminal
+                 client to queencitybbs.ddns.net - nice to have you as a 
+                 member of our community N2QFD :)
+
+Added Node 1/153 Spark BBS (BEL) please also welcome sysop Christian Vanguers
+                 aka Error500 who is setting up his Enigma 1/2 BBS. The 
+                 system will only be contactable via SSH and the address is
+                 bbs.sparkbbs.eu:8889 welcome to fsxNet Error500 it's nice
+                 to have you with us :)               
+
+2024-02-03
+Avon discovers he's been noting dates below for 2024 as 2023. Duh! Last few 
+entries updated. Remember when we used to have the same issue for the first
+few weeks of the year writing new dates on cheques? :) I'm old. I even 
+remember black and white TV. Eek!
+
+Removed fsxqwk.zip from fsxNet infopack. The information re QWK access 
+                 is dated so for now it has been removed from the infopack.
+                 Work to offer a different QWK feed/option is envisaged.
+                 More to come. 
+
+Added Node 1/105 Alien Signals BBS (CAN) welcome back to returning sysop
+                 Scott Carter. Scott is running a Mystic BBS under Linux
+                 He's based in Dutton, Ontario and ready for your call :)
+                 Head over to bbs.aliensignals.ca:8101 and say hi!
+
+Updated Node 2/141 SiliconUnderground BBS (USA) has a new domain name.
+                 The nodelist has been updated to use siliconu.com                
+
+2024-01-21
 Added Node 1/193 Darkstar BBS (AUT) Welcome back from Vienna, Austria 
                  sysop Alexander Winkler.
 
@@ -25,7 +57,7 @@ Added Node 1/144 NorthSEA BBS (DNK) welcome aboard to sysop Torben Jensen aka
                  Yakin. Running a Mystic BBS under Windows you can reach the
                  system by heading to bbs.northsea.dk:8000
 
-2023-01-17
+2024-01-17
 Added Node 1/122 After Hours BBS (USA) welcome to sysop Greg Youngblood who
                  has spun up a BinkP connection to collect his fsxNet traffic
                  The BBS can be reached at ah-bbs.com:2333

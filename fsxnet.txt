@@ -137,7 +137,7 @@ FSX_GAMING Anything gaming related is on-topic here. From electronic to
 
 FSX_SPACE If it's space or astronomy related you've come to the right
           place. Topics include space industry activities (SpaceX, NASA, Blue
-          Origin, Rocket Labs etc.) discussions about satellites,
+          Origin, Rocket Labs etc.) discussions about satellites, SETI efforts
           interplanetary missions, the science of space travel and more.
 
 FSX_RETRO Retro computing and any old tech discussions. From early computer

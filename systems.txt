@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 22 Jan 2024 ---
+              --- Connected Systems as of 5 Feb 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -22,6 +22,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 102 Error 404 BBS           Todd Zieman        error404bbs.ddns.net:404  
 103 Micro Link BBS          Lloyd Russell       -- Private Node --
 104 Region 15 HQ BBS        Terry Barlow       region15.net
+105 Alien Signals BBS       Scott Carter       bbs.aliensignals.ca:8101
 106 BlackICE BBS            Vitus Zeel         blackice.bbsindex.de  
 107 The ByteXchange BBS     Chad Adams         bbs.thebytexchange.com 
 108 Eternal Domain BBS      Kenny Taylor       eternaldomain.fsxnet.nz 
@@ -67,7 +68,8 @@ NET 1 (21:1/xxx) HPT (BinkP)
 149 The Fool's Quarter      Tim Whitson        fqbbs.synchro.net
 150 Sotano Msx BBS          Pepe Diaz           -- Private Node --
 152 2nd Choice Core         Ian Segers         2ndchoicecore.ddns.net:1024 
-153 Infoline BBS            Mickolas Pansky     -- Private Node -- 
+153 Spark BBS               Christian Vanguers bbs.sparkbbs.eu:8889 (ssh only)
+154 Queen City BBS          Malachi Doane      queencitybbs.ddns.net
 155 Haciend BBS             Antti Kiuru        haciend.com 
 156 Global Chaos BBS        Michael Selhof     globalchaosbbs.com:21
 157 Shadowscope BBS         Richard Miles      shadowscope.noip.us
@@ -179,7 +181,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 137 Tsali's BBS             James Washington   tsali.ddns.net:9023
 138 Palantir BBS            Dan Clough         palantirbbs.ddns.net
 140 Subcarrier BBS          John McCoy         subcarrier.ignorelist.com:2323
-141 SiliconUnderground      Jason Bock         siliconu.fsxnet.nz
+141 SiliconUnderground      Jason Bock         siliconu.com
 142 TheViper BBS            Lloyd Fellon       theviperbbs.mywire.org
 143 KF5QEO's Shack          John Guillory      kf5qeo.servebbs.net
 143 Digicom BBS (USA)       Gary Barr          bbs.digicombbs.com
@@ -321,26 +323,6 @@ NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
 104 EMS!BBS                 Scott Labrecque    ems-bbs.com
 107 Cavan Rural Community   Steve Reader       86.47.50.239
 108 CrNet BBS               John Gonzales      bbs.crnet.net
-
-QWK Connected Systems 
-=====================
-
-Castle Rock Experimental    Dan Richter        CRBBSQWK
-Capital City Online         Mike Powell        CAPCITY
-Havens BBS                  Steve Wolf         HAVENS
-Dark Matter BBS             Will Milberger     DARKMATT
-The Necropolis              Jonathan Tolentino NECROBBS
-Mind's Eye BBS              Tom Aberdeen       MINDSEYE 
-Gray Matter BBS             Greg Youngblood    GMBBS
-Wicked BBS                  Greg Youngblood    WBBSNET
-Anarchy BBS                 Greg Youngblood    ANARCHY
-AlleyCat! BBS               Gregg Somes        ALLEYCAT
-3 Corners BBS               Hatton Humphrey    THRCORN 
-El Burro Diablo             Brad Brown         ELBURROD 
-Mutiny BBS                  Tom Powers         MUTINY
-Silent Chat BBS             Michael Mrak       SILCHAT 
-KN6Q BBS                    Tom Kisner         KN6Q
-   
 
 =============================================================================
 
