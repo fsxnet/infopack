@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 17 Feb 2024 ---
+              --- Connected Systems as of 26 Feb 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -79,8 +79,10 @@ NET 1 (21:1/xxx) HPT (BinkP)
 161 The Phantom BBS         Anthony Bonante    bbs.phantombbs.info
 163 Dreamland BBS           Tony Master        bbs.dreamlandbbs.org
 164 Electronic Chicken      Derek Mullin       bbs.electronicchicken.com
+165 The Grid                Joseph Bore         -- Private Node --
 166 Datanet BBS             Steve Ellis        datanetbbs.net 
 167 CyberBBS WHQ BBS        Chad Adams         whq.cyberbbs.dev:6023 
+168 Wintermute BBS          Niels Haedecke     wintermutebbs.ddns.net
 169 Sinner's Haven BBS      Karl Kunc          bbs.sinnershaven.com
 170 Weather Station BBS     Mark Hofmann       bbs.weather-station.org
 171 Modema Tider BBS        Andreas Selstam     -- Private Node --
@@ -115,6 +117,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 200 Pharcyce HUB            Nicholas Boel      binkp.pharcyde.org
 201 Decker's Heaven         Eric Renfro        bbs.deckersheaven.com
 202 Star Collision BBS      Bjorn Wiberg       scbbs.nsupdate.info:61023
+203 The Attic BBS           Sean Clarke        theattic.v1cd3m1z3r.net 
 204 Family BBS              Tony Pawson        familybbs.ddns.net
 205 Magnum BBS              Keyop Troy         bbs.magnum.uk.net
 206 File Cabinet BBS        Richard Vonzel     filecabi.synchro.net
@@ -323,7 +326,6 @@ NET 5 (21:5/xxx) WINServer v7.0 (Netserial + PXW)
 103 The Computer Express    Chris Costakis     bbs.costakis.org
 104 EMS!BBS                 Scott Labrecque    ems-bbs.com
 107 Cavan Rural Community   Steve Reader       86.47.50.239
-108 CrNet BBS               John Gonzales      bbs.crnet.net
 
 =============================================================================
 
