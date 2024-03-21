@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 7 March 2024 ---
+              --- Connected Systems as of 22 March 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -60,16 +60,13 @@ NET 1 (21:1/xxx) HPT (BinkP)
 141 68k Mac Club            Andrew Young       bbs.m68k.club
 142 The Trashcan BBS        Nick MacKechnie    bbs.thenet.gen.nz:2324
 143 The Bridge BBS          Tony Langdon       bridge.vkradio.com 
-144 NorthSEA BBS            Torben Jensen      bbs.northsea.dk:8000
 145 Mystic Pi BBS           Brian Wallace      bcw142.zapto.org   
-146 Digital Sanctuary BBS   Chris Hallford     digitalsanctuarybbs.com
 147 The Comm's Nut BBS      Danny Moss         tcnbbs.fsxnet.nz:2323
 148 Dark Systems BBS        Aaron Grasswell    bbs.dsbbs.ca 
 149 The Fool's Quarter      Tim Whitson        fqbbs.synchro.net
-150 Sotano Msx BBS          Pepe Diaz           -- Private Node --
 152 2nd Choice Core         Ian Segers         2ndchoicecore.ddns.net:1024 
 153 Spark BBS               Christian Vanguers bbs.sparkbbs.eu:8889 (ssh only)
-154 Queen City BBS          Malachi Doane      queencitybbs.ddns.net
+154 Queen City BBS          Malachi Doane      queencitybbs.ddns.net:607
 155 Haciend BBS             Antti Kiuru        haciend.com 
 156 Global Chaos BBS        Michael Selhof     globalchaosbbs.com:21
 157 Shadowscope BBS         Richard Miles      shadowscope.noip.us
@@ -81,7 +78,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 164 Electronic Chicken      Derek Mullin       bbs.electronicchicken.com
 165 The Grid                Joseph Bore         -- Private Node --
 166 Datanet BBS             Steve Ellis        datanetbbs.net 
-167 CyberBBS WHQ BBS        Chad Adams         whq.cyberbbs.dev:6023 
+167 CyberBBS WHQ BBS        Chad Adams         cyberbbs.net:6023 
 168 Wintermute BBS          Niels Haedecke     wintermutebbs.ddns.net
 169 Sinner's Haven BBS      Karl Kunc          bbs.sinnershaven.com
 170 Weather Station BBS     Mark Hofmann       bbs.weather-station.org
@@ -94,13 +91,11 @@ NET 1 (21:1/xxx) HPT (BinkP)
 177 Goosenet BBS            Michael Geller     bbs.nifty5fty.com  
 178 Internal Dimension      Dave Vandermeer    bbs.idbbs.ca:59
 179 Cryptogenic Radix       Paul Hayton         -- Private Node --
-180 The Realm of Serion BBS Rex Hondo          connect.serionbbs.com
 181 Ninho do Abutre 2       Mauro Veiga        abutre.no-ip.org:2323
 182 Smuggler's Cove BBS     Andrew Pamment     scove.talismanbbs.com:2323
 183 Vertrauen BBS           Rob Swindell       vert.synchro.net
 184 Echo Base BBS           Jeff Jun           telnet.echo-base-bbs.com
 185 Lightning BBS           Steve Helferich    lightningbbs.com:2400 
-186 Castle Rock BBS         Dan Richter        bbs.castlerockbbs.com
 187 CrNet BBS               John Gonzales      bbs.crnet.net  
 188 ACiD Underworld BBS     Hawk Hubbard        -- Private Node --
 189 Extricate BBS           Tristan Greaves    bbs.extricate.org
@@ -115,7 +110,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 198 The Fat Dragon          Dan Cross           -- Private Node --
 199 Clutch BBS              Mark Stark         bbs.clutchbbs.com
 200 Pharcyce HUB            Nicholas Boel      binkp.pharcyde.org
-201 Decker's Heaven         Eric Renfro        bbs.deckersheaven.com
 202 Star Collision BBS      Bjorn Wiberg       scbbs.nsupdate.info:61023
 203 The Attic BBS           Sean Clarke        theattic.v1cd3m1z3r.net 
 204 Family BBS              Tony Pawson        familybbs.ddns.net
