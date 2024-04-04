@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 29 March 2024 ---
+              --- Connected Systems as of 2 April 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -60,6 +60,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 141 68k Mac Club            Andrew Young       bbs.m68k.club
 142 The Trashcan BBS        Nick MacKechnie    bbs.thenet.gen.nz:2324
 143 The Bridge BBS          Tony Langdon       bridge.vkradio.com 
+144 The Titantic BBS Telnet T.J. McMillen      ttb.rgbbs.info
 145 Mystic Pi BBS           Brian Wallace      bcw142.zapto.org   
 147 The Comm's Nut BBS      Danny Moss         tcnbbs.fsxnet.nz:2323
 148 Dark Systems BBS        Aaron Grasswell    bbs.dsbbs.ca 
