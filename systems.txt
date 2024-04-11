@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 2 April 2024 ---
+              --- Connected Systems as of 11 April 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -259,7 +259,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 NET 4 (21:4/xxx) HPT (BinkP)
 ============================
 
-100 Niba fsxHUB             Dan Richter        net4.fsxnet.nz:24560
+100 Niba fsxHUB             Paul Hayton        net4.fsxnet.nz:24560
 101 Back to the Future      Bill Simon         bttfbbs.com
 102 Legends of Yesteryear   Dallas Vinson      furmenservices.net:23232
 103 The Undermine BBS       Kostie Muirhead    bbs.undermine.ca:423
@@ -268,7 +268,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 107 The X-Bit BBS           Rob McGee          x-bit.org
 108 Inland Utopia BBS       Matthew Munson     iutopia.duckdns.org:23
 109 9640 News BBS           Beery Miller       9640news.ddns.net:9640
-110 BZ&BZ BBS               Steve Thielemann   bbs.red-green.com:4023
 112 Sloane BBS              Steve Smith        sloanebbs.com
 113 Baud BBS                Richard Orr        bbs.baud.games:6502
 114 Reisub BBS              Fabian Bonetti     reisub.nsupdate.info:7020
@@ -286,7 +285,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 137 8-Bit Boyz BBS          Shane O'Neill      8bitboyz.bbs.io:6502
 138 CIA Amiga BBS           Tim Grooms         ciaamigabbs.dynu.net:6400
 139 Mythical Kingdom Tech   Mark May           bbs.mythicalkingdom.com
-141 Constructive Chaos      Craig Hendricks    conchaos.synchro.net
 144 Sonic BBS               Louis Northmore    bbs.sonicbbs.co.uk
 145 TFSI BBS                Nick Young         bbs.tfsi.dev
 147 Aliens' Alcove BBS      Eric Pareja        aliens.free.net.ph
