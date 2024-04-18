@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 11 April 2024 ---
+              --- Connected Systems as of 14 April 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -61,10 +61,12 @@ NET 1 (21:1/xxx) HPT (BinkP)
 142 The Trashcan BBS        Nick MacKechnie    bbs.thenet.gen.nz:2324
 143 The Bridge BBS          Tony Langdon       bridge.vkradio.com 
 144 The Titantic BBS Telnet T.J. McMillen      ttb.rgbbs.info
-145 Mystic Pi BBS           Brian Wallace      bcw142.zapto.org   
+145 Mystic Pi BBS           Brian Wallace      bcw142.zapto.org
+146 Postbus 7               Floris van Unen    -- Private Node --  
 147 The Comm's Nut BBS      Danny Moss         tcnbbs.fsxnet.nz:2323
 148 Dark Systems BBS        Aaron Grasswell    bbs.dsbbs.ca 
 149 The Fool's Quarter      Tim Whitson        fqbbs.synchro.net
+150 Vintage Pi BBS          Lloyd Alexandre    vintagepi.asuscomm.com
 152 2nd Choice Core         Ian Segers         2ndchoicecore.ddns.net:1024 
 153 Spark BBS               Christian Vanguers bbs.sparkbbs.eu:8889 (ssh only)
 154 Queen City BBS          Malachi Doane      queencitybbs.ddns.net:607
@@ -92,6 +94,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 177 Goosenet BBS            Michael Geller     bbs.nifty5fty.com  
 178 Internal Dimension      Dave Vandermeer    bbs.idbbs.ca:59
 179 Cryptogenic Radix       Paul Hayton         -- Private Node --
+180 Lair of the Wolverine   Kevin Taylor       lotw.mywire.org:2323
 181 Ninho do Abutre 2       Mauro Veiga        abutre.no-ip.org:2323
 182 Smuggler's Cove BBS     Andrew Pamment     scove.talismanbbs.com:2323
 183 Vertrauen BBS           Rob Swindell       vert.synchro.net
@@ -308,6 +311,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 179 BBSing Canada           Darren Crawford    bbsing.ca
 181 PlaneT Afr0 BBS         Jason Reznor       planetafr0.org:8888
 182 RedFrog BBS             Ergo Paalaman      redfrog.duckdns.org:2323
+183 REACT-BBS               Nicola Mettimano   react-bbs.nikoh.it
 185 Slinky's Place          Steven Bennett     slinkybbs.com
 186 Excelsior BBS      Michael Christoffersen  awesome.fredslev.net:6969
 187 Operation Ivy BBS       David Sachs        opivy-bbs.com
