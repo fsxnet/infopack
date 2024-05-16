@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 14 April 2024 ---
+              --- Connected Systems as of 12 May 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -41,11 +41,9 @@ NET 1 (21:1/xxx) HPT (BinkP)
 121 Xibalba BBS             Bryan Ashby        xibalba.l33t.codes:44510
 122 After Hours BBS         Greg Youngblood    ah-bbs.com:2333
 123 Thiaramus' Den          Roman Litvinenko   thiaramus.fsxnet.nz
-124 EONA BBS                Noemi Abril        bbs.eona.cat:2600
 125 The Horizon BBS         Chris Wilson       bbs.horizonbbs.org
 126 Al's Geek Lab BBS       Alistair Ross      bbs.alsgeeklab.com:2323
 127 Capital Station         Gregory Deyss      csbbs.dyndns.org 
-128 Drakonai BBS            Audrius Puplinskas bbs.drakonai.lt
 129 SpaceSST BBS            Luc McCarragher    mccarragher.org 
 130 The Unmarked Van BBS    Dave Scott         unmarkedvan.fsxnet.nz,         
 131 Weather Station HUB     Mark Hofmann       bbs.weather-station.org   
@@ -100,20 +98,20 @@ NET 1 (21:1/xxx) HPT (BinkP)
 183 Vertrauen BBS           Rob Swindell       vert.synchro.net
 184 Echo Base BBS           Jeff Jun           telnet.echo-base-bbs.com
 185 Lightning BBS           Steve Helferich    lightningbbs.com:2400 
+186 Disconnected by Peer    Mario Fetka        bbs.disconnected-by-peer.at
 187 CrNet BBS               John Gonzales      bbs.crnet.net  
 188 ACiD Underworld BBS     Hawk Hubbard        -- Private Node --
 189 Extricate BBS           Tristan Greaves    bbs.extricate.org
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
 191 Zruspa's HUB            Ángel Ripoll       bbs.zruspas.org:24554
 192 Zruspa's BBS            Ángel Ripoll       bbs.zruspas.org:23 
-193 Darkstar BBS            Alexander Winkler  darkstar.bmxjo.org:2023 
 194 Diamond Mine Online     David Perrussel    bbs.dmine.net:24
 195 Dragon's Claw HUB       Stephen Walsh      ftn.vk3heg.net
 196 Dragon's Lair BBS       Stephen Walsh      dragon.vk3heg.net
-197 Compufuck BBS           Aaron Thomas       cfbbs.fsxnet.nz
 198 The Fat Dragon          Dan Cross           -- Private Node --
 199 Clutch BBS              Mark Stark         bbs.clutchbbs.com
 200 Pharcyce HUB            Nicholas Boel      binkp.pharcyde.org
+201 Halcyon BBS             Marc Mathieu        -- Private Node --
 202 Star Collision BBS      Bjorn Wiberg       scbbs.nsupdate.info:61023
 203 The Attic BBS           Sean Clarke        theattic.v1cd3m1z3r.net 
 204 Family BBS              Tony Pawson        familybbs.ddns.net
@@ -137,9 +135,12 @@ NET 1 (21:1/xxx) HPT (BinkP)
 222 X65.zone BBS            Tomasz Sterna      bbs.x65.zone:8888
 223 OldComp.EU BBS          Cerny Eduard       bbs1.oldcomp.eu:2323
 224 Spot BBS                Steve Weinert      spotbbs.k9zw.com:1123
+225 Darkages BBS            Randy Henderson    darkagesbbs.com
 226 Retro16 BBS             David Florey       bbs.retro16.com
 227 Shipwrecks+Shibboleths  Chris Hizny        shibboleths.fsxnet.nz
+228 SDF-1 BBS               Ray Slakinski      bbs.sdf1.net:5023
 229 TCOB1 BBS               Sean Rima          tcob1.duckdns.org
+230 NerdRage BBS            Jim Howarth        nerdragebbs.ddns.net
 231 Southern Comfort BBS    Mike Giddens       soco.bbs.io
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
 233 Phrenetic BBS           Per Gustav Ousdal  bbs.ousdal.net:2023
@@ -159,7 +160,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 104 The Lake House BBS      Chris Richardson   lakehouse.lilpenguins.com:2323
 105 CCX BBS                 Jim Nessen         ccxbbs.fsxnet.nz
 106 Dock Sud Mystic BBS     Fernando Toledo    -- Private Node --
-107 Torrent BBS             Joseph Diaz        torrentbbs.net
+107 Another F-ing BBS       Gary Crubk         anotherbbs.dynu.net:1337
 108 Storm BBS               April Monoceros    telnet.stormbbs.com
 109 ByteBarn BBS            Markus Maussner    bbs.bytebarn.de:2300
 110 Ink Two BBS             Lawrence Manuel    bbs.inktwo.com
