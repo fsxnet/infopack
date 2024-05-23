@@ -13,6 +13,42 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2024-05-23
+Added Node 1/124 Who Dares Wins Amiga BBS (GBR) welcome to sysop Andrew
+                 Ward aka Klunk who is based in Creswell, UK. Running a 
+                 Mystic BBS under Windows 11 you can reach the BBS by 
+                 telnet to whodareswinsbbs.uk - welcome Klunk :)
+                 
+2024-05-18
+NET 4 housekeeping is now underway and we're pruning inactive nodes that
+have not collected packets / files for 45+ days since the cutover to the new
+NET 4 HUB.
+
+Out of interest I took all the inactive nodes that the HUB had set to HOLD
+and set CRASH status for them and four (4) nodes were on receive and did
+accept all their held traffic... so that's something I guess but they are
+clearly on auto pilot which is not great. Those were:
+
+118 Bit's Lair BBS          Yeray Dorta         -- Private Node --
+177 Alcoholiday BBS         Andy Haworth       alco.bbs.io
+181 PlaneT Afr0 BBS         Jason Reznor       planetafr0.org:8888
+187 Operation Ivy BBS       David Sachs        opivy-bbs.com
+
+So for now the following nodes have been delisted with more to follow as 
+I get to them:
+
+101 Back to the Future      Bill Simon         bttfbbs.com
+120 Deep Space Gateway      Sam Penwright      deepspacegateway.net
+136 Total Lost BBS          Dennis Eklund      bbs.deek.se
+139 Mythical Kingdom Tech   Mark May           bbs.mythicalkingdom.com
+158 The Alpha Complex       Robbie Whiting     alphacomplex.us:2323
+163 Jensencloud BBS         Pat Jensen         jensencloud.net
+164 Fusion BBS              Chris Schneider    fusion.zapto.org
+171 Star Frontiers BBS      William Williams   starfron.synchronetbbs.org
+179 BBSing Canada           Darren Crawford    bbsing.ca
+182 RedFrog BBS             Ergo Paalaman      redfrog.duckdns.org:2323
+186 Excelsior BBS           M Christoffersen   awesome.fredslev.net:6969
+
 2024-05-12
 Added Node 1/186 Disconnected by Peer BBS (AUT) welcome back sysop Mario
                  Fetka aka geos_one who hails from Graz in Austria. Mario is

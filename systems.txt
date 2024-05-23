@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 12 May 2024 ---
+              --- Connected Systems as of 24 May 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -41,6 +41,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 121 Xibalba BBS             Bryan Ashby        xibalba.l33t.codes:44510
 122 After Hours BBS         Greg Youngblood    ah-bbs.com:2333
 123 Thiaramus' Den          Roman Litvinenko   thiaramus.fsxnet.nz
+124 Who Dares Wins Amiga    Andrew Ward        whodareswinsbbs.uk
 125 The Horizon BBS         Chris Wilson       bbs.horizonbbs.org
 126 Al's Geek Lab BBS       Alistair Ross      bbs.alsgeeklab.com:2323
 127 Capital Station         Gregory Deyss      csbbs.dyndns.org 
@@ -264,7 +265,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 ============================
 
 100 Niba fsxHUB             Paul Hayton        net4.fsxnet.nz:24560
-101 Back to the Future      Bill Simon         bttfbbs.com
 102 Legends of Yesteryear   Dallas Vinson      furmenservices.net:23232
 103 The Undermine BBS       Kostie Muirhead    bbs.undermine.ca:423
 105 Phoenix BBS             Andrew Leary       phoenix.bnbbbs.net:2323
@@ -277,7 +277,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 114 Reisub BBS              Fabian Bonetti     reisub.nsupdate.info:7020
 116 InterMail Support       Dale Barnes        im.ifidonet.com
 118 Bit's Lair BBS          Yeray Dorta         -- Private Node --
-120 Deep Space Gateway      Sam Penwright      deepspacegateway.net
 121 AlcaBBS                 Michael Trip       bbs.alcatrash.org
 122 realitycheckBBS         Kurt Weiske        realitycheckbbs.org
 124 The Dungeon BBS         Keith Matthews     dungeon.barnabasmusic.com
@@ -285,10 +284,8 @@ NET 4 (21:4/xxx) HPT (BinkP)
 128 DragonsWeb Labs BBS     James DiGriz       bbs.dragonsweb.org 
 131 The Wrong Number 2      Al DeRosa          wn2.duckdns.org
 134 Possum Lodge South      Mike Powell        possumso.fsxnet.nz:7636
-136 Total Lost BBS          Dennis Eklund      bbs.deek.se
 137 8-Bit Boyz BBS          Shane O'Neill      8bitboyz.bbs.io:6502
 138 CIA Amiga BBS           Tim Grooms         ciaamigabbs.dynu.net:6400
-139 Mythical Kingdom Tech   Mark May           bbs.mythicalkingdom.com
 144 Sonic BBS               Louis Northmore    bbs.sonicbbs.co.uk
 145 TFSI BBS                Nick Young         bbs.tfsi.dev
 147 Aliens' Alcove BBS      Eric Pareja        aliens.free.net.ph
@@ -299,22 +296,15 @@ NET 4 (21:4/xxx) HPT (BinkP)
 153 ARDA BBS                Tim Woodland       arda-bbs.com
 156 The Rock BBS III        Michael Batts      therockbbs.net:10023
 157 LostCause Halfway House Ernest Gainey      bbs.lostcause.house
-158 The Alpha Complex       Robbie Whiting     alphacomplex.us:2323
 162 SlipStream BBS          Scott Styles       www.slipstreambbs.net
-163 Jensencloud BBS         Pat Jensen         jensencloud.net
-164 Fusion BBS              Chris Schneider    fusion.zapto.org
 167 The Vault BBS           Rodrigo Pelaez     thevaultbbs.fsxnet.nz
 170 Amiga Retro Brisbane BBS Mark Casteleijn   www.amigaretro.com:23
-171 Star Frontiers BBS      William Williams   starfron.synchronetbbs.org
 172 Dark Forces BBS         Mark Iezzi         darkforcesbbs.dyndns.org:2200
 174 Exoplanet BBS           Shane Wolfe        exoplanetbbs.net
 177 Alcoholiday BBS         Andy Haworth       alco.bbs.io
-179 BBSing Canada           Darren Crawford    bbsing.ca
 181 PlaneT Afr0 BBS         Jason Reznor       planetafr0.org:8888
-182 RedFrog BBS             Ergo Paalaman      redfrog.duckdns.org:2323
 183 REACT-BBS               Nicola Mettimano   react-bbs.nikoh.it
 185 Slinky's Place          Steven Bennett     slinkybbs.com
-186 Excelsior BBS      Michael Christoffersen  awesome.fredslev.net:6969
 187 Operation Ivy BBS       David Sachs        opivy-bbs.com
 
 
