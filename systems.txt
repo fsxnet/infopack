@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 24 May 2024 ---
+              --- Connected Systems as of 31 May 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -95,7 +95,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 179 Cryptogenic Radix       Paul Hayton         -- Private Node --
 180 Lair of the Wolverine   Kevin Taylor       lotw.mywire.org:2323
 181 Ninho do Abutre 2       Mauro Veiga        abutre.no-ip.org:2323
-182 Smuggler's Cove BBS     Andrew Pamment     scove.talismanbbs.com:2323
 183 Vertrauen BBS           Rob Swindell       vert.synchro.net
 184 Echo Base BBS           Jeff Jun           telnet.echo-base-bbs.com
 185 Lightning BBS           Steve Helferich    lightningbbs.com:2400 
