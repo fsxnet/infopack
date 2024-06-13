@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 31 May 2024 ---
+              --- Connected Systems as of 8 June 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -45,6 +45,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 125 The Horizon BBS         Chris Wilson       bbs.horizonbbs.org
 126 Al's Geek Lab BBS       Alistair Ross      bbs.alsgeeklab.com:2323
 127 Capital Station         Gregory Deyss      csbbs.dyndns.org 
+128 The Other Realm BBS     Lawrence Stockman  theotherrealmbbs.com
 129 SpaceSST BBS            Luc McCarragher    mccarragher.org 
 130 The Unmarked Van BBS    Dave Scott         unmarkedvan.fsxnet.nz,         
 131 Weather Station HUB     Mark Hofmann       bbs.weather-station.org   
