@@ -13,6 +13,27 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2024-07-01
+Updated Node 4/158 Space Junk! BBS (USA) j0hnny a1pha advises his system
+                 has changed names, the new telnet address to connect to is
+                 spacejunkbbs.com:1992 
+
+2024-06-29
+Added Node 1/182 Too Lazy BBS (USA) welcome to sysop Errol Casey aka
+                 Amessyroom. Hailing from Fayetteville you can reach 
+                 the BBS via toolazy.ddns.net:2323 or using SSH on port
+                 2222. Great to have you as a member of fsxNet Errol :)
+
+2024-06-28
+Added Node 4/158 R3TR0/X BBS (USA) welcome back to sysop Robbie Whiting aka
+                 j0hnny a1pha. His system can be found at retrox.us:1992
+
+Added Node 1/133 DJDave BBS (GBR) hi and welcome to sysop Dave Jordan aka
+                 djdave. Based in  Suffolk and running a Mystic BBS you can
+                 reach Dave's system by heading to bbs.djdave.uk:8088
+                 Welcome to fsxNet Dave - nice to have you as a member of
+                 our online community :)
+
 2024-06-08
 Added Node 1/128 The Other Realm BBS (USA) welcome back to sysop Lawrence
                  Stockman aka Parcho who is based in Rockport, TX. Restarting
