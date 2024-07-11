@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 29 June 2024 ---
+              --- Connected Systems as of 10 July 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -108,9 +108,11 @@ NET 1 (21:1/xxx) HPT (BinkP)
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
 191 Zruspa's HUB            Ángel Ripoll       bbs.zruspas.org:24554
 192 Zruspa's BBS            Ángel Ripoll       bbs.zruspas.org:23 
+193 Dundarach BBS           Chris Jennings     dundarach.tplinkdns.com
 194 Diamond Mine Online     David Perrussel    bbs.dmine.net:24
 195 Dragon's Claw HUB       Stephen Walsh      ftn.vk3heg.net
 196 Dragon's Lair BBS       Stephen Walsh      dragon.vk3heg.net
+197 Mystic River BBS        Ricky DeLuco       mysticriver.ddns.net:10023
 198 The Fat Dragon          Dan Cross           -- Private Node --
 199 Clutch BBS              Mark Stark         bbs.clutchbbs.com
 200 Pharcyce HUB            Nicholas Boel      binkp.pharcyde.org
@@ -235,6 +237,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 127 Imzadi Box              Anna Nass         box.imzadi.de
 130 PB Renegade             Ruben Figueroa    gapbbs.rdfig.net:2424
 135 Lunatics Unleashed      Ross Branham      lunaticsunleashed.ddns.net
+136 Mind's Eye BBS          Tom Aberdeen      mindseye.synchronetbbs.org
 137 Wicked Garden BBS       Hung Tran         wgbbs.ddns.net
 138 Taliadon BBS            Lee Westlake      taliadon.ddns.net 
 141 Thrace BBS              Dafcho Tabakov    bbs.tabakov.net:13023
@@ -286,8 +289,10 @@ NET 4 (21:4/xxx) HPT (BinkP)
 128 DragonsWeb Labs BBS     James DiGriz       bbs.dragonsweb.org 
 131 The Wrong Number 2      Al DeRosa          wn2.duckdns.org
 134 Possum Lodge South      Mike Powell        possumso.fsxnet.nz:7636
+136 Total Lost BBS          Dennis Eklund      bbs.deek.se
 137 8-Bit Boyz BBS          Shane O'Neill      8bitboyz.bbs.io:6502
 138 CIA Amiga BBS           Tim Grooms         ciaamigabbs.dynu.net:6400
+142 Off the Wall BBS        Robert Stinnett    offthewall.dmxrob.net 
 144 Sonic BBS               Louis Northmore    bbs.sonicbbs.co.uk
 145 TFSI BBS                Nick Young         bbs.tfsi.dev
 147 Aliens' Alcove BBS      Eric Pareja        aliens.free.net.ph

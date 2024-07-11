@@ -13,6 +13,37 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2024-07-09
+Added Node 1/193 Dundarach BBS (GBR) please welcome returning sysop Chris
+                 Jennings aka Dundarach. Running Mystic BBS on his Rpi 
+                 Dundarach is back into the BBS scene after 30+ years
+                 and Compunet before that. You can visit his system by 
+                 heading to dundarach.tplinkdns.com .. Welcome back to 
+                 the BBS community Chris it's great to have you as a 
+                 member of the fsxNet community :)
+2024-07-07
+Added Node 3/136 Mind's Eye BBS (AUS) welcome back to Tom Aberdeen aka
+                 Randers. Running a Synchronet BBS you can see it by 
+                 visiting mindseye.synchronetbbs.org 
+
+Added Node 4/142 Off the Wall BBS (USA) welcome back to Robert Stinnett aka
+                 dmxrob, based in St. Peters, Missouri dmxrob runs a WWIV
+                 BBS under CentOS. You can reach the system at
+                 offthewall.dmxrob.net               
+
+2024-07-06
+Added Node 1/197 Mystic River BBS (USA) welcome back Ricky DeLuco aka Argos
+                 with a new BBS you can visit at mysticriver.ddns.net:10023
+                 Nice to see you active in the BBS scene again Argos :)
+
+Updated Node 1/107 The ByteXchange BBS has been marked as 'Down' in the 
+                nodelist.
+
+Added Node 4/136 Total Lost BBS (SWE) welcome back to Dennis Eklund who is 
+                 based in Harnosand. Dennis aka Total is running a Mystic 
+                 BBS on his Raspberry Pi. The system can be reached at 
+                 bbs.deek.se
+
 2024-07-01
 Updated Node 4/158 Space Junk! BBS (USA) j0hnny a1pha advises his system
                  has changed names, the new telnet address to connect to is
