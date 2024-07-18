@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 10 July 2024 ---
+              --- Connected Systems as of 14 July 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -55,7 +55,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 135 Brokedown Palace BBS  Steven Southworth palace.brokedownpalace.online:2323
 136 N4TDX BBS               Ricky DeLuco       n4tdx.ddns.net:2323
 137 Digital Distortion      Eric Oulashin      digdist.synchro.net
-138 4WheelHam BBS           John Julian        108.61.205.134:2323
+138 4WheelHam BBS           John Julian        bbs.4wheelham.com
 139 Ultramax BBS            Martin Mitchell    ultramax.synchro.net
 140 Daves BBS               David Smith        davesbbs.com
 141 68k Mac Club            Andrew Young       bbs.m68k.club
@@ -149,6 +149,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 231 Southern Comfort BBS    Mike Giddens       soco.bbs.io
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
 233 Phrenetic BBS           Per Gustav Ousdal  bbs.ousdal.net:2023
+234 Rise n' Shine BBS       Rob Olsen          bbs.risenshinebbs.com
 236 Lunar Mod               David Thielemann   bbs.beanzilla.net:2323
 237 Eye of the Storm        Benjamin Aitchison on.the.net.nz
 238 The Global Village   Sebastian van der Veen the.globalvillagebbs.net:2222
@@ -270,6 +271,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 ============================
 
 100 Niba fsxHUB             Paul Hayton        net4.fsxnet.nz:24560
+101 Back to the Future BBS  Bill Simon         bttfbbs.com 
 102 Legends of Yesteryear   Dallas Vinson      furmenservices.net:23232
 103 The Undermine BBS       Kostie Muirhead    bbs.undermine.ca:423
 105 Phoenix BBS             Andrew Leary       phoenix.bnbbbs.net:2323

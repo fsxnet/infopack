@@ -13,6 +13,24 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2024-07-13
+Added Node 4/101 Back to the Future BBS (USA) welcome back to Bill Simon 
+                 aka Outatime who hails from Pennsylvania and is running a 
+                 WWIV system under Linux. You can find Outatime's system at 
+                 bttfbbs.com 
+
+Updated Node 1/138 4WheelHam BBS (USA) W7JPJ advises a new domain name for
+                 his BBS. You can head to bbs.4wheelham.com now using port
+                 23 instead of 2323 .. systems.txt and nodelist have been 
+                 updated.
+
+Added Node 1/234 Rise n' Shine BBS (USA) welcome to sysop Rob Olsen aka
+                 smooth0401 .. based in New Providence, NJ and running a
+                 Synchronet BBS you can reach the BBS by heading to
+                 bbs.risenshinebbs.com .. weclome Rob thanks for your
+                 interest in fsxNet and I hope you have fun with the 
+                 BBS hobby :)                 
+                
 2024-07-09
 Added Node 1/193 Dundarach BBS (GBR) please welcome returning sysop Chris
                  Jennings aka Dundarach. Running Mystic BBS on his Rpi 
