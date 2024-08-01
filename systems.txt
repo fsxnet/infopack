@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 14 July 2024 ---
+              --- Connected Systems as of 29 July 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -107,7 +107,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 189 Extricate BBS           Tristan Greaves    bbs.extricate.org
 190 Abacus BBS              Rick Smith         bbs.abon.us:2323
 191 Zruspa's HUB            Ángel Ripoll       bbs.zruspas.org:24554
-192 Zruspa's BBS            Ángel Ripoll       bbs.zruspas.org:23 
+192 Zruspa's BBS            Ángel Ripoll       bbs.zruspas.org
 193 Dundarach BBS           Chris Jennings     dundarach.tplinkdns.com
 194 Diamond Mine Online     David Perrussel    bbs.dmine.net:24
 195 Dragon's Claw HUB       Stephen Walsh      ftn.vk3heg.net
@@ -150,6 +150,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
 233 Phrenetic BBS           Per Gustav Ousdal  bbs.ousdal.net:2023
 234 Rise n' Shine BBS       Rob Olsen          bbs.risenshinebbs.com
+235 Va2rfc BBS              Richard Murray     va2rfcbbs.photorm.net
 236 Lunar Mod               David Thielemann   bbs.beanzilla.net:2323
 237 Eye of the Storm        Benjamin Aitchison on.the.net.nz
 238 The Global Village   Sebastian van der Veen the.globalvillagebbs.net:2222
@@ -274,11 +275,13 @@ NET 4 (21:4/xxx) HPT (BinkP)
 101 Back to the Future BBS  Bill Simon         bttfbbs.com 
 102 Legends of Yesteryear   Dallas Vinson      furmenservices.net:23232
 103 The Undermine BBS       Kostie Muirhead    bbs.undermine.ca:423
+104 Sweden Gigabye BBS      Peter Nilsson      bbs.gigabite.se
 105 Phoenix BBS             Andrew Leary       phoenix.bnbbbs.net:2323
 106 Rusty Mailbox BBS       Alan Ianson        trmb.ca:2030
 107 The X-Bit BBS           Rob McGee          x-bit.org
-108 Inland Utopia BBS       Matthew Munson     iutopia.duckdns.org:23
+108 Inland Utopia BBS       Matthew Munson     iutopia.duckdns.org
 109 9640 News BBS           Beery Miller       9640news.ddns.net:9640
+110 NetPoint BBS            Alessio Tempesta   netpoint.webhop.me
 112 Sloane BBS              Steve Smith        sloanebbs.com
 113 Baud BBS                Richard Orr        bbs.baud.games:6502
 114 Reisub BBS              Fabian Bonetti     reisub.nsupdate.info:7020
@@ -308,7 +311,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 158 Space Junk! BBS         Robbie Whiting     spacejunkbbs.com:1992
 162 SlipStream BBS          Scott Styles       www.slipstreambbs.net
 167 The Vault BBS           Rodrigo Pelaez     thevaultbbs.fsxnet.nz
-170 Amiga Retro Brisbane BBS Mark Casteleijn   www.amigaretro.com:23
+170 Amiga Retro Brisbane BBS Mark Casteleijn   www.amigaretro.com
 172 Dark Forces BBS         Mark Iezzi         darkforcesbbs.dyndns.org:2200
 174 Exoplanet BBS           Shane Wolfe        exoplanetbbs.net
 177 Alcoholiday BBS         Andy Haworth       alco.bbs.io

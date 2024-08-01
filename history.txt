@@ -13,6 +13,23 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2024-08-28
+Added Node 4/104 Sweden Gigabyte BBS (SWE) welcome to sysop Peter Nilsson 
+                 aka fir3fox. Based in Mora the BBS can be reached at 
+                 bbs.gigabite.se using the standard telnet and ssh ports.
+                 Welcome to fsxNet fir3fox :)
+
+Added Node 4/110 NetPoint (ITA) based in Rome please welcome sysop
+                 Alessio Tempesta aka 2pring7rap who is setting up a 
+                 Synchronet BBS. You can connect to the system by heading to
+                 netpoint.webhop.me and use port 23 or 22 for telnet and ssh
+                 Welcome 2pring7rap :)
+
+Added Node 1/235 Va2rfc BBS (CAN) please welcome sysop Richard Murray aka
+                 rmurray who is setting up a Mystic BBS under Raspbian 
+                 You can visit his system at va2rfcbbs.photorm.net
+                 Welcome to the BBS scene and fsxNet Richard :)
+
 2024-07-13
 Added Node 4/101 Back to the Future BBS (USA) welcome back to Bill Simon 
                  aka Outatime who hails from Pennsylvania and is running a 
