@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 29 July 2024 ---
+              --- Connected Systems as of 21 August 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -154,6 +154,11 @@ NET 1 (21:1/xxx) HPT (BinkP)
 236 Lunar Mod               David Thielemann   bbs.beanzilla.net:2323
 237 Eye of the Storm        Benjamin Aitchison on.the.net.nz
 238 The Global Village   Sebastian van der Veen the.globalvillagebbs.net:2222
+239 Uncomfortable Business  Cashan Stine       bbs.uncomfortable.business
+240 PrimeNet BBS            Craig Barnett      primenet.sychro.net
+241 Local Yocal BBS         Mark Meserve       localyocalbbs.com
+242 Rick's BBS              Ricky Sutphin      ricksbbs.synchro.net
+243 Galaxy BBS              Thomas Mccaffery   galaxybbs.net
 616 Cold Fusion             Alexander Grotewohl cfbbs.net
 700 Pharcyce BBS            Nicholas Boel       -- Private Node --
 
@@ -297,6 +302,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 136 Total Lost BBS          Dennis Eklund      bbs.deek.se
 137 8-Bit Boyz BBS          Shane O'Neill      8bitboyz.bbs.io:6502
 138 CIA Amiga BBS           Tim Grooms         ciaamigabbs.dynu.net:6400
+141 ConstructiveChaos BBS   Craig Hendricks    conchaos.synchro.net
 142 Off the Wall BBS        Robert Stinnett    offthewall.dmxrob.net 
 144 Sonic BBS               Louis Northmore    bbs.sonicbbs.co.uk
 145 TFSI BBS                Nick Young         bbs.tfsi.dev
