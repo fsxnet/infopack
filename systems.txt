@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 21 August 2024 ---
+              --- Connected Systems as of 1 September 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -95,7 +95,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 177 Goosenet BBS            Michael Geller     bbs.nifty5fty.com  
 178 Internal Dimension      Dave Vandermeer    bbs.idbbs.ca:59
 179 Cryptogenic Radix       Paul Hayton         -- Private Node --
-180 Lair of the Wolverine   Kevin Taylor       lotw.mywire.org:2323
+180 Lair of the Wolverine   Kevin Taylor       bbs.theshardforge.cc
 181 Ninho do Abutre 2       Mauro Veiga        abutre.no-ip.org:2323
 182 Too Lazy BBS            Errol Casey        toolazy.ddns.net:2323
 183 Vertrauen BBS           Rob Swindell       vert.synchro.net
@@ -159,6 +159,9 @@ NET 1 (21:1/xxx) HPT (BinkP)
 241 Local Yocal BBS         Mark Meserve       localyocalbbs.com
 242 Rick's BBS              Ricky Sutphin      ricksbbs.synchro.net
 243 Galaxy BBS              Thomas Mccaffery   galaxybbs.net
+244 HeXeD BBS               Mitch Greive       Hexedbbs.com:23999
+245 GeoSync BBS             Claude Mercy       geo.synchro.net:1023
+246 Cabana Bar BBS          Matt Webster       bbs.cabanabar.net:11123
 616 Cold Fusion             Alexander Grotewohl cfbbs.net
 700 Pharcyce BBS            Nicholas Boel       -- Private Node --
 
