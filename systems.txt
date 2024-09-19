@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 1 September 2024 ---
+              --- Connected Systems as of 15 September 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -22,7 +22,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 102 Error 404 BBS           Todd Zieman        error404bbs.ddns.net:404  
 103 Micro Link BBS          Lloyd Russell       -- Private Node --
 104 Region 15 HQ BBS        Terry Barlow       region15.net
-105 Alien Signals BBS       Scott Carter       bbs.aliensignals.ca:8101
+105 Alien Signals BBS       Scott Carter       bbs.22u.ca:8101
 106 BlackICE BBS            Vitus Zeel         blackice.bbsindex.de  
 107 The ByteXchange BBS     Chad Adams         bbs.thebytexchange.com 
 108 Eternal Domain BBS      Kenny Taylor       eternaldomain.fsxnet.nz 
@@ -281,7 +281,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 
 100 Niba fsxHUB             Paul Hayton        net4.fsxnet.nz:24560
 101 Back to the Future BBS  Bill Simon         bttfbbs.com 
-102 Legends of Yesteryear   Dallas Vinson      furmenservices.net:23232
 103 The Undermine BBS       Kostie Muirhead    bbs.undermine.ca:423
 104 Sweden Gigabye BBS      Peter Nilsson      bbs.gigabite.se
 105 Phoenix BBS             Andrew Leary       phoenix.bnbbbs.net:2323
@@ -290,7 +289,8 @@ NET 4 (21:4/xxx) HPT (BinkP)
 108 Inland Utopia BBS       Matthew Munson     iutopia.duckdns.org
 109 9640 News BBS           Beery Miller       9640news.ddns.net:9640
 110 NetPoint BBS            Alessio Tempesta   netpoint.webhop.me
-112 Sloane BBS              Steve Smith        sloanebbs.com
+111 The Arena BBS           Randall Schad      netasylum.com:2323 
+112 Setec Astronomy         Steve Beach        bbs.mottonecessary.com:2323
 113 Baud BBS                Richard Orr        bbs.baud.games:6502
 114 Reisub BBS              Fabian Bonetti     reisub.nsupdate.info:7020
 116 InterMail Support       Dale Barnes        im.ifidonet.com
@@ -311,11 +311,9 @@ NET 4 (21:4/xxx) HPT (BinkP)
 145 TFSI BBS                Nick Young         bbs.tfsi.dev
 147 Aliens' Alcove BBS      Eric Pareja        aliens.free.net.ph
 148 Roon's BBS              Daniel Path        bbs.studio64.hu:1212
-149 UAT_SOC BBS             Aaron Jones        uatsoc.fsxnet.nz:8889
 151 CaNerDUH BBS            Travis Mehrer      bbs.canerduh.com:23905
 152 Blackfair's Mannor BBS  Keith Cunningham   blackf.synchro.net
 153 ARDA BBS                Tim Woodland       arda-bbs.com
-156 The Rock BBS III        Michael Batts      therockbbs.net:10023
 157 LostCause Halfway House Ernest Gainey      bbs.lostcause.house
 158 Space Junk! BBS         Robbie Whiting     spacejunkbbs.com:1992
 162 SlipStream BBS          Scott Styles       www.slipstreambbs.net
