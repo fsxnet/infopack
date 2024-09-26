@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 15 September 2024 ---
+              --- Connected Systems as of 24 September 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -162,6 +162,8 @@ NET 1 (21:1/xxx) HPT (BinkP)
 244 HeXeD BBS               Mitch Greive       Hexedbbs.com:23999
 245 GeoSync BBS             Claude Mercy       geo.synchro.net:1023
 246 Cabana Bar BBS          Matt Webster       bbs.cabanabar.net:11123
+247 RayzerNET BBS           Jonathan Hohimer   connect.rayzer.net:2112
+248 lopht BBS               Mitch Greive       lopht.hexedbbs.com:1337
 616 Cold Fusion             Alexander Grotewohl cfbbs.net
 700 Pharcyce BBS            Nicholas Boel       -- Private Node --
 

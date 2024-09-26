@@ -13,6 +13,31 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2024-09-23
+Added Node 1/247 RayzerNET BBS (USA) say hi to sysop Jonathan Hohimer aka
+                 Rayzer who is based in Russellville, Kentucky. Running a 
+                 Mystic BBS you can reach the BBS via telnet at 
+                 connect.rayzer.net:2112 or use port 3113 for SSH.
+                 Nice to have you as a member of our online community Rayzer.
+
+Added Node 1/248 lopht BBS (USA) Mitch aka Scuz is running a Mystic instance
+                 and you can find it at lopht.hexedbbs.com:1337
+
+I have made a change to the info in fsxnet.txt that preceds the application 
+form. It's an overdue update to IP details for allowlist.txt
+
+[snip]
+
+If you are running Mystic BBS please add the IP address 103.193.138.76 and
+2407:8b00:1169:900::100 to the allowlist.txt file in your Mystic BBS data 
+directory. These are the known IP addresses for the fsxNet HUB in NET1 and
+NET 4. You may want to add further addresses for other HUBs you connect to in
+fsxNet (or othernets / bbs systems) also. You can access this feature via
+a text editor from the Mystic configuration menus by typing 
+MYSTIC -CFG > Servers > Edit IP Allowlist
+
+[snip]
+             
 2024-09-14
 Added Node 4/111 The Arena BBS (USA) welcome to sysop Randall Schad aka
                  Reverend Shaft who is based in Defiance, OH. Running a 

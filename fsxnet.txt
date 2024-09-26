@@ -228,12 +228,12 @@ address details and session password for the HUB system your BBS is allocated
 to poll.
 
 If you are running Mystic BBS please add the IP address 103.193.138.76 and
-2001:470:d:123::50 to the WHITELIST.TXT file in your Mystic BBS data 
-directory. These are the known IP addresses for the fsxNet HUB in NET1
-You may want to add further addresses for other HUBs you connect to in
+2407:8b00:1169:900::100 to the allowlist.txt file in your Mystic BBS data 
+directory. These are the known IP addresses for the fsxNet HUB in NET1 and
+NET 4. You may want to add further addresses for other HUBs you connect to in
 fsxNet (or othernets / bbs systems) also. You can access this feature via
 a text editor from the Mystic configuration menus by typing 
-MYSTIC -CFG > Servers > Edit IP Whitelist
+MYSTIC -CFG > Servers > Edit IP Allowlist
 
 Taking this steps ensures that when a fsxNet HUB polls your system it will not
 be auto blocked by your Mystic Internet Server if it polls your system 
