@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 11 October 2024 ---
+              --- Connected Systems as of 15 October 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -200,6 +200,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 130 Delta City BBS          Joacim Melin       deltacity.fsxnet.nz
 131 Orbit BBS               Allen Scofield     orbitbbs.ddns.net
 132 Archaic Binary BBS      Wayne Smith        bbs.archaicbinary.net 
+133 Time Machine BBS        Dennis Davison     timemachinebbs.com:2323
 134 Splatterhaus BBS        Vincent Macaluso   splatter.haus:666
 137 Tsali's BBS             James Washington   tsali.ddns.net:9023
 138 Palantir BBS            Dan Clough         palantirbbs.ddns.net
