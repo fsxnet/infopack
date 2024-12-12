@@ -13,6 +13,117 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2024-12-10
+NET 3 recent additions. Playing catch up with records here. Here's a list
+of nodes added since 1 October 2024.
+
+[snip]
+
+* 21:3/199.0 - Sarah Proctor (4d2 dot org) from Portland, Oregon, USA.
+               Address registered: 2024-12-04
+
+             - BBS is available TELNET [bbs.4d2.org:23]
+
+             - Mail can be sent using:
+               * BINKP [bbs.4d2.org:24554]
+
+* 21:3/198.0 - Don Stratton (DelawareBBS) from Newark,DE.
+               Address registered: 2024-12-04
+
+             - BBS is available TELNET [delawarebbs.com:23]
+
+             - Mail can be sent using:
+               * BINKP [delawarebbs.com:24554]
+               * EMSI [delawarebbs.com:60179]
+
+* 21:3/197.0 - Andrew Pamment (Bloodlust) from Toowoomba QLD, AU.
+               Address registered: 2024-12-02
+
+             - BBS is available TELNET [bloodlust.envybbs.org:2023]
+
+             - Mail can be sent using:
+               * BINKP [bloodlust.envybbs.org:24556]
+
+* 21:3/196.0 - Jerry Reed (Mystic A-Net Online) from Woodstock GA USA.
+               Address registered: 2024-10-29
+
+             - BBS is available TELNET [mystic.a-net-online.lol:23]
+
+             - Mail can be sent using:
+               * BINKP [mystic.a-net-online.lol:24554]
+
+
+* 21:3/195.0 - Paul Jones (13 Leader) from Vineland Ont Canada.
+               Address registered: 2024-10-29
+
+             - BBS is available TELNET [13leader.net:8023]
+             - No mailer information provided, so will be PRIVATE
+
+
+* 21:3/194.0 - Mike Dreier (Maiks Place BBS) from Neunkirch, CHE.
+               Address registered: 2024-10-28
+
+             - BBS is available TELNET [bbs.maik.ch:2323]
+             - No mailer information provided, so will be PRIVATE
+
+
+* 21:3/193.0 - Erik Eriksen (NE BBS) from Long Island, USA.
+               Address registered: 2024-10-27
+
+             - BBS is available TELNET [nebbs.servehttp.com:9223]
+
+             - Mail can be sent using:
+               * BINKP [nebbs.servehttp.com:24554]
+
+* 21:3/192.0 - David DeWell (PsyControl) from Watauga, TX.
+               Address registered: 2024-10-25
+
+             - BBS is available TELNET [psycontrolbbs.com:24500]
+
+             - Mail can be sent using:
+               * BINKP [psycontrolbbs.com:24554]
+
+* 21:3/189.0 - Jerry Reed (A-Net Online BBSs) from Woodstock, USA.
+               Address registered: 2024-10-16
+
+             - BBS is available TELNET [a-net-online.lol:23]
+
+             - Mail can be sent using:
+               * BINKP [a-net-online.lol:24554]
+               * EMSI [a-net-online.lol:60179]
+
+* 21:3/188.0 - David Gonzalez (SkyNet BBS) from Medellin, Colombia.
+               Address registered: 2024-10-16
+
+             - BBS is available TELNET [bbs.skynetbbs.com:20023]
+
+             - Mail can be sent using:
+               * BINKP [bbs.skynetbbs.com:24554]
+
+[snip]
+
+2024-12-08
+First up, my apologies for the break in usual service. The last few months
+have been busy supporting family after my mother passed away during this
+time. The BBSing hobby understandably took a back seat.
+
+I'm now circling back to the hobby and starting to re-engage with it. To 
+that end I now adding nodes to fsxNet that have been waiting to be added.
+
+My thanks to Deon and Todd in NET's 3 and 2 respectively for their help and 
+support to keep things rolling along, new nodes added etc. as I start to 
+play catch-up on overdue tasks.  ~~ Avon.
+
+
+2024-12-06
+Added Node 2/155 Dark Matter BBS (USA) based in Kurten, TX please welcome 
+                 sysop Will Milberger aka Grease. Running a Synchronet BBS
+                 you can find his system at darkmatt.synchro.net
+
+Added Node 2/160 Old Time BBS (USA) hailing from Rochester, NY please say
+                 hi to sysop Jeremy Brown aka Prof Brown. Running a Mystic
+                 BBS the system can be found at oldtimebbs.com and on the
+                 web at the same address.
 
 2024-09-23
 Added Node 1/247 RayzerNET BBS (USA) say hi to sysop Jonathan Hohimer aka

@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 24 November 2024 ---
+              --- Connected Systems as of 10 December 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -143,7 +143,6 @@ NET 1 (21:1/xxx) HPT (BinkP)
 225 Darkages BBS            Randy Henderson    darkagesbbs.com
 226 Retro16 BBS             David Florey       bbs.retro16.com
 227 Shipwrecks+Shibboleths  Chris Hizny        shibboleths.fsxnet.nz
-228 SDF-1 BBS               Ray Slakinski      bbs.sdf1.net:5023
 229 TCOB1 BBS               Sean Rima          tcob1.duckdns.org
 230 NerdRage BBS            Jim Howarth        nerdragebbs.ddns.net
 231 Southern Comfort BBS    Mike Giddens       soco.bbs.io
@@ -204,6 +203,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 134 Splatterhaus BBS        Vincent Macaluso   splatter.haus:666
 137 Tsali's BBS             James Washington   tsali.ddns.net:9023
 138 Palantir BBS            Dan Clough         palantirbbs.ddns.net
+139 SDF-1 BBS               Ray Slakinski      bbs.sdf1.net:5023
 140 Subcarrier BBS          John McCoy         subcarrier.ignorelist.com:2323
 141 SiliconUnderground      Jason Bock         siliconu.com
 142 TheViper BBS            Lloyd Fellon       theviperbbs.mywire.org
@@ -219,10 +219,12 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 152 UnderZaNet BBS          Jan Henkins        bbs.under.za.net:2024
 153 Cw Shack BBS            Tom Moore          kf4yey.com
 154 Danger Bay              Tom Swartz         dangerbaybbs.dyndns.org:1337
+155 Dark Matter BBS         Will Milberger     darkmatt.synchro.net
 156 CJ's Place BBS          Chris Johnson      cjsplace.thruhere.net
 157 The Black Tower BBS     Hawk Hubbard       blackflag.acid.org:26
 158 Piranha Reloaded BBS    Hawk Hubbard       piranha.acid.org:27
 159 SBB Systems BBS         Frans King         bbs.sbbsystems.com:8888
+160 Old Time BBS            Jeremy Brown       oldtimebbs.com
 161 DaRK Game BBS           Arturo Busleiman   darkgame.buanzo.org
 162 BBS Gametime            Gary Ailes         web.bbsgametime.com
 165 LoFi BBS                Matt Gibson        lofi.ooo:8888
@@ -275,8 +277,22 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 178 Massive BBS             Andy Diller       bbs.diller.org
 181 StarPort BBS            Tomas Ukkonen     bbs.starport.fi:17337
 182 Starship Junkyard BBS   Sheridan Tighe    bbs.starshipjunkyard.com
+183 The River Styx BBS      Elliot Adams      riverstyx.ddns.net
 184 Port of Call BBS        Dave Weissinger   bbs.PCTechDr.com:2323
+185 Retroverse BBS          Blinx             bbs.retroverse.au
+186 Spazoo BBS              Anthony Harwood    -- Private Node --
+187 Wolverine BBS           Kevin Taylor      bbs.r2lotw.com
+188 SkyNet BBS              David Gonzalez    bs.skynetbbs.com
+189 A-Net Online BBSs       Jerry Reed        a-net-online.lol
 191 The Ruins BBS           Doug Cooper       www.theunderground.us:9707
+192 PsyControl              David DeWell      psycontrolbbs.com
+193 NE BBS                  Erik Eriksen      nebbs.servehttp.com
+194 Maiks Place BBS         Mike Dreier       bbs.maik.ch
+195 3 Leader                Paul Jones        13leader.net
+196 Mystic A-Net Online     Jerry Reed        mystic.a-net-online.lol
+197 Bloodlust               Andrew Pamment    bloodlust.envybbs.org
+198 Delaware BBS            Don Stratton      delawarebbs.com
+199 4d2 dot org             Sarah Proctor     bbs.4d2.org
 
 
 NET 4 (21:4/xxx) HPT (BinkP)
