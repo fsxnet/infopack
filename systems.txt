@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 10 December 2024 ---
+              --- Connected Systems as of 16 December 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -309,9 +309,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 109 9640 News BBS           Beery Miller       9640news.ddns.net:9640
 110 NetPoint BBS            Alessio Tempesta   netpoint.webhop.me
 111 The Arena BBS           Randall Schad      netasylum.com:2323 
-112 Setec Astronomy         Steve Beach        bbs.mottonecessary.com:2323
 113 Baud BBS                Richard Orr        bbs.baud.games:6502
-114 Reisub BBS              Fabian Bonetti     reisub.nsupdate.info:7020
 116 InterMail Support       Dale Barnes        im.ifidonet.com
 118 Bit's Lair BBS          Yeray Dorta         -- Private Node --
 121 AlcaBBS                 Michael Trip       bbs.alcatrash.org
@@ -339,11 +337,9 @@ NET 4 (21:4/xxx) HPT (BinkP)
 167 The Vault BBS           Rodrigo Pelaez     thevaultbbs.fsxnet.nz
 170 Amiga Retro Brisbane BBS Mark Casteleijn   www.amigaretro.com
 172 Dark Forces BBS         Mark Iezzi         darkforcesbbs.dyndns.org:2200
-174 Exoplanet BBS           Shane Wolfe        exoplanetbbs.net
 177 Alcoholiday BBS         Andy Haworth       alco.bbs.io
 181 PlaneT Afr0 BBS         Jason Reznor       planetafr0.org:8888
 183 REACT-BBS               Nicola Mettimano   react-bbs.nikoh.it
-185 Slinky's Place          Steven Bennett     slinkybbs.com
 187 Operation Ivy BBS       David Sachs        opivy-bbs.com
 
 
