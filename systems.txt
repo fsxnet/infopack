@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 16 December 2024 ---
+              --- Connected Systems as of 26 December 2024 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -163,6 +163,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 246 Cabana Bar BBS          Matt Webster       bbs.cabanabar.net:11123
 247 RayzerNET BBS           Jonathan Hohimer   connect.rayzer.net:2112
 248 lopht BBS               Mitch Greive       lopht.hexedbbs.com:1337
+249 Air & Wave BBS          Daniel Traechin    bbs.airandwave.net:2323
 616 Cold Fusion             Alexander Grotewohl cfbbs.net
 700 Pharcyce BBS            Nicholas Boel       -- Private Node --
 
@@ -217,7 +218,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 150 20 For Beers BBS        Paul Lee           20ForBeers.com:1337
 151 Dock Sud BBS            Fernando Toledo    bbs.docksud.com.ar
 152 UnderZaNet BBS          Jan Henkins        bbs.under.za.net:2024
-153 Cw Shack BBS            Tom Moore          kf4yey.com
+153 Cw Shack BBS            Tom Moore          bbs.kf4yey.com
 154 Danger Bay              Tom Swartz         dangerbaybbs.dyndns.org:1337
 155 Dark Matter BBS         Will Milberger     darkmatt.synchro.net
 156 CJ's Place BBS          Chris Johnson      cjsplace.thruhere.net
