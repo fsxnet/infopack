@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 26 December 2024 ---
+              --- Connected Systems as of 19 January 2025 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -332,12 +332,14 @@ NET 4 (21:4/xxx) HPT (BinkP)
 151 CaNerDUH BBS            Travis Mehrer      bbs.canerduh.com:23905
 152 Blackfair's Mannor BBS  Keith Cunningham   blackf.synchro.net
 153 ARDA BBS                Tim Woodland       arda-bbs.com
+156 The Rock III BBS        Michael Batts      therockbbs.net:10023
 157 LostCause Halfway House Ernest Gainey      bbs.lostcause.house
 158 Space Junk! BBS         Robbie Whiting     spacejunkbbs.com:1992
 162 SlipStream BBS          Scott Styles       www.slipstreambbs.net
 167 The Vault BBS           Rodrigo Pelaez     thevaultbbs.fsxnet.nz
 170 Amiga Retro Brisbane BBS Mark Casteleijn   www.amigaretro.com
 172 Dark Forces BBS         Mark Iezzi         darkforcesbbs.dyndns.org:2200
+174 Exoplanet BBS           Shane Wolfe        exoplanetbbs.net 
 177 Alcoholiday BBS         Andy Haworth       alco.bbs.io
 181 PlaneT Afr0 BBS         Jason Reznor       planetafr0.org:8888
 183 REACT-BBS               Nicola Mettimano   react-bbs.nikoh.it
