@@ -13,6 +13,25 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2025-01-29
+The following NET 1 nodes have been removed due to inactivty 45+ days.
+
+104 Region 15 HQ BBS        Terry Barlow       region15.net
+154 Queen City BBS          Malachi Doane      queencitybbs.ddns.net:607
+165 The Grid                Joseph Bore         -- Private Node --
+167 CyberBBS WHQ BBS        Chad Adams         cyberbbs.net:6023 
+180 Lair of the Wolverine   Kevin Taylor       bbs.theshardforge.cc
+184 Echo Base BBS           Jeff Jun           telnet.echo-base-bbs.com
+185 Lightning BBS           Steve Helferich    lightningbbs.com:2400 
+209 LU8FJH BBS              Juan Musso         lu8fjh.dyndns.org
+221 The FBO                 Charles Blackburn  bbs.thefbo.us
+233 Phrenetic BBS           Per Gustav Ousdal  bbs.ousdal.net:2023
+243 Galaxy BBS              Thomas Mccaffery   galaxybbs.net
+
+The following NET 4 nodes have been removed due to inactivty 45+ days.
+
+113 Baud BBS                Richard Orr        bbs.baud.games:6502
+
 2025-01-19
 Added Node 4/156 The Rock III (USA) welcome back to sysop Michael Batts
                  aka Stizzed who is running a Mystic BBS. You can reach his
