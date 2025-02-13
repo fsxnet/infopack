@@ -13,6 +13,39 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2025-02-09
+Updated Node 1/229 TCOB1 BBS (IRL) Sean advises his domain name has changed
+                 you can connect via Telnet and BinkP ports using
+                 binkd.rima.ie  - the nodelist and systems.txt has been 
+                 updated.
+
+Removed Node 5/107 Cavan Rural Community Wirless Network (IRL) node is 
+                 inactive and has been delisted.
+
+Added Node 3/210 Northern Realms/TG BBS (CAN) Jay is running an additional
+                 system that can be reached at tg.nrbbs.net
+
+The following NET 2 nodes have been removed due to inactivity 45+ days:
+
+113 Fishingnet BBS          Matthew Smith      fishingnet.phatstar.org:7777
+128 oNyX BBS                Clive Reuben       onyxbbs.mywire.org:2300
+131 Orbit BBS               Allen Scofield     orbitbbs.ddns.net
+137 Tsali's BBS             James Washington   tsali.ddns.net:9023
+143 Digicom BBS (USA)       Gary Barr          bbs.digicombbs.com
+144 Outremer BBS            Pieter Bakker      outremer.fsxnet.nz
+   
+2025-02-07
+We're sad to report that Ruben Figueroa passed away on 27 January 2025.
+Ruben aka Zazz ran a number of BBS using a mix of software and all under
+the shared name of Prison Board BBS. He was also providing a HUB service
+for Wildcat systems wanting to connect to fsxNet. RIP Zazz and thank
+you for all your contributions to the bbs scene and to fsxNet. :(
+
+A seperate announcement related to NET 5 will be made in the near future.
+
+Removed Node 1/134 Mystic Prison Board BBS (USA)
+Removed Node 3/130 PB Renegade BBS (USA) 
+
 2025-02-01
 
 Upcoming changes to echomail areas.
