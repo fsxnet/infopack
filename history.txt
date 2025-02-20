@@ -13,6 +13,178 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2025-02-16
+
+Echomail Areas Closing
+======================
+
+Today I am announcing changes to the echomail areas carried on fsxNet.
+
+The following echomail areas are to be retired and will close down
+effective 22 Feb 2025 (New Zealand time)
+
+FSX_ENG              ENiGMA 1/2 BBS Support/Dev
+FSX_MAG              Talisman BBS Support/Dev
+FSX_LFE              Lifestyle
+FSX_MUSIC            Music
+FSX_SPACE            Space/Astronomy
+FSX_STA              Echomail + Network Stats
+FSX_FIL              File Announcements 
+
+The Enigma 1/2 BBS and Talisman BBS discussions are to move to the 
+BBS Support/Dev echomail area FSX_BBS which will be able to 
+accommodate them.
+
+Lifestyle and Space topics are moving to the General Chat + More..
+echomail area FSX_GEN
+
+Music topics are being merged into the existing FSX_VIDEO echomail area.
+The description for FSX_VIDEO will expand to reflect the wider range of
+topics in this echo.
+
+Echomail + Network stats will now be posted to the Automated roBOT Posts
+echomail area FSX_BOT
+
+File Announcements are to move also to FSX_BOT thanks.
+
+The FSX_HAM echomail area now has a more general/expanded radio flavour.
+The community requested we broaden the scope of this one so it was not
+just Amateur/HAM radio specific. The FSXNET.NA short description of the
+echomail area has been updated as has the longer description in FSXNET.TXT
+See below for more.
+
+Discussions about fsxNet in the FSX_NET echomail area has also received an
+updated short and long description. See below.
+
+Ads + ANSI Art are now welcome in FSX_ADS .. the feedback from the community
+was that it was desirable to still have a specific space for BBS ads and 
+folks liked the ANSI ads being posted for BBS too.. so as an extension of 
+that from time-to-time we do see some ANSI art shared in echomail areas
+and figure spotlighting this art in FSX_BBS would also be a nice thing
+to encourage. Let's see how it goes. 
+
+For avoidance of doubt it's still fine to post ANSI art to other echomail
+areas in fsxNet but let's see if we can focus most of it in one echomail
+area... FSX_ADS. 
+
+As per fsxNet Housekeeping messages containing ANSI should use a [ANSI] 
+prefix in the message subject line please. This allows members who can not 
+view ANSI content to opt out reading it if they are unable to do so. 
+e.g. Subject: [ANSI] Something I drew last night.
+
+De-linking Retired Areas / Read-Only
+=====================================
+
+From 22 Feb 2025 onward please ensure the retired echomail areas listed
+above are set to 'read only' at your BBS and that no traffic for these
+echomail areas is exported to your fsxNet HUB.
+
+Your fsxNet HUB admin will also de-link your BBS from the above mentioned
+echomail areas and make these areas unavailable to link/post to.
+
+Updated FSXNET.NA
+=================
+
+The infopack is being updated with a new .NA file containing the revised
+echomail areas carried in fsxNet. Note that there have been some changes
+to the names of certain echomail areas. You may like to update your 
+message base descriptions accordingly. We've re-jigged the order of the
+echomail areas in the NA files also.
+
+[snip]
+
+FSX_GEN              General Chat + More..
+FSX_BBS              BBS Support/Dev
+FSX_MYS              Mystic BBS Support/Dev
+FSX_RETRO            Retro Computing/Tech
+FSX_GAMING           Games/Gaming
+FSX_VIDEO            Movies/Music + More
+FSX_HAM              HAM + Radio Chat
+FSX_TST              fsxNet Test Arena
+FSX_NET              fsxNet Admin
+FSX_CRY              Cryptographics
+FSX_ADS              Ads + ANSI Art
+FSX_BOT              Automated roBOT Posts
+FSX_DAT              InterBBS Data
+
+[snip]
+
+Updates to FSXNET.TXT
+=====================
+
+The FSXNET.TXT document that outlines echomail and file areas in fsxNet will
+be updated with these changes and also contain revised descriptions for 
+some echomail areas. Here's the notable changes for your info:
+
+Changed description for FSX_HAM echomail area to: 
+
+FSX_HAM - Discussions about radio. Transmissions, receptions, hardware
+          This area caters for all radio enthusiasts - transmitting
+          and non-transmitting alike. HAM/Amateur and unlicensed
+          enthusiasts are all welcome. Topics might include (but are
+          not limited to) CB, PRS, DX, HF, VHF/UHF, FM, LPFM, antennas,
+          any/all digital modes, LoRa, etc. 
+
+Changed description for FSX_BOT echomail area to: 
+
+FSX_BOT - Non-human automated roBOT posts. Gated or original content
+          (e.g. weather, telemetry, entertainment etc.) is welcome. 
+          Echomail area statistics, mailer traffic and files received reports
+          also live here and limited to weekly posts where able and no more
+          than once per day. Less is more! BBS ads / ANSI Art (FSX_ADS) live
+          elsewhere.
+
+Changed description for FSX_ADS echomail area to:
+          
+FSX_ADS - BBS, NETwork Ads and ANSI Art. Run a BBS you want to tell the world
+          about? Have some ANSI art you would like to showcase to others?
+          Use a roBOT or manually post your BBS ASCII / ANSI ads/art here.
+          Please don't post the same thing more than once a week (min 7 days)
+
+Changed description for FSX_VIDEO echomail area to:
+
+FSX_VIDEO - Watched a good movie? Seen an awesome TV show? Found a cool
+          streaming series? Reviews are welcome but preface spoilers with
+          [spoilers] or [sp] in your subject heading. This area also covers
+          all musical topics... from instruments to artists/bands, all
+          formats, genres and eras.                              
+
+Changed description for FSX_NET echomail area to:
+
+FSX_NET - Discussions about fsxNet. Administrative news and other network
+          operations announcements (new nodes etc.) are posted here.
+
+Next Steps
+==========          
+
+We'll be posting announcements into each echomail area where they are to
+be retired in the coming days or if there has been a change to the focus/
+description of the echomail area.
+
+The fsxNet infopack will be updated this week with the new information
+detailed in this announcement as will the fsxnet.nz website.
+
+If you have any comments/further feedback, niggles with implementing any
+of these changes please discuss them in the FSX_NET (fsxNet Admin) 
+echomail area.
+
+Thanks to everyone who gave their thoughts to the recent discussions about
+this subject in the fsxNet Admin echomail area. Like all things these 
+changes are a work in progress. At their heart is an effort to try and 
+strike the right balance between the number of echomail areas carried
+in fsxNet, the demand for specific echomail areas for certain topics and
+all while trying to keep things [F]un, [S]imple, and e[X]perimental :)
+
+I'm sure we'll end up making more changes along the way but I'm happy 
+with reducing the number of echomail areas down a bit. After trying to
+expand things based on prior demand/feedback etc. I think we've got to a
+point where a bit less will be more.
+
+~ Avon
+
+2025-02-14
+Removed Node 2/143 KF5QEO's Shack (USA) due to inactivity 45+ days.
+
 2025-02-09
 Updated Node 1/229 TCOB1 BBS (IRL) Sean advises his domain name has changed
                  you can connect via Telnet and BinkP ports using

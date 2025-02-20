@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 10 February 2025 ---
+              --- Connected Systems as of 15 February 2025 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -192,7 +192,6 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 140 Subcarrier BBS          John McCoy         subcarrier.ignorelist.com:2323
 141 SiliconUnderground      Jason Bock         siliconu.com
 142 TheViper BBS            Lloyd Fellon       theviperbbs.mywire.org
-143 KF5QEO's Shack          John Guillory      kf5qeo.servebbs.net
 145 WalledCTTY              Thom Miller        bbs.walledctty.com:1989
 146 Hold Fast! BBS          Paul Lopez         telnet.holdfastbbs.ca:2323 
 147 Altair IV BBS           Scott Daniels      altairiv.ddns.net
