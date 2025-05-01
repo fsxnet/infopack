@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 2 March 2025 ---
+              --- Connected Systems as of 27 April 2025 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -65,7 +65,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 147 The Comm's Nut BBS      Danny Moss         tcnbbs.fsxnet.nz:2323
 148 Dark Systems BBS        Aaron Grasswell    bbs.dsbbs.ca 
 149 The Fool's Quarter      Tim Whitson        fqbbs.synchro.net
-150 Vintage Pi BBS          Lloyd Alexandre    vintagepi.asuscomm.com
+150 Classic Computing BBS   Lloyd Alexandre    bbs.classiccomputing.net
 152 2nd Choice Core         Ian Segers         2ndchoicecore.ddns.net:1024 
 153 Spark BBS               Christian Vanguers bbs.sparkbbs.eu:8889 (ssh only)
 155 Haciend BBS             Antti Kiuru        haciend.com 
@@ -219,7 +219,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 ================================================
 
 100 Linucus BBS             Deon George       net3.fsxnet.nz
-101 The Lower Planes BBS    Anthony Adverse   tlp.zapto.org
 102 Types of Squash         Oliver Thuns       -- Private Node --
 105 The Lab BBS             Les Wade          bbs.dicksonlabs.net
 107 Arcadia BBS             Mike Pedersen     telnet.arcadiabbs.com
@@ -230,7 +229,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 113 Pweck's Retreat BBS     Dean Lodge        bbs.pweck.net
 119 FuNToPia BBS            Stephan Gebbers   funtopia.ddnss.eu:2023
 120 Westland BBS            Martien Korenblom bbs.korenblom.nl 
-122 Final Zone BBS          Chris Elderidge   finalzone.ddns.net
 126 The Forze BBS           Robbert Langezaal bbs.opicron.eu
 127 Imzadi Box              Anna Nass         box.imzadi.de
 135 Lunatics Unleashed      Ross Branham      lunaticsunleashed.ddns.net
@@ -241,8 +239,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 142 Baffa BBS               Augusto Baffa     baffa.zapto.org:2323
 143 Pedalion BBS            Joe Ferraro       bbs.pedalion.net
 148 Nodewarrior BBS         Wes Evans         nodewarrior.fsxnet.nz:2323
-149 Roughneck BBS           Michael Ryan      host.roughneckbbs.com
-150 Planet Caravan BBS      Kevin Blalock     lab.zylone.org
 156 Digital Abyss BBS       Karl Schleelein   digitalabyss.fsxnet.nz
 157 Paranormal Panorama BBS Owen Evers        ppbbs-26643.portmap.host:26643
 158 BodaX BBS               Tobias Rosenqvist bodax.fsxnet.nz
@@ -270,7 +266,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 194 Maiks Place BBS         Mike Dreier       bbs.maik.ch
 195 3 Leader                Paul Jones        13leader.net
 196 Mystic A-Net Online     Jerry Reed        mystic.a-net-online.lol
-197 Bloodlust               Andrew Pamment    bloodlust.envybbs.org
 198 Delaware BBS            Don Stratton      delawarebbs.com
 199 4d2 dot org             Sarah Proctor     bbs.4d2.org
 210 Northen Realms/TG       Jay Harris        tg.nrbbs.net
