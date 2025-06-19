@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 1 June 2025 ---
+              --- Connected Systems as of 19 June 2025 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -250,7 +250,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 172 d0p3.intersrv.net BBS   Nicholas Brennan  d0p3.intersrv.net
 174 Made to Raid BBS        Chris Manigan     bbs.madetoraid.com:2323
 176 FlipperZero BBS         Guido Giorgi      bbs.gglab.cloud
-177 Kludge BBS              joshua stein      klud.ge
 178 Massive BBS             Andy Diller       bbs.diller.org
 181 StarPort BBS            Tomas Ukkonen     bbs.starport.fi:17337
 182 Starship Junkyard BBS   Sheridan Tighe    bbs.starshipjunkyard.com
@@ -266,7 +265,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 194 Maiks Place BBS         Mike Dreier       bbs.maik.ch
 195 3 Leader                Paul Jones        13leader.net
 196 Mystic A-Net Online     Jerry Reed        mystic.a-net-online.lol
-198 Delaware BBS            Don Stratton      delawarebbs.com
 199 4d2 dot org             Sarah Proctor     bbs.4d2.org
 210 Northen Realms/TG       Jay Harris        tg.nrbbs.net
 
