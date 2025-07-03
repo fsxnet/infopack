@@ -301,14 +301,6 @@ by your BBS. (e.g. 3-4 times in 1 minute)
 
  My Static IPv6 Address is:
  
-If you have a static IP address would you like an optional custom fsxnet.nz
-domain name that will resolve to your IP? e.g. mybbsname.fsxnet.nz 
-
-If yes, please state your preferred domain below. 
-
-Please assign my BBS:  ________________.fsxnet.nz
-     
-
 = END OF APPLICATION ========================================================
 
 		

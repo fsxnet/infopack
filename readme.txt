@@ -26,9 +26,5 @@ fsxnet.zxx      - Current nodelist (compressed .zip format)
 fsxnet.na       - Message echolist         
 fsx_file.na     - File echolist
 fsxnet1.ans     - fsxNet Ansi Logo for your BBS
-fsx-use.txt     - Setup Usenet Newsgroups
-fsx-bre.txt     - Setup Barren Realms Elite (interbbs)
-fsx-gd.txt      - Setup Galactic Dynasty (interbbs)
-fsx-fh.txt      - Setup For Honour (interbbs)
 
 ==========================================================

@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 19 June 2025 ---
+              --- Connected Systems as of 28 June 2025 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -113,7 +113,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 203 The Attic BBS           Sean Clarke        theattic.v1cd3m1z3r.net 
 204 Family BBS              Tony Pawson        familybbs.ddns.net
 205 Magnum BBS              Keyop Troy         bbs.magnum.uk.net
-206 File Cabinet BBS        Richard Vonzel     filecabi.synchro.net
+206 Live Wire BBS           Richard Vonzel     livewire.casacam.net:1025
 207 Trading Post [South]    Craig Dooley       ttps.dyndns.org
 208 S.W.A.T.S BBS           Stephen Hunt       swatsbbs.ddns.net
 210 Noverdu BBS             Jonah Clausen      noverdu.com
@@ -274,6 +274,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 
 100 Niba fsxHUB             Paul Hayton        net4.fsxnet.nz:24560
 101 Back to the Future BBS  Bill Simon         bttfbbs.com 
+102 BBS.INTAA.NET           Yoshito Uchiyama   bbs.intaa.net  
 103 The Undermine BBS       Kostie Muirhead    bbs.undermine.ca:423
 104 Sweden Gigabye BBS      Peter Nilsson      bbs.gigabite.se
 105 Phoenix BBS             Andrew Leary       phoenix.bnbbbs.net:2323
@@ -283,7 +284,12 @@ NET 4 (21:4/xxx) HPT (BinkP)
 109 9640 News BBS           Beery Miller       9640news.ddns.net:9640
 110 NetPoint BBS            Alessio Tempesta   netpoint.webhop.me
 111 The Arena BBS           Randall Schad      netasylum.com:2323 
+112 Spindaddy's Place       Jason Spindler     spindaddysplace.com:5656
+113 Mel's Diner BBS         Doug McComber      bbs.greenphosphor.ca
+114 Themegabbs 6400 BBS     Phil Taylor        themegabbs.com:6400
+115 Alcatraz BBS            Kim Jansen         alcatraz.xunil.co.nz 
 116 InterMail Support       Dale Barnes        im.ifidonet.com
+117 Convolution BBS         Jonathan Schreiter convolution.us
 118 Bit's Lair BBS          Yeray Dorta         -- Private Node --
 121 AlcaBBS                 Michael Trip       bbs.alcatrash.org
 122 realitycheckBBS         Kurt Weiske        realitycheckbbs.org
