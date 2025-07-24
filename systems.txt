@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 28 June 2025 ---
+              --- Connected Systems as of 23 July 2025 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -189,6 +189,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 132 Archaic Binary BBS      Wayne Smith        bbs.archaicbinary.net 
 133 Time Machine BBS        Dennis Davison     timemachinebbs.com:2323
 134 Splatterhaus BBS        Vincent Macaluso   splatter.haus:666
+136 News BBS                Juergen Ihlau      bbs.dosnetz.de:3232 
 138 Palantir BBS            Dan Clough         palantirbbs.ddns.net
 139 SDF-1 BBS               Ray Slakinski      bbs.sdf1.net:5023
 140 Subcarrier BBS          John McCoy         subcarrier.ignorelist.com:2323
