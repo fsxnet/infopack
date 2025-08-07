@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 23 July 2025 ---
+              --- Connected Systems as of 5 August 2025 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -113,7 +113,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 203 The Attic BBS           Sean Clarke        theattic.v1cd3m1z3r.net 
 204 Family BBS              Tony Pawson        familybbs.ddns.net
 205 Magnum BBS              Keyop Troy         bbs.magnum.uk.net
-206 Live Wire BBS           Richard Vonzel     livewire.casacam.net:1025
+206 Live Wire BBS           Richard Vonzel     livewirebbs.com
 207 Trading Post [South]    Craig Dooley       ttps.dyndns.org
 208 S.W.A.T.S BBS           Stephen Hunt       swatsbbs.ddns.net
 210 Noverdu BBS             Jonah Clausen      noverdu.com
@@ -190,6 +190,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 133 Time Machine BBS        Dennis Davison     timemachinebbs.com:2323
 134 Splatterhaus BBS        Vincent Macaluso   splatter.haus:666
 136 News BBS                Juergen Ihlau      bbs.dosnetz.de:3232 
+137 Camelot BBS             Joe Stollings      camelotbbs.ddns.net:2323
 138 Palantir BBS            Dan Clough         palantirbbs.ddns.net
 139 SDF-1 BBS               Ray Slakinski      bbs.sdf1.net:5023
 140 Subcarrier BBS          John McCoy         subcarrier.ignorelist.com:2323
@@ -237,7 +238,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 137 Wicked Garden BBS       Hung Tran         wgbbs.ddns.net
 138 Taliadon BBS            Lee Westlake      taliadon.ddns.net 
 141 Thrace BBS              Dafcho Tabakov    bbs.tabakov.net:13023
-142 Baffa BBS               Augusto Baffa     baffa.zapto.org:2323
 143 Pedalion BBS            Joe Ferraro       bbs.pedalion.net
 148 Nodewarrior BBS         Wes Evans         nodewarrior.fsxnet.nz:2323
 156 Digital Abyss BBS       Karl Schleelein   digitalabyss.fsxnet.nz
@@ -267,6 +267,7 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 195 3 Leader                Paul Jones        13leader.net
 196 Mystic A-Net Online     Jerry Reed        mystic.a-net-online.lol
 199 4d2 dot org             Sarah Proctor     bbs.4d2.org
+201 Nottingham BBS          Richard Bagshaw   nottinghambbs.com:23
 210 Northen Realms/TG       Jay Harris        tg.nrbbs.net
 
 
