@@ -13,6 +13,17 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2025-08-27
+Usenet Gateway Closing
+
+After a few months stay of execution... 
+The Usenet gateway at 21:1/10 will close on 2 September 2025.
+It is planned to bring this back but it may be 12 months or so before
+I am able to do so. Will advise closer to the restart time.
+Apologies for the removal of this service at this time :(
+
+Details of gateway setup have now been removed from the fsxNet infopack.
+
 2025-08-04
 Removed Node 3/142 Baffa BBS has been delisted due to inactivity.
 
