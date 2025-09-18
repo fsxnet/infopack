@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 28 August 2025 ---
+              --- Connected Systems as of 12 September 2025 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -289,7 +289,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 112 Spindaddy's Place       Jason Spindler     spindaddysplace.com:5656
 113 Mel's Diner BBS         Doug McComber      bbs.greenphosphor.ca
 114 Themegabbs 6400 BBS     Phil Taylor        themegabbs.com:6400
-115 Alcatraz BBS            Kim Jansen         alcatraz.xunil.co.nz 
+115 The Crystal Set BBS     Kim Jansen         zl4kj.nz
 116 InterMail Support       Dale Barnes        im.ifidonet.com
 117 Convolution BBS         Jonathan Schreiter convolution.us
 118 Bit's Lair BBS          Yeray Dorta         -- Private Node --
