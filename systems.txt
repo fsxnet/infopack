@@ -8,7 +8,11 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 10 December 2025 ---
+              --- Connected Systems as of 1 February 2026 ---
+
+Note: this list is out of date and a number of nodes will be removed due
+to inactivity etc. and others added. At present the issue is spare time to
+do this. Check HISTORY.TXT for an update - thanks :) Avon.
 
 =============================================================================
 Node BBS Name            Sysop              Address    
