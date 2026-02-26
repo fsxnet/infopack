@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 1 February 2026 ---
+              --- Connected Systems as of 16 February 2026 ---
 
 Note: this list is out of date and a number of nodes will be removed due
 to inactivity etc. and others added. At present the issue is spare time to
@@ -143,7 +143,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 232 Zooropa BBS             Gaston Martres     zooropabbs.ddns.net:2323
 234 Rise n' Shine BBS       Rob Olsen          bbs.risenshinebbs.com
 235 Va2rfc BBS              Richard Murray     va2rfcbbs.photorm.net
-236 Lunar Mod               David Thielemann   bbs.beanzilla.net:2323
+236 Lunar Mod               David Thielemann   bbs.lunar-mod.com:2323
 237 Eye of the Storm        Benjamin Aitchison on.the.net.nz
 238 The Global Village   Sebastian van der Veen the.globalvillagebbs.net:2222
 239 Uncomfortable Business  Cashan Stine       bbs.uncomfortable.business
@@ -303,7 +303,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 125 Veleno BBS              Thomas Bampi       velenobbs.ddns.net
 128 DragonsWeb Labs BBS     James DiGriz       bbs.dragonsweb.org 
 131 The Wrong Number 2      Al DeRosa          wn2.duckdns.org
-134 Possum Lodge South      Mike Powell        possumso.fsxnet.nz:7636
+134 Moes Tavern BBS         Mike Powell        moetiki.ddns.net
 136 Total Lost BBS          Dennis Eklund      bbs.deek.se
 137 8-Bit Boyz BBS          Shane O'Neill      8bitboyz.bbs.io:6502
 138 CIA Amiga BBS           Tim Grooms         ciaamigabbs.dynu.net:6400
