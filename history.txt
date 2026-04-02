@@ -13,6 +13,27 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2026-03-29
+Avon Update #3
+
+Phew, OK shifting and settling in is essentially done and I'm starting back 
+into hobbies etc. I have not been able to look at for some time. Bear with me
+as I start to come back up to speed.
+
+Updated Node 1/194 Diamond Mine Online is using sbbs.dmine.net as it's domain
+                 name systems.txt and nodelist has been updated.
+
+Added Node 2/166 The Looney Bin BBS (USA) a belated welcome to sysop Pat
+                 Finnerty aka Greyhawk who is based in Sunset Beach, NC.
+                 Greyhawk is running a Mystic BBS that can be found by 
+                 heading to looneybinbbs.com and using the standard ports
+                 23 and 22 for Telnet and SSH.
+
+Added Node 1/209 Static Sky BBS (CAN) welcome to Chris Murray aka Cinderbat
+                 who is based in Toronto. Chris is running a Mystic BBS on 
+                 a Raspberry Pi. You can check out his BBS by heading to
+                 retro.staticsky.xyz:2323                  
+
 2026-02-15
 Avon Update #2
 

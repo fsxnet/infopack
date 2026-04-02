@@ -8,11 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 16 February 2026 ---
-
-Note: this list is out of date and a number of nodes will be removed due
-to inactivity etc. and others added. At present the issue is spare time to
-do this. Check HISTORY.TXT for an update - thanks :) Avon.
+              --- Connected Systems as of 29 March 2026 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -105,7 +101,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 191 Zruspa's HUB            Ángel Ripoll       bbs.zruspas.org:24554
 192 Zruspa's BBS            Ángel Ripoll       bbs.zruspas.org
 193 Dundarach BBS           Chris Jennings     dundarach.tplinkdns.com
-194 Diamond Mine Online     David Perrussel    bbs.dmine.net:24
+194 Diamond Mine Online     David Perrussel    sbbs.dmine.net:24
 195 Dragon's Claw HUB       Stephen Walsh      ftn.vk3heg.net
 196 Dragon's Lair BBS       Stephen Walsh      dragon.vk3heg.net
 197 Mystic River BBS        Ricky DeLuco       mysticriver.ddns.net:10023
@@ -120,6 +116,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 206 Live Wire BBS           Richard Vonzel     livewirebbs.com
 207 Trading Post [South]    Craig Dooley       ttps.dyndns.org
 208 S.W.A.T.S BBS           Stephen Hunt       swatsbbs.ddns.net
+209 Static Sky BBS          Chris Murray       retro.staticsky.xyz:2323
 210 Noverdu BBS             Jonah Clausen      noverdu.com
 211 Crazy Paradise          Daniel Elsner      -- Private Node -- 
 212 BBSisCOOL BBS           John Luton         bbsiscool.emailisstupid.com
@@ -218,6 +215,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 161 DaRK Game BBS           Arturo Busleiman   darkgame.buanzo.org
 162 BBS Gametime            Gary Ailes         web.bbsgametime.com
 165 LoFi BBS                Matt Gibson        lofi.ooo:8888
+166 The Looney Bin BBS      Pat Finnerty       looneybinbbs.com
 167 ITBNET BBS              Pasquale Monti     itbnet.fsxnet.nz
 168 Capitol Shrill BBS      Vincent Macaluso   capitolshrill.com
 
@@ -292,7 +290,7 @@ NET 4 (21:4/xxx) HPT (BinkP)
 111 The Arena BBS           Randall Schad      netasylum.com:2323 
 112 Spindaddy's Place       Jason Spindler     spindaddysplace.com:5656
 113 Mel's Diner BBS         Doug McComber      bbs.greenphosphor.ca
-114 Themegabbs 6400 BBS     Phil Taylor        themegabbs.com:6400
+114 Themegabbs 6400 BBS     Phil Taylor        themegabbs.ddns.net:6400
 115 The Crystal Set BBS     Kim Jansen         zl4kj.nz
 116 InterMail Support       Dale Barnes        im.ifidonet.com
 117 Convolution BBS         Jonathan Schreiter convolution.us
