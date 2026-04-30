@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 29 March 2026 ---
+              --- Connected Systems as of 24 April 2026 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -190,6 +190,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 132 Archaic Binary BBS      Wayne Smith        bbs.archaicbinary.net 
 133 Time Machine BBS        Dennis Davison     timemachinebbs.com:2323
 134 Splatterhaus BBS        Vincent Macaluso   splatter.haus:666
+135 Geezer's Fido HUB       Phillip Kimble     mbse.gzrbbs.net:2324
 136 News BBS                Juergen Ihlau      bbs.dosnetz.de:3232 
 137 Camelot BBS             Joe Stollings      camelotbbs.ddns.net:2323
 138 Palantir BBS            Dan Clough         palantirbbs.ddns.net
@@ -214,7 +215,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 160 Old Time BBS            Jeremy Brown       oldtimebbs.com
 161 DaRK Game BBS           Arturo Busleiman   darkgame.buanzo.org
 162 BBS Gametime            Gary Ailes         web.bbsgametime.com
-165 LoFi BBS                Matt Gibson        lofi.ooo:8888
+165 The CP/m Den            Mark Acierno       cpmden.ddns.net:1024
 166 The Looney Bin BBS      Pat Finnerty       looneybinbbs.com
 167 ITBNET BBS              Pasquale Monti     itbnet.fsxnet.nz
 168 Capitol Shrill BBS      Vincent Macaluso   capitolshrill.com
