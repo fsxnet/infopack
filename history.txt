@@ -13,6 +13,19 @@ out to all fsxNet nodes. If you spot anything amiss please contact Paul
 Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
+2026-06-28
+Avon Update #4
+
+Well the best laid plans eh? I'm sorry I have been mostly MIA and not my
+usual responsive self, if you check FSX_NET you will be able to read why.
+Suffice to say if you need to obtain a node number please contact either
+Deon in NET 3 or Todd in NET 2 who can help you get set up.
+
+Deon runs Clrghouz and you can find his HUB at clrghouz.bbs.dege.au
+
+Once life settles down for me I plan to become more active again in 
+fsxNet and to be clear I'm not planning on leaving the BBS scene :)
+
 2026-04-24
 Added Node 2/165 The CP/M Den (USA) welcome to sysop Mark Acierno who is
                  running a Mystic BBS under Pi OS. You can reach his BBS
