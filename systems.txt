@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 24 April 2026 ---
+              --- Connected Systems as of 12 July 2026 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -121,7 +121,7 @@ NET 1 (21:1/xxx) HPT (BinkP)
 211 Crazy Paradise          Daniel Elsner      -- Private Node -- 
 212 BBSisCOOL BBS           John Luton         bbsiscool.emailisstupid.com
 213 Votrex BBS              Strahinja Bojovic  vortex.redirectme.net:3777
-214 Midnight Lounge BBS     Allie Prather      lounge.mbl.social
+214 Midnight Lounge BBS     Allie Prather      midnightlounge.online
 215 Retro32 BBS             Darren Kenney      bbs.retro32.com:1337
 216 Mystic Realms BBS       Jeff Earle         mysticrealms.ddns.net:11000
 217 Battlestar Pegasus      Mark Iezzi         pegasusbbs.dyndns.org
