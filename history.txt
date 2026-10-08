@@ -14,6 +14,30 @@ Hayton at 21:1/101 or email him at avon@bbs.nz :)
 
 == ChangeLog ================================================================
 
+2026-10-05
+Updated Node 2/153 CW Shack BBS has changed domain names from bbs.kf4yey.com
+                 to cwshack.ddns.net ... the nodelist and systems.txt have 
+                 been updated. Boom-shaka-laka! I have no idea why I opted
+                 to add this in but hey, it sounds fun when you say it :)
+
+NET 4 updates to systems.txt ..
+
+Removed Nodes:
+
+4/112 Spindaddy's Place       Jason Spindler     spindaddysplace.com:5656
+
+NET 3 updates to systems.txt .. I'm playing catch-up (long overdue)
+
+Removed Nodes:
+
+3/183 The River Styx BBS      Elliot Adams      riverstyx.ddns.net
+3/201 Nottingham BBS          Richard Bagshaw   nottinghambbs.com:23
+3/141 Thrace BBS              Dafcho Tabakov    bbs.tabakov.net:13023
+3/174 Made to Raid BBS        Chris Manigan     bbs.madetoraid.com:2323
+3/188 SkyNet BBS              David Gonzalez    bs.skynetbbs.com
+3/109 Manic Modem BBS         John Cameron      telnet.manic-modem.com
+3/178 Massive BBS             Andy Diller       bbs.diller.org
+
 2026-09-27
 For several months I have not been my usual responsive self to applications
 for new node numbers etc. and I am sorry and apologise for this.

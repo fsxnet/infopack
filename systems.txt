@@ -8,7 +8,7 @@
                The [F]un, [S]imple, e[X]perimental Network
                ===========================================
 
-              --- Connected Systems as of 27 Sept 2026 ---
+              --- Connected Systems as of 5 October 2026 ---
 
 =============================================================================
 Node BBS Name            Sysop              Address    
@@ -205,7 +205,7 @@ NET 2 (21:2/xxx) Mystic BBS (BinkP)
 150 20 For Beers BBS        Paul Lee           20ForBeers.com:1337
 151 Dock Sud BBS            Fernando Toledo    bbs.docksud.com.ar
 152 UnderZaNet BBS          Jan Henkins        bbs.under.za.net:2024
-153 Cw Shack BBS            Tom Moore          bbs.kf4yey.com
+153 Cw Shack BBS            Tom Moore          cwshack.ddns.net
 154 Danger Bay              Tom Swartz         dangerbaybbs.dyndns.org:1337
 155 Dark Matter BBS         Will Milberger     darkmatt.synchro.net
 156 CJ's Place BBS          Chris Johnson      cjsplace.thruhere.net
@@ -228,7 +228,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 105 The Lab BBS             Les Wade          bbs.dicksonlabs.net
 107 Arcadia BBS             Mike Pedersen     telnet.arcadiabbs.com
 108 Buckeye Telegraph       Dean Galloway     mailer.buckeyetelegraph.net
-109 Manic Modem BBS         John Cameron      telnet.manic-modem.com
 110 Northern Realms         Jay Harris        bbs.nrbbs.net
 111 The Unknown Realm       Mike McCafferty   turealm.no-ip.org:3023
 113 Pweck's Retreat BBS     Dean Lodge        bbs.pweck.net
@@ -240,7 +239,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 136 Mind's Eye BBS          Tom Aberdeen      mindseye.synchronetbbs.org
 137 Wicked Garden BBS       Hung Tran         wgbbs.ddns.net
 138 Taliadon BBS            Lee Westlake      taliadon.ddns.net 
-141 Thrace BBS              Dafcho Tabakov    bbs.tabakov.net:13023
 143 Pedalion BBS            Joe Ferraro       bbs.pedalion.net
 148 Nodewarrior BBS         Wes Evans         nodewarrior.fsxnet.nz:2323
 156 Digital Abyss BBS       Karl Schleelein   digitalabyss.fsxnet.nz
@@ -252,17 +250,13 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 170 RVs and RPGs BBS        Jeff Brissette    bbs.rvsandrpgs.com:2323
 171 STar Fleet HQ BBS       Drew Klenotic     bbs.sfhqbbs.org:5983
 172 d0p3.intersrv.net BBS   Nicholas Brennan  d0p3.intersrv.net
-174 Made to Raid BBS        Chris Manigan     bbs.madetoraid.com:2323
 176 FlipperZero BBS         Guido Giorgi      bbs.gglab.cloud
-178 Massive BBS             Andy Diller       bbs.diller.org
 181 StarPort BBS            Tomas Ukkonen     bbs.starport.fi:17337
 182 Starship Junkyard BBS   Sheridan Tighe    bbs.starshipjunkyard.com
-183 The River Styx BBS      Elliot Adams      riverstyx.ddns.net
 184 Port of Call BBS        Dave Weissinger   bbs.PCTechDr.com:2323
 185 Retroverse BBS          Blinx             bbs.retroverse.au
 186 Spazoo BBS              Anthony Harwood    -- Private Node --
 187 Wolverine BBS           Kevin Taylor      bbs.r2lotw.com
-188 SkyNet BBS              David Gonzalez    bs.skynetbbs.com
 189 A-Net Online BBSs       Jerry Reed        a-net-online.lol
 191 The Ruins BBS           Doug Cooper       www.theunderground.us:9707
 193 NE BBS                  Erik Eriksen      nebbs.servehttp.com
@@ -270,7 +264,6 @@ NET 3 (21:3/xxx) HPT (BinkP, EMSI/FTS6 + ZedZap)
 195 3 Leader                Paul Jones        13leader.net
 196 Mystic A-Net Online     Jerry Reed        mystic.a-net-online.lol
 199 4d2 dot org             Sarah Proctor     bbs.4d2.org
-201 Nottingham BBS          Richard Bagshaw   nottinghambbs.com:23
 210 Northen Realms/TG       Jay Harris        tg.nrbbs.net
 
 
@@ -289,7 +282,6 @@ NET 4 (21:4/xxx) HPT (BinkP)
 109 9640 News BBS           Beery Miller       9640news.ddns.net:9640
 110 NetPoint BBS            Alessio Tempesta   netpoint.webhop.me
 111 The Arena BBS           Randall Schad      netasylum.com:2323 
-112 Spindaddy's Place       Jason Spindler     spindaddysplace.com:5656
 113 Mel's Diner BBS         Doug McComber      bbs.greenphosphor.ca
 114 Themegabbs 6400 BBS     Phil Taylor        themegabbs.ddns.net:6400
 115 The Crystal Set BBS     Kim Jansen         zl4kj.nz
